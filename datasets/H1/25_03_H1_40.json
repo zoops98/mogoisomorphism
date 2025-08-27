@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with techniques which are already known. This, of course, is just what you don't want.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare the brains of inventors and non-inventors"
+        },
+        {
+          "number": "②",
+          "text": "to explain the process of logical reasoning in detail"
+        },
+        {
+          "number": "③",
+          "text": "to warn against the dangers of overly creative thinking"
+        },
+        {
+          "number": "④",
+          "text": "to criticize the lack of problem-solving skills in people"
+        },
+        {
+          "number": "⑤",
+          "text": "to advocate for nonlinear thinking in creative problem-solving"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 발명과 같은 창의적인 문제 해결 상황에서 논리적이고 직선적인 사고방식의 한계를 지적하고, 그 대안으로 새로운 정보와 관점을 적용하는 비직선적 사고, 즉 창의성을 사용할 것을 주장하고 있습니다. 따라서 글의 주된 목적은 창의적 문제 해결에서 비직선적 사고를 옹호하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with techniques which are already known. This, of course, is just what you don't want.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Limits of the Creative Brain"
+        },
+        {
+          "number": "②",
+          "text": "Linear Thinking: A Skill for a Lifetime"
+        },
+        {
+          "number": "③",
+          "text": "Break the Wall: Why Creativity Beats Logic"
+        },
+        {
+          "number": "④",
+          "text": "The Art of Conservative Problem-Solving"
+        },
+        {
+          "number": "⑤",
+          "text": "How to Use Logic to Enhance Creativity"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 논리적 사고(logic)가 '벽돌 벽(brick wall)'에 부딪힐 때, 창의성(creativity)을 통한 비직선적 사고가 그 한계를 극복하는 해결책임을 강조합니다. '벽을 부숴라: 왜 창의성이 논리를 이기는가'라는 제목은 이러한 글의 핵심 대립 구도와 메시지를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with techniques which are already known. This, of course, is just what you don't want.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "For truly innovative solutions, one must use nonlinear, creative thinking as linear logic is limited to known information."
+        },
+        {
+          "number": "②",
+          "text": "Logical thinking is the most effective mental process for dealing with new information and creating innovative viewpoints."
+        },
+        {
+          "number": "③",
+          "text": "The best way to solve any difficult problem is to combine both linear and nonlinear thinking in equal measure."
+        },
+        {
+          "number": "④",
+          "text": "Creative thinking by definition means applying old techniques to new problems to find conservative, reliable solutions."
+        },
+        {
+          "number": "⑤",
+          "text": "Encountering a brick wall while problem-solving means you should immediately give up on finding a new invention."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 직선적 논리가 기존에 알려진 정보에 국한되어 혁신에 한계가 있으므로, 진정으로 혁신적인 해결책을 찾기 위해서는 비직선적이고 창의적인 사고를 사용해야 한다는 것입니다. 따라서 '진정으로 혁신적인 해결책을 위해, 직선적 논리는 알려진 정보에 제한되므로 비직선적이고 창의적인 사고를 사용해야 한다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. ( ① ) For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. ( ② ) Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with techniques which are already known. ( ③ ) This, of course, is just what you don't want. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '반면에(On the other hand)'로 시작하며, 창의성의 정의를 설명합니다. 이는 바로 앞 문장에서 '직선적 사고가 종종 부족하다(come up short)'고 한계점을 지적한 내용과 대조를 이룹니다. 직선적 사고의 한계를 설명한 후, 그 대안인 창의성을 정의하고, 그 다음 문장에서 '이것을 위해(For this)' 비직선적으로 사고해야 한다고 설명하는 흐름이 가장 자연스럽습니다. 따라서 주어진 문장은 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem.",
+      "question_blocks": {
+        "A": "However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short.",
+        "B": "Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced.",
+        "C": "On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 논리적 사고의 한계('벽돌 벽')를 언급합니다. (B)는 이 '논리적 사고'를 '직선적 과정'으로 정의하고, 그것이 효과적인 경우를 설명합니다. (A)는 'However'를 사용하여 (B)와 대조적으로 직선적 사고가 효과적이지 않은 경우, 즉 새로운 정보에 직면했을 때를 설명합니다. (C)는 'On the other hand'를 통해 직선적 사고의 대안인 '창의성(비직선적 사고)'을 제시하고, 그것이 왜 효과적인지를 설명하며 글의 해결책을 제시합니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with [____________________]. This, of course, is just what you don't want.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "highly innovative solutions"
+        },
+        {
+          "number": "②",
+          "text": "techniques which are already known"
+        },
+        {
+          "number": "③",
+          "text": "new information and ideas"
+        },
+        {
+          "number": "④",
+          "text": "a nonlinear type of process"
+        },
+        {
+          "number": "⑤",
+          "text": "answers that satisfy everyone"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸이 있는 문장은 직선적 사고의 결과를 요약하고 있습니다. 글쓴이는 직선적 사고가 '보수적(conservative)'인 경향이 있다고 말합니다. 이는 곧 새롭거나 혁신적인 것이 아닌, 기존의 방식에 머무른다는 의미입니다. 따라서 직선적 사고는 '이미 알려진 기술들'을 계속해서 생각해 낼 것이라고 추론할 수 있습니다. 이는 발명가로서 원하지 않는 결과입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a ① [linear] type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with ② [new] information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the ③ [conception] of new viewpoints and ideas. For this you will be most effective if you learn to operate in a ④ [nonlinear] manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be ⑤ [innovative] and keep coming up with techniques which are already known.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 문장은 직선적 사고방식의 결과를 설명합니다. 직선적 사고는 기존에 알려진 기술을 반복하는 경향이 있다고 했으므로, 그 결과는 '보수적(conservative)'이어야 합니다. '혁신적인'이라는 의미의 'innovative'는 창의적, 비직선적 사고의 결과에 해당하므로, 직선적 사고의 특성을 설명하는 이 문맥과는 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a (A) [linear] type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often (B) [come up short]. On the other hand, creativity by definition involves the (C) [application] of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be (D) [conservative] and keep coming up with techniques which are already (E) [known].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) linear: progressing from one stage to another in a single series of steps"
+        },
+        {
+          "number": "②",
+          "text": "(B) come up short: to fail to reach a goal or standard"
+        },
+        {
+          "number": "③",
+          "text": "(C) application: the action of putting something into operation"
+        },
+        {
+          "number": "④",
+          "text": "(D) conservative: willing to accept or consider new ideas or opinions"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) known: recognized, familiar, or within the scope of knowledge"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) conservative는 '보수적인'이라는 의미로, 전통을 중시하고 변화를 꺼리는 경향을 말합니다. 제시된 영영 풀이 'willing to accept or consider new ideas or opinions(새로운 아이디어나 의견을 기꺼이 받아들이거나 고려하는)'은 '개방적인(open-minded)' 또는 '진보적인(progressive)'에 대한 설명으로, 'conservative'의 의미와 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a (A) [linear / circular] type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up (B) [short / long]. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a (C) [nonlinear / logical] manner; that is, use your creative brain.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "linear - short - nonlinear" },
+        { "number": "②", "text": "linear - long - logical" },
+        { "number": "③", "text": "circular - short - nonlinear" },
+        { "number": "④", "text": "circular - long - logical" },
+        { "number": "⑤", "text": "linear - short - logical" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 논리적 사고는 단계적으로 진행되는 '직선적인' 과정이라고 설명되므로 'linear'가 맞습니다. (B) 'come up short'는 '미치지 못하다, 부족하다'는 의미의 관용구이므로 'short'가 적절합니다. (C) 창의성을 발휘하기 위해서는 '비직선적인' 방식으로 사고해야 하므로 'nonlinear'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of what we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn to operate in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with techniques which are already known. This, of course, is just what you don't want.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Logical thinking is described as a linear process that uses reasoning."
+        },
+        {
+          "number": "②",
+          "text": "Linear thinking is effective when dealing with problems based on past experience."
+        },
+        {
+          "number": "③",
+          "text": "When faced with new information, linear thinking is often insufficient."
+        },
+        {
+          "number": "④",
+          "text": "Creativity is defined as applying known techniques to new problems."
+        },
+        {
+          "number": "⑤",
+          "text": "Thinking in a linear way can lead to conservative and unoriginal solutions."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'creativity by definition involves the application of new information to old problems'라고 명시하고 있습니다. 이는 창의성이 '새로운 정보'를 '오래된 문제'에 적용하는 것임을 의미합니다. 따라서 '알려진 기술'을 '새로운 문제'에 적용한다는 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem. Such logical thinking is a linear type of process, which uses our reasoning skills. This works fine when we're operating in the area of ① [what / that] we know or have experienced. However, when we need to deal with new information, ideas, and viewpoints, linear thinking will often come up short. On the other hand, creativity by definition involves the application of new information to old problems and the conception of new viewpoints and ideas. For this you will be most effective if you learn ② [to operate / operating] in a nonlinear manner; that is, use your creative brain. Stated differently, if you think in a linear manner, you'll tend to be conservative and keep coming up with techniques ③ [which / what] are already known.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "what",
+          "explanation": "전치사 'of'의 목적어 역할을 하는 명사절을 이끌어야 합니다. 'the thing that'의 의미로 선행사를 포함하는 관계대명사 'what'이 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to operate",
+          "explanation": "동사 'learn'은 목적어로 to부정사를 취하여 '~하는 것을 배우다'라는 의미를 나타냅니다. 따라서 'to operate'가 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "which",
+          "explanation": "선행사 'techniques'를 수식하는 주격 관계대명사가 필요합니다. 선행사가 사물이므로 'which' 또는 'that'이 올 수 있습니다. 선행사를 포함하는 'what'은 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

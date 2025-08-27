@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism.\nThey encourage us to see things that aren't present.\nStuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\"\nThis statement beautifully sums up the search for essences.\nHistory has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through.\nThe ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, and then experimenting in it, looking for evidence of a cat that did not exist.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to introduce Stuart Firestein's new book on ignorance"
+        },
+        {
+          "number": "②",
+          "text": "to explain the historical concept of luminiferous ether"
+        },
+        {
+          "number": "③",
+          "text": "to argue for the importance of concepts in human survival"
+        },
+        {
+          "number": "④",
+          "text": "to warn about the pitfalls of concepts and essentialism"
+        },
+        {
+          "number": "⑤",
+          "text": "to encourage scientists to conduct more experiments"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 개념(concepts)이 인간 생존에 필수적이지만, 존재하지 않는 '본질(essence)'을 찾게 만드는 본질주의(essentialism)로 이어질 수 있다는 위험성을 경고하고 있습니다. '빛의 매질 에테르'라는 역사적 사례를 들어, 잘못된 개념이 어떻게 헛된 탐구로 이어지는지를 보여줍니다. 따라서 글의 주된 목적은 개념과 본질주의의 함정에 대해 경고하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism.\nThey encourage us to see things that aren't present.\nStuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\"\nThis statement beautifully sums up the search for essences.\nHistory has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through.\nThe ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, and then experimenting in it, looking for evidence of a cat that did not exist.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Danger of Hunting for a Cat That Isn't There"
+        },
+        {
+          "number": "②",
+          "text": "Luminiferous Ether: A Forgotten Scientific Truth"
+        },
+        {
+          "number": "③",
+          "text": "Why Concepts Are Essential for Scientific Progress"
+        },
+        {
+          "number": "④",
+          "text": "The History of Experimental Physics"
+        },
+        {
+          "number": "⑤",
+          "text": "How to Find What You Are Looking For"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 '어두운 방에서 없는 검은 고양이 찾기'라는 속담을 핵심 비유로 사용하여, 잘못된 개념에 근거하여 존재하지 않는 본질을 헛되이 찾는 것의 위험성을 설명하고 있습니다. '그곳에 없는 고양이를 쫓는 것의 위험성'이라는 제목은 이러한 글의 중심 비유와 주제를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism.\nThey encourage us to see things that aren't present.\nStuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\"\nThis statement beautifully sums up the search for essences.\nHistory has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through.\nThe ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, and then experimenting in it, looking for evidence of a cat that did not exist.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The scientific search for luminiferous ether was a necessary failure that paved the way for modern physics."
+        },
+        {
+          "number": "②",
+          "text": "Human survival depends on our ability to create concepts that allow us to see things that aren't present."
+        },
+        {
+          "number": "③",
+          "text": "Concepts can be dangerous as they may lead to a fruitless search for non-existent essences."
+        },
+        {
+          "number": "④",
+          "text": "The best scientific discoveries often happen by accident, not through guided hypotheses and theories."
+        },
+        {
+          "number": "⑤",
+          "text": "The proverb about the black cat illustrates the importance of persistence in scientific investigation."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 개념이 생존에 필수적이지만, 동시에 '본질주의'의 문을 열어 존재하지 않는 것을 보게 만드는 위험이 있다고 경고합니다. '에테르'의 사례는 잘못된 개념이 어떻게 과학자들을 존재하지 않는 본질(non-existent essences)을 헛되이(fruitlessly) 찾도록 이끌었는지를 보여줍니다. 따라서 '개념은 존재하지 않는 본질에 대한 헛된 탐구로 이어질 수 있기 때문에 위험할 수 있다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Concepts are vital to human survival, but we must also be careful with them because they can encourage us to see things that aren't present. Stuart Firestein opens his book with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\" ( ① ) This statement beautifully sums up the search for essences. ( ② ) Firestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through. ( ③ ) The ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, looking for evidence of a cat that did not exist. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**History has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②의 앞 문장에서는 속담이 '본질 탐구'를 요약한다고 일반적인 설명을 합니다. 주어진 문장은 이러한 '본질 탐구'가 역사적으로 과학자들에게 어떻게 적용되었는지, 즉 잘못된 개념 때문에 헛된 탐구를 한 사례가 많다는 구체적인 연결고리를 제공합니다. 그리고 ②의 뒷 문장에서는 그 역사적 사례 중 하나로 '에테르'를 제시합니다. 따라서 일반적 설명과 구체적 사례 사이를 연결하는 주어진 문장은 ②에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism. They encourage us to see things that aren't present.",
+      "question_blocks": {
+        "A": "This statement beautifully sums up the search for essences. History has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses.",
+        "B": "Stuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\"",
+        "C": "Firestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe. The ether was a black cat, and physicists had been theorizing in a dark room, looking for a cat that did not exist."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 개념의 위험성을 소개합니다. (B)에서 이 위험성을 설명하기 위해 '없는 검은 고양이 찾기'라는 속담을 인용합니다. (A)에서 이 속담이 바로 '본질 탐구'를 요약하며, 역사적으로 과학자들이 이런 실수를 저질렀음을 언급합니다. (C)에서 (A)에서 언급한 역사적 사례로 '에테르'를 제시하며, 이를 속담에 비유하여 구체적으로 설명합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Stuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\"\nThis statement beautifully sums up the search for essences.\nHistory has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through.\nThe ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, and then experimenting in it, looking for evidence of ____________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a new form of light"
+        },
+        {
+          "number": "②",
+          "text": "a more powerful concept"
+        },
+        {
+          "number": "③",
+          "text": "a cat that did not exist"
+        },
+        {
+          "number": "④",
+          "text": "the flaws in their own theory"
+        },
+        {
+          "number": "⑤",
+          "text": "the true nature of the universe"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '에테르'를 '검은 고양이'에 비유하고 있습니다. 과학자들은 에테르라는 물질(고양이)이 존재한다는 잘못된 개념을 가지고 그것을 찾으려 했습니다. 글의 핵심 비유에 따르면, 그들은 결국 '존재하지 않는 고양이(a cat that did not exist)'에 대한 증거를 찾고 있었던 셈입니다. 이는 에테르가 실제로는 존재하지 않았다는 것을 의미합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Concepts are ①<u>vital</u> to human survival, but we must also be careful with them because concepts open the door to essentialism.\nThey encourage us to see things that aren't ②<u>present</u>.\nStuart Firestein's proverb beautifully sums up the search for essences.\nHistory has many examples of scientists who searched ③<u>fruitlessly</u> for an essence because they used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to ④<u>fill</u> the universe.\nThe ether was a black cat, and physicists had been looking for ⑤<u>evidence</u> of a cat that did exist.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 핵심은 과학자들이 '에테르'라는 존재하지 않는 것을 찾으려 헛된 노력을 했다는 것입니다. '에테르'는 '없는 검은 고양이'에 비유됩니다. 따라서 물리학자들은 '존재했던(did exist)' 고양이가 아니라 '존재하지 않았던(did not exist)' 고양이의 증거를 찾고 있었던 것입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Concepts are (A)<u>vital</u> to human survival, but we must also be careful with them because concepts open the door to (B)<u>essentialism</u>.\nThey encourage us to see things that aren't present.\nAn old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat,\" beautifully (C)<u>sums up</u> the search for essences.\nHistory has many examples of scientists who searched (D)<u>fruitlessly</u> for an essence.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a (E)<u>medium</u> to move through.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) vital: absolutely necessary or essential for life"
+        },
+        {
+          "number": "②",
+          "text": "(B) essentialism: the belief that things have fixed, unchanging properties"
+        },
+        {
+          "number": "③",
+          "text": "(C) sums up: states the main points of something in a short and clear way"
+        },
+        {
+          "number": "④",
+          "text": "(D) fruitlessly: in a way that is productive and yields good results"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) medium: a substance that makes it possible to transfer energy from one place to another"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "'Fruitlessly'는 '성과 없이, 헛되이'라는 의미입니다. 제시된 영영 풀이('in a way that is productive and yields good results' - 생산적이고 좋은 결과를 낳는 방식으로)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Concepts are (A)[vital / trivial] to human survival, but we must also be careful with them because concepts open the door to essentialism.\nThey encourage us to see things that aren't present.\nHistory has many examples of scientists who searched (B)[fruitlessly / successfully] for an essence because they used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through.\nThe ether was a black cat, and physicists had been looking for evidence of a cat that did (C)[not exist / exist].",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "vital - fruitlessly - not exist"
+        },
+        {
+          "number": "②",
+          "text": "vital - successfully - exist"
+        },
+        {
+          "number": "③",
+          "text": "trivial - fruitlessly - not exist"
+        },
+        {
+          "number": "④",
+          "text": "trivial - successfully - exist"
+        },
+        {
+          "number": "⑤",
+          "text": "vital - fruitlessly - exist"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 개념은 인간 생존에 '사소한(trivial)' 것이 아니라 '필수적인(vital)' 것입니다. (B) 과학자들은 잘못된 개념 때문에 본질을 '성공적으로(successfully)' 찾은 것이 아니라 '헛되이(fruitlessly)' 찾았습니다. (C) 에테르라는 고양이는 실제로 '존재했던(exist)' 것이 아니라 '존재하지 않았습니다(not exist)'."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "Stuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\" ① This statement beautifully sums up the search for essences. ② History has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept. ③ A good scientific hypothesis must be testable and falsifiable through experimentation. ④ Firestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe. ⑤ The ether was a black cat, and physicists had been looking for evidence of a cat that did not exist.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 잘못된 '개념'이 어떻게 헛된 탐구로 이어지는지를 설명하는 데 초점을 맞추고 있습니다. ③번 문장은 좋은 과학적 '가설'의 조건(검증 가능성, 반증 가능성)에 대해 이야기하고 있습니다. 이는 과학 철학의 일반적인 원칙으로, '잘못된 개념의 위험성'이라는 이 글의 구체적인 주제와는 논리적 연결이 부족하며 글의 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism. They encourage us ①[to see / seeing] things that aren't present. An old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat,\" beautifully sums up the search for essences. History has many examples of scientists ②[who / whose] searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses. Firestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium ③[to move through / which to move through].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to see",
+          "explanation": "동사 'encourage'는 목적격 보어로 to부정사를 취하는 5형식 동사입니다 (encourage + 목적어 + to부정사). 따라서 'to see'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "who",
+          "explanation": "선행사 'scientists'를 수식하며 뒤따르는 동사 'searched'의 주어 역할을 하는 주격 관계대명사가 필요하므로 'who'가 적절합니다. 'whose'는 소유격 관계대명사입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to move through",
+          "explanation": "앞의 명사 'a medium'을 수식하는 to부정사의 형용사적 용법입니다. 'a medium (which light can move) through'의 의미로, 'to move through'가 자연스럽습니다. 'which to move through'는 어법에 맞지 않는 표현입니다."
+        }
+      ]
+    }
+  ]
+}

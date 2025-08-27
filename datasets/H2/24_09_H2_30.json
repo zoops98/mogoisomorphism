@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The first human beings probably evolved in tropical regions where survival was possible without clothing.\nIt is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun.\nThere is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world.\nWhichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world.\nThis was probably because their physical characteristics changed.\nFor instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently.\nMore important, perhaps, was their development of tool making.\nWith tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.\nNot only their bodies but also their brains would have been changed with more energy.\nThe brain needs lots of energy to grow.\nAs their diet expanded, hominids could physically and intellectually expand their territory.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "초기 인류의 다양한 식단을 비교하기 위해" },
+        { "number": "②", "text": "채식 위주 식단의 단점을 지적하기 위해" },
+        { "number": "③", "text": "초기 인류의 진화와 전 세계적 확산 요인을 설명하기 위해" },
+        { "number": "④", "text": "피부색과 기후의 관계를 과학적으로 증명하기 위해" },
+        { "number": "⑤", "text": "인류의 기원에 대한 다양한 가설을 제시하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 초기 인류가 아프리카에서 진화하여 전 세계로 퍼져나갈 수 있었던 핵심적인 요인들을 설명하고 있습니다. 직립 보행과 같은 신체적 변화, 그리고 더 중요하게는 도구 제작과 그로 인한 식단 개선이 두뇌 발달과 영토 확장으로 이어졌다는 과정을 기술하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The first human beings probably evolved in tropical regions where survival was possible without clothing.\nIt is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun.\nThere is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world.\nWhichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world.\nThis was probably because their physical characteristics changed.\nFor instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently.\nMore important, perhaps, was their development of tool making.\nWith tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.\nNot only their bodies but also their brains would have been changed with more energy.\nThe brain needs lots of energy to grow.\nAs their diet expanded, hominids could physically and intellectually expand their territory.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Dangers of the Tropical Sun" },
+        { "number": "②", "text": "How Tools and Diet Fueled Human Expansion" },
+        { "number": "③", "text": "A Debate on the Origin of Humanity" },
+        { "number": "④", "text": "The Evolution of the Human Brain" },
+        { "number": "⑤", "text": "Walking Upright: The First Great Leap" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 초기 인류의 전 세계적 확산(expansion)을 가능하게 한 가장 중요한 요인으로 도구 제작과 그에 따른 식단 변화를 강조하고 있습니다. 도구를 사용해 고단백 식단을 섭취하게 되면서 더 많은 에너지를 얻었고, 이는 신체적, 지적 팽창으로 이어졌다는 것이 글의 핵심 내용이므로 이 제목이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The first human beings probably evolved in tropical regions where survival was possible without clothing.\nIt is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun.\nThere is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world.\nWhichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world.\nThis was probably because their physical characteristics changed.\nFor instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently.\nMore important, perhaps, was their development of tool making.\nWith tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.\nNot only their bodies but also their brains would have been changed with more energy.\nThe brain needs lots of energy to grow.\nAs their diet expanded, hominids could physically and intellectually expand their territory.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The development of dark skin was the single most important adaptation for early human survival." },
+        { "number": "②", "text": "Early hominids were able to migrate globally primarily due to key physical and intellectual developments." },
+        { "number": "③", "text": "The debate over a single origin versus multiple origins of humanity remains entirely unresolved by scientists." },
+        { "number": "④", "text": "A high-energy diet based on protein and fat is essential for modern human brain function." },
+        { "number": "⑤", "text": "The ability to walk upright was a more significant evolutionary step than the development of tools." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 핵심 내용은 초기 인류가 전 세계로 퍼져나갈 수 있었던 주된 이유가 직립 보행과 같은 신체적 발달과 도구 제작과 같은 지적 발달 덕분이라는 것입니다. 이러한 발달이 더 나은 식단, 두뇌 성장, 그리고 궁극적인 영토 확장으로 이어졌다는 흐름을 포괄하는 이 선택지가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently. More important, perhaps, was their development of tool making. With tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided. ( ① ) The brain needs lots of energy to grow. ( ② ) As their diet expanded, hominids could physically and intellectually expand their territory. ( ③ ) This expansion led to encounters with new environments and challenges, further driving evolution. ( ④ ) Ultimately, these developments laid the groundwork for modern human civilization. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Not only their bodies but also their brains would have been changed with more energy.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '더 많은 에너지로 몸뿐만 아니라 뇌도 변했을 것'이라는 내용입니다. 이 문장은 바로 앞 문장에서 언급된 '더 많은 단백질과 지방을 섭취할 수 있었다'는 내용, 즉 에너지 섭취 증가의 직접적인 결과에 해당합니다. 그리고 주어진 문장 뒤에 '뇌는 성장하는 데 많은 에너지가 필요하다'는 문장이 이어지면서 뇌의 변화에 대한 부연 설명을 하므로, ①의 위치가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The first human beings probably evolved in tropical regions where survival was possible without clothing. It is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun.",
+      "question_blocks": {
+        "A": "This was probably because their physical characteristics changed. For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently.",
+        "B": "There is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world. Whichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world.",
+        "C": "More important, perhaps, was their development of tool making. With tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 아프리카에서의 초기 인류의 모습을 묘사합니다. (B)는 이들이 아프리카에서 퍼져나갔다는 확산에 대한 논의로 자연스럽게 이어집니다. (A)는 'This(이것)'가 가리키는 확산의 첫 번째 이유로 신체적 변화(직립 보행)를 설명합니다. (C)는 'More important(더 중요한 것은)'이라는 표현을 통해 두 번째이자 더 중요한 이유인 도구 제작을 설명하며 논의를 심화시킵니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently.\nMore important, perhaps, was ________________________.\nWith tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the beginning of agriculture" },
+        { "number": "②", "text": "their development of tool making" },
+        { "number": "③", "text": "the ability to control fire" },
+        { "number": "④", "text": "a sudden change in climate" },
+        { "number": "⑤", "text": "the creation of spoken language" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸은 직립 보행보다 '더 중요한' 발달이 무엇이었는지를 묻고 있습니다. 바로 다음 문장이 'With tools(도구를 가지고)'로 시작하여, 도구를 사용해 사냥하고 식단을 개선한 내용을 설명합니다. 이는 빈칸에 들어갈 내용이 '도구 제작의 발달(their development of tool making)'임을 명확하게 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "It is likely that they had very dark skin because light skin would have given little ① `protection`... in time they became ② `capable` of spreading out from Africa... For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more ③ `efficiently`. With tools, they could hunt other animals, so they could consume more protein and fat... Not only their bodies but also their brains would have been ④ `worsened` with more energy. The brain needs lots of energy to grow. As their diet ⑤ `expanded`, hominids could physically and intellectually expand their territory.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "protection" },
+        { "number": "②", "text": "capable" },
+        { "number": "③", "text": "efficiently" },
+        { "number": "④", "text": "worsened" },
+        { "number": "⑤", "text": "expanded" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 흐름상, 고에너지 식단은 초기 인류에게 긍정적인 변화를 가져왔습니다. 바로 다음 문장에서 '뇌는 성장하는 데 많은 에너지가 필요하다'고 언급한 것으로 보아, 더 많은 에너지는 뇌 발달에 도움이 되었을 것입니다. 따라서 뇌가 '악화되었을(worsened)' 것이라는 표현은 문맥에 맞지 않으며, '변화되었거나(changed)' '향상되었을(improved)' 것이라는 내용이 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "The first human beings probably (A) `evolved` in tropical regions... light skin would have given little (B) `protection` against the burning rays of the sun. This was probably because their physical (C) `characteristics` changed. ... so they could (D) `consume` more protein and fat... As their diet expanded, hominids could physically and intellectually (E) `expand` their territory.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) evolved: to develop gradually over a period of time" },
+        { "number": "②", "text": "(B) protection: the state of being kept safe from harm or injury" },
+        { "number": "③", "text": "(C) characteristics: a typical or noticeable quality of someone or something" },
+        { "number": "④", "text": "(D) consume: to eat or drink something" },
+        { "number": "⑤", "text": "(E) expand: to become smaller in size, number, or importance" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) expand는 '확장하다, 팽창하다'라는 의미로, 크기, 수, 중요성 등이 더 커지는 것을 의미합니다. 제시된 영영 풀이인 '크기, 수, 중요성 면에서 더 작아지다'는 '축소하다(contract)' 또는 '줄어들다(shrink)'의 의미이므로, 'expand'의 뜻과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "It is likely that they had very (A) [dark / light] skin because light skin would have given little protection against the burning rays of the sun. ... early hominids probably did not walk (B) [upright / backward], but when they developed that ability, they could travel more efficiently. With tools, they could hunt other animals, so they could consume (C) [more / less] protein and fat...",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "dark - upright - more" },
+        { "number": "②", "text": "dark - backward - less" },
+        { "number": "③", "text": "dark - upright - less" },
+        { "number": "④", "text": "light - backward - more" },
+        { "number": "⑤", "text": "light - upright - more" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 열대 지방의 뜨거운 태양 광선에 대한 보호를 위해서는 멜라닌 색소가 많은 '어두운(dark)' 피부가 유리합니다. (B) 인류 진화의 중요한 단계는 '똑바로(upright)' 서서 걷는 직립 보행이었습니다. (C) 사냥을 통해 기존의 채식보다 단백질과 지방을 '더 많이(more)' 섭취할 수 있게 되었습니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "The first human beings probably evolved in tropical regions where survival was possible without clothing.\nIt is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun.\nThere is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world.\nWhichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world.\nThis was probably because their physical characteristics changed.\nFor instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently.\nMore important, perhaps, was their development of tool making.\nWith tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.\nNot only their bodies but also their brains would have been changed with more energy.\nThe brain needs lots of energy to grow.\nAs their diet expanded, hominids could physically and intellectually expand their territory.",
+      "question": "다음 글의 내용과 일치하는 것은?",
+      "options": [
+        { "number": "①", "text": "최초의 인류는 생존을 위해 반드시 옷이 필요한 지역에서 진화했다." },
+        { "number": "②", "text": "초기 인류의 피부색이 어두웠던 이유는 밝은 피부가 태양 광선에 대한 보호 기능이 뛰어났기 때문이다." },
+        { "number": "③", "text": "인류의 기원에 대해서는 여러 지역에서 독립적으로 발달했다는 설이 유일하다." },
+        { "number": "④", "text": "직립 보행 능력보다 도구 제작의 발달이 더 중요한 변화였을 수 있다." },
+        { "number": "⑤", "text": "에너지가 낮은 채식 위주의 식단은 두뇌 성장에 큰 도움이 되었다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 직립 보행 능력을 언급한 후 'More important, perhaps, was their development of tool making'이라고 말하며, 도구 제작의 발달이 아마도 더 중요한 변화였을 것이라고 서술하고 있습니다. 이는 선택지 ④의 내용과 정확히 일치합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "There is a debate about ① [whether / that] these people spread into other parts of the world or, instead, whether people developed independently... This was probably because their physical characteristics ② [changed / were changed]. ... More important, perhaps, was their development of tool making. ... Not only their bodies but also their brains would have been changed with more energy. The brain needs lots of energy ③ [to grow / growing]. As their diet expanded, hominids could physically and intellectually expand their territory.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "whether",
+          "explanation": "전치사 'about'의 목적어 역할을 하는 명사절을 이끌어야 합니다. '~인지 아닌지'라는 불확실한 사실에 대한 'debate(토론)'이므로 접속사 'whether'가 적절합니다. 접속사 'that'은 확정적인 사실을 나타내는 명사절을 이끕니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "changed",
+          "explanation": "동사 'change'가 '변하다'라는 의미의 자동사로 사용되어 주어인 'their physical characteristics'의 상태 변화를 나타냅니다. 따라서 수동태가 아닌 능동태 'changed'가 올바른 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to grow",
+          "explanation": "'뇌는 성장하기 위해서 많은 에너지를 필요로 한다'는 의미로, 목적을 나타내는 to부정사의 부사적 용법이 사용되어야 합니다. 따라서 'to grow'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

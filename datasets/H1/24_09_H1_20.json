@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap.\nOf course you are a proud parent, and you should be.\nWhile it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child.\nIt is extremely important to limit your bragging behavior to your very close friends, or your parents.\nGifted children feel pressured when their parents show them off too much.\nThis behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child.\nYou want your child to be who they are, not who they seem to be as defined by their incredible achievements.\nIf not, you could end up with a driven perfectionist child or perhaps a dropout, or worse.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain the characteristics of gifted children"
+        },
+        {
+          "number": "②",
+          "text": "to suggest effective ways to educate a genius"
+        },
+        {
+          "number": "③",
+          "text": "to emphasize the importance of a child's achievements"
+        },
+        {
+          "number": "④",
+          "text": "to advise against bragging about a gifted child"
+        },
+        {
+          "number": "⑤",
+          "text": "to complain about the pressure on parents"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 영재 자녀를 둔 부모가 흔히 빠지는 함정, 즉 자녀에 대해 자랑하는 행동을 경계해야 한다고 말하고 있습니다. 글쓴이는 이러한 행동이 자녀에게 스트레스와 압박감을 주며 부정적인 결과를 초래할 수 있다고 경고하며, 자랑하는 행동을 제한하라고 조언하고 있습니다. 따라서 글의 주된 목적은 영재 자녀에 대한 과도한 자랑을 삼가라고 조언하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap.\nOf course you are a proud parent, and you should be.\nWhile it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child.\nIt is extremely important to limit your bragging behavior to your very close friends, or your parents.\nGifted children feel pressured when their parents show them off too much.\nThis behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child.\nYou want your child to be who they are, not who they seem to be as defined by their incredible achievements.\nIf not, you could end up with a driven perfectionist child or perhaps a dropout, or worse.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Pride of a Parent: A Double-Edged Sword"
+        },
+        {
+          "number": "②",
+          "text": "How to Raise a Happy, Gifted Child"
+        },
+        {
+          "number": "③",
+          "text": "Understanding the Mind of a Genius"
+        },
+        {
+          "number": "④",
+          "text": "Perfectionism: A Common Trait in Gifted Kids"
+        },
+        {
+          "number": "⑤",
+          "text": "The Role of Achievements in Self-Esteem"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 영재 자녀를 둔 부모의 '자부심(Pride)'이 당연한 것이지만, 그것이 과도한 자랑으로 이어질 경우 자녀에게 해가 될 수 있는 '양날의 검(Double-Edged Sword)'임을 경고하고 있습니다. 이 제목은 글의 핵심 내용인 부모의 자부심이 가진 긍정적 측면과 부정적 위험을 모두 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap.\nOf course you are a proud parent, and you should be.\nWhile it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child.\nIt is extremely important to limit your bragging behavior to your very close friends, or your parents.\nGifted children feel pressured when their parents show them off too much.\nThis behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child.\nYou want your child to be who they are, not who they seem to be as defined by their incredible achievements.\nIf not, you could end up with a driven perfectionist child or perhaps a dropout, or worse.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Parents should avoid excessively showing off their gifted child to prevent negative psychological effects."
+        },
+        {
+          "number": "②",
+          "text": "Gifted children need to learn how to cope with the high expectations from their parents."
+        },
+        {
+          "number": "③",
+          "text": "A child's incredible achievements are the most important source of their confidence and self-esteem."
+        },
+        {
+          "number": "④",
+          "text": "It is natural for parents to feel proud and they should freely express it to everyone."
+        },
+        {
+          "number": "⑤",
+          "text": "Close friends and family play a vital role in the proper education of a gifted child."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 핵심은 영재 자녀에 대한 부모의 과도한 자랑이 자녀에게 스트레스, 압박감, 그리고 거짓된 자아상을 형성하는 등 부정적인 심리적 영향을 줄 수 있으므로 이를 피해야 한다는 것입니다. 따라서 '부정적인 심리적 영향을 막기 위해 영재 자녀를 과도하게 자랑하는 것을 피해야 한다'는 선택지가 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap. Of course you are a proud parent, and you should be. While it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child. ( ① ) It is extremely important to limit your bragging behavior to your very close friends, or your parents. ( ② ) Gifted children feel pressured when their parents show them off too much. ( ③ ) You want your child to be who they are, not who they seem to be as defined by their incredible achievements. ( ④ ) If not, you could end up with a driven perfectionist child or perhaps a dropout, or worse. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 'This behavior'(이러한 행동)가 만들어내는 구체적인 문제점, 즉 '부응하기 힘든 기대감'과 '거짓된 자아상'을 설명합니다. ③의 앞 문장에서는 부모가 자랑할 때 영재 아동이 '압박감을 느낀다(feel pressured)'고 언급합니다. 주어진 문장은 그 압박감의 원인과 결과를 상세히 설명하므로, 바로 뒤에 이어지는 것이 논리적으로 가장 자연스럽습니다. 'This behavior'는 앞 문장의 'showing them off too much'를 가리킵니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap. Of course you are a proud parent, and you should be.",
+      "question_blocks": {
+        "A": "Gifted children feel pressured when their parents show them off too much. This behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child.",
+        "B": "While it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child. It is extremely important to limit your bragging behavior to your very close friends, or your parents.",
+        "C": "You want your child to be who they are, not who they seem to be as defined by their incredible achievements. If not, you could end up with a driven perfectionist child or perhaps a dropout, or worse."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '부모가 빠지기 쉬운 함정'이라는 주제를 제시합니다. (B)에서 그 함정이 무엇인지(자녀에 대해 끊임없이 이야기하는 것) 밝히고, 이것이 스트레스를 유발하므로 자랑을 제한하라는 직접적인 조언을 합니다. (A)에서 왜 그것이 문제인지 더 깊이 설명합니다(압박감과 거짓된 자아상 형성). (C)에서 바람직한 양육 태도(있는 그대로의 아이를 인정하는 것)를 제시하고, 그렇지 않을 경우의 부정적인 결과를 경고하며 글을 마무리합니다. 따라서 문제 제기 -> 구체적 행동 및 조언 -> 이유 설명 -> 대안 및 경고의 순서인 (B)-(A)-(C)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap.\nOf course you are a proud parent, and you should be.\nWhile it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child.\nIt is extremely important to limit your bragging behavior to your very close friends, or your parents.\nGifted children feel pressured when their parents show them off too much.\nThis behavior creates expectations that they may not be able to ____________________, and also creates a false sense of self for your child.\nYou want your child to be who they are, not who they seem to be as defined by their incredible achievements.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "get away from"
+        },
+        {
+          "number": "②",
+          "text": "live up to"
+        },
+        {
+          "number": "③",
+          "text": "compete with"
+        },
+        {
+          "number": "④",
+          "text": "make sense of"
+        },
+        {
+          "number": "⑤",
+          "text": "show off"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "부모의 과도한 자랑은 자녀에게 '기대감(expectations)'을 만듭니다. 아이들은 이러한 기대에 '부응해야 한다'는 압박감을 느끼게 되는데, 문맥상 '부응하다, 충족시키다'라는 의미의 숙어 'live up to'가 가장 적절합니다. 즉, 아이들이 부응하지 못할 수도 있는 기대감을 만든다는 의미입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "As the parent of a gifted child, you need to be ①<u>aware</u> of a certain common parent trap.\nOf course you are a proud parent, and you should be.\nWhile it is very easy to talk nonstop about your little genius and his or her ②<u>remarkable</u> behavior, this can be very stressful on your child.\nIt is extremely important to ③<u>encourage</u> your bragging behavior to your very close friends, or your parents.\nGifted children feel ④<u>pressured</u> when their parents show them off too much.\nThis behavior creates expectations that they may not be able to live up to, and also creates a ⑤<u>false</u> sense of self for your child.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 부모의 과도한 자랑이 자녀에게 해가 되므로 이를 삼가야 한다는 것이 핵심 내용입니다. 따라서 자랑하는 행동을 가까운 친구나 부모에게 '장려(encourage)'하는 것이 아니라 '제한(limit)'해야 한다고 말하는 것이 문맥상 올바릅니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "As the parent of a (A)<u>gifted</u> child, you need to be aware of a certain common parent trap.\nOf course you are a proud parent, and you should be.\nWhile it is very easy to talk nonstop about your little genius and his or her (B)<u>remarkable</u> behavior, this can be very stressful on your child.\nIt is extremely important to (C)<u>limit</u> your bragging behavior to your very close friends, or your parents.\nGifted children feel (D)<u>pressured</u> when their parents show them off too much.\nThis behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child.\nIf not, you could end up with a driven perfectionist child or perhaps a (E)<u>dropout</u>, or worse.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) gifted: having a natural ability to do something well"
+        },
+        {
+          "number": "②",
+          "text": "(B) remarkable: unusual or surprising and therefore deserving attention"
+        },
+        {
+          "number": "③",
+          "text": "(C) limit: to share something with a wide range of people"
+        },
+        {
+          "number": "④",
+          "text": "(D) pressured: feeling worried because of the number of things that must be done"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) dropout: a person who leaves school or college before finishing their course of study"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "'Limit'는 '제한하다, 한정하다'는 의미입니다. 제시된 영영 풀이 'to share something with a wide range of people'(어떤 것을 넓은 범위의 사람들과 공유하다)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap.\nWhile it is very easy to talk nonstop about your little genius, this can be very (A)[stressful / rewarding] on your child.\nIt is extremely important to limit your bragging behavior.\nGifted children feel pressured when their parents show them off too much.\nThis behavior creates expectations that they may not be able to live up to, and also creates a (B)[false / true] sense of self for your child.\nYou want your child to be who they are, not who they seem to be as defined by their incredible achievements. If not, you could end up with a driven perfectionist child or perhaps a (C)[dropout / success], or worse.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "stressful - false - dropout"
+        },
+        {
+          "number": "②",
+          "text": "stressful - true - success"
+        },
+        {
+          "number": "③",
+          "text": "rewarding - false - dropout"
+        },
+        {
+          "number": "④",
+          "text": "rewarding - true - success"
+        },
+        {
+          "number": "⑤",
+          "text": "stressful - false - success"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 부모의 과도한 자랑은 자녀에게 '보람 있는(rewarding)' 것이 아니라 '스트레스를 주는(stressful)' 일입니다. (B) 성취에 의해 정의되는 자아상은 '진정한(true)' 자아상이 아니라 '거짓된(false)' 자아상입니다. (C) 이러한 양육의 부정적인 결과로 '성공(success)'이 아닌 '중도 포기자(dropout)'가 될 수 있다고 경고하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "It is extremely important to limit your bragging behavior to your very close friends, or your parents. ① Gifted children feel pressured when their parents show them off too much. ② This behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child. ③ Parents can find various online communities to share tips and experiences about raising gifted children. ④ You want your child to be who they are, not who they seem to be as defined by their incredible achievements. ⑤ If not, you could end up with a driven perfectionist child or perhaps a dropout, or worse.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 부모의 자랑이 영재 자녀에게 미치는 부정적 영향과 그 위험에 대해 집중적으로 설명하고 있습니다. 그러나 ③번 문장은 '영재 자녀 양육에 대한 정보를 공유하는 온라인 커뮤니티'에 대해 언급하고 있어, 글의 핵심 주제인 '자랑의 위험성'에서 벗어납니다. 이는 글의 논리적 흐름을 방해하는 무관한 문장입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "As the parent of a gifted child, you need to be aware of a certain common parent trap. While ①[it / that] is very easy to talk nonstop about your little genius, this can be very stressful on your child. It is extremely important to limit your bragging behavior. Gifted children feel pressured when their parents show them off too much. This behavior creates expectations that they may not be able to live up to, and also ②[creates / create] a false sense of self for your child. You want your child to be who they are, not ③[how / who] they seem to be as defined by their incredible achievements.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "it",
+          "explanation": "뒤따르는 to부정사구 'to talk nonstop...'를 대신하는 가주어(dummy subject)가 필요한 자리이므로 'it'이 적절합니다. 'that'은 가주어로 쓰일 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "creates",
+          "explanation": "주어 'This behavior'가 3인칭 단수이므로, 동사 역시 단수형인 'creates'가 와야 합니다. and로 연결된 앞의 동사 'creates'와 병렬 구조를 이룹니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "who",
+          "explanation": "'be' 동사의 보어 역할을 하는 명사절을 이끌어야 하며, 선행사가 없으므로 'who they are'(그들의 있는 그대로의 모습)가 문맥과 어법에 맞습니다. 'who'는 '~인 사람/모습'으로 해석됩니다. 'how'는 '어떻게'라는 방법을 나타내므로 어색합니다."
+        }
+      ]
+    }
+  ]
+}

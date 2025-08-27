@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to cancel an artist's participation"
+        },
+        {
+          "number": "②",
+          "text": "to request a change of exhibition location"
+        },
+        {
+          "number": "③",
+          "text": "to complain about the quality of artworks"
+        },
+        {
+          "number": "④",
+          "text": "to announce the winner of a craft competition"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide information about an exhibition space"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 공예 아트 페어에 참여하는 Miranda에게 그녀의 작품이 전시될 테이블 번호와 위치 등 구체적인 전시 공간 정보를 알려주기 위해 작성되었습니다. 따라서 글의 목적으로 가장 적절한 것은 '전시 공간에 대한 정보를 제공하기 위해'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Invitation to the Crafts Art Fair"
+        },
+        {
+          "number": "②",
+          "text": "How to Make Unique Handmade Baskets"
+        },
+        {
+          "number": "③",
+          "text": "Exhibition Details for a Featured Artist"
+        },
+        {
+          "number": "④",
+          "text": "A Guide for Visitors to the Art Fair"
+        },
+        {
+          "number": "⑤",
+          "text": "Requirements for 'Artists of This Year'"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '올해의 작가'로 선정된 Miranda에게 그녀의 전시 테이블 번호, 위치 등 구체적인 전시 세부 사항을 안내하고 있습니다. 따라서 '주요 작가를 위한 전시 세부 정보'가 글 전체의 내용을 가장 잘 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Miranda is being formally notified of her specific exhibition location and offered further support."
+        },
+        {
+          "number": "②",
+          "text": "The Crafts Art Fair organizers are asking Miranda to submit her artworks for a final review."
+        },
+        {
+          "number": "③",
+          "text": "Helen Dwyer is inviting Miranda to apply for the 'Artists of This Year' award at the fair."
+        },
+        {
+          "number": "④",
+          "text": "The letter's main purpose is to request payment for the exhibition table at the upcoming event."
+        },
+        {
+          "number": "⑤",
+          "text": "Miranda is being reminded to complete her registration for the Crafts Art Fair before the deadline."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 Miranda에게 그녀가 '올해의 작가'로 선정되었음을 알리고, 아트 페어에서 그녀의 작품이 전시될 구체적인 장소(7번 테이블)를 공지하며, 추가적인 지원이 필요하면 연락하라는 것입니다. 따라서 글의 요지는 'Miranda에게 그녀의 구체적인 전시 위치를 공식적으로 알리고 추가 지원을 제안하고 있다'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community. ( ① ) As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven. ( ② ) ( ③ ) If you have any special requirements or need further assistance, feel free to contact us in advance. ( ④ ) \nSincerely, Helen Dwyer ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Visitors can easily find your artworks located near the entrance.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 방문객들이 Miranda의 작품을 쉽게 찾을 수 있다는 내용으로, 작품의 위치에 대한 부가적인 정보를 제공합니다. 바로 앞 문장에서 작품이 '7번 테이블에 전시될 것'이라고 구체적인 장소를 언급했으므로, 그 장소의 이점(입구 근처에 위치)을 설명하는 주어진 문장은 그 뒤에 오는 것이 가장 자연스럽습니다. 따라서 정답은 ③입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.",
+      "question_blocks": {
+        "A": "As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven. Visitors can easily find your artworks located near the entrance.",
+        "B": "Since we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.",
+        "C": "If you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer"
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 페어 참여에 대한 감사 인사입니다. (B)에서 '올해의 작가'로 선정된 배경을 설명하며 글을 시작하는 것이 자연스럽습니다. 그 후, (A)에서 구체적인 전시 계획(테이블 번호와 위치)을 안내합니다. 마지막으로 (C)에서 추가 지원에 대한 안내와 함께 편지를 마무리하는 것이 논리적인 흐름입니다. 따라서 가장 적절한 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to [____________________] to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "selling your assigned table"
+        },
+        {
+          "number": "②",
+          "text": "postponing the entire event"
+        },
+        {
+          "number": "③",
+          "text": "charging an additional fee"
+        },
+        {
+          "number": "④",
+          "text": "introducing your unique handmade baskets"
+        },
+        {
+          "number": "⑤",
+          "text": "reviewing your application again"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 포함된 문장은 Miranda가 '올해의 작가'로 선정된 이유와 연결됩니다. 주최 측이 그녀의 '독특한 수제 바구니'를 지역 사회에 소개하기를 고대하고 있다는 내용이 문맥상 가장 자연스럽습니다. 다른 선택지들은 글의 긍정적인 어조와 내용에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Dear Miranda,\nThank you for ① [participating] in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your ② [unique] handmade baskets to our community.\nAs part of ③ [organizing] the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.\nVisitors can easily find your artworks ④ [hidden] near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in ⑤ [advance].\nSincerely, Helen Dwyer",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "해당 문장은 방문객들이 Miranda의 작품을 입구 근처에서 '쉽게 찾을 수 있다'는 내용입니다. '숨겨진'을 의미하는 'hidden'은 '쉽게 찾을 수 있다(easily find)'는 내용과 상반되므로 문맥상 어색합니다. '위치한'을 의미하는 'located'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Dear Miranda,\nThank you for (A) [participating] in our Crafts Art Fair.\nSince we've (B) [chosen] you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the (C) [assigned] table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special (D) [requirements] or need further (E) [assistance], feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) participating: taking part in an activity or event"
+        },
+        {
+          "number": "②",
+          "text": "(B) chosen: selected as the best or most suitable from a larger group"
+        },
+        {
+          "number": "③",
+          "text": "(C) assigned: given a particular place, task, or value"
+        },
+        {
+          "number": "④",
+          "text": "(D) requirements: things that are needed or demanded"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) assistance: the profit that you get by selling something"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) assistance는 '도움, 지원'을 의미합니다. 영영 풀이 'the profit that you get by selling something(무언가를 팔아서 얻는 이익)'은 '수익'을 의미하므로, 'assistance'에 대한 설명으로 적절하지 않습니다. 'assistance'의 올바른 영영 풀이는 'the action of helping someone; help or support'입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've (A) [chosen / choosing] you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be (B) [exhibited / exhibiting] at the assigned table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special requirements or need further assistance, feel free to (C) [contact / contacting] us in advance.\nSincerely, Helen Dwyer",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "chosen - exhibited - contact" },
+        { "number": "②", "text": "chosen - exhibiting - contact" },
+        { "number": "③", "text": "chosen - exhibited - contacting" },
+        { "number": "④", "text": "choosing - exhibiting - contacting" },
+        { "number": "⑤", "text": "choosing - exhibited - contact" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 'have' 뒤에 오는 과거분사 형태로 수동의 의미를 나타내므로 'chosen'이 맞습니다. (B) 작품이 '전시되는' 것이므로 수동태 'be exhibited'가 맞습니다. (C) 'feel free to' 다음에는 동사원형이 와야 하므로 'contact'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\nSince we've chosen you as one of the 'Artists of This Year', we are looking forward to introducing your unique handmade baskets to our community.\nAs part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.\nVisitors can easily find your artworks located near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Miranda was selected as one of the 'Artists of This Year'."
+        },
+        {
+          "number": "②",
+          "text": "Miranda's specialty is making handmade baskets."
+        },
+        {
+          "number": "③",
+          "text": "Miranda's exhibition table is numbered seven."
+        },
+        {
+          "number": "④",
+          "text": "Miranda's assigned table is difficult for visitors to find."
+        },
+        {
+          "number": "⑤",
+          "text": "Miranda can request help from the organizers beforehand."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 \"Visitors can easily find your artworks located near the entrance.\"라고 언급했으므로, 방문객들은 Miranda의 테이블을 쉽게 찾을 수 있습니다. 따라서 Miranda의 테이블을 찾기 어렵다는 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Dear Miranda,\nThank you for participating in our Crafts Art Fair.\n① Since we've chosen you as one of the 'Artists of This Year', we are looking forward to [introducing / introduce] your unique handmade baskets to our community.\n② As part of organizing the exhibition plan, we are happy to inform you that your artworks will be [exhibited / exhibiting] at the assigned table, number seven.\n③ Visitors can easily find your artworks [located / locating] near the entrance.\nIf you have any special requirements or need further assistance, feel free to contact us in advance.\nSincerely, Helen Dwyer",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "introducing",
+          "explanation": "전치사 'to'가 포함된 관용 표현 'look forward to ~ing'는 '~하기를 고대하다'라는 의미로, 여기서 'to'는 전치사이므로 뒤에 동명사(introducing)가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "exhibited",
+          "explanation": "주어 'your artworks'는 '전시되는' 대상이므로, 수동태를 만들기 위해 be동사 뒤에 과거분사(exhibited)가 오는 것이 올바른 어법입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "located",
+          "explanation": "명사 'artworks'를 뒤에서 수식하는 분사 자리입니다. 작품이 '위치한' 것이므로 수동의 의미를 지닌 과거분사 'located'가 적절합니다. 'locating'은 능동의 의미를 가집니다."
+        }
+      ]
+    }
+  ]
+}

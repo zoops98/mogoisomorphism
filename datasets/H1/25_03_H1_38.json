@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to describe a scientific experiment on water volume"
+        },
+        {
+          "number": "②",
+          "text": "to criticize adults for not teaching fairness properly"
+        },
+        {
+          "number": "③",
+          "text": "to explain Piaget's theory on children's moral development"
+        },
+        {
+          "number": "④",
+          "text": "to argue that playing games is more important than studying"
+        },
+        {
+          "number": "⑤",
+          "text": "to prove that children under six cannot think logically"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 피아제의 물컵 실험을 비유로 들어, 아이들의 도덕성 이해가 선천적이거나 어른에게 직접 배우는 것이 아니라, 또래와의 놀이를 통해 스스로 구성된다는 그의 이론을 설명하고 있습니다. 따라서 글의 주된 목적은 피아제의 아동 도덕성 발달 이론을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Water Glass Experiment: A Flawed Theory"
+        },
+        {
+          "number": "②",
+          "text": "Morality: Constructed Through Play, Not Taught"
+        },
+        {
+          "number": "③",
+          "text": "How to Teach Your Kids About Fairness"
+        },
+        {
+          "number": "④",
+          "text": "The Innate Morality of Young Children"
+        },
+        {
+          "number": "⑤",
+          "text": "Piaget vs. Modern Child Psychology"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 아이들의 도덕성이 어른에 의해 '가르쳐지는(taught)' 것이 아니라, 또래와의 '놀이(play)'를 통해 스스로 '구성된다(constructed)'는 피아제의 이론입니다. 따라서 '도덕성: 가르쳐지는 것이 아니라 놀이를 통해 구성되는 것'이라는 제목이 글의 중심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "According to Piaget, children best develop moral concepts like fairness through self-discovery in peer interactions, not adult teaching."
+        },
+        {
+          "number": "②",
+          "text": "Piaget's experiments prove that children under the age of seven are completely incapable of understanding any moral concepts."
+        },
+        {
+          "number": "③",
+          "text": "The most effective way to teach children morality is for adults to directly explain all the detailed rules of fairness."
+        },
+        {
+          "number": "④",
+          "text": "Understanding the conservation of volume is the final and most important stage of a child's overall moral development."
+        },
+        {
+          "number": "⑤",
+          "text": "Playing games with water cups is the only activity through which young children can successfully learn how to be fair."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 피아제에 따르면, 아이들은 어른의 가르침이 아니라 또래와의 상호작용 속에서 스스로 발견하는 과정을 통해 공정성과 같은 도덕적 개념을 가장 잘 발달시킨다는 것입니다. 이는 도덕성이 'self-constructed(자가 구성)'된다는 그의 이론과 일맥상통합니다. 따라서 이 문장이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. ( ① ) ( ② ) Taking turns in a game is like pouring water back and forth between glasses. ( ③ ) Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Rather, it is self-constructed as kids play with other kids.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '오히려, 그것은 아이들이 다른 아이들과 놀면서 스스로 구성된다'는 내용입니다. 이는 바로 앞 문장에서 '도덕성이 선천적이거나 어른에게서 직접 배우는 것이라고 말할 수 없다'고 한 것에 대한 직접적인 대안이자 핵심 주장을 제시합니다. 'Rather(오히려)'라는 접속사가 앞 문장의 부정적인 진술을 반박하며 긍정적인 대안을 제시하는 역할을 하므로, 주어진 문장은 ①에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses.",
+      "question_blocks": {
+        "A": "Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults.",
+        "B": "Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water.",
+        "C": "Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 피아제의 물컵 실험 설정을 설명합니다. (B)는 그 실험의 결과(아이들의 초기 생각과 나중에 스스로 깨닫는 과정)를 설명합니다. (A)는 (B)에서 설명한 물컵 실험을 비유로 사용하여 '도덕성'이라는 새로운 주제를 도입합니다. 마지막으로 (C)는 (A)에서 제시된 도덕성 발달 이론을 'Rather'를 통해 구체화하고, 게임에서의 순서 지키기를 물 따르기에 비유하며 공정성 학습에 대한 결론을 내립니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. Rather, it is [____________________] as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a result of formal education"
+        },
+        {
+          "number": "②",
+          "text": "copied from their parents"
+        },
+        {
+          "number": "③",
+          "text": "a fixed biological trait"
+        },
+        {
+          "number": "④",
+          "text": "self-constructed"
+        },
+        {
+          "number": "⑤",
+          "text": "easily forgotten"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 도덕성 이해가 어떻게 형성되는지에 대한 피아제의 핵심 주장을 담고 있습니다. 바로 앞 문장에서 도덕성이 '선천적이거나 어른에게 직접 배우는 것이 아니라고' 했으므로, 빈칸에는 이에 대한 대안적 설명이 와야 합니다. 글 전체의 맥락은 아이들이 놀이를 통해 '스스로 구성한다'는 것이므로, 'self-constructed'가 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to ① [compare] two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is ② [higher]. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is ③ [innate] or kids learn it directly from adults. Rather, it is ④ [self-constructed] as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more ⑤ [ineffectively] than any teaching from adults.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 문장은 아이들이 또래와 함께 게임을 하는 것이 어른의 가르침보다 공정성을 배우는 데 '훨씬 더 효과적'이라는 결론을 내리고 있습니다. '비효과적으로'라는 의미의 'ineffectively'는 글의 전체 주장과 정면으로 배치됩니다. 따라서 'effectively'가 문맥상 올바른 표현입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the (A) [conservation] of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of (B) [morality] is like their understanding of those water glasses: we can't say that it is (C) [innate] or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about (D) [fairness] far more effectively than any (E) [teaching] from adults.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) conservation: the principle that a particular quantity remains constant"
+        },
+        {
+          "number": "②",
+          "text": "(B) morality: a person's standards of behavior or beliefs concerning what is right and wrong"
+        },
+        {
+          "number": "③",
+          "text": "(C) innate: existing from the time a person or animal is born"
+        },
+        {
+          "number": "④",
+          "text": "(D) fairness: the quality of treating people in a way that is right or reasonable"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) teaching: the process of forgetting information or skills"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) teaching은 '가르침, 교육'을 의미합니다. 제시된 영영 풀이 'the process of forgetting information or skills(정보나 기술을 잊어버리는 과정)'는 '망각(forgetting)'에 대한 설명으로, 'teaching'의 의미와 정반대입니다. teaching의 올바른 영영 풀이는 'the work or profession of a teacher' 또는 'ideas or principles taught by an authority'입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds (A) [more / less] water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is (B) [innate / acquired] or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more (C) [effectively / poorly] than any teaching from adults.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "more - innate - effectively"
+        },
+        {
+          "number": "②",
+          "text": "more - acquired - poorly"
+        },
+        {
+          "number": "③",
+          "text": "less - innate - effectively"
+        },
+        {
+          "number": "④",
+          "text": "less - acquired - poorly"
+        },
+        {
+          "number": "⑤",
+          "text": "more - innate - poorly"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 어린 아이들은 수위가 더 높기 때문에 키가 큰 컵에 물이 '더 많다(more)'고 생각합니다. (B) 피아제는 도덕성이 '선천적(innate)'이 아니라고 주장했습니다. 'acquired'는 '후천적인'으로, 문맥상 'not acquired from adults'라고 해야 의미가 통합니다. (C) 아이들은 놀이를 통해 어른의 가르침보다 '더 효과적으로(effectively)' 공정성을 배웁니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids to compare two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by playing with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults.",
+      "question": "피아제의 이론에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "6세 미만의 아이들은 보통 물의 높이로 양을 판단한다."
+        },
+        {
+          "number": "②",
+          "text": "아이들은 놀이를 통해 부피 보존 개념을 스스로 터득한다."
+        },
+        {
+          "number": "③",
+          "text": "도덕성은 어른들의 직접적인 가르침으로 가장 잘 학습된다."
+        },
+        {
+          "number": "④",
+          "text": "도덕성 이해는 선천적으로 타고나는 것이 아니다."
+        },
+        {
+          "number": "⑤",
+          "text": "게임에서 차례를 지키는 것은 공정성을 배우는 데 도움이 된다."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 'playing games and working things out together will help them learn about fairness far more effectively than any teaching from adults'라고 명시하고 있습니다. 이는 또래와의 놀이가 어른의 직접적인 가르침보다 공정성을 배우는 데 '훨씬 더 효과적'이라는 의미입니다. 따라서 어른들의 직접적인 가르침으로 가장 잘 학습된다는 ③번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Piaget put the same amount of water into two different glasses: a tall narrow glass and a wide glass, then asked kids ① [to compare / comparing] two glasses. Kids younger than six or seven usually say that the tall narrow glass now holds more water, because the level is higher. And when they are ready, they figure out the conservation of volume for themselves just by ② [playing / to play] with cups of water. Piaget argued that children's understanding of morality is like their understanding of those water glasses: we can't say that it is innate or kids learn it directly from adults. Rather, it is self-constructed as kids play with other kids. Taking turns in a game is like pouring water back and forth between glasses. Once kids have reached the age of five or six, then playing games and working things out together will help them ③ [learn / to learning] about fairness far more effectively than any teaching from adults.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to compare",
+          "explanation": "동사 'ask'는 5형식으로 쓰일 때 목적격 보어로 to부정사를 취합니다. 따라서 'ask + kids + to compare'가 올바른 형태입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "playing",
+          "explanation": "전치사 'by'의 목적어 자리이므로 동명사 'playing'이 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "learn",
+          "explanation": "준사역동사 'help'는 목적격 보어로 동사원형 또는 to부정사를 취합니다. 따라서 'learn' 또는 'to learn'이 올 수 있으며, 주어진 선택지 중 'learn'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

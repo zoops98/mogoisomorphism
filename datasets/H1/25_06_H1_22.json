@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Imagine following the spirit of a silence vow into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe miss what's being said because we're mentally rehearsing our next utterance.\nWhat if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head?\nWhat if you were limited to, say, fifty spoken words tomorrow?\nI think you'd listen quite differently.\nYou'd attend quite carefully to every word you heard.\nYou'd be attuned to what you must respond to.\nYou might discover that the less you say, the more you hear.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to suggest speaking less as a way to improve listening skills" },
+        { "number": "②", "text": "to explain the psychological difficulty of first dates" },
+        { "number": "③", "text": "to criticize people who talk too much in conversations" },
+        { "number": "④", "text": "to introduce a new theory in behavioral psychology" },
+        { "number": "⑤", "text": "to emphasize the importance of preparing what to say" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 의도적으로 말을 줄이는 '침묵 서약'의 정신을 일상에 적용해볼 것을 제안합니다. 글쓴이는 사람들이 자신의 말할 차례를 기다리느라 상대방의 말을 놓치는 경향이 있다고 지적한 뒤, 말을 적게 하면 오히려 더 잘 듣게 될 것이라고 주장합니다. 따라서 이 글의 목적은 '경청 능력을 향상시키는 방법으로 말을 적게 할 것을 제안하기' 위함입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Imagine following the spirit of a silence vow into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe miss what's being said because we're mentally rehearsing our next utterance.\nWhat if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head?\nWhat if you were limited to, say, fifty spoken words tomorrow?\nI think you'd listen quite differently.\nYou'd attend quite carefully to every word you heard.\nYou'd be attuned to what you must respond to.\nYou might discover that the less you say, the more you hear.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Hear More by Saying Less" },
+        { "number": "②", "text": "The Art of a Perfect Utterance" },
+        { "number": "③", "text": "Conversation: A Game You Must Win" },
+        { "number": "④", "text": "How to Overcome the Fear of Silence" },
+        { "number": "⑤", "text": "The Psychology of a First Date" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 메시지는 글의 마지막 문장 'the less you say, the more you hear'(적게 말할수록, 더 많이 듣는다)에 집약되어 있습니다. 글 전체가 침묵과 말 줄이기를 통해 경청 능력을 향상시킬 수 있다는 아이디어를 전개하므로, '더 적게 말함으로써 더 많이 들어라'가 이 글의 내용을 가장 잘 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Imagine following the spirit of a silence vow into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe miss what's being said because we're mentally rehearsing our next utterance.\nWhat if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head?\nWhat if you were limited to, say, fifty spoken words tomorrow?\nI think you'd listen quite differently.\nYou'd attend quite carefully to every word you heard.\nYou'd be attuned to what you must respond to.\nYou might discover that the less you say, the more you hear.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Intentionally limiting the amount you speak can dramatically improve your ability to listen carefully and hear more." },
+        { "number": "②", "text": "Effective communication is primarily about clearly and confidently expressing your own thoughts and ideas to others." },
+        { "number": "③", "text": "Behavioral psychology experts have proven that first dates are the most challenging situations for natural, open conversation." },
+        { "number": "④", "text": "The key to winning any argument is to mentally prepare your next statement while the other person is speaking." },
+        { "number": "⑤", "text": "Developing a large vocabulary is essential for people who wish to become more articulate and persuasive speakers." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "필자는 우리가 대화 중 자신의 발언을 준비하느라 경청에 실패한다고 지적하며, 의도적으로 말을 줄이는 도전을 제안합니다. 그 결과로 더 주의 깊게 듣게 되고, 궁극적으로 '더 적게 말할수록 더 많이 듣게 된다'는 것을 발견할 것이라고 말합니다. 따라서 '의도적으로 말하는 양을 제한하는 것이 주의 깊게 듣고 더 많이 들을 수 있는 능력을 극적으로 향상시킬 수 있다.'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Imagine following the spirit of a silence vow into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\n( ① ) What if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head?\n( ② ) What if you were limited to, say, fifty spoken words tomorrow?\n( ③ ) I think you'd listen quite differently.\n( ④ ) You'd attend quite carefully to every word you heard.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**We miss what's being said because we're mentally rehearsing our next utterance.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '우리는 다음 발언을 머릿속으로 연습하느라 상대방이 하는 말을 놓친다'는 내용입니다. 이 문장은 바로 앞 문장에서 언급된 문제, 즉 '대화를 말할 차례를 기다리는 게임으로 취급하는 경향'의 직접적인 결과를 설명합니다. 즉, 왜 우리가 '게임을 하듯' 대화하는 것이 문제인지를 구체적으로 밝혀줍니다. 따라서 이 문장은 문제점을 제시하는 문장과 그 문제에 대한 해결책을 상상해보는 'What if' 질문 사이인 ①에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Imagine following the spirit of a silence vow into daily life. Challenge yourself to spend an entire day saying only what you absolutely must say.",
+      "question_blocks": {
+        "A": "What if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head? What if you were limited to, say, fifty spoken words tomorrow?",
+        "B": "It's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak. We miss what's being said because we're mentally rehearsing our next utterance.",
+        "C": "I think you'd listen quite differently. You'd attend quite carefully to every word you heard. You'd be attuned to what you must respond to. You might discover that the less you say, the more you hear."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '말을 꼭 해야 할 때만 하라'는 도전을 제안합니다. (B)는 이 도전이 왜 필요한지에 대한 배경, 즉 사람들이 대화 중에 자신의 말만 준비하느라 경청하지 않는 문제점을 설명합니다. (A)는 (B)에서 설명한 문제점을 해결하기 위한 구체적인 상상(What if)을 통해 주어진 글의 도전을 다시 한번 구체화합니다. (C)는 (A)에서 제시된 도전을 실행했을 때 얻게 될 긍정적인 결과(더 잘 듣게 되는 것)를 묘사합니다. 따라서 '문제점 제시(B) -> 구체적인 도전 제안(A) -> 예상 결과(C)'의 흐름이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Imagine following the spirit of a silence vow into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe miss what's being said because we're mentally rehearsing our next utterance.\nWhat if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head?\nWhat if you were limited to, say, fifty spoken words tomorrow?\nI think you'd listen quite differently.\nYou'd attend quite carefully to every word you heard.\nYou'd be attuned to what you must respond to.\nYou might discover that the less you say, _________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the more you hear" },
+        { "number": "②", "text": "the more you are ignored" },
+        { "number": "③", "text": "the less others understand you" },
+        { "number": "④", "text": "the faster the conversation ends" },
+        { "number": "⑤", "text": "the more powerful your words become" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 말을 줄이는 것이 어떻게 듣기 능력을 향상시키는지를 설명하고 있습니다. 빈칸 바로 앞의 문장들은 말을 적게 할 때의 긍정적인 결과들(다르게 듣고, 주의 깊게 듣고, 반응해야 할 것에 집중하게 되는 것)을 나열합니다. 이 모든 결과를 종합하는 핵심 발견은 바로 '더 적게 말할수록, 더 많이 듣는다'는 것입니다. 이는 글의 주제를 관통하는 결론이므로 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Imagine following the spirit of a silence vow into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely ① `observed` by behavioral psychology experts ─ and anyone who's ever been on a first date ─ that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe miss what's being said because we're mentally ② `rehearsing` our next utterance.\nWhat if you could ③ `eliminate` the idea that the next available mini-silence is your next opening to express whatever is in your head?\nI think you'd listen quite differently. You'd attend quite ④ `carelessly` to every word you heard.\nYou'd be ⑤ `attuned` to what you must respond to.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글쓴이는 말을 줄이면 더 잘 듣게 될 것이라고 주장합니다. ④번이 포함된 문장은 말을 줄였을 때 나타나는 긍정적인 변화를 설명하는 부분이므로, 듣는 모든 단어에 '부주의하게(carelessly)' 집중한다는 것은 문맥에 맞지 않습니다. 오히려 '주의 깊게(carefully)' 집중하게 될 것이라고 해야 글의 흐름과 일치합니다. 나머지 단어들은 문맥상 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Imagine following the spirit of a silence (A) `vow` into daily life.\nChallenge yourself to spend an entire day saying only what you absolutely must say.\nIt's been widely observed by behavioral psychology experts ... that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe miss what's being said because we're mentally (B) `rehearsing` our next (C) `utterance`.\nWhat if you could (D) `eliminate` the idea that the next available mini-silence is your next opening to express whatever is in your head?\n... You'd be (E) `attuned` to what you must respond to.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) vow: a serious promise or decision" },
+        { "number": "②", "text": "(B) rehearsing: practicing something in preparation for a public performance" },
+        { "number": "③", "text": "(C) utterance: something that someone says" },
+        { "number": "④", "text": "(D) eliminate: to remove or take away something completely" },
+        { "number": "⑤", "text": "(E) attuned: to adjust a musical instrument to the right pitch" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) `attuned`는 '...에 맞춰지다, 익숙해지다'라는 의미로, 반응해야 할 것에 민감하게 인식하고 적응하게 된다는 비유적인 뜻으로 쓰였습니다. 하지만 보기 ⑤의 영영 풀이는 '악기를 올바른 음높이로 조율하다'라는 문자적 의미를 설명하고 있어, 문맥상의 의미와 다릅니다. 따라서 이 풀이는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "It's been widely observed by behavioral psychology experts ... that we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak.\nWe (A) [miss / catch] what's being said because we're mentally rehearsing our next utterance.\nWhat if you could (B) [eliminate / encourage] the idea that the next available mini-silence is your next opening to express whatever is in your head?\n... You might discover that the (C) [less / more] you say, the more you hear.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "miss / eliminate / less" },
+        { "number": "②", "text": "miss / encourage / less" },
+        { "number": "③", "text": "miss / eliminate / more" },
+        { "number": "④", "text": "catch / encourage / more" },
+        { "number": "⑤", "text": "catch / eliminate / less" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 다음 말을 준비하느라 바쁘기 때문에 상대방이 하는 말을 '놓친다(miss)'고 해야 문맥이 맞습니다. (B) 글쓴이는 다음 말할 기회만 노리는 생각을 '없애자(eliminate)'고 제안하고 있으므로 'eliminate'가 적절합니다. 'encourage'는 '장려하다'는 반대 의미입니다. (C) 글의 핵심 주제는 '더 적게(less)' 말할수록 더 많이 듣게 된다는 것이므로 'less'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "We miss what's being said because we're mentally rehearsing our next utterance. ① What if you could eliminate the idea that the next available mini-silence is your next opening to express whatever is in your head? ② Small talk is a polite conversation about unimportant things that people make at social events. ③ What if you were limited to, say, fifty spoken words tomorrow? ④ I think you'd listen quite differently. ⑤ You'd attend quite carefully to every word you heard.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 말을 줄이는 가상 실험('What if' 질문들)을 통해 경청의 중요성을 역설하는 흐름을 보입니다. ①, ③, ④, ⑤는 모두 이 가상 실험의 제안과 예상 결과를 유기적으로 연결하고 있습니다. 하지만 ②번 문장 '스몰 토크는 사람들이 사교 행사에서 하는 중요하지 않은 것들에 대한 정중한 대화이다'는 '스몰 토크'라는 특정 대화 유형을 정의하는 문장으로, 말을 줄여 듣기 능력을 향상시키자는 글의 중심 생각과 직접적인 관련이 없어 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "It's been widely observed by behavioral psychology experts ─ and anyone who's ever been on a first date ─ ① [that / what] we too often tend to treat \"conversation\" as a game of waiting for our own turn to speak. We miss what's being said because we're mentally rehearsing our next ② [utterance / to utter]. You'd be attuned to ③ [what / that] you must respond to. You might discover that the less you say, the more you hear.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "동사 'observed'의 목적어 역할을 하는 명사절을 이끌고 있습니다. 뒷부분 'we too often tend to...'는 완전한 문장이므로 접속사 'that'이 적절합니다. 관계대명사 'what'은 뒤에 불완전한 절을 이끕니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "utterance",
+          "explanation": "동명사 'rehearsing'의 목적어가 필요한 자리입니다. 소유격 'our next' 뒤에는 명사가 와야 하므로 '발언'이라는 뜻의 명사 'utterance'가 맞습니다. 'to utter'는 to부정사입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "what",
+          "explanation": "전치사 'to'의 목적어 역할을 하는 명사절이 와야 합니다. 뒷부분 'you must respond to'에서 전치사 to의 목적어가 빠져 있는 불완전한 절이므로, 선행사를 포함하는 관계대명사 'what' (~하는 것)이 적절합니다. 접속사 'that'은 뒤에 완전한 절을 이끕니다."
+        }
+      ]
+    }
+  ]
+}

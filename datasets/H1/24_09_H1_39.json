@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive.\nIt has long been established in physics that cold water holds more dissolved oxygen than warm water does ― this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly populated with living creatures.\nThus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease.\nThis is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem-threatening level.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century.\nThe data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature.\nFalling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide and in recent years this has led to more frequent anoxic events that killed or displaced populations of fish, crabs, and many other organisms.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare marine life in different ocean regions"
+        },
+        {
+          "number": "②",
+          "text": "to explain a fundamental principle of physics"
+        },
+        {
+          "number": "③",
+          "text": "to propose a new method for measuring ocean oxygen"
+        },
+        {
+          "number": "④",
+          "text": "to warn about the threat of ocean deoxygenation"
+        },
+        {
+          "number": "⑤",
+          "text": "to criticize the lack of data on global warming"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 지구 온난화로 인해 해수 온도가 상승하면서 용존 산소량이 감소하는 현상을 설명하고, 이것이 해양 생태계에 '걱정스럽고 잠재적으로 재앙적인 결과'를 초래할 수 있다고 경고하고 있습니다. 과학적 데이터를 근거로 문제의 심각성을 강조하므로, 해양 탈산소화의 위협에 대해 경고하는 것이 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive.\nIt has long been established in physics that cold water holds more dissolved oxygen than warm water does ― this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly populated with living creatures.\nThus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease.\nThis is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem-threatening level.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century.\nThe data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature.\nFalling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide and in recent years this has led to more frequent anoxic events that killed or displaced populations of fish, crabs, and many other organisms.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Suffocating Seas: A Consequence of Warming"
+        },
+        {
+          "number": "②",
+          "text": "Why Polar Oceans Are Rich in Life"
+        },
+        {
+          "number": "③",
+          "text": "Anoxic Events: A Natural Cycle"
+        },
+        {
+          "number": "④",
+          "text": "New Data Challenges Climate Change Theories"
+        },
+        {
+          "number": "⑤",
+          "text": "How Marine Animals Adapt to Low Oxygen"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 지구 온난화(Warming)로 인해 해양의 용존 산소량이 줄어들어(Suffocating Seas) 해양 생물에게 재앙적인 결과를 초래한다는 것입니다. '질식하는 바다: 온난화의 결과'라는 제목은 이러한 원인과 결과를 명확하게 보여주며 글의 위기감을 잘 전달합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive.\nIt has long been established in physics that cold water holds more dissolved oxygen than warm water does ― this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly populated with living creatures.\nThus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease.\nThis is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem-threatening level.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century.\nThe data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature.\nFalling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide and in recent years this has led to more frequent anoxic events that killed or displaced populations of fish, crabs, and many other organisms.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The primary cause of anoxic events in the ocean is the natural difference between polar and tropical waters."
+        },
+        {
+          "number": "②",
+          "text": "Global warming is causing a rapid decline in ocean oxygen levels, seriously threatening marine ecosystems."
+        },
+        {
+          "number": "③",
+          "text": "Scientists have recently discovered that warm water can hold more dissolved oxygen than previously thought."
+        },
+        {
+          "number": "④",
+          "text": "The displacement of fish and crabs is a worrisome issue but is not directly linked to oxygen levels."
+        },
+        {
+          "number": "⑤",
+          "text": "More scientific data is urgently needed to establish the connection between temperature and ocean oxygen."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 지구 온난화가 해수 온도를 높여 용존 산소량을 감소시키고 있으며, 이 감소 속도가 예상보다 빨라 해양 생태계에 심각한 위협이 되고 있다고 주장합니다. 이는 무산소 사건(anoxic events)을 유발하여 해양 생물을 죽거나 서식지를 떠나게 만든다고 설명합니다. 따라서 '지구 온난화가 해양 산소 수치의 급격한 감소를 유발하여 해양 생태계를 심각하게 위협하고 있다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "It has long been established in physics that cold water holds more dissolved oxygen than warm water does. This is one reason that cold polar seas are full of life while tropical oceans are relatively poorly populated. ( ① ) Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease. ( ② ) Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century. ( ③ ) The data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature. ( ④ ) Falling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem-threatening level.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②의 앞 문장은 지구 온난화로 인해 용존 산소량이 감소할 것이라는 자명한 사실을 언급합니다. 주어진 문장은 'This'를 사용하여 바로 이 결과를 가리키며, 그것이 '걱정스럽고 잠재적으로 재앙적인 결과'라고 그 심각성을 평가합니다. 그리고 ②의 뒷 문장에서는 이러한 현상을 뒷받침하는 과학적 데이터에 대한 설명으로 넘어갑니다. 따라서, 문제 제기와 증거 제시 사이인 ②에 들어가 문제의 심각성을 강조하는 것이 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive. It has long been established in physics that cold water holds more dissolved oxygen than warm water does.",
+      "question_blocks": {
+        "A": "Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century. The data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature.",
+        "B": "This is one reason that cold polar seas are full of life while tropical oceans are relatively poorly populated. Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease.",
+        "C": "Falling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide and in recent years this has led to more frequent anoxic events that killed or displaced populations of fish, crabs, and many other organisms."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 용존 산소와 '찬물이 더 많은 산소를 포함한다'는 물리 법칙을 소개합니다. (B)에서 이 법칙의 예시(극지방과 열대 바다)를 들고, 이를 지구 온난화에 적용하여 산소 감소를 예측합니다. (A)에서 'Now'를 통해 최근 과학적 데이터를 제시하며 (B)의 예측이 사실임을 확인하고, 감소 속도가 더 빠르다는 심각한 사실을 추가합니다. (C)에서 이렇게 감소하는 산소 수치가 해양 생물에 미치는 구체적인 영향(서식지 파괴, 무산소 사건)을 설명하며 결론을 맺습니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive.\nIt has long been established in physics that cold water holds more dissolved oxygen than warm water does ― this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively ____________________ with living creatures.\nThus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease.\nThis is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem-threatening level.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "densely crowded"
+        },
+        {
+          "number": "②",
+          "text": "aggressively competitive"
+        },
+        {
+          "number": "③",
+          "text": "poorly populated"
+        },
+        {
+          "number": "④",
+          "text": "visibly contaminated"
+        },
+        {
+          "number": "⑤",
+          "text": "richly supplied"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 산소가 풍부한 차가운 극지방 바다와 산소가 적은 따뜻한 열대 바다를 대조하고 있습니다. 극지방 바다가 '생명체로 가득 차(full of life)' 있다고 했으므로, 대조적으로 열대 바다는 생명체가 적어야 합니다. '생명체가 드물게 분포하는'이라는 의미의 'poorly populated'가 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive.\nIt has long been established that cold water holds ①<u>more</u> dissolved oxygen than warm water does.\nThus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will ②<u>decrease</u>.\nThis is a worrisome and potentially ③<u>beneficial</u> consequence if allowed to continue.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been ④<u>declining</u> for more than a half century.\nThe data show that the ocean oxygen level has been falling more ⑤<u>rapidly</u> than the corresponding rise in water temperature.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 해양 산소 감소가 해양 생태계에 미치는 파괴적인 영향에 대해 경고하고 있습니다. 따라서 이러한 결과는 '걱정스럽고(worrisome)' '잠재적으로 재앙적인(disastrous)' 것이지, '이로운(beneficial)' 것일 수 없습니다. 'beneficial'은 글의 전체적인 논조와 정반대되는 단어입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Seawater contains an (A)<u>abundance</u> of dissolved oxygen that all marine animals breathe to stay alive.\nIt has long been (B)<u>established</u> in physics that cold water holds more dissolved oxygen than warm water does.\nThus, as global warming raises the temperature of marine waters, the amount of dissolved oxygen will decrease.\nThis is a worrisome and potentially disastrous (C)<u>consequence</u> if allowed to continue.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been (D)<u>declining</u> for more than a half century.\nFalling oxygen levels can lead to anoxic events that killed or (E)<u>displaced</u> populations of fish.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) abundance: a very large quantity of something; more than enough"
+        },
+        {
+          "number": "②",
+          "text": "(B) established: proven to be true and accepted by most people"
+        },
+        {
+          "number": "③",
+          "text": "(C) consequence: an opportunity for future success or improvement"
+        },
+        {
+          "number": "④",
+          "text": "(D) declining: becoming smaller, fewer, or less in amount"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) displaced: forced to move away from an area"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'consequence'는 앞선 행동이나 상황의 '결과'를 의미하며, 문맥상 부정적인 결과를 뜻합니다. 제시된 영영 풀이('an opportunity for future success or improvement' - 미래의 성공이나 개선을 위한 기회)는 긍정적인 의미를 가지므로 '결과', 특히 부정적인 뉘앙스를 가진 본문의 단어와는 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "It has long been established in physics that cold water holds (A)[more / less] dissolved oxygen than warm water does — this is one reason that cold polar seas are full of life while tropical oceans are relatively poorly populated.\nThus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will (B)[decrease / increase].\nThis is a worrisome and potentially disastrous consequence.\nNow scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been (C)[declining / recovering] for more than a half century.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "more - decrease - declining"
+        },
+        {
+          "number": "②",
+          "text": "more - increase - recovering"
+        },
+        {
+          "number": "③",
+          "text": "less - decrease - declining"
+        },
+        {
+          "number": "④",
+          "text": "less - increase - recovering"
+        },
+        {
+          "number": "⑤",
+          "text": "more - decrease - recovering"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 찬물은 따뜻한 물보다 용존 산소를 '더 많이(more)' 포함하고 있습니다. (B) 따라서 지구 온난화로 수온이 올라가면 용존 산소량은 '감소할(decrease)' 것입니다. (C) 과학자들의 데이터는 해양의 용존 산소량이 반세기 이상 '회복하는(recovering)' 것이 아니라 '감소해오고(declining)' 있음을 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease. ① This is a worrisome and potentially disastrous consequence if allowed to continue. ② Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century. ③ Polar ice caps are melting at an alarming rate, contributing to sea-level rise. ④ The data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature. ⑤ Falling oxygen levels have the potential to impact the habitat of marine organisms worldwide.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 지구 온난화의 결과 중 '해양의 용존 산소량 감소'라는 특정 현상과 그 영향에 초점을 맞추고 있습니다. ③번 문장은 지구 온난화의 또 다른 결과인 '극지방 만년설의 해빙과 해수면 상승'에 대해 언급하고 있습니다. 이는 같은 원인(지구 온난화)을 공유하지만, 이 글의 핵심 주제인 '산소 감소'와는 직접적인 관련이 없으므로 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Seawater contains an abundance of dissolved oxygen ①[that / what] all marine animals breathe to stay alive. It has long been established in physics that cold water holds more dissolved oxygen than warm water ②[is / does]. This is one reason that cold polar seas are full of life while tropical oceans are relatively poorly populated with living creatures. Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease. This is a worrisome consequence if ③[allowed / allowing] to continue to an ecosystem-threatening level. Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'dissolved oxygen'을 수식하는 목적격 관계대명사가 필요한 자리입니다. 뒤따르는 절에서 동사 'breathe'의 목적어가 없으므로 'that' 또는 'which'가 와야 합니다. 선행사를 포함하는 관계대명사 'what'은 쓸 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "does",
+          "explanation": "앞에 나온 일반동사 'holds'를 대신하는 대동사가 필요한 자리입니다. 따라서 be동사 'is'가 아닌 'do'의 3인칭 단수 현재형인 'does'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "allowed",
+          "explanation": "조건을 나타내는 부사절 'if it is allowed to continue'에서 'it is'가 생략된 형태입니다. 주어인 'This'(결과)가 '허용되는' 것이므로 수동의 의미를 가진 과거분사 'allowed'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "History, people often say, repeats itself. And looking at the historical records of the ancient civilizations, some things do seem to happen again and again. Civilizations expand, get overextended, and then collapse as in the cases of Rome, which went under in 476 AD, and the British Empire, which fell apart more than a thousand years later in the post‐World War II era. But is this always the case? If so, archaeology would be pretty boring; one thing would happen again and again. But that's not what archaeologists see. Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD. Those empires never had the chance to collapse as a result of overexpansion. So in the case of civilizations, \"history repeats itself\" seems to be an oversimplification.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to question a commonly accepted belief about history" },
+        { "number": "②", "text": "to compare the collapses of Rome and the British Empire" },
+        { "number": "③", "text": "to introduce the work of modern archaeologists" },
+        { "number": "④", "text": "to explain the main cause of overexpansion" },
+        { "number": "⑤", "text": "to emphasize the importance of studying history" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 '역사는 반복된다'는 흔한 격언으로 시작하지만, '이것이 항상 사실일까?(But is this always the case?)'라고 질문을 던집니다. 로마와 대영제국의 사례와 아즈텍, 잉카의 사례를 대조하며 문명의 멸망 원인이 다양함을 보여줍니다. 이를 통해 '역사는 반복된다'는 말이 '지나친 단순화(oversimplification)'라고 결론 내리므로, 글의 목적은 '역사에 대한 통념에 의문을 제기하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "History, people often say, repeats itself. And looking at the historical records of the ancient civilizations, some things do seem to happen again and again. Civilizations expand, get overextended, and then collapse as in the cases of Rome, which went under in 476 AD, and the British Empire, which fell apart more than a thousand years later in the post‐World War II era. But is this always the case? If so, archaeology would be pretty boring; one thing would happen again and again. But that's not what archaeologists see. Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD. Those empires never had the chance to collapse as a result of overexpansion. So in the case of civilizations, \"history repeats itself\" seems to be an oversimplification.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Does History Really Repeat Itself?" },
+        { "number": "②", "text": "The Rise and Fall of the Roman Empire" },
+        { "number": "③", "text": "Archaeology: A Window into the Past" },
+        { "number": "④", "text": "Overexpansion: The Downfall of Empires" },
+        { "number": "⑤", "text": "The Sudden End of the Aztec Civilization" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 '역사는 반복된다'는 통념을 제시한 뒤, '이것이 항상 사실일까?'라는 질문을 통해 글을 전개합니다. 문명의 멸망에 다양한 원인이 있음을 보여주며 이 통념에 대한 의문을 제기하고 있으므로, '역사는 정말로 반복되는가?'라는 제목이 글의 핵심 내용을 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "History, people often say, repeats itself. And looking at the historical records of the ancient civilizations, some things do seem to happen again and again. Civilizations expand, get overextended, and then collapse as in the cases of Rome, which went under in 476 AD, and the British Empire, which fell apart more than a thousand years later in the post‐World War II era. But is this always the case? If so, archaeology would be pretty boring; one thing would happen again and again. But that's not what archaeologists see. Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD. Those empires never had the chance to collapse as a result of overexpansion. So in the case of civilizations, \"history repeats itself\" seems to be an oversimplification.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The idea that history always repeats itself is an oversimplification, as civilizations collapse for various reasons." },
+        { "number": "②", "text": "The primary cause for the collapse of all ancient civilizations is inevitably overexpansion beyond their means." },
+        { "number": "③", "text": "The Roman and British Empires are the two most important historical examples of imperial collapse." },
+        { "number": "④", "text": "Archaeology is a fascinating field because it consistently reveals the same patterns in human history." },
+        { "number": "⑤", "text": "Foreign invasion has been a more common cause of civilizational collapse than internal factors like overextension." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "필자는 '역사는 반복된다'는 말이 문명의 멸망 사례에 있어서는 '지나친 단순화(oversimplification)'라고 주장합니다. 로마처럼 과팽창으로 멸망한 경우도 있지만, 아즈텍처럼 침략으로 갑자기 멸망한 경우도 있는 등 다양한 원인이 존재하기 때문입니다. 따라서 '역사가 항상 반복된다는 생각은 문명이 다양한 이유로 붕괴하기 때문에 지나친 단순화이다'가 이 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "But is this always the case? If so, archaeology would be pretty boring; one thing would happen again and again. But that's not what archaeologists see. ( ① ) Those empires never had the chance to collapse as a result of overexpansion. ( ② ) So in the case of civilizations, \"history repeats itself\" seems to be an oversimplification. ( ③ ) This complex view encourages a more nuanced study of the past. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 침략자에 의해 갑자기 멸망한 아즈텍과 잉카 문명의 사례를 제시합니다. 이는 '역사가 반복된다'는 주장에 대한 반박 사례입니다. 바로 앞 문장에서 '고고학자들이 보는 것은 그것이 아니다'라며 다른 사례가 있음을 암시했고, 바로 뒤 문장은 '그 제국들은(Those empires)...'이라며 주어진 문장에서 언급된 아즈텍과 잉카를 지칭하여 부연 설명을 합니다. 따라서 주어진 문장은 고고학자들의 다른 발견을 소개하고 그에 대한 부연 설명을 연결하는 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "History, people often say, repeats itself. And looking at the historical records of the ancient civilizations, some things do seem to happen again and again.",
+      "question_blocks": {
+        "A": "But is this always the case? If so, archaeology would be pretty boring; one thing would happen again and again. But that's not what archaeologists see.",
+        "B": "Civilizations expand, get overextended, and then collapse as in the cases of Rome, which went under in 476 AD, and the British Empire, which fell apart more than a thousand years later in the post‐World War II era.",
+        "C": "Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD. Those empires never had the chance to collapse as a result of overexpansion. So in the case of civilizations, \"history repeats itself\" seems to be an oversimplification."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '역사는 반복된다'는 통념을 소개합니다. (B)는 로마와 대영제국의 예를 들어 이 통념을 뒷받침하는 구체적인 반복 패턴(팽창-과팽창-붕괴)을 제시합니다. (A)는 'But'으로 시작하며 (B)에서 제시된 패턴이 항상 적용되는지에 대해 의문을 제기하고, 고고학자들의 다른 관점을 소개합니다. (C)는 (A)의 다른 관점에 대한 구체적인 반례(아즈텍, 잉카)를 들고, 이를 바탕으로 '역사는 반복된다'는 말이 지나친 단순화라는 최종 결론을 내립니다. 따라서 '통념 뒷받침(B) -> 의문 제기(A) -> 반례와 결론(C)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "History, people often say, repeats itself. And looking at the historical records of the ancient civilizations, some things do seem to happen again and again. Civilizations expand, get overextended, and then collapse as in the cases of Rome... and the British Empire... But is this always the case? If so, archaeology would be pretty boring; one thing would happen again and again. But that's not what archaeologists see. Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD. Those empires never had the chance to collapse as a result of overexpansion. So in the case of civilizations, \"history repeats itself\" seems to be _________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "an undeniable truth" },
+        { "number": "②", "text": "a dangerous myth" },
+        { "number": "③", "text": "an oversimplification" },
+        { "number": "④", "text": "a popular research topic" },
+        { "number": "⑤", "text": "a complete fabrication" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '역사는 반복된다'는 주장에 대해, 한 가지 패턴(과팽창 후 붕괴)만 있는 것이 아니라 다른 패턴(침략으로 인한 갑작스러운 멸망)도 있음을 보여줍니다. 이는 '역사는 반복된다'는 말이 모든 경우에 들어맞는 절대적인 진리가 아니라, 복잡한 현실을 너무 단순하게 표현한 것임을 의미합니다. 따라서 빈칸에는 '지나친 단순화'라는 의미의 'an oversimplification'이 들어가는 것이 글의 결론으로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "History, people often say, ① `repeats` itself. ... Civilizations expand, get overextended, and then ② `collapse` as in the cases of Rome ... and the British Empire... But is this always the case? If so, archaeology would be pretty ③ `boring`; one thing would happen again and again. But that's not what archaeologists see. Some civilizations end ④ `gradually`, like the Aztec and Inca, conquered by invaders in the 1520s AD. Those empires never had the chance to collapse as a result of overexpansion. So in the case of civilizations, \"history repeats itself\" seems to be an ⑤ `oversimplification`.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 로마와 같은 과팽창 후 붕괴 사례와 다른 유형의 멸망 사례를 대조하고 있습니다. 아즈텍과 잉카는 '침략자들에게 정복당했다(conquered by invaders)'고 설명되는데, 이는 '점진적인(gradually)' 쇠퇴가 아니라 '갑작스러운(suddenly)' 멸망에 해당합니다. 따라서 'gradually'는 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "History, people often say, repeats itself. And looking at the historical (A) `records` of the ancient civilizations, some things do seem to happen again and again. Civilizations (B) `expand`, get overextended, and then (C) `collapse` as in the cases of Rome... Some civilizations end suddenly, like the Aztec and Inca, (D) `conquered` by invaders... So in the case of civilizations, \"history repeats itself\" seems to be an (E) `oversimplification`.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) records: accounts of something that are kept in writing or another permanent form" },
+        { "number": "②", "text": "(B) expand: to increase in size, number, or importance, or to make something increase in this way" },
+        { "number": "③", "text": "(C) collapse: to fall down suddenly because of pressure or having no strength or support" },
+        { "number": "④", "text": "(D) conquered: taken control of a country or its people by force" },
+        { "number": "⑤", "text": "(E) oversimplification: a description that is too complex and difficult for most people to understand" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) `oversimplification`은 '지나친 단순화'를 의미합니다. 즉, 복잡한 현실을 너무 간단하게 설명하는 것을 말합니다. 하지만 보기 ⑤의 영영 풀이는 '너무 복잡하고 어려워서 대부분의 사람이 이해하기 힘든 설명'이라고 되어 있어, 'oversimplification'의 의미와 정반대입니다. 따라서 이 풀이는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "History, people often say, (A) [repeats / changes] itself. And looking at the historical records ... some things do seem to happen again and again. ... But is this always the case? If so, archaeology would be pretty (B) [boring / exciting]; one thing would happen again and again. But that's not what archaeologists see. Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders... So in the case of civilizations, \"history repeats itself\" seems to be an (C) [oversimplification / axiom].",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "repeats / boring / oversimplification" },
+        { "number": "②", "text": "repeats / exciting / oversimplification" },
+        { "number": "③", "text": "changes / boring / axiom" },
+        { "number": "④", "text": "changes / exciting / axiom" },
+        { "number": "⑤", "text": "repeats / boring / axiom" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 글은 '역사는 스스로를 반복한다(repeats)'는 흔한 격언을 소개하며 시작합니다. (B) 만약 역사가 정말로 반복된다면, 고고학은 한 가지 일만 계속 보게 되므로 '지루할(boring)' 것이라고 말합니다. (C) 글쓴이는 다양한 멸망 사례를 들며 '역사는 반복된다'는 말이 '지나친 단순화(oversimplification)'라고 결론 내립니다. 'axiom'은 '자명한 이치'라는 뜻으로 반대 의미입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "But that's not what archaeologists see. ① Some civilizations end suddenly, like the Aztec and Inca, conquered by invaders in the 1520s AD. ② The Aztecs were known for their sophisticated system of agriculture, including floating gardens called chinampas. ③ Those empires never had the chance to collapse as a result of overexpansion. ④ So in the case of civilizations, \"history repeats itself\" seems to be an oversimplification. ⑤",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 문명의 붕괴 '원인'을 중심으로 논리를 전개하며, '역사는 반복된다'는 주장을 반박하고 있습니다. ①, ③, ④번 문장은 모두 아즈텍 문명이 과팽창이 아닌 다른 원인(침략)으로 멸망했다는 점을 설명하며 주제와 긴밀하게 연결됩니다. 하지만 ②번 문장 '아즈텍인들은 치남파라고 불리는 수상 정원을 포함한 정교한 농업 시스템으로 유명했다'는 아즈텍의 '문화적 특징'에 대한 설명으로, 붕괴 원인이라는 글의 중심 논점에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Civilizations expand, get overextended, and then collapse as in the cases of Rome, ① [which / that] went under in 476 AD, and the British Empire... But is this always the case? If so, archaeology would be pretty boring. But that's not ② [what / that] archaeologists see. Some civilizations end suddenly. Those empires never had the chance to collapse as a result of ③ [overexpansion / overexpanded].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "which",
+          "explanation": "이 부분은 선행사 'Rome'을 부연 설명하는 계속적 용법의 관계대명사절입니다. 계속적 용법에서는 관계대명사 'that'을 사용할 수 없으므로 'which'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "what",
+          "explanation": "동사 'see'의 목적어가 필요한 불완전한 절이 뒤따르고 있습니다. 선행사가 없으므로, 선행사를 포함하며 명사절을 이끄는 관계대명사 'what' (~하는 것)이 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "overexpansion",
+          "explanation": "전치사구 'as a result of' 뒤에는 목적어 역할을 하는 명사가 와야 합니다. 'overexpansion'은 '과팽창'이라는 의미의 명사이고, 'overexpanded'는 과거분사/형용사입니다. 따라서 명사인 'overexpansion'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

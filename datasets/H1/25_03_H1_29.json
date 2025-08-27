@@ -1,0 +1,288 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare different types of athletic routines"
+        },
+        {
+          "number": "②",
+          "text": "to criticize athletes for relying too much on routines"
+        },
+        {
+          "number": "③",
+          "text": "to explain the practical functions of routines for athletes"
+        },
+        {
+          "number": "④",
+          "text": "to introduce the rules of volleyball"
+        },
+        {
+          "number": "⑤",
+          "text": "to advertise a new type of race-car engine"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 운동선수들의 루틴이 단순히 반복적인 행동이 아니라, 경기 환경을 '평가(evaluate)'하고 그에 맞춰 준비를 '조정(adjust)'하는 실용적인 기능을 수행한다고 설명하고 있습니다. 따라서 글의 주된 목적은 운동선수에게 루틴이 갖는 실용적 기능을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Routines: A Tool for Evaluation and Adjustment"
+        },
+        {
+          "number": "②",
+          "text": "The Dangers of Repetitive Behavior"
+        },
+        {
+          "number": "③",
+          "text": "How to Serve a Volleyball Perfectly"
+        },
+        {
+          "number": "④",
+          "text": "Athletes vs. Race-Car Drivers"
+        },
+        {
+          "number": "⑤",
+          "text": "The Importance of Ignoring Your Rivals"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 루틴이 선수들로 하여금 경기 환경을 '평가(evaluation)'하고 그에 따라 준비를 '조정(adjustment)'할 수 있게 해준다는 것입니다. 따라서 '루틴: 평가와 조정을 위한 도구'라는 제목이 글 전체의 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Athletic routines are purposeful tools that allow for evaluation of and adjustment to various competitive conditions."
+        },
+        {
+          "number": "②",
+          "text": "The most important part of any athletic routine is bouncing a ball to check the floor's overall condition."
+        },
+        {
+          "number": "③",
+          "text": "Athletes should stick to their routines rigidly without making any adjustments regardless of the competitive situation."
+        },
+        {
+          "number": "④",
+          "text": "Routines are mainly useful for calming an athlete's nerves rather than for gathering any practical, useful information."
+        },
+        {
+          "number": "⑤",
+          "text": "Developing a routine is similar to adjusting a race-car engine, but it is much less complicated for athletes."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 운동선수의 루틴이 경기 환경을 평가하고 그에 맞춰 준비를 조정하는 목적을 가진 도구라는 것입니다. 따라서 '운동 루틴은 다양한 경기 조건에 대한 평가와 조정을 가능하게 하는 목적 있는 도구이다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. ( ① ) ( ② ) Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. ( ③ ) This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. ( ④ ) Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This information can then be used to properly prepare for her serve.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③",
+          "text": "③"
+        },
+        { "number": "④",
+          "text": "④"
+        },
+        { "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장의 'This information'은 바로 앞 문장에서 언급된 'the ball, the floor, and the state of her muscles'에 대한 정보를 가리킵니다. 루틴을 통해 정보를 얻고(앞 문장), 그 정보를 서브 준비에 사용한 후(주어진 문장), 루틴의 또 다른 기능인 '조정'에 대한 설명으로 넘어가는 것이 자연스러운 흐름입니다. 따라서 주어진 문장은 정보 수집의 예시 바로 뒤인 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Routines enable athletes to evaluate competition conditions.",
+      "question_blocks": {
+        "A": "For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve.",
+        "B": "Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+        "C": "Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 글은 루틴의 첫 번째 기능으로 '평가'를 제시합니다. (A)는 'For example'을 통해 이 '평가' 기능의 구체적인 예시(배구 서브)를 보여줍니다. (C)는 'also'를 사용하여 루틴의 두 번째 기능인 '조정'을 추가적으로 설명합니다. 마지막으로 (B)는 'Just like'이라는 비유를 사용하여 (C)에서 설명한 '조정' 기능의 본질을 요약하며 글을 마무리합니다. 따라서 가장 자연스러운 순서는 (A)-(C)-(B)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve [____________________].",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a competitive advantage"
+        },
+        {
+          "number": "②",
+          "text": "a state of relaxation"
+        },
+        {
+          "number": "③",
+          "text": "proper performance"
+        },
+        {
+          "number": "④",
+          "text": "audience satisfaction"
+        },
+        {
+          "number": "⑤",
+          "text": "muscular development"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 루틴의 궁극적인 목표를 설명하는 결론부입니다. 글 전체에서 루틴은 선수가 환경을 평가하고 준비를 조정하는 데 도움을 준다고 설명했습니다. 이러한 모든 활동의 최종 목표는 경기에서 '적절한 경기력'을 달성하는 것입니다. 따라서 'proper performance'가 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Routines enable athletes to ① [evaluate] competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to ② [properly] prepare for her serve. Routines also enable athletes to ③ [adjust] and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can ④ [affect] performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve ⑤ [inconsistent] performance.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 문장은 루틴이 모든 경쟁 요소를 조정하는 최종 목표를 설명합니다. 그 목표는 좋은 경기력을 발휘하는 것이어야 합니다. '일관되지 않은' 또는 '모순되는'의 의미를 가진 'inconsistent'는 이 문맥과 어울리지 않습니다. '적절한 경기력'을 의미하는 'proper performance'가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Routines (A) [enable] athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine (B) [supplies] the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to adjust and (C) [fine-tune] their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive (D) [components] to achieve proper (E) [performance].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) enable: to make it possible for someone to do something"
+        },
+        {
+          "number": "②",
+          "text": "(B) supplies: provides someone with something that they need"
+        },
+        {
+          "number": "③",
+          "text": "(C) fine-tune: to make small and precise adjustments to something"
+        },
+        {
+          "number": "④",
+          "text": "(D) components: the various feelings or emotions that influence a person"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) performance: how well a person or machine does a piece of work or an activity"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) components는 '구성 요소' 또는 '부품'을 의미합니다. 영영 풀이 'the various feelings or emotions that influence a person(사람에게 영향을 미치는 다양한 감정이나 정서)'는 'components'의 의미와 다릅니다. 이 문맥에서 'competitive components'는 경기력에 영향을 미치는 모든 요소(선수의 상태, 장비, 환경 등)를 의미합니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Routines enable athletes to (A) [evaluate / disregard] competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to (B) [adjust / fix] their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can (C) [affect / improve] performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "evaluate - adjust - affect" },
+        { "number": "②", "text": "evaluate - fix - improve" },
+        { "number": "③", "text": "disregard - adjust - affect" },
+        { "number": "④", "text": "disregard - fix - improve" },
+        { "number": "⑤", "text": "evaluate - adjust - improve" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 루틴은 경기 조건을 '평가하게' 해주는 것이므로 'evaluate'가 맞습니다. 'disregard'는 '무시하다'입니다. (B) 평가에 기초하여 준비를 '조정한다'는 의미이므로 'adjust'가 적절합니다. 'fix'는 '고정하다'라는 의미로 반대 개념입니다. (C) 경기력에 '영향을 미칠 수 있는' 내적 요인들을 의미하므로 'affect'가 맞습니다. 'improve'는 '향상시키다'라는 긍정적인 의미만 담고 있어, 부정적 영향을 포함하는 'influences'와 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, bouncing a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used to properly prepare for her serve. Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like adjusting a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Routines help athletes assess the conditions of a competition."
+        },
+        {
+          "number": "②",
+          "text": "A volleyball player's routine can provide information about her muscle state."
+        },
+        {
+          "number": "③",
+          "text": "Athletes can fine-tune their preparations based on evaluations from their routines."
+        },
+        {
+          "number": "④",
+          "text": "Routines are rigid and must be performed identically regardless of the situation."
+        },
+        {
+          "number": "⑤",
+          "text": "The passage compares adjusting routines to tuning a race-car engine."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 루틴이 선수들로 하여금 'to adjust and fine-tune their preparations' (준비를 조정하고 미세 조정하게) 해준다고 명시적으로 언급하고 있습니다. 이는 루틴이 상황에 따라 유연하게 적용될 수 있음을 의미합니다. 따라서 루틴이 '상황에 관계없이 동일하게 수행되어야 하는 엄격한 것'이라는 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Routines enable athletes to evaluate competition conditions. For example, ① [bouncing / to bounce] a ball in a volleyball service routine supplies the server with information about the ball, the floor, and the state of her muscles. This information can then be used ② [to properly prepare / to be properly prepared] for her serve. Routines also enable athletes to adjust and fine-tune their preparations based on those evaluations or in pursuit of a particular competitive goal. This adaptation can involve adjustment to the conditions, rivals, competitive situation, or internal influences that can affect performance. Just like ③ [adjusting / adjusted] a race-car engine to the conditions of the track, air temperature, and weather, routines adjust all competitive components to achieve proper performance.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "bouncing",
+          "explanation": "이 문장의 동사는 'supplies'입니다. 동사 앞에 주어 역할을 할 수 있는 명사 상당어구가 와야 하므로, 동명사 'bouncing'이 주어로 쓰이는 것이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to properly prepare",
+          "explanation": "'be used to + 동사원형'은 '~하는 데 사용되다'라는 의미입니다. 이 정보는 선수가 서브를 '준비하는 데' 사용되는 것이므로, 능동 형태의 'to prepare'가 적절합니다. 'to be prepared'는 수동태로, 이 문맥에서는 어색합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "adjusting",
+          "explanation": "'Just like' 뒤에는 비교 대상이 되는 명사나 동명사구가 올 수 있습니다. '레이스카 엔진을 조정하는 것'처럼 이라는 의미를 전달하기 위해 동명사 'adjusting'을 사용하는 것이 자연스럽습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found his heart wasn't beating.\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nHe thought, \"Please, start breathing again, please.\"\nArthur's eyes were closed.\nMoments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe announced with a calm voice.\nJeevan wiped the sweat off his forehead.\nWith combined efforts, Jeevan and Dr. Jacobi successfully revived Arthur.\nArthur's eyes slowly opened.\nFinally, Jeevan was able to hear Arthur's breath again, thinking to himself, \"Thank goodness. You're back.\"",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain the correct procedure for CPR"
+        },
+        {
+          "number": "②",
+          "text": "to criticize the lack of on-site medical staff"
+        },
+        {
+          "number": "③",
+          "text": "to describe a dramatic and urgent rescue"
+        },
+        {
+          "number": "④",
+          "text": "to advertise a play about a medical emergency"
+        },
+        {
+          "number": "⑤",
+          "text": "to highlight the importance of staying calm"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 연극 무대 위에서 한 배우가 갑자기 쓰러지고, 다른 배우와 관객 중 의사가 협력하여 그를 살려내는 긴박한 상황을 시간 순서에 따라 생생하게 묘사하고 있습니다. 따라서 글의 주된 목적은 극적이고 긴급했던 구조 상황을 서술하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found his heart wasn't beating.\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nHe thought, \"Please, start breathing again, please.\"\nArthur's eyes were closed.\nMoments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe announced with a calm voice.\nJeevan wiped the sweat off his forehead.\nWith combined efforts, Jeevan and Dr. Jacobi successfully revived Arthur.\nArthur's eyes slowly opened.\nFinally, Jeevan was able to hear Arthur's breath again, thinking to himself, \"Thank goodness. You're back.\"",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "A Doctor's Difficult Choice"
+        },
+        {
+          "number": "②",
+          "text": "An Unexpected Scene on Stage"
+        },
+        {
+          "number": "③",
+          "text": "The Art of Method Acting"
+        },
+        {
+          "number": "④",
+          "text": "How to Perform CPR Effectively"
+        },
+        {
+          "number": "⑤",
+          "text": "A Performance to Remember"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 연극 공연 중 배우가 쓰러지는 '예상치 못한 장면(Unexpected Scene)'과 그를 살리기 위한 긴급한 구조 활동을 다루고 있습니다. 이 제목은 글의 핵심 사건인 무대 위에서의 돌발 상황을 가장 포괄적으로 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found his heart wasn't beating.\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nHe thought, \"Please, start breathing again, please.\"\nArthur's eyes were closed.\nMoments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe announced with a calm voice.\nJeevan wiped the sweat off his forehead.\nWith combined efforts, Jeevan and Dr. Jacobi successfully revived Arthur.\nArthur's eyes slowly opened.\nFinally, Jeevan was able to hear Arthur's breath again, thinking to himself, \"Thank goodness. You're back.\"",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The immediate and collaborative response of two individuals was crucial in saving a man's life."
+        },
+        {
+          "number": "②",
+          "text": "All public venues should be legally required to have a medical professional present at all times."
+        },
+        {
+          "number": "③",
+          "text": "Actors must be prepared to handle any kind of unexpected emergency during a live performance."
+        },
+        {
+          "number": "④",
+          "text": "Performing CPR is a fundamental skill that everyone should learn for emergency situations they might face."
+        },
+        {
+          "number": "⑤",
+          "text": "A sudden medical crisis can happen to anyone at any time without any previous warning."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Arthur가 쓰러졌을 때 Jeevan이 즉시 심폐소생술을 시작하고, 곧이어 의사인 Dr. Jacobi가 합류하여 'combined efforts'(공동의 노력)로 Arthur를 성공적으로 살려내는 과정을 보여줍니다. 이를 통해 두 사람의 신속하고 협력적인 대응이 생명을 구하는 데 결정적이었음을 알 수 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found his heart wasn't beating. Jeevan began CPR. ( ① ) Jeevan worked silently, glancing sometimes at Arthur's face. ( ② ) He thought, \"Please, start breathing again, please.\" Arthur's eyes were closed. ( ③ ) \"I'm Walter Jacobi. I'm a doctor.\" He announced with a calm voice. ( ④ ) Jeevan wiped the sweat off his forehead. With combined efforts, Jeevan and Dr. Jacobi successfully revived Arthur. ( ⑤ ) Arthur's eyes slowly opened.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Moments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.**",
+      "question_blocks": null,
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 회색 정장을 입은 남자가 나타나 Arthur 옆에 무릎을 꿇는 장면을 묘사합니다. 이 문장은 Jeevan이 혼자서 CPR을 하며 간절히 기도하는 장면 다음, 그리고 그 남자가 자신을 의사라고 밝히는 장면 앞에 위치해야 자연스럽습니다. ③의 앞부분은 Jeevan의 고군분투를 보여주고, ③의 뒷부분은 나타난 남자가 자신을 소개하는 부분이므로, 그 사이에 남자의 등장을 묘사하는 주어진 문장이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.",
+      "question_blocks": {
+        "A": "He thought, \"Please, start breathing again, please.\" Arthur's eyes were closed. Moments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.",
+        "B": "Jeevan immediately approached Arthur and found his heart wasn't beating. Jeevan began CPR. Jeevan worked silently, glancing sometimes at Arthur's face.",
+        "C": "\"I'm Walter Jacobi. I'm a doctor.\" He announced with a calm voice. Jeevan wiped the sweat off his forehead. With combined efforts, Jeevan and Dr. Jacobi successfully revived Arthur."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글에서 Arthur가 쓰러집니다. (B)에서 Jeevan이 즉시 다가가 상태를 확인하고 CPR을 시작하며 초기 대응을 합니다. (A)에서 CPR을 하는 동안의 Jeevan의 생각과 의사인 다른 남자의 등장을 묘사합니다. (C)에서 등장한 남자가 자신을 밝히고, 두 사람이 협력하여 Arthur를 살려내는 결과로 이어집니다. 이 순서는 사건 발생, 초기 대응, 도움의 도착, 협력을 통한 해결이라는 논리적인 시간 순서를 따릅니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found ____________________.\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nHe thought, \"Please, start breathing again, please.\"\nArthur's eyes were closed.\nMoments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe announced with a calm voice.\nJeevan wiped the sweat off his forehead.\nWith combined efforts, Jeevan and Dr. Jacobi successfully revived Arthur.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "he had forgotten his lines"
+        },
+        {
+          "number": "②",
+          "text": "the audience was shocked"
+        },
+        {
+          "number": "③",
+          "text": "his heart wasn't beating"
+        },
+        {
+          "number": "④",
+          "text": "he was just part of the act"
+        },
+        {
+          "number": "⑤",
+          "text": "a doctor was calling his name"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸 바로 다음 문장에서 Jeevan이 심폐소생술(CPR)을 시작했다고 나옵니다. 심폐소생술은 심장이 멈췄을 때 시행하는 응급 처치이므로, 빈칸에는 Jeevan이 Arthur의 심장이 뛰지 않는 것을 발견했다는 내용이 들어가는 것이 논리적으로 가장 타당합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "All the actors on the stage were ①<u>focused</u> on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found his heart wasn't beating.\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nHe thought, \"Please, start breathing again, please.\"\nArthur's eyes were closed.\nMoments later, an older man in a grey suit appeared, ②<u>swiftly</u> kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe announced with a ③<u>calm</u> voice.\nJeevan wiped the sweat off his forehead.\nWith ④<u>separate</u> efforts, Jeevan and Dr. Jacobi successfully revived Arthur.\nArthur's eyes slowly opened.\nFinally, Jeevan was able to hear Arthur's breath again, thinking to himself, \"Thank ⑤<u>goodness</u>. You're back.\"",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "Jeevan과 의사인 Dr. Jacobi가 함께 Arthur를 살려냈다는 내용이므로, 그들의 노력은 '개별적인(separate)' 노력이 아니라 '합쳐진(combined)' 또는 '공동의(joint)' 노력이었습니다. 따라서 'separate'는 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "All the actors on the stage were (A)<u>focused</u> on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan (B)<u>immediately</u> approached Arthur and found his heart wasn't beating.\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nHe thought, \"Please, start breathing again, please.\"\nMoments later, an older man in a grey suit appeared, (C)<u>swiftly</u> kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe (D)<u>announced</u> with a calm voice.\nJeevan wiped the sweat off his forehead.\nWith combined efforts, Jeevan and Dr. Jacobi successfully (E)<u>revived</u> Arthur.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) focused: giving a lot of attention to one particular subject or thing"
+        },
+        {
+          "number": "②",
+          "text": "(B) immediately: after a long period of time or delay"
+        },
+        {
+          "number": "③",
+          "text": "(C) swiftly: at high speed; quickly"
+        },
+        {
+          "number": "④",
+          "text": "(D) announced: made a public and typically formal statement"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) revived: restored to life or consciousness"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "'Immediately'는 '즉시, 지체 없이'라는 의미입니다. 제시된 영영 풀이 'after a long period of time or delay'(오랜 시간이나 지연 후에)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "All the actors on the stage were focused on their acting.\nThen, suddenly, Arthur fell into the corner of the stage.\nJeevan immediately approached Arthur and found his heart wasn't (A)[beating / bleeding].\nJeevan began CPR.\nJeevan worked silently, glancing sometimes at Arthur's face.\nMoments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.\n\"I'm Walter Jacobi. I'm a doctor.\"\nHe announced with a (B)[calm / nervous] voice.\nJeevan wiped the sweat off his forehead.\nWith combined efforts, Jeevan and Dr. Jacobi (C)[successfully / tragically] revived Arthur.\nArthur's eyes slowly opened.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "beating - calm - successfully"
+        },
+        {
+          "number": "②",
+          "text": "beating - nervous - tragically"
+        },
+        {
+          "number": "③",
+          "text": "bleeding - calm - successfully"
+        },
+        {
+          "number": "④",
+          "text": "bleeding - nervous - tragically"
+        },
+        {
+          "number": "⑤",
+          "text": "beating - calm - tragically"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) CPR은 심장이 멈췄을 때 하므로 '뛰지 않는(beating)'이 맞습니다. '피를 흘리는(bleeding)'은 다른 상황입니다. (B) 의사는 자신을 소개하며 '차분한(calm)' 목소리를 냈다고 묘사되어, 긴급 상황 속 전문가의 침착함을 보여줍니다. (C) 두 사람의 노력으로 Arthur가 살아났으므로 '성공적으로(successfully)'가 맞습니다. '비극적으로(tragically)'는 반대의 결과입니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "Jeevan immediately approached Arthur and found his heart wasn't beating. ① Jeevan began CPR. ② Jeevan worked silently, glancing sometimes at Arthur's face. ③ Many people in the audience thought it was part of the show at first. ④ He thought, \"Please, start breathing again, please.\" ⑤ Moments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 Jeevan의 시점에서 Arthur를 구하기 위한 긴급한 행동과 내면의 생각에 초점을 맞추고 있습니다. ③번 문장은 관객들의 반응을 서술하고 있어, 구조 활동에 집중하는 글의 중심 시점과 흐름에서 벗어납니다. Jeevan의 행동과 생각의 연속성을 방해하므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "All the actors on the stage were focused on their acting. Then, suddenly, Arthur fell into the corner of the stage. Jeevan immediately approached Arthur and ①[found / finding] his heart wasn't beating. Jeevan began CPR. Jeevan worked silently, ②[glancing / glanced] sometimes at Arthur's face. He thought, \"Please, start breathing again, please.\" Arthur's eyes were closed. Moments later, an older man in a grey suit appeared, swiftly kneeling beside Arthur's chest. \"I'm Walter Jacobi. I'm a doctor.\" He announced with a calm voice. Finally, Jeevan was able to hear Arthur's breath again, ③[thinking / thought] to himself, \"Thank goodness. You're back.\"",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "found",
+          "explanation": "이 문장에서 'approached'와 'found'는 주어 'Jeevan'에 연결되는 병렬 구조의 동사입니다. 따라서 과거형 동사 'found'가 적절합니다. 'finding'은 동사 자리에 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "glancing",
+          "explanation": "'Jeevan worked silently'라는 주절에 이어지는 부수적인 동작을 나타내는 분사구문입니다. Jeevan이 능동적으로 힐끗 쳐다보는 것이므로 현재분사 'glancing'이 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "thinking",
+          "explanation": "이 또한 주절의 주어 'Jeevan'의 행동을 부연 설명하는 분사구문입니다. 'Jeevan was able to hear..., and he thought...'의 의미를 가지므로, 능동의 의미를 지닌 현재분사 'thinking'이 적절합니다."
+        }
+      ]
+    }
+  ]
+}

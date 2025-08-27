@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt.\nThis would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants.\nMilling of cereals is one of the most harsh processes which dramatically affect nutrient content.\nWhile grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour.\nSuch a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.\nIn contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "새로운 제분 기술의 장점을 홍보하기 위해" },
+        { "number": "②", "text": "다양한 곡물의 영양학적 가치를 비교하기 위해" },
+        { "number": "③", "text": "최소 가공 식품의 영양학적 이점을 주장하기 위해" },
+        { "number": "④", "text": "지속 가능한 식단의 구체적인 식단을 제안하기 위해" },
+        { "number": "⑤", "text": "식품 발효 과정의 과학적 원리를 설명하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 최소한의 가공이 맛과 영양소를 보존하는 가장 좋은 방법 중 하나라고 주장하며 시작합니다. 그리고 곡물 제분과 같은 과도한 가공이 영양소를 파괴하는 문제를 지적한 후, 발효나 발아와 같은 영양가 높은 전통 방식을 대안으로 제시합니다. 따라서 글의 주된 목적은 최소 가공의 이점을 역설하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt.\nThis would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants.\nMilling of cereals is one of the most harsh processes which dramatically affect nutrient content.\nWhile grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour.\nSuch a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.\nIn contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Art of Milling: From Grain to White Flour" },
+        { "number": "②", "text": "Fermentation: An Ancient Secret to Good Health" },
+        { "number": "③", "text": "Less Processing, More Nutrients: The Case for Minimalist Food" },
+        { "number": "④", "text": "The Dangers of Artificial Flavoring and Additives" },
+        { "number": "⑤", "text": "Sustainable Diets for a Healthier Planet" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 메시지는 식품 가공을 적게 할수록(Less Processing) 더 많은 영양소를(More Nutrients) 보존할 수 있다는 것입니다. 글은 제분과 같은 과도한 가공을 비판하고 발효와 같은 최소 가공을 옹호하며, 미니멀리스트 식품에 대한 주장을 펼치고 있습니다. 이 제목이 글의 중심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt.\nThis would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants.\nMilling of cereals is one of the most harsh processes which dramatically affect nutrient content.\nWhile grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour.\nSuch a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.\nIn contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Modern food processing techniques have made our diets healthier and more sustainable than ever before." },
+        { "number": "②", "text": "White flour is no longer an acceptable food product due to its complete lack of nutrients." },
+        { "number": "③", "text": "Harsh processing like milling depletes vital nutrients, making minimal, traditional methods a better dietary choice." },
+        { "number": "④", "text": "Fermentation is the single most effective way to enhance the nutritional value of all types of food." },
+        { "number": "⑤", "text": "A sustainable diet must prioritize locally accessible and low-energy food sources above all other factors." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 제분과 같은 과도한 가공이 필수 영양소를 고갈시키는 반면, 발효나 발아와 같은 최소한의 전통적인 방법은 영양학적으로 우수하다는 점을 대조하여 보여줍니다. 따라서 지속 가능하고 건강한 식단을 위해 최소 가공 방식을 선택해야 한다는 것이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste... Milling of cereals is one of the most harsh processes which dramatically affect nutrient content. While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour. ( ① ) In contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest. ( ② ) These methods often enhance the bioavailability of nutrients, making them easier for the body to absorb. ( ③ ) Therefore, they represent a key strategy for improving public health through diet. ( ④ ) Governments should promote these traditional techniques over industrial processing. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '이러한 핵심 영양소와 섬유질의 손상'이 더 이상 용납될 수 없다는 내용입니다. '이러한 손상(Such a spoilage)'은 바로 앞 문장에서 묘사된 '제분(milling)이 대부분의 미네랄, 비타민, 섬유질을 제거하는' 과정을 가리킵니다. 따라서 주어진 문장은 제분의 문제점을 지적하는 단락의 결론으로서 ①에 위치하고, 그 뒤에 '대조적으로(In contrast)'라며 긍정적인 대안을 제시하는 흐름으로 이어지는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt. This would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants.",
+      "question_blocks": {
+        "A": "In contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.",
+        "B": "Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.",
+        "C": "Milling of cereals is one of the most harsh processes which dramatically affect nutrient content. While grains are naturally very rich in micronutrients... milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(C)-(B)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(B)-(C)-(A)" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 최소 가공의 이점을 설명합니다. (C)는 이와 대조적으로 '가혹한(harsh)' 가공 방식인 제분과 그로 인한 영양소 파괴를 설명합니다. (B)는 '그러한 손상(Such a spoilage)'이라는 표현으로 (C)의 내용을 이어받아, 이것이 더 이상 용납될 수 없다고 결론 내립니다. (A)는 '대조적으로(In contrast)'라는 표현을 사용해 다시 긍정적인 가공 방식인 발효와 발아를 제시하며 글을 마무리합니다. 따라서 (C)-(B)-(A) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually __________________________________ to raise white flour.\nSuch a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet...",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "enhances the natural flavor of the grain" },
+        { "number": "②", "text": "adds artificial vitamins and antioxidants" },
+        { "number": "③", "text": "makes the nutrients easier to digest" },
+        { "number": "④", "text": "removes the vast majority of minerals, vitamins and fibers" },
+        { "number": "⑤", "text": "increases the shelf life of the final product" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 제분(milling)이 곡물에 미치는 영향을 설명하는 자리입니다. 빈칸 앞에서는 통곡물이 영양소가 '매우 풍부하다(very rich)'고 말하고, 빈칸 뒤에서는 제분 결과를 '핵심 영양소와 섬유질의 손상(spoilage)'이라고 규정합니다. 따라서 제분은 '미네랄, 비타민, 섬유질의 대부분을 제거한다'는 내용이 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste... This would also be the ① `efficient` way to keep most nutrients... Milling of cereals is one of the most ② `harsh` processes which dramatically affect nutrient content. While grains are naturally very ③ `poor` in micronutrients, anti-oxidants and fiber... milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour. Such a ④ `spoilage` of key nutrients and fiber is no longer acceptable... In contrast, fermentation... and germination... are traditional... and highly ⑤ `nutritious` processes...",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "efficient" },
+        { "number": "②", "text": "harsh" },
+        { "number": "③", "text": "poor" },
+        { "number": "④", "text": "spoilage" },
+        { "number": "⑤", "text": "nutritious" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글의 논리는 제분 과정이 곡물에 원래 풍부했던 영양소를 제거하기 때문에 나쁘다는 것입니다. 따라서 곡물이 원래부터 미량영양소, 항산화물질, 섬유질이 '부족하다(poor)'고 말하면, 제분으로 인한 손실이 크지 않다는 의미가 되어 글 전체의 주장과 모순됩니다. 문맥상 '풍부한(rich)'이 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "...to keep most nutrients, especially the most (A) `sensitive` ones such as many vitamins... (B) `Milling` of cereals is one of the most harsh processes... milling usually (C) `removes` the vast majority of minerals, vitamins and fibers... Such a (D) `spoilage` of key nutrients and fiber is no longer acceptable... (E) `germination` of grains are traditional... processes...",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) sensitive: easily damaged or negatively affected" },
+        { "number": "②", "text": "(B) Milling: a process in which grain is crushed to make flour" },
+        { "number": "③", "text": "(C) removes: takes something away from somewhere" },
+        { "number": "④", "text": "(D) spoilage: the process of food decaying and becoming unfit to eat" },
+        { "number": "⑤", "text": "(E) germination: the process by which a seed starts to grow" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 (D) spoilage는 '핵심 영양소와 섬유질의 손상'이라는 의미로, 영양학적 가치의 파괴 또는 손실을 뜻합니다. 제시된 영영 풀이인 '음식이 부패하여 먹을 수 없게 되는 과정'은 음식이 상하는 것을 의미하므로, 영양소의 손실이라는 이 문맥의 의미와는 다릅니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "This would also be the efficient way to (A) [keep / lose] most nutrients... While grains are naturally very rich in micronutrients... milling usually (B) [removes / adds] the vast majority of minerals, vitamins and fibers to raise white flour. Such a spoilage of key nutrients and fiber is no longer (C) [unacceptable / desirable] in the context of a sustainable diet...",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "keep - removes - unacceptable" },
+        { "number": "②", "text": "keep - adds - desirable" },
+        { "number": "③", "text": "keep - removes - desirable" },
+        { "number": "④", "text": "lose - adds - unacceptable" },
+        { "number": "⑤", "text": "lose - removes - unacceptable" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 최소 가공은 대부분의 영양소를 '유지하는(keep)' 효율적인 방법입니다. (B) 반면, 제분은 대부분의 미네랄, 비타민, 섬유질을 '제거합니다(removes)'. (C) 이러한 영양소 손상은 지속 가능한 식단의 관점에서 더 이상 '용납될 수 없습니다(unacceptable)'."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt.\nThis would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants.\nMilling of cereals is one of the most harsh processes which dramatically affect nutrient content.\nWhile grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour.\nSuch a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.\nIn contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.",
+      "question": "다음 글의 내용과 일치하는 것은?",
+      "options": [
+        { "number": "①", "text": "최소 가공을 하면 맛을 위해 인공 첨가물을 넣어야 한다." },
+        { "number": "②", "text": "곡물 제분은 비타민과 같은 민감한 영양소를 보존하는 데 효과적이다." },
+        { "number": "③", "text": "통밀가루는 본래 미량영양소, 항산화물질, 섬유질이 매우 풍부하다." },
+        { "number": "④", "text": "지속 가능한 식단에서는 영양소 손실이 어느 정도 허용된다." },
+        { "number": "⑤", "text": "발효와 발아는 에너지를 많이 소모하는 가공 방식이다." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes)'라고 명시하여, 통밀가루와 같은 통곡물에 이러한 영양소들이 매우 풍부하게 들어있음을 알 수 있습니다. 이는 선택지 ③의 내용과 정확히 일치합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Milling of cereals is one of the most harsh processes ① [which / what] dramatically affect nutrient content. ... Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet ② [aiming / aimed] at an optimal nutrient density and health protection. In contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of ③ [sounded / sound] interest.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "which",
+          "explanation": "선행사 'the most harsh processes'를 수식하는 주격 관계대명사가 필요합니다. 선행사가 존재하므로 선행사를 포함하는 관계대명사인 'what'은 올 수 없고, 'which'나 'that'이 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "aiming",
+          "explanation": "앞의 명사 'a sustainable diet'를 수식하는 분사 자리입니다. '식단'이 최적의 영양 밀도를 '목표로 하는' 주체이므로, 능동의 의미를 나타내는 현재분사 'aiming'이 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "sound",
+          "explanation": "명사 'interest'를 수식하는 형용사가 필요한 자리입니다. 'sound'는 '건전한, 타당한'이라는 의미의 형용사로 사용될 수 있어 'sound interest(타당한 관심사)'라는 의미를 형성합니다. 'sounded'는 동사의 과거/과거분사형이므로 명사를 수식할 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

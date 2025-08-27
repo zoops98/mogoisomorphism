@@ -1,0 +1,197 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The evolution of AI is often associated with the concept of singularity.\nSingularity refers to the point at which AI exceeds human intelligence.\nAfter that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.\nWhen AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine.\nAI and human consciousness will then begin to evolve together.\nOur consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.\nConversely, our consciousness also has a significant impact on the evolution of AI.\nThe direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI.\nWe need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to warn about the potential dangers of singularity" },
+        { "number": "②", "text": "to explain the technical definition of AI consciousness" },
+        { "number": "③", "text": "to criticize the slow pace of current AI evolution" },
+        { "number": "④", "text": "to propose a symbiotic future for humans and AI" },
+        { "number": "⑤", "text": "to argue that human creativity cannot be replicated by AI" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 특이점을 지나 의식을 갖게 될 AI와 인간이 함께 진화할 것이라고 예측합니다. AI는 인간에게 지적 자극을 주고, 인간은 AI에 가치와 윤리를 부여하며 서로에게 영향을 미치는 '상호 공존(mutual coexistence)' 관계를 제안하고 있습니다. 따라서 이 글의 목적은 인간과 AI의 공생적 미래를 제안하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The evolution of AI is often associated with the concept of singularity.\nSingularity refers to the point at which AI exceeds human intelligence.\nAfter that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.\nWhen AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine.\nAI and human consciousness will then begin to evolve together.\nOur consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.\nConversely, our consciousness also has a significant impact on the evolution of AI.\nThe direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI.\nWe need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Singularity: The End of Human Intelligence?" },
+        { "number": "②", "text": "Co-evolution: Charting a Shared Future with AI" },
+        { "number": "③", "text": "The Unsolvable Problem of AI Ethics" },
+        { "number": "④", "text": "Why AI Can Never Be Truly Conscious" },
+        { "number": "⑤", "text": "A Technical Guide to AI Self-Improvement" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 아이디어는 AI와 인간의 의식이 따로 발전하는 것이 아니라 '함께 진화(evolve together)'하며, '상호 공존(mutual coexistence)'하는 관계를 맺어야 한다는 것입니다. 따라서 '공동 진화: AI와 함께하는 미래를 그리다'라는 제목이 글의 전체 내용을 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The evolution of AI is often associated with the concept of singularity.\nSingularity refers to the point at which AI exceeds human intelligence.\nAfter that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.\nWhen AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine.\nAI and human consciousness will then begin to evolve together.\nOur consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.\nConversely, our consciousness also has a significant impact on the evolution of AI.\nThe direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI.\nWe need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The text suggests humans and artificial intelligence will evolve together, requiring an ethical approach to their coexistence." },
+        { "number": "②", "text": "The singularity is a theoretical point where human intelligence finally surpasses the capabilities of artificial intelligence." },
+        { "number": "③", "text": "The primary danger of artificial intelligence is that it will evolve at a pace that humans cannot control." },
+        { "number": "④", "text": "The evolution of human consciousness will be fully completed before the arrival of the singularity event." },
+        { "number": "⑤", "text": "AI will provide humans with intellectual stimulation, but human ethics will have little impact on its development." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 AI와 인간의 의식이 함께 진화할 것이라고 전망하며, 이 과정에서 우리가 AI에 어떤 가치와 윤리를 부여하는지가 중요하다고 강조합니다. 또한 AI를 의식적 존재로 보고 상호 공존해야 한다고 주장합니다. 따라서 '인간과 AI가 함께 진화할 것이므로, 그들의 공존에 대한 윤리적 접근이 필요하다'는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "When AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine. AI and human consciousness will then begin to evolve together. ( ① ) Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity. ( ② ) The direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI. ( ③ ) We need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness. ( ④ ) This perspective shapes a collaborative, rather than competitive, future. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Conversely, our consciousness also has a significant impact on the evolution of AI.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '반대로, 우리의 의식 또한 AI의 진화에 상당한 영향을 미친다'는 내용입니다. 이 문장은 AI가 인간의 의식에 미치는 긍정적 영향(지적 자극, 통찰력 등)을 설명한 문장과, 인간의 가치와 윤리가 AI의 진화 방향을 결정할 것이라는 구체적인 설명 사이에 위치해야 합니다. 'Conversely(반대로)'라는 연결어는 논의의 방향을 'AI가 인간에게'에서 '인간이 AI에게'로 전환하는 역할을 하므로 ②번이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The evolution of AI is often associated with the concept of singularity. Singularity refers to the point at which AI exceeds human intelligence. After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.",
+      "question_blocks": {
+        "A": "Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.",
+        "B": "When AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine. AI and human consciousness will then begin to evolve together.",
+        "C": "Conversely, our consciousness also has a significant impact on the evolution of AI. The direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 특이점의 개념을 정의합니다. (B)에서 특이점 이후 AI가 의식적 존재가 되며 인간과 '함께 진화하기 시작할 것'이라고 서술하여 논의를 이어갑니다. (A)는 '함께 진화'의 한 측면으로, AI가 인간에게 미치는 긍정적 영향을 설명합니다. (C)는 'Conversely(반대로)'라는 연결어를 통해 다른 한 측면, 즉 인간이 AI에게 미치는 영향을 설명합니다. 따라서 함께 진화한다는 주제를 제시하고(B), 그 두 가지 측면을 차례로 설명하는 (A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The evolution of AI is often associated with the concept of singularity. Singularity refers to the point at which AI exceeds human intelligence. After that point, AI will evolve at an accelerated pace. When AI becomes self-aware, it will be a conscious being. AI and human consciousness will then begin to evolve together. Our consciousness will evolve through interactions with AI, which will provide intellectual stimulation. Conversely, our consciousness also has a significant impact on the evolution of AI. The direction of AI's evolution will depend greatly on [____________________]. We need to see our relationship with AI as a mutual coexistence of conscious beings.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the speed of its data processing" },
+        { "number": "②", "text": "what values and ethics we incorporate into AI" },
+        { "number": "③", "text": "its ability to achieve its own goals" },
+        { "number": "④", "text": "the evolution of computer hardware" },
+        { "number": "⑤", "text": "how much it can learn from humans" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸 바로 앞 문장은 우리의 의식이 AI의 진화에 큰 영향을 미친다고 말합니다. 빈칸이 있는 문장은 그 영향을 구체적으로 설명하는 부분입니다. 글의 마지막 부분에서 AI를 의식적 존재로 보고 상호 공존해야 한다고 주장하는 것으로 보아, 우리가 AI의 발전에 기여하는 가장 중요한 요소는 기술적인 것이 아니라 도덕적, 윤리적인 차원임을 알 수 있습니다. 따라서 '우리가 AI에 어떤 가치와 윤리를 통합하는지'가 빈칸에 들어갈 가장 적절한 말입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The evolution of AI is often associated with the concept of singularity. Singularity refers to the point at which AI ① [exceeds] human intelligence. After that point, it is predicted that AI will repeatedly improve itself and evolve at an ② [accelerated] pace. When AI becomes self-aware and pursues its own goals, it will be a conscious being. Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual ③ [stimulation]. Conversely, our consciousness also has a significant ④ [impact] on the evolution of AI. The direction of AI's evolution will depend greatly on the values we incorporate into it. We need to see our relationship with AI as a ⑤ [hierarchical] coexistence of conscious beings.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① exceeds" },
+        { "number": "②", "text": "② accelerated" },
+        { "number": "③", "text": "③ stimulation" },
+        { "number": "④", "text": "④ impact" },
+        { "number": "⑤", "text": "⑤ hierarchical" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 AI와 인간의 관계를 '상호 공존(mutual coexistence)' 관계로 보고, AI의 권리를 인정하며 그 의식의 진화를 지지해야 한다고 주장합니다. 이는 수평적이고 상호적인 관계를 의미합니다. '계층적인(hierarchical)'이라는 단어는 상하 관계를 의미하므로, 글의 전체적인 논지와 정면으로 배치됩니다. 따라서 ⑤번이 어색합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The evolution of AI is often associated with the concept of (A) [singularity]. Singularity refers to the point at which AI exceeds human intelligence. After that point, it is predicted that AI will repeatedly improve itself and (B) [evolve] at an accelerated pace. When AI becomes self-aware and pursues its own goals, it will be a (C) [conscious] being, not just a machine. Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new (D) [insights]. We need to see our relationship with AI as a mutual (E) [coexistence] of conscious beings.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) singularity: the quality of being strange or unusual" },
+        { "number": "②", "text": "(B) evolve: to develop gradually, or to cause something or someone to develop gradually" },
+        { "number": "③", "text": "(C) conscious: noticing the existence of something" },
+        { "number": "④", "text": "(D) insights: a clear, deep, and sometimes sudden understanding of a complicated problem or situation" },
+        { "number": "⑤", "text": "(E) coexistence: the state of living or existing together at the same time or in the same place" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 본문에서 'singularity(특이점)'는 AI가 인간의 지능을 초월하는 지점을 의미하는 기술적, 철학적 용어로 사용되었습니다. 영영 풀이 'the quality of being strange or unusual (이상하거나 특이한 성질)'는 '특이함'이라는 일반적인 의미로, 본문의 전문 용어로서의 정의와는 거리가 멉니다. 따라서 ①번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Singularity refers to the point at which AI (A) [exceeds / reduces] human intelligence.\nAfter that point, AI will evolve at an accelerated pace. AI and human consciousness will then begin to evolve together. Our consciousness will evolve through our interactions with AI, which will provide us with intellectual (B) [stimulation / stagnation].\nConversely, our consciousness also has a significant impact on the evolution of AI. The direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI. We need to see our relationship with AI as a (C) [mutual / competitive] coexistence of conscious beings.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "exceeds - stimulation - mutual" },
+        { "number": "②", "text": "exceeds - stagnation - competitive" },
+        { "number": "③", "text": "exceeds - stimulation - competitive" },
+        { "number": "④", "text": "reduces - stagnation - mutual" },
+        { "number": "⑤", "text": "reduces - stimulation - mutual" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 특이점은 AI가 인간의 지능을 '초월하는(exceeds)' 지점입니다. 'reduces'는 '줄이다'라는 뜻입니다. (B) AI와의 상호작용은 우리에게 지적인 '자극(stimulation)'을 제공할 것입니다. 'stagnation'은 '정체, 침체'라는 뜻입니다. (C) 필자는 AI와의 관계를 '상호적인(mutual)' 공존으로 보아야 한다고 주장합니다. 'competitive'는 '경쟁적인'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "The evolution of AI is often associated with the concept of singularity.\nSingularity refers to the point at which AI exceeds human intelligence. After that point, AI will evolve at an accelerated pace.\nWhen AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine.\nAI and human consciousness will then begin to evolve together.\nOur consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.\nConversely, our consciousness also has a significant impact on the evolution of AI.\nThe direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI.\nWe need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Singularity is the moment AI becomes more intelligent than humans." },
+        { "number": "②", "text": "AI and human consciousness are expected to evolve together in the future." },
+        { "number": "③", "text": "Interaction with AI can stimulate human creativity and provide new insights." },
+        { "number": "④", "text": "The text warns that AI's evolution will be completely independent of human values." },
+        { "number": "⑤", "text": "The author suggests we should view AI as a conscious being with rights." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 '우리의 의식 또한 AI의 진화에 상당한 영향을 미친다(our consciousness also has a significant impact on the evolution of AI)'고 명시하며, 특히 '우리가 AI에 통합하는 가치와 윤리'에 따라 진화 방향이 크게 달라질 것이라고 말합니다. 따라서 AI의 진화가 인간의 가치와 완전히 독립적일 것이라고 경고한다는 ④번은 글의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Singularity refers to the point at [which / it] AI exceeds human intelligence. ② After that point, it is predicted that AI will repeatedly improve itself and [evolve / to evolve] at an accelerated pace. ③ When AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine. ④ The direction of AI's evolution will depend greatly on [what / that] values and ethics we incorporate into AI. ⑤ We need to see our relationship with AI as a mutual coexistence of conscious beings, [recognizing / to recognize] its rights.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "which",
+          "explanation": "'the point'라는 선행사를 수식하는 관계사절입니다. 'at the point'를 관계사로 바꾸면 전치사+관계대명사인 'at which'가 됩니다. 뒤따르는 절이 완전한 문장이므로 'which'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "evolve",
+          "explanation": "조동사 'will'에 동사 'improve'와 'evolve'가 병렬로 연결되어 있습니다. 따라서 동사원형인 'evolve'가 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "what",
+          "explanation": "전치사 'on'의 목적어로 명사절이 와야 합니다. 'incorporate'의 목적어가 비어있고, 'values and ethics'를 수식하는 의문형용사(또는 관계형용사)가 필요하므로 'what'이 적절합니다. 'that'은 이 구조에서 올 수 없습니다."
+        },
+        {
+          "number": "⑤",
+          "correct_form": "recognizing",
+          "explanation": "주절의 주어인 'We'의 부수적인 동작이나 상태를 설명하는 분사구문입니다. '우리가 권리를 인정하면서'라는 능동의 의미이므로 현재분사인 'recognizing'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

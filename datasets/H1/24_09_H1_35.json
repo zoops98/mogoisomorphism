@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy?\nBecause we are unable to differentiate between the various sections of our memory.\nImmediately after reading our textbook or our class notes, information is fully present in our mind.\nIt sits in our conscious working memory, in an active form.\nWe feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later.\nAfter a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous: unless you retest your knowledge, memory vanishes.\nTo get information into long-term memory, it is essential to study the material, then test yourself, rather than spend all your time studying.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare working memory and long-term memory"
+        },
+        {
+          "number": "②",
+          "text": "to emphasize the importance of taking good notes"
+        },
+        {
+          "number": "③",
+          "text": "to explain why cramming feels effective and suggest a better way to learn"
+        },
+        {
+          "number": "④",
+          "text": "to criticize students for their poor study habits"
+        },
+        {
+          "number": "⑤",
+          "text": "to describe the process of how memory vanishes over time"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 먼저 '벼락치기'가 왜 효과적인 학습 전략이라는 착각을 일으키는지 그 이유(단기기억과 장기기억의 혼동)를 설명합니다. 그리고 글의 마지막 부분에서 진정한 장기기억을 위해서는 공부만 하는 것보다 스스로를 테스트하는 것이 필수적이라고 더 나은 학습 방법을 제안하고 있습니다. 따라서 글의 목적은 벼락치기의 착각을 설명하고 더 나은 학습법을 제안하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy?\nBecause we are unable to differentiate between the various sections of our memory.\nImmediately after reading our textbook or our class notes, information is fully present in our mind.\nIt sits in our conscious working memory, in an active form.\nWe feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later.\nAfter a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous: unless you retest your knowledge, memory vanishes.\nTo get information into long-term memory, it is essential to study the material, then test yourself, rather than spend all your time studying.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Illusion of Knowing: Why Cramming Fails"
+        },
+        {
+          "number": "②",
+          "text": "How to Improve Your Short-Term Memory"
+        },
+        {
+          "number": "③",
+          "text": "The Different Sections of Human Memory"
+        },
+        {
+          "number": "④",
+          "text": "Self-Testing: The Only Way to Learn?"
+        },
+        {
+          "number": "⑤",
+          "text": "The Surprising Power of Working Memory"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 벼락치기(cramming)를 하면 단기기억에 정보가 잠시 머물러 '안다는 착각(The Illusion of Knowing)'에 빠지지만, 이는 실제 장기기억으로 이어지지 않아 결국 실패(fails)한다는 것입니다. '안다는 착각: 왜 벼락치기는 실패하는가'라는 제목은 이러한 글의 중심 주제를 가장 명확하게 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy?\nBecause we are unable to differentiate between the various sections of our memory.\nImmediately after reading our textbook or our class notes, information is fully present in our mind.\nIt sits in our conscious working memory, in an active form.\nWe feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later.\nAfter a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous: unless you retest your knowledge, memory vanishes.\nTo get information into long-term memory, it is essential to study the material, then test yourself, rather than spend all your time studying.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Cramming creates a false sense of knowledge, whereas self-testing is essential for long-term memory."
+        },
+        {
+          "number": "②",
+          "text": "The most effective way to learn is to keep information active in our conscious working memory."
+        },
+        {
+          "number": "③",
+          "text": "It is impossible for humans to differentiate between what they truly know and what they only think they know."
+        },
+        {
+          "number": "④",
+          "text": "Spending all of one's available time studying a subject is the best strategy to prevent memory from vanishing."
+        },
+        {
+          "number": "⑤",
+          "text": "Short-term memory is a reliable indicator of how much information will be recalled a few days later."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 벼락치기가 단기기억만을 활용하여 거짓된 지식의 느낌(false sense of knowledge)을 줄 뿐이라고 설명합니다. 그리고 진정한 장기기억(long-term memory)을 위해서는 공부 후에 스스로를 테스트하는 것(self-testing)이 필수적(essential)이라고 결론 내립니다. 따라서 '벼락치기는 거짓된 앎의 감각을 만들지만, 장기기억을 위해서는 자가 테스트가 필수적이다'라는 선택지가 글의 핵심 요지를 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy? Because we are unable to differentiate between the various sections of our memory. Immediately after reading our textbook or our class notes, information is fully present in our mind. ( ① ) It sits in our conscious working memory, in an active form. ( ② ) After a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous: unless you retest your knowledge, memory vanishes. ( ③ ) To get information into long-term memory, it is essential to study the material, then test yourself, rather than spend all your time studying. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**We feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②의 앞 문장은 공부 직후 정보가 의식적인 작동기억(working memory)에 자리 잡는다고 설명합니다. 주어진 문장은 바로 이 상태 때문에 '우리가 그것을 안다고 느끼지만(...feel as if we know it)', 이 단기기억은 며칠 뒤에 필요한 장기기억과 무관하다고 설명합니다. 이는 작동기억의 상태에 대한 부연 설명이자 착각의 핵심 원인을 밝히는 문장이므로, 작동기억을 언급한 직후이자 작동기억이 사라지기 시작한다는 설명 앞인 ②에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy? Because we are unable to differentiate between the various sections of our memory.",
+      "question_blocks": {
+        "A": "We feel as if we know it, because it is present in our short-term storage space... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later.",
+        "B": "Immediately after reading our textbook or our class notes, information is fully present in our mind. It sits in our conscious working memory, in an active form.",
+        "C": "After a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous. To get information into long-term memory, it is essential to study the material, then test yourself."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 벼락치기의 착각이 기억의 구분을 못하기 때문이라고 문제를 제기합니다. (B)에서 벼락치기 직후의 상태, 즉 정보가 작동기억(단기기억)에 들어오는 현상을 설명합니다. (A)에서 이 현상 때문에 '안다는 느낌'이 들지만, 이것이 장기기억과는 무관하다는 착각의 핵심을 설명합니다. (C)에서 작동기억은 금방 사라진다는 문제점을 지적하고, 장기기억을 위한 진정한 해결책(자가 테스트)을 제시하며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy?\nBecause we are unable to ____________________.\nImmediately after reading our textbook or our class notes, information is fully present in our mind.\nIt sits in our conscious working memory, in an active form.\nWe feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "organize our study materials"
+        },
+        {
+          "number": "②",
+          "text": "differentiate between the various sections of our memory"
+        },
+        {
+          "number": "③",
+          "text": "focus on one task for an extended period"
+        },
+        {
+          "number": "④",
+          "text": "recall information that we learned long ago"
+        },
+        {
+          "number": "⑤",
+          "text": "make connections between different concepts"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 첫 문장은 왜 벼락치기가 최고라고 착각하는지에 대한 질문을 던지고, 바로 다음 문장에서 'Because...'로 그 이유를 설명합니다. 글 전체 내용은 단기기억(작동기억)과 장기기억을 혼동하기 때문에 착각이 발생한다는 것이므로, 빈칸에는 '우리 기억의 다양한 부분들을 구별할 수 없기 때문에'라는 내용이 들어가는 것이 가장 적절합니다. 이는 본문에 명시된 내용입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Why do we have the ①<u>illusion</u> that cramming for an exam is the best learning strategy?\nBecause we are unable to differentiate between the various sections of our memory.\nImmediately after reading, information is fully ②<u>present</u> in our mind.\nIt sits in our conscious working memory, in an active form.\nWe feel as if we know it, because it is present in our short-term storage space ... but this short-term section has ③<u>much</u> to do with the long-term memory that we will need a few days later.\nAfter a few seconds or minutes, working memory already starts disappearing: unless you ④<u>retest</u> your knowledge, memory vanishes.\nTo get information into long-term memory, it is ⑤<u>essential</u> to study the material, then test yourself.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 주장은 단기기억(short-term section)에 정보가 있는 것과 며칠 뒤에 필요한 장기기억(long-term memory)은 별개라는 것입니다. 따라서 단기기억은 장기기억과 '관련이 거의 없다'고 해야 문맥이 맞습니다. '많은(much)' 관련이 있다는 것은 글의 논리와 정반대됩니다. 원문에서는 'nothing to do with'라고 표현되었습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Why do we have the (A)<u>illusion</u> that cramming for an exam is the best learning strategy?\nBecause we are unable to (B)<u>differentiate</u> between the various sections of our memory.\nImmediately after reading, information is fully present in our mind.\nIt sits in our conscious (C)<u>working memory</u>, in an active form.\nWe feel as if we know it, but this short-term section has nothing to do with the long-term memory that we will need in order to (D)<u>recall</u> the same information a few days later.\nUnless you retest your knowledge, memory (E)<u>vanishes</u>.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) illusion: a thing that is or is likely to be wrongly perceived by the senses"
+        },
+        {
+          "number": "②",
+          "text": "(B) differentiate: to recognize or show the difference between two or more things"
+        },
+        {
+          "number": "③",
+          "text": "(C) working memory: the part of memory that deals with information being used at the present moment"
+        },
+        {
+          "number": "④",
+          "text": "(D) recall: to permanently store a piece of information in the brain"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) vanishes: disappears suddenly and completely"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'recall'은 며칠 뒤에 정보를 '상기하다, 기억해내다'라는 의미로 사용되었습니다. 제시된 영영 풀이('to permanently store a piece of information in the brain' - 정보를 뇌에 영구적으로 저장하다)는 'store'나 'memorize'에 가까운 의미이므로, '기억해내다'라는 의미의 'recall'과는 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy?\nBecause we are unable to differentiate between the various sections of our memory.\nImmediately after reading our textbook or our class notes, information is fully (A)[present / absent] in our mind.\nIt sits in our conscious working memory, in an active form.\nWe feel as if we know it... but this short-term section has (B)[nothing / everything] to do with the long-term memory.\nAfter a few seconds or minutes, working memory already starts disappearing.\nTo get information into long-term memory, it is (C)[essential / unhelpful] to study the material, then test yourself, rather than spend all your time studying.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "present - nothing - essential"
+        },
+        {
+          "number": "②",
+          "text": "present - everything - unhelpful"
+        },
+        {
+          "number": "③",
+          "text": "absent - nothing - essential"
+        },
+        {
+          "number": "④",
+          "text": "absent - everything - unhelpful"
+        },
+        {
+          "number": "⑤",
+          "text": "present - nothing - unhelpful"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 벼락치기 직후에는 정보가 마음에 '없는(absent)' 것이 아니라 완전히 '존재합니다(present)'. (B) 이 단기기억 공간은 장기기억과 '모든(everything)' 관련이 있는 것이 아니라 '아무 관련이 없습니다(nothing)'. (C) 장기기억으로 정보를 보내기 위해서는 자가 테스트가 '도움이 안 되는(unhelpful)' 것이 아니라 '필수적입니다(essential)'."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "Immediately after reading our textbook or our class notes, information is fully present in our mind. It sits in our conscious working memory, in an active form. ① We feel as if we know it, because it is present in our short-term storage space. ② However, this short-term section has nothing to do with the long-term memory that we will need later. ③ Sleep plays a crucial role in consolidating memories, transferring them from short-term to long-term storage. ④ After a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous. ⑤ To get information into long-term memory, it is essential to study the material, then test yourself.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '벼락치기'라는 특정 학습 전략의 착각을 '단기기억'과 '장기기억'의 혼동, 그리고 '자가 테스트'의 중요성으로 설명하고 있습니다. ③번 문장은 '수면'이 기억 공고화에 중요하다는 일반적인 과학적 사실을 언급합니다. 이는 글의 핵심 논점인 '벼락치기의 착각과 자가 테스트의 필요성'에서 벗어나는 내용이므로, 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Why do we have the illusion that cramming for an exam is the best learning strategy? Because we are unable to differentiate between the various sections of our memory. Immediately after reading our textbook or our class notes, information is fully present in our mind. It sits in our conscious working memory, in an active form. We feel as if we ①[know / knew] it, because it is present in our short-term storage space. But this short-term section has nothing to do with the long-term memory ②[that / what] we will need in order to recall the same information a few days later. To get information into long-term memory, it is essential to study the material, then test yourself, rather than ③[spend / to spend] all your time studying.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "knew",
+          "explanation": "'as if' 가정법 구문에서는 현재 사실에 대한 반대나 불확실한 추측을 나타낼 때 과거형 동사를 사용합니다. 실제로 아는 것이 아니라 아는 것처럼 '느끼는' 것이므로 가정의 의미를 담은 과거형 'knew'가 더 적절합니다. (직설법 'know'도 가능하지만, 가정법이 문맥상 더 자연스럽습니다.)"
+        },
+        {
+          "number": "②",
+          "correct_form": "that",
+          "explanation": "선행사 'the long-term memory'를 수식하는 목적격 관계대명사가 필요한 자리입니다. 뒤따르는 절에 'need'의 목적어가 비어있으므로 'that' 또는 'which'가 올 수 있습니다. 선행사를 포함하는 관계대명사 'what'은 쓸 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "spend",
+          "explanation": "'rather than'으로 연결되는 병렬 구조로, 앞선 동사 원형 'study', 'test'와 형태를 맞추는 것이 자연스럽습니다. 따라서 동사원형 'spend'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

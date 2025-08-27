@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not overshadow them.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the overuse of gestures in public speaking"
+        },
+        {
+          "number": "②",
+          "text": "to explain the historical origins of common gestures"
+        },
+        {
+          "number": "③",
+          "text": "to advise on how to use gestures effectively in communication"
+        },
+        {
+          "number": "④",
+          "text": "to compare the meanings of gestures across different cultures"
+        },
+        {
+          "number": "⑤",
+          "text": "to sell a book about non-verbal communication skills"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 제스처가 말을 보완하는 방식, 긍정적인 제스처의 예(손바닥을 펴는 것), 과도한 제스처의 위험성, 그리고 핵심 원칙인 '균형'에 대해 설명하고 있습니다. 전반적인 내용은 효과적인 제스처 사용법에 대한 조언이므로, 글의 목적은 '의사소통에서 제스처를 효과적으로 사용하는 방법에 대해 조언하기 위해'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not overshadow them.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Danger of Open-Handed Gestures"
+        },
+        {
+          "number": "②",
+          "text": "Gestures: The Key Is Balance, Not Chaos"
+        },
+        {
+          "number": "③",
+          "text": "Why Spoken Messages Are Not Enough"
+        },
+        {
+          "number": "④",
+          "text": "Nodding and Shaking Hands: A Guide"
+        },
+        {
+          "number": "⑤",
+          "text": "How Birds Communicate Through Movement"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 제스처의 긍정적 측면과 부정적 측면(과도한 사용)을 모두 다루면서, 궁극적으로 제스처는 말을 압도하는 '혼돈(chaos)'이 아니라 말을 강조하는 '균형(balance)'이 중요하다고 결론 내리고 있습니다. 따라서 '제스처: 핵심은 혼돈이 아닌 균형'이라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not overshadow them.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Effective communication relies on using balanced, complementary gestures that enhance spoken words without becoming a distraction."
+        },
+        {
+          "number": "②",
+          "text": "The most important aspect of communication is memorizing various hand gestures to use in every possible conversation."
+        },
+        {
+          "number": "③",
+          "text": "Speaking with your palms facing up is the only universally accepted gesture that truly builds trust among people."
+        },
+        {
+          "number": "④",
+          "text": "To be a powerful speaker, one must use as many dynamic hand movements as possible to convey their passion."
+        },
+        {
+          "number": "⑤",
+          "text": "Gestural communication is far more important than the spoken message when you are delivering a formal speech."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 제스처가 음성 언어를 보완하고 의미를 더하지만, 과하면 오히려 방해가 될 수 있으므로 균형이 중요하다고 강조합니다. 즉, 제스처는 말을 압도하지 않고 강조하는 역할을 해야 합니다. 따라서 글의 요지는 '효과적인 의사소통은 방해가 되지 않으면서 음성 언어를 향상시키는, 균형 잡힌 보완적 제스처 사용에 달려있다'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. ( ① ) ( ② ) Your gestures should highlight your words, not overshadow them. ( ③ ) ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Balance is key.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장 'Balance is key.'(균형이 핵심이다.)는 글의 주제를 요약하는 문장입니다. 앞선 문장에서는 과도한 제스처의 문제점(메시지가 혼돈 속에서 사라짐)을 지적했고, 바로 뒤 문장에서는 제스처가 말을 압도하지 않고 강조해야 한다는 구체적인 원칙을 제시합니다. 따라서 문제점을 제시하고 해결 원칙을 말하기 전인 ②의 위치에 들어가, 두 내용을 자연스럽게 연결하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words.",
+      "question_blocks": {
+        "A": "But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words.",
+        "B": "Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
+        "C": "Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not overshadow them."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 제스처가 말을 보완한다는 일반적인 개념을 소개합니다. (B)는 'for example'이라는 연결어를 통해 이에 대한 구체적인 긍정적 예시(손바닥을 펴는 제스처)를 제시합니다. (A)는 'But'이라는 역접 연결어를 사용하여 긍정적 측면과 대조되는 부정적 측면(과도한 제스처의 함정)을 도입합니다. (C)는 (A)에서 언급된 과도한 제스처의 결과를 'Imagine'을 통해 구체화하고, 글 전체의 핵심인 '균형'을 강조하며 마무리합니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should [____________________], not overshadow them.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "replace the need for speaking"
+        },
+        {
+          "number": "②",
+          "text": "be as complex as possible"
+        },
+        {
+          "number": "③",
+          "text": "entertain your audience"
+        },
+        {
+          "number": "④",
+          "text": "highlight your words"
+        },
+        {
+          "number": "⑤",
+          "text": "hide your true intentions"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 제스처의 바람직한 역할에 대해 결론을 내리고 있습니다. 빈칸 뒤에 'not overshadow them'(그것들을 압도하는 것이 아니라)이라는 내용이 나오므로, 빈칸에는 이와 대조되는 긍정적인 기능이 들어가야 합니다. 글 전체에서 제스처는 말을 '보완한다(complement)'고 했으므로, 말을 '강조한다'는 의미의 'highlight your words'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to ① [complement] your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate ② [honesty], creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can ③ [distract] from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the ④ [chaos] of their gestures. Balance is key. Your gestures should ⑤ [conceal] your words, not overshadow them.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 핵심은 제스처가 말을 보완하고 강조해야 한다는 것입니다. 마지막 문장은 'Your gestures should (A) your words, not overshadow them.'의 구조로, 제스처의 긍정적 역할을 설명해야 합니다. '숨기다'라는 뜻의 'conceal'은 글의 전체적인 맥락과 상반됩니다. 제스처는 말을 '강조해야' 하므로 'highlight'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to (A) [complement] your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of (B) [trust]. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to (C) [engage in] conversation. But be careful of the trap of overgesturing. Too many hand movements can (D) [distract] from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not (E) [overshadow] them.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) complement: to add to something in a way that improves it"
+        },
+        {
+          "number": "②",
+          "text": "(B) trust: a firm belief in the reliability or truth of someone or something"
+        },
+        {
+          "number": "③",
+          "text": "(C) engage in: to participate or become involved in"
+        },
+        {
+          "number": "④",
+          "text": "(D) distract: to take someone's attention away from what they should be doing"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) overshadow: to make something clearer and easier to understand"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) overshadow는 '중요성이나 성공 등을 덜 중요하게 보이게 만들다, 그늘지게 하다, 압도하다'라는 의미입니다. 영영 풀이 'to make something clearer and easier to understand(무언가를 더 명확하고 이해하기 쉽게 만들다)'는 '분명히 하다, 명료하게 하다'는 의미의 'clarify'나 'illuminate'에 가까우며, 'overshadow'와는 반대되는 개념입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to (A) [complement / compliment] your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more (B) [comfortable / uncomfortable] and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can (C) [distract / attract] from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not overshadow them.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "complement - comfortable - distract" },
+        { "number": "②", "text": "complement - uncomfortable - attract" },
+        { "number": "③", "text": "compliment - comfortable - distract" },
+        { "number": "④", "text": "compliment - uncomfortable - attract" },
+        { "number": "⑤", "text": "complement - comfortable - attract" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 제스처가 말을 '보완한다'는 의미이므로 'complement'가 맞습니다. 'compliment'는 '칭찬하다'입니다. (B) 손바닥을 펴는 제스처는 신뢰를 형성하므로 상대방을 '편안하게' 만든다는 의미의 'comfortable'이 적절합니다. (C) 너무 많은 손동작은 메시지로부터 주의를 '산만하게 한다'는 의미이므로 'distract'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Improving your gestural communication involves more than just knowing when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, drawing attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key. Your gestures should highlight your words, not overshadow them.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Gestures can add layers of meaning to spoken messages."
+        },
+        {
+          "number": "②",
+          "text": "Speaking with palms up can help create an atmosphere of trust."
+        },
+        {
+          "number": "③",
+          "text": "It is possible for too many gestures to be distracting."
+        },
+        {
+          "number": "④",
+          "text": "The message of a speaker can be lost due to chaotic movements."
+        },
+        {
+          "number": "⑤",
+          "text": "Effective gestures should be more prominent than the words."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문의 마지막 문장은 \"Your gestures should highlight your words, not overshadow them.\"(당신의 제스처는 당신의 말을 강조해야지, 그것을 압도해서는 안 된다.)라고 명시하고 있습니다. 따라서 효과적인 제스처가 말보다 더 눈에 띄어야 한다는(more prominent) ⑤번 선택지는 글의 내용과 정면으로 배치됩니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Improving your gestural communication involves more than just ① [knowing / to know] when to nod or shake hands. It's about using gestures to complement your spoken messages, adding layers of meaning to your words. Open-handed gestures, for example, can indicate honesty, creating an atmosphere of trust. You invite openness and collaboration when you speak with your palms facing up. This simple yet powerful gesture can make others ② [feel / to feel] more comfortable and willing to engage in conversation. But be careful of the trap of overgesturing. Too many hand movements can distract from your message, ③ [drawing / drawn] attention away from your words. Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures. Balance is key.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "knowing",
+          "explanation": "동사 'involves'는 목적어로 동명사를 취합니다. 따라서 'knowing'이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "feel",
+          "explanation": "사역동사 'make'는 목적격 보어로 동사원형을 사용합니다. 따라서 'make others feel'이 올바른 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "drawing",
+          "explanation": "주절의 내용에 이어지는 결과를 나타내는 분사구문입니다. 너무 많은 손동작이 주의를 '끄는' 능동의 관계이므로 현재분사 'drawing'이 적절합니다."
+        }
+      ]
+    }
+  ]
+}

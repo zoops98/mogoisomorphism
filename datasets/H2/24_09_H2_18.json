@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides.\nI found that the certification for 100 hours of counseling experience is required for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am actively working on obtaining the certification, and I am sure I will be able to submit it by then.\nI understand the importance of following the application process, and would greatly appreciate your consideration of this request.\nI look forward to your response.\nSincerely, Peter Jackson",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "프로그램의 지원 요건에 대해 문의하려고" },
+        { "number": "②", "text": "상담 경력 증명서를 제출하려고" },
+        { "number": "③", "text": "지원서 제출 마감일의 연장을 요청하려고" },
+        { "number": "④", "text": "상담사 프로그램의 합격을 통보하려고" },
+        { "number": "⑤", "text": "여름방학 인턴십 프로그램에 지원하려고" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글쓴이는 현재 마감일까지 상담 경력 100시간을 채울 수 없어, 여름방학이 끝날 때까지 마감일을 연장해달라고 요청하고 있습니다. 이는 'I kindly request an extension of the deadline'라는 문장에서 명확히 드러납니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides.\nI found that the certification for 100 hours of counseling experience is required for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am actively working on obtaining the certification, and I am sure I will be able to submit it by then.\nI understand the importance of following the application process, and would greatly appreciate your consideration of this request.\nI look forward to your response.\nSincerely, Peter Jackson",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "A Guide to the Counselor Program" },
+        { "number": "②", "text": "The Importance of Counseling Experience" },
+        { "number": "③", "text": "My Journey to Becoming a Counselor" },
+        { "number": "④", "text": "Request for a Deadline Extension" },
+        { "number": "⑤", "text": "How to Complete 100 Counseling Hours" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 지원 요건을 충족하기 위해 시간이 더 필요한 지원자가 대학 측에 지원 마감일 연장을 정중하게 요청하는 내용을 담고 있습니다. 따라서 글의 핵심 내용을 가장 잘 나타내는 제목은 '마감일 연장 요청'입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides.\nI found that the certification for 100 hours of counseling experience is required for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am actively working on obtaining the certification, and I am sure I will be able to submit it by then.\nI understand the importance of following the application process, and would greatly appreciate your consideration of this request.\nI look forward to your response.\nSincerely, Peter Jackson",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The university's counselor program is highly competitive and requires extensive preparation from all applicants." },
+        { "number": "②", "text": "Obtaining 100 hours of counseling experience is the most challenging requirement for the program." },
+        { "number": "③", "text": "The applicant is formally requesting a later deadline to fulfill the required counseling experience." },
+        { "number": "④", "text": "Summer vacation is the best period for students to gain valuable practical work experience." },
+        { "number": "⑤", "text": "Following established application procedures is crucial for successful admission to the university program." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글의 핵심 내용은 지원자가 필수 요건인 상담 경력을 충족할 시간을 확보하기 위해 지원 마감일을 늦춰달라고 공식적으로 요청하는 것입니다. 다른 선택지들은 글의 일부 내용과 관련이 있을 수 있으나, 글 전체의 중심 생각을 나타내지는 않습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides. ( ① ) I found that the certification for 100 hours of counseling experience is required for the application. ( ② ) However, I do not think I could possibly complete the required counseling experience by the current deadline. ( ③ ) I am actively working on obtaining the certification, and I am sure I will be able to submit it by then. ( ④ ) I understand the importance of following the application process, and would greatly appreciate your consideration of this request. ( ⑤ ) I look forward to your response.\nSincerely, Peter Jackson",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**So, if possible, I kindly request an extension of the deadline until the end of this summer vacation.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 마감일 연장을 요청하는 내용입니다. 이 문장은 마감일을 지킬 수 없다는 문제점(However, I do not think I could...)을 제시한 문장 바로 뒤에 와서 그 문제에 대한 해결책을 제시하는 것이 가장 자연스럽습니다. 그리고 그 뒤에는 연장된 마감일까지는 제출할 수 있을 것이라는 확신을 주는 문장이 이어집니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides.",
+      "question_blocks": {
+        "A": "So, if possible, I kindly request an extension of the deadline until the end of this summer vacation. I am actively working on obtaining the certification, and I am sure I will be able to submit it by then.",
+        "B": "I found that the certification for 100 hours of counseling experience is required for the application. However, I do not think I could possibly complete the required counseling experience by the current deadline.",
+        "C": "I understand the importance of following the application process, and would greatly appreciate your consideration of this request. I look forward to your response. Sincerely, Peter Jackson"
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 자기소개와 지원 의사를 밝히는 내용입니다. 이어서 (B)에서 지원에 필요한 요건과 현재 자신이 처한 문제(마감일까지 경력을 채울 수 없음)를 설명하는 것이 자연스럽습니다. 그 다음 (A)에서 문제에 대한 해결책으로 마감일 연장을 요청하고, 마지막으로 (C)에서 감사를 표하고 끝맺음 인사를 하는 것이 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides.\nI found that the certification for 100 hours of counseling experience is required for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request _______________________ until the end of this summer vacation.\nI am actively working on obtaining the certification, and I am sure I will be able to submit it by then.\nI understand the importance of following the application process, and would greatly appreciate your consideration of this request.\nI look forward to your response.\nSincerely, Peter Jackson",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "financial aid for the program" },
+        { "number": "②", "text": "a detailed program syllabus" },
+        { "number": "③", "text": "an alternative to the requirement" },
+        { "number": "④", "text": "a waiver for the experience" },
+        { "number": "⑤", "text": "an extension of the deadline" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "앞 문장에서 현재 마감일('the current deadline')까지 필수 요건을 완료할 수 없다고 말했으므로, 이에 대한 해결책으로 마감일을 연장해달라고 요청하는 것이 문맥상 가장 적절합니다. 따라서 빈칸에는 '마감일 연장(an extension of the deadline)'이 들어가야 합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university ① provides.\nI found that the certification for 100 hours of counseling experience is ② required for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current ③ deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am ④ passively working on obtaining the certification, and I am sure I will be able to submit it by then.\nI understand the importance of following the application process, and would greatly ⑤ appreciate your consideration of this request.\nI look forward to your response.\nSincerely, Peter Jackson",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "provides" },
+        { "number": "②", "text": "required" },
+        { "number": "③", "text": "deadline" },
+        { "number": "④", "text": "passively" },
+        { "number": "⑤", "text": "appreciate" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글쓴이는 마감일을 연장해주면 그때까지 증명서를 제출할 수 있을 것이라고 확신하며 상대방을 안심시키려 하고 있습니다. 이러한 맥락에서 증명서를 얻기 위해 '수동적으로(passively)' 노력하고 있다는 말은 어울리지 않습니다. 자신의 노력을 강조하기 위해 '적극적으로(actively)'가 와야 문맥상 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "My name is Peter Jackson and I am thinking of (A) applying for the Advanced Licensed Counselor Program that the university (B) provides.\nI found that the certification for 100 hours of counseling experience is (C) required for the application.\nHowever, I do not think I could possibly (D) complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am actively working on obtaining the certification, and I am sure I will be able to (E) submit it by then.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) applying: making a formal request for something, such as a job or a place at a college" },
+        { "number": "②", "text": "(B) provides: makes something available for use; supplies" },
+        { "number": "③", "text": "(C) required: officially compulsory, or considered essential for a particular purpose" },
+        { "number": "④", "text": "(D) complete: to finish making or doing something" },
+        { "number": "⑤", "text": "(E) submit: to accept or yield to a superior force or to the authority of another person" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) submit은 서류 등을 '제출하다(to present a document to a person or body for consideration)'라는 의미로 사용되었습니다. 제시된 영영 풀이 '상위의 힘이나 다른 사람의 권위에 받아들이거나 굴복하다'는 '항복하다'라는 다른 의미의 뜻이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "My name is Peter Jackson and I am thinking of (A) [applying / complying] for the Advanced Licensed Counselor Program that the university provides. I found that the certification for 100 hours of counseling experience is (B) [required / acquired] for the application. However, I do not think I could possibly complete the required counseling experience by the current deadline. So, if possible, I kindly request an extension of the deadline until the end of this summer vacation. I am actively working on obtaining the certification, and I am sure I will be able to submit it by then. I understand the importance of following the application process, and would greatly (C) [appreciate / depreciate] your consideration of this request.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "applying - required - appreciate" },
+        { "number": "②", "text": "applying - acquired - depreciate" },
+        { "number": "③", "text": "applying - required - depreciate" },
+        { "number": "④", "text": "complying - acquired - appreciate" },
+        { "number": "⑤", "text": "complying - required - depreciate" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 프로그램에 '지원하는' 것이므로 'applying'이 맞습니다. 'complying'은 '준수하다'는 의미입니다. (B) 지원서에 상담 경력이 '요구되는' 것이므로 'required'가 맞습니다. 'acquired'는 '획득된'이라는 의미입니다. (C) 상대방의 고려에 '감사하다'는 의미이므로 'appreciate'가 맞습니다. 'depreciate'는 '가치가 떨어지다'는 의미입니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "To whom it may concern,\nMy name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program that the university provides.\nI found that the certification for 100 hours of counseling experience is required for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am actively working on obtaining the certification, and I am sure I will be able to submit it by then.\nI understand the importance of following the application process, and would greatly appreciate your consideration of this request.\nI look forward to your response.\nSincerely, Peter Jackson",
+      "question": "Peter Jackson에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "고급 상담사 프로그램에 지원할 것을 고려하고 있다." },
+        { "number": "②", "text": "지원 요건으로 100시간의 상담 경력이 필요함을 알고 있다." },
+        { "number": "③", "text": "현재의 마감일까지는 필수 경력을 다 채우지 못할 것 같다." },
+        { "number": "④", "text": "여름방학이 끝날 때까지로 마감일을 연장해달라고 요청했다." },
+        { "number": "⑤", "text": "상담 경력을 쌓기 위한 활동을 이미 완료한 상태이다." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문의 'I am actively working on obtaining the certification'이라는 부분은 그가 현재 증명서를 얻기 위해 적극적으로 노력하고 있음을 의미하며, 아직 완료하지 않았음을 시사합니다. 따라서 상담 경력 활동을 이미 완료했다는 내용은 글과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "My name is Peter Jackson and I am thinking of applying for the Advanced Licensed Counselor Program ① [that / what] the university provides.\nI found that the certification for 100 hours of counseling experience ② [is required / is requiring] for the application.\nHowever, I do not think I could possibly complete the required counseling experience by the current deadline.\nSo, if possible, I kindly request an extension of the deadline until the end of this summer vacation.\nI am actively working on ③ [obtaining / to obtain] the certification, and I am sure I will be able to submit it by then.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "앞에 선행사 'the Advanced Licensed Counselor Program'이 있으므로, 이 선행사를 수식하는 목적격 관계대명사 'that'이 적절합니다. 선행사를 포함하는 관계대명사 'what'은 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "is required",
+          "explanation": "주어인 'the certification'(증명서)은 '요구되는' 대상이므로, 수동태 표현인 'is required'가 맞습니다. 능동태 'is requiring'은 문맥에 맞지 않습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "obtaining",
+          "explanation": "전치사 'on'의 목적어 자리이므로 동명사 형태인 'obtaining'이 와야 합니다. 'work on ~ing'는 '~하는 작업을 하다'라는 의미의 관용 표현입니다."
+        }
+      ]
+    }
+  ]
+}

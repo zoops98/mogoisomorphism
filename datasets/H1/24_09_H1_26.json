@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, with her father's support, she was able to get mathematical and scientific education that most women of her time did not receive.\nIn 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later.\nIn her book, Institutions de Physique, Emilie du Chatelet explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time.\nHer most significant achievement was translating Isaac Newton's Principia into French near the end of her life.\nEmilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's participation in science.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain the theory of modern relativity"
+        },
+        {
+          "number": "②",
+          "text": "to introduce the life and work of a female scientist"
+        },
+        {
+          "number": "③",
+          "text": "to criticize the scientific community of the 18th century"
+        },
+        {
+          "number": "④",
+          "text": "to emphasize the importance of a father's support"
+        },
+        {
+          "number": "⑤",
+          "text": "to analyze Isaac Newton's scientific contributions"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 프랑스의 수학자이자 물리학자인 에밀리 뒤 샤틀레의 출생, 교육, 주요 업적(논문, 저서, 번역), 그리고 후대의 평가에 이르기까지 그녀의 생애와 업적을 전반적으로 소개하고 있습니다. 따라서 글의 주된 목적은 한 여성 과학자의 삶과 업적을 소개하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, with her father's support, she was able to get mathematical and scientific education that most women of her time did not receive.\nIn 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later.\nIn her book, Institutions de Physique, Emilie du Chatelet explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time.\nHer most significant achievement was translating Isaac Newton's Principia into French near the end of her life.\nEmilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's participation in science.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Nature of Fire: An 18th-Century Debate"
+        },
+        {
+          "number": "②",
+          "text": "Newton's Principia and Its French Translation"
+        },
+        {
+          "number": "③",
+          "text": "Emilie du Chatelet: A Scientific Mind Ahead of Her Time"
+        },
+        {
+          "number": "④",
+          "text": "The Struggle of Women in the Enlightenment"
+        },
+        {
+          "number": "⑤",
+          "text": "How Modern Relativity Was Born"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 에밀리 뒤 샤틀레가 당시 여성들이 받기 힘든 과학 교육을 받고, 시대를 앞서가는 개념을 설명한 저서를 출판하는 등 뛰어난 과학적 정신을 가졌음을 보여줍니다. 또한 그녀가 당대에는 인정받지 못했지만 현재는 중요한 인물로 기억된다는 점을 강조합니다. 따라서 '에밀리 뒤 샤틀레: 시대를 앞서간 과학적 정신'이라는 제목이 글의 내용을 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, with her father's support, she was able to get mathematical and scientific education that most women of her time did not receive.\nIn 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later.\nIn her book, Institutions de Physique, Emilie du Chatelet explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time.\nHer most significant achievement was translating Isaac Newton's Principia into French near the end of her life.\nEmilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's participation in science.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Emilie du Chatelet was a pioneering female scientist whose important contributions were recognized only after her death."
+        },
+        {
+          "number": "②",
+          "text": "The translation of Newton's Principia was the sole reason for Emilie du Chatelet's posthumous fame."
+        },
+        {
+          "number": "③",
+          "text": "The French Academy of Sciences actively supported and promoted female scientists during the 18th century."
+        },
+        {
+          "number": "④",
+          "text": "Emilie du Chatelet's ideas on space and time directly led to the development of modern relativity."
+        },
+        {
+          "number": "⑤",
+          "text": "Without the support of her father, Emilie du Chatelet would not have pursued a career in science."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 에밀리 뒤 샤틀레가 시대를 앞선 과학적 업적을 남겼지만 당대에는 인정받지 못했고(not recognized in her time), 사후에 계몽주의와 여성의 과학 참여를 위한 투쟁의 상징으로 기억된다고(is now remembered as a symbol) 설명합니다. 따라서 '선구적인 여성 과학자였던 에밀리 뒤 샤틀레의 중요한 공헌은 사후에야 인정받았다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, she was able to get mathematical and scientific education that most women of her time did not receive.\nIn 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later. ( ① ) Her most significant achievement was translating Isaac Newton's Principia into French near the end of her life. ( ② ) Emilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's participation in science. ( ③ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In her book, Institutions de Physique, Emilie du Chatelet explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 에밀리 뒤 샤틀레의 업적을 시간 순서대로 나열하고 있습니다. ①의 앞 문장에서는 1737년 그녀의 논문 발표에 대해 이야기하고 있고, ①의 뒷 문장에서는 그녀의 '가장 중요한 업적'인 말년의 번역 작업에 대해 이야기합니다. 주어진 문장은 그녀의 저서 'Institutions de Physique'에 대한 설명으로, 논문 발표와 번역 작업 사이에 위치하는 것이 연대기적으로 자연스럽습니다. 따라서 ①이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706. During her childhood, with her father's support, she was able to get mathematical and scientific education that most women of her time did not receive.",
+      "question_blocks": {
+        "A": "In her book, Institutions de Physique, she explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time.",
+        "B": "In 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later.",
+        "C": "Her most significant achievement was translating Isaac Newton's Principia into French near the end of her life. Her work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's participation in science."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 에밀리 뒤 샤틀레의 어린 시절과 교육 배경을 소개합니다. 그 다음에는 그녀의 학문적 업적을 시간 순서대로 나열하는 것이 자연스럽습니다. (B)에서 1737년의 첫 논문 발표를 언급하고, (A)에서 그녀의 저서 'Institutions de Physique'에 대한 내용을 설명합니다. 마지막으로 (C)에서 그녀의 '가장 중요한 업적'이자 말년의 작업인 번역과 그녀의 최종적인 유산에 대해 설명하며 글을 마무리합니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, with her father's support, she was able to get mathematical and scientific education that most women of her time did not receive.\nIn 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences.\nIn her book, Institutions de Physique, she explained the ideas of space and time in a way that is closer to what we understand in modern relativity.\nHer most significant achievement was translating Isaac Newton's Principia into French near the end of her life.\nEmilie du Chatelet's work was not recognized in her time, but she is now remembered as _________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a pioneer of modern physics"
+        },
+        {
+          "number": "②",
+          "text": "a translator of scientific works"
+        },
+        {
+          "number": "③",
+          "text": "the most famous woman of her time"
+        },
+        {
+          "number": "④",
+          "text": "a writer of a paper on the nature of fire"
+        },
+        {
+          "number": "⑤",
+          "text": "a symbol of the Enlightenment and the struggle for women's participation in science"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸이 있는 마지막 문장은 그녀의 사후 평가, 즉 그녀가 현재 어떻게 기억되는지에 대해 설명하고 있습니다. 글은 그녀가 '계몽주의와 여성의 과학 참여를 위한 투쟁의 상징으로 기억된다'고 명확히 서술하며 끝맺고 있습니다. 따라서 이 구절이 빈칸에 들어가는 것이 가장 정확합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Emilie du Chatelet was born in Paris in 1706.\nDuring her childhood, with her father's ①<u>support</u>, she was able to get mathematical and scientific education that most women of her time did not receive.\nIn 1737, she ②<u>submitted</u> her paper on the nature of fire to a contest.\nIn her book, Institutions de Physique, she explained ideas in a way that is ③<u>closer</u> to what we understand in modern relativity.\nHer most ④<u>significant</u> achievement was translating Isaac Newton's Principia into French.\nEmilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's ⑤<u>rejection</u> in science.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 부분은 에밀리 뒤 샤틀레가 과학 분야에서 여성의 '참여'를 위한 투쟁의 상징으로 기억된다고 설명합니다. '거부'나 '배척'을 의미하는 'rejection'은 문맥과 정반대의 의미를 가지므로 적절하지 않습니다. 이 자리에는 '참여'를 의미하는 'participation'이 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, with her father's (A)<u>support</u>, she was able to get education that most women of her time did not receive.\nIn 1737, she (B)<u>submitted</u> her paper on the nature of fire to a contest sponsored by the French Academy of Sciences.\nHer most (C)<u>significant</u> achievement was translating Isaac Newton's Principia into French near the end of her life.\nEmilie du Chatelet's work was not (D)<u>recognized</u> in her time, but she is now remembered as a (E)<u>symbol</u> of the Enlightenment.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) support: encouragement and help that you give to somebody"
+        },
+        {
+          "number": "②",
+          "text": "(B) submitted: gave a document to a person in authority for them to consider"
+        },
+        {
+          "number": "③",
+          "text": "(C) significant: having a secret or hidden meaning"
+        },
+        {
+          "number": "④",
+          "text": "(D) recognized: accepted and understood that something is true or important"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) symbol: a person or thing that is regarded as representing a quality or idea"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'significant'는 '중요한, 의미 있는, 상당한'이라는 의미로 사용되었습니다. 제시된 영영 풀이('having a secret or hidden meaning' - 비밀스럽거나 숨겨진 의미를 가진)는 다른 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706.\nDuring her childhood, with her father's support, she was able to get education that most women of her time did not (A)[receive / refuse].\nIn 1737, she submitted her paper on the nature of fire, and it was published a year later.\nHer most (B)[significant / trivial] achievement was translating Isaac Newton's Principia into French near the end of her life.\nEmilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the struggle for women's (C)[participation / exclusion] in science.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "receive - significant - participation"
+        },
+        {
+          "number": "②",
+          "text": "receive - trivial - exclusion"
+        },
+        {
+          "number": "③",
+          "text": "refuse - significant - participation"
+        },
+        {
+          "number": "④",
+          "text": "refuse - trivial - exclusion"
+        },
+        {
+          "number": "⑤",
+          "text": "receive - significant - exclusion"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 그녀는 당시 대부분의 여성이 '거절하지(refuse)' 않은 교육이 아니라 '받지(receive)' 못한 교육을 받을 수 있었습니다. (B) 뉴턴의 프린키피아 번역은 그녀의 '사소한(trivial)' 업적이 아니라 '중요한(significant)' 업적이었습니다. (C) 그녀는 과학 분야에서 여성의 '배제(exclusion)'가 아닌 '참여(participation)'를 위한 투쟁의 상징으로 기억됩니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "In 1737, Emilie du Chatelet submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences. ① In her book, Institutions de Physique, she explained the ideas of space and time in a way that is closer to modern relativity. ② Her most significant achievement was translating Isaac Newton's Principia into French near the end of her life. ③ The translation was so excellent that it is still the standard version used in France today. ④ Emilie du Chatelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment. ⑤ The Enlightenment was an intellectual and philosophical movement that dominated Europe during the 17th and 18th centuries.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 에밀리 뒤 샤틀레라는 특정 인물의 생애와 업적, 그리고 그녀의 유산에 초점을 맞추고 있습니다. ⑤번 문장은 그녀가 상징하는 '계몽주의'라는 시대적 운동에 대한 일반적인 정의를 내리고 있어, 개인의 전기에 초점을 맞춘 글의 흐름에서 벗어납니다. 이는 글의 중심 주제인 에밀리 뒤 샤틀레에서 벗어난 부연 설명입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Emilie du Chatelet, a French mathematician and physicist, was born in Paris in 1706. During her childhood, with her father's support, she was able to get education ①[that / what] most women of her time did not receive. In 1737, she submitted her paper on the nature of fire to a contest ②[sponsored / sponsoring] by the French Academy of Sciences, and it was published a year later. Her most significant achievement was ③[translating / translated] Isaac Newton's Principia into French near the end of her life. Her work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the struggle for women's participation in science.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'education'을 수식하는 목적격 관계대명사가 필요한 자리입니다. 'that' 또는 'which'가 올 수 있습니다. 선행사를 포함하는 관계대명사 'what'은 이 자리에 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "sponsored",
+          "explanation": "명사 'a contest'를 뒤에서 수식하는 분사 자리입니다. 콘테스트는 프랑스 과학 아카데미에 의해 '후원되는' 것이므로 수동의 의미를 가진 과거분사 'sponsored'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "translating",
+          "explanation": "'was'의 보어 역할을 하는 동명사가 필요한 자리입니다. 'Her most significant achievement'와 'translating...'은 동격 관계를 이루므로, 동명사 'translating'이 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

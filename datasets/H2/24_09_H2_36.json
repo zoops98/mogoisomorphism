@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "It would seem obvious that the more competent someone is, the more we will like that person.\nBy \"competence,\" I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc.\nWe stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us.\nBut the research evidence is paradoxical:\nIn problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked.\nWhy?\nOne possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable.\nThey may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison.\nIf this were true, we might like people more if they reveal some evidence of fallibility.\nFor example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "유능한 사람이 되는 구체적인 방법을 제시하기 위해" },
+        { "number": "②", "text": "호감도가 유능함보다 더 중요하다고 주장하기 위해" },
+        { "number": "③", "text": "유능함과 호감도 사이의 역설적인 관계를 설명하기 위해" },
+        { "number": "④", "text": "유능한 사람에게 불편함을 느끼는 태도를 비판하기 위해" },
+        { "number": "⑤", "text": "집단 내에서 최고의 아이디어를 내는 법을 조언하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '유능할수록 더 좋아할 것'이라는 일반적인 통념을 제시한 뒤, 연구 결과는 그와 반대되는 '역설적(paradoxical)'인 현상을 보여준다고 말합니다. 그리고 지나치게 유능한 사람이 왜 호감을 얻지 못하는지에 대한 심리적 이유와, 약간의 허점이 오히려 호감도를 높일 수 있다는 가설을 제시하며 유능함과 호감도의 복잡한 관계를 설명하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "It would seem obvious that the more competent someone is, the more we will like that person.\nBy \"competence,\" I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc.\nWe stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us.\nBut the research evidence is paradoxical:\nIn problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked.\nWhy?\nOne possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable.\nThey may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison.\nIf this were true, we might like people more if they reveal some evidence of fallibility.\nFor example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Key to Being Liked: Show Your Flaws" },
+        { "number": "②", "text": "Competence: The Most Desirable Quality" },
+        { "number": "③", "text": "How to Work in a Problem-Solving Group" },
+        { "number": "④", "text": "The Dangers of Social Comparison" },
+        { "number": "⑤", "text": "Why We Admire Superhuman Talents" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 지나치게 유능한 사람이 오히려 호감을 얻지 못하는 역설을 설명하며, 그 이유가 상대방을 불편하게 만들기 때문이라고 분석합니다. 그리고 결론적으로, 유능한 사람이 가끔 실수를 하거나 결점(flaws)을 보일 때 오히려 더 큰 호감을 얻을 수 있다고 암시합니다. 따라서 '호감을 얻는 비결: 당신의 결점을 보여줘라'라는 제목이 글의 핵심적인 제안을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "It would seem obvious that the more competent someone is, the more we will like that person.\nBy \"competence,\" I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc.\nWe stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us.\nBut the research evidence is paradoxical:\nIn problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked.\nWhy?\nOne possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable.\nThey may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison.\nIf this were true, we might like people more if they reveal some evidence of fallibility.\nFor example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "People naturally surround themselves with the most competent individuals to improve their own life skills." },
+        { "number": "②", "text": "In group settings, having the best ideas is the surest way to become the most popular member." },
+        { "number": "③", "text": "Excessive competence can make others feel inadequate, but showing some fallibility can increase one's likability." },
+        { "number": "④", "text": "It is more important to be a wise decision-maker than to be a brilliant and talented person." },
+        { "number": "⑤", "text": "True friendship is based on accepting each other's perfections rather than focusing on their flaws." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 내용은 지나친 유능함이 비교를 통해 다른 사람들을 불편하게 하고 위축시킬 수 있어서 오히려 호감도를 떨어뜨릴 수 있으며, 반대로 약간의 실수 가능성이나 결점을 보이는 것이 인간적인 매력을 더해 호감도를 높일 수 있다는 것입니다. 이 선택지가 이러한 양면적 관계를 가장 정확하게 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "In problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked. ( ① ) Why? ( ② ) They may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison. ( ③ ) If this were true, we might like people more if they reveal some evidence of fallibility. ( ④ ) For example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**One possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②번 바로 앞에 'Why?'라는 질문이 있습니다. 주어진 문장은 '한 가지 가능성은 ... 지나치게 유능한 사람들이 우리를 불편하게 만든다는 것이다'라며 이 질문에 대한 직접적인 답변을 제공합니다. 그리고 ②번 바로 뒤 문장은 그들이 어떻게 우리를 불편하게 만드는지('그들은 다가가기 어려워 보일 수 있다...')에 대한 구체적인 설명을 이어가므로, 주어진 문장은 ②의 위치에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "It would seem obvious that the more competent someone is, the more we will like that person. By 'competence,' I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc.",
+      "question_blocks": {
+        "A": "Why? One possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable. They may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison.",
+        "B": "We stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing... But the research evidence is paradoxical: in problem-solving groups, the participants who are considered the most competent... tend not to be the ones who are best liked.",
+        "C": "If this were true, we might like people more if they reveal some evidence of fallibility. For example, if your friend is a brilliant mathematician... you might like him or her better if, every once in a while, they screwed up."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '유능할수록 호감이 갈 것'이라는 일반적인 통념을 제시합니다. (B)는 이 통념을 뒷받침하는 듯하다가 'But'을 통해 연구 결과는 역설적이라며 문제 제기를 합니다. (A)는 이 역설에 대해 'Why?'라고 물으며, 지나친 유능함이 불편함을 준다는 심리적 이유를 설명합니다. (C)는 'If this were true'라며 (A)의 설명을 바탕으로 '결점을 보이면 더 좋아할 것'이라는 가설을 제시하고 구체적인 예를 듭니다. 따라서 통념 → 반박 → 이유 설명 → 가설 제시 순서인 (B)-(A)-(C)가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "We stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us.\nBut the research evidence is paradoxical:\nIn problem-solving groups, the participants who are considered the most competent and have the best ideas __________________________________.\nWhy?\nOne possibility is that... those who are too competent make us uncomfortable.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "always emerge as the natural leaders" },
+        { "number": "②", "text": "contribute the most to the group's success" },
+        { "number": "③", "text": "are often rewarded with promotions" },
+        { "number": "④", "text": "tend not to be the ones who are best liked" },
+        { "number": "⑤", "text": "feel the most pressure to perform well" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸 앞부분은 우리가 유능한 사람 곁에 있기를 원한다는 일반적인 생각을 제시합니다. 하지만 'But the research evidence is paradoxical(그러나 연구 증거는 역설적이다)'라는 표현을 통해 이와 반대되는 내용이 빈칸에 와야 함을 알 수 있습니다. 뒤이어 'Why?'라고 물으며 그 이유를 설명하는 것으로 보아, 빈칸에는 '가장 큰 호감을 얻는 사람들이 아닌 경향이 있다'는 역설적인 연구 결과가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "It would seem obvious that the more ① `competent` someone is, the more we will like that person. ... But the research evidence is ② `paradoxical`: In problem-solving groups, the participants who are considered the most competent... tend not to be the ones who are best liked. Why? One possibility is that... those who are too competent make us ③ `secure`. They may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison. If this were true, we might like people more if they reveal some evidence of ④ `fallibility`. For example, if your friend is a brilliant mathematician... you might like him or her ⑤ `better` if, every once in a while, they screwed up.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "competent" },
+        { "number": "②", "text": "paradoxical" },
+        { "number": "③", "text": "secure" },
+        { "number": "④", "text": "fallibility" },
+        { "number": "⑤", "text": "better" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 지나치게 유능한 사람이 왜 호감을 얻지 못하는지를 설명하는 부분에서, 그들이 우리를 '비교를 통해 초라하게 보이게 만들고 기분 나쁘게 만든다'고 말합니다. 이러한 감정은 '불편함(uncomfortable)'에 가깝지, '안심시키는(secure)' 것과는 정반대입니다. 따라서 secure는 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "By \"(A) `competence`,\" I mean a cluster of qualities... But the research evidence is (B) `paradoxical`... They may seem (C) `unapproachable`, distant, superhuman ― and make us look bad (and feel worse) by (D) `comparison`. If this were true, we might like people more if they reveal some evidence of (E) `fallibility`.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) competence: the ability to do something well" },
+        { "number": "②", "text": "(B) paradoxical: seeming impossible or difficult to understand because of containing two opposite facts" },
+        { "number": "③", "text": "(C) unapproachable: not easy to be sociable with or start a conversation with" },
+        { "number": "④", "text": "(D) comparison: the process of comparing two or more people or things" },
+        { "number": "⑤", "text": "(E) fallibility: the quality of being perfect and never making mistakes" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) fallibility는 '실수를 할 수 있음' 또는 '불완전함'을 의미하는 단어입니다. 제시된 영영 풀이인 '완벽하고 절대 실수하지 않는 특성'은 이와 정반대인 '무결성(infallibility)'을 의미하므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "In problem-solving groups, the participants who are considered the most (A) [competent / incompetent] and have the best ideas tend not to be the ones who are best liked. Why? One possibility is that... those who are too competent make us (B) [uncomfortable / comfortable]. ... If this were true, we might like people more if they reveal some evidence of (C) [fallibility / capability].",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "competent - uncomfortable - fallibility" },
+        { "number": "②", "text": "competent - comfortable - capability" },
+        { "number": "③", "text": "competent - uncomfortable - capability" },
+        { "number": "④", "text": "incompetent - comfortable - fallibility" },
+        { "number": "⑤", "text": "incompetent - uncomfortable - fallibility" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 이 글의 역설은 가장 '유능한(competent)' 사람들이 인기가 없다는 것입니다. (B) 지나치게 유능한 사람들은 우리를 '불편하게(uncomfortable)' 만듭니다. (C) 따라서 그들이 약간의 '실수 가능성/결점(fallibility)'을 보일 때 우리는 그들을 더 좋아하게 될 수 있습니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "It would seem obvious that the more competent someone is, the more we will like that person.\nBy \"competence,\" I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc.\nWe stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us.\nBut the research evidence is paradoxical:\nIn problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked.\nWhy?\nOne possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable.\nThey may seem unapproachable, distant, superhuman ― and make us look bad (and feel worse) by comparison.\nIf this were true, we might like people more if they reveal some evidence of fallibility.\nFor example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "유능함이란 똑똑함, 일 처리 능력, 현명한 결정 같은 자질들을 포함한다." },
+        { "number": "②", "text": "연구에 따르면, 집단 내에서 가장 유능한 사람이 가장 인기가 많지는 않다." },
+        { "number": "③", "text": "지나치게 유능한 사람은 비교를 통해 주변 사람들을 위축시킬 수 있다." },
+        { "number": "④", "text": "사람들은 완벽한 사람보다 결점이 있는 사람에게는 호감을 느끼지 못한다." },
+        { "number": "⑤", "text": "매우 유능한 친구가 가끔 실수를 하면 오히려 더 좋아하게 될 수도 있다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 마지막 부분에서 유능한 사람이 약간의 결점(fallibility)이나 실수를 보일 때 우리가 그를 '더 좋아하게 될지도 모른다(might like... better)'고 제안합니다. 이는 완벽한 사람보다 결점이 있는 사람에게 더 호감을 느낄 수 있음을 시사하므로, 선택지 ④는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "In problem-solving groups, the participants who are considered the most competent and have the best ideas ① [tend / tending] not to be the ones who are best liked. Why? One possibility is that... those who are too competent make us uncomfortable. They may seem unapproachable, distant, superhuman ― and ② [make / making] us look bad (and feel worse) by comparison. If this were true, we might like people more if they reveal some evidence of ③ [fallibility / fallible].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "tend",
+          "explanation": "이 절의 주어는 'the participants who ... ideas'이며, 이 주어에 대한 서술 동사가 필요한 자리입니다. 따라서 동사 'tend'가 와야 합니다. 'tending'은 분사 형태로 동사 역할을 할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "make",
+          "explanation": "조동사 'may'에 이어지는 동사 'seem'과 등위 접속사 'and'로 병렬 연결되어 있습니다. 따라서 '(They may) make'와 같이 동사원형 형태가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "fallibility",
+          "explanation": "전치사 'of'의 목적어로는 명사가 와야 합니다. 'fallibility'는 '실수할 수 있음, 불완전함'이라는 의미의 명사입니다. 'fallible'은 '실수하기 쉬운'이라는 의미의 형용사이므로 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

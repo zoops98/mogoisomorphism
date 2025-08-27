@@ -1,0 +1,197 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.\nWe recode what we see through the lens of everything we know.\nWe reconstruct memories rather than retrieving the video from memory.\nThis is a useful trait.\nIt's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.\nPeople who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a cost of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.\nThe discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.\nSeeing is not believing.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the overuse of digital image compression" },
+        { "number": "②", "text": "to argue for the reliability of eyewitness testimony" },
+        { "number": "③", "text": "to explain how memory works as a reconstructive process" },
+        { "number": "④", "text": "to promote a new educational model for learning concepts" },
+        { "number": "⑤", "text": "to compare the human brain to a raw video camera" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 인간의 기억이 비디오처럼 재생되는 것이 아니라, 배운 개념과 과거 경험을 통해 '재구성(reconstruct)'되는 과정임을 설명하고 있습니다. 이를 효율적인 정보 저장 방식이라고 설명하며 그 장점과 단점, 그리고 법적 영향까지 다루고 있습니다. 따라서 글의 주된 목적은 기억이 재구성 과정으로 작동하는 방식을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.\nWe recode what we see through the lens of everything we know.\nWe reconstruct memories rather than retrieving the video from memory.\nThis is a useful trait.\nIt's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.\nPeople who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a cost of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.\nThe discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.\nSeeing is not believing.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Our Brains: Reconstructors, Not Recorders" },
+        { "number": "②", "text": "The Undeniable Power of Eyewitnesses" },
+        { "number": "③", "text": "JPG vs. Bitmap: A Guide to Digital Images" },
+        { "number": "④", "text": "Why Perfect Memory Is a Blessing" },
+        { "number": "⑤", "text": "Seeing Is Believing: Trust Your Eyes" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 우리의 뇌가 본 것을 그대로 기록하는 '녹화기(recorders)'가 아니라, 기존의 지식과 경험을 바탕으로 정보를 재구성하는 '재구성자(reconstructors)'라는 것입니다. 이 제목은 글의 중심 사상을 가장 잘 포착하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.\nWe recode what we see through the lens of everything we know.\nWe reconstruct memories rather than retrieving the video from memory.\nThis is a useful trait.\nIt's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.\nPeople who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a cost of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.\nThe discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.\nSeeing is not believing.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Human memory actively reconstructs reality using abstract concepts, an efficient process that sacrifices perfect objective accuracy." },
+        { "number": "②", "text": "The legal system should place more trust in the detailed and flawless memories of various eyewitness testimonies." },
+        { "number": "③", "text": "Storing memories like a raw bitmap image file is far more efficient than using a compression algorithm like JPG." },
+        { "number": "④", "text": "The ability to remember every single detail of past events is a highly desirable and very useful trait." },
+        { "number": "⑤", "text": "Our past experiences and personal motivations have very little actual influence on how we perceive the world." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 인간의 기억이 정보를 효율적으로 저장하기 위해 추상적인 개념을 사용하여 현실을 '재구성'한다고 설명합니다. 이 과정은 효율적이라는 장점이 있지만('useful trait', 'efficient way'), 있는 그대로의 세상을 보는 것을 희생하는 대가('cost')가 따른다고 말합니다. 따라서 '인간의 기억은 추상적 개념을 사용하여 현실을 능동적으로 재구성하는데, 이는 완벽한 객관적 정확성을 희생하는 효율적인 과정이다'라는 ①번이 글의 요지를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "We reconstruct memories rather than retrieving the video from memory. This is a useful trait. It's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file. ( ① ) People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned. ( ② ) Instead, we see the world through our assumptions, motivations, and past experiences. ( ③ ) The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony. ( ④ ) Seeing is not believing. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But representing the world as abstract ideas and features comes at a cost of seeing the world as it is.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '그러나 세상을 추상적인 개념과 특징으로 표현하는 것은 세상을 있는 그대로 보는 대가를 치른다'는 내용으로, 기억 재구성 방식의 단점을 처음으로 제시하는 전환점 역할을 합니다. 이 문장은 기억 재구성 능력의 장점(일반화, 학습에 도움)을 설명한 문장과, 그 단점의 구체적인 내용(우리는 가정을 통해 세상을 본다)을 설명하는 'Instead' 문장 사이에 위치하여, 글의 흐름을 장점에서 단점으로 자연스럽게 전환시킵니다. 따라서 정답은 ②번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education. We recode what we see through the lens of everything we know.",
+      "question_blocks": {
+        "A": "This is a useful trait. It's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+        "B": "But representing the world as abstract ideas and features comes at a cost of seeing the world as it is. Instead, we see the world through our assumptions, motivations, and past experiences.",
+        "C": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 글은 우리가 보는 것을 개념을 통해 재구성한다는 기본 원리를 소개합니다. (A)에서 'This is a useful trait'라며 이 특성이 유용하고 효율적임을 JPG 압축에 비유하여 설명합니다. (C)에서는 이러한 능력이 없는 사람들(모든 것을 완벽하게 기억하는 사람)이 겪는 어려움을 설명함으로써 (A)에서 말한 '유용함'을 뒷받침합니다. 마지막으로 (B)에서 'But'을 사용하여 화제를 전환, 이러한 방식의 단점(있는 그대로 보지 못함)을 설명하며 글을 이어갑니다. 따라서 (A)-(C)-(B) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.\nWe recode what we see through the lens of everything we know.\nWe reconstruct memories rather than retrieving the video from memory.\nThis is a useful trait. It's a more efficient way to store information.\nPeople who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a cost of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.\nThe discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined [____________________].\nSeeing is not believing.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the study of abstract art" },
+        { "number": "②", "text": "the value of a good education" },
+        { "number": "③", "text": "the need for better data storage" },
+        { "number": "④", "text": "the legal primacy of eyewitness testimony" },
+        { "number": "⑤", "text": "our ability to learn from experience" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 우리의 기억이 객관적인 기록이 아니라 주관적으로 재구성된다는 점을 강조합니다. 빈칸은 이러한 발견이 어떤 기존의 권위를 '약화시켰는지(undermined)'를 묻고 있습니다. 기억이 부정확하고 재구성될 수 있다는 사실은, 목격자의 증언을 매우 중요한 증거로 여겼던 법률 시스템에 큰 영향을 미쳤을 것입니다. 따라서 빈칸에는 '목격자 증언의 법적 우위'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.\nWe recode what we see through the lens of everything we know.\nWe reconstruct memories rather than retrieving the video from memory.\nThis is a ① [useful] trait.\nIt's a more efficient way to store information.\nPeople who ② [lack] this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a ③ [cost] of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.\nThe discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely ④ [strengthened] the legal primacy of eyewitness testimony.\nSeeing is not ⑤ [believing].",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① useful" },
+        { "number": "②", "text": "② lack" },
+        { "number": "③", "text": "③ cost" },
+        { "number": "④", "text": "④ strengthened" },
+        { "number": "⑤", "text": "⑤ believing" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "기억이 비디오처럼 재생되는 것이 아니라 재구성된다는 발견은, 목격자의 증언이 100% 정확하지 않을 수 있다는 것을 의미합니다. 이러한 발견은 목격자 증언의 신뢰도를 떨어뜨려 법적인 우위를 '약화시켰다(undermined)'고 보는 것이 논리적입니다. '강화했다(strengthened)'는 것은 문맥상 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "We reconstruct memories rather than (A) [retrieving] the video from memory.\nThis is a useful trait.\nIt's a more (B) [efficient] way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.\nPeople who lack this ability and remember everything in perfect detail struggle to (C) [generalize], learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a (D) [cost] of seeing the world as it is.\nThe discovery that our memories are reconstructed completely undermined the legal (E) [primacy] of eyewitness testimony.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) retrieving: to find and bring back something from somewhere" },
+        { "number": "②", "text": "(B) efficient: working well and not wasting time or energy" },
+        { "number": "③", "text": "(C) generalize: to ignore the details of something on purpose" },
+        { "number": "④", "text": "(D) cost: something that is lost or given up in order to get something else" },
+        { "number": "⑤", "text": "(E) primacy: the state of being the most important or powerful" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'generalize(일반화하다)'는 여러 사례로부터 공통점을 찾아내어 일반적인 원리나 결론을 이끌어내는 것을 의미합니다. 영영 풀이 'to ignore the details of something on purpose (의도적으로 무언가의 세부사항을 무시하다)'는 '일반화'의 과정에서 나타날 수 있는 한 측면일 수는 있으나, 그 핵심 의미를 정확하게 설명하지 못합니다. 오히려 부정적인 뉘앙스를 담고 있습니다. 따라서 ③번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "We (A) [reconstruct / retrieve] memories rather than retrieving the video from memory.\nThis is a useful trait. It's a more (B) [efficient / deficient] way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.\nPeople who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a (C) [cost / profit] of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "reconstruct - efficient - cost" },
+        { "number": "②", "text": "reconstruct - deficient - profit" },
+        { "number": "③", "text": "reconstruct - efficient - profit" },
+        { "number": "④", "text": "retrieve - deficient - cost" },
+        { "number": "⑤", "text": "retrieve - efficient - cost" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 이 글의 핵심은 기억을 비디오처럼 '인출(retrieve)'하는 것이 아니라 '재구성(reconstruct)'한다는 것입니다. (B) 이 방식은 정보를 저장하는 데 더 '효율적인(efficient)' 방법이라고 설명합니다. 'deficient'는 '결함이 있는'이라는 뜻입니다. (C) 하지만 이 방식에는 세상을 있는 그대로 보지 못하는 '대가(cost)'가 따른다고 설명합니다. 'profit'은 '이익'이라는 뜻으로 반대 의미입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.\nWe recode what we see through the lens of everything we know.\nWe reconstruct memories rather than retrieving the video from memory.\nThis is a useful trait.\nIt's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.\nPeople who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.\nBut representing the world as abstract ideas and features comes at a cost of seeing the world as it is.\nInstead, we see the world through our assumptions, motivations, and past experiences.\nThe discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.\nSeeing is not believing.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "The human brain stores information efficiently, similar to a JPG file." },
+        { "number": "②", "text": "Having a perfect, detailed memory makes it easier to generalize information." },
+        { "number": "③", "text": "We perceive the world based on our past experiences and assumptions." },
+        { "number": "④", "text": "The way our memory works has significant implications for the legal system." },
+        { "number": "⑤", "text": "Our minds reconstruct memories instead of replaying them like a video." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "본문에서는 'People who lack this ability and remember everything in perfect detail struggle to generalize...(이 능력이 부족하고 모든 것을 완벽하게 세부적으로 기억하는 사람들은 일반화하는 데 어려움을 겪는다...)'라고 명시하고 있습니다. 따라서 완벽하고 세부적인 기억을 갖는 것이 정보 일반화를 더 쉽게 만든다는 ②번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① We reconstruct memories rather than [retrieving / to retrieve] the video from memory. ② It's a more efficient way to store information ─ a bit like an optimal image compression algorithm such as JPG, rather than [storing / stored] a raw bitmap image file. ③ People who lack this ability and remember everything in perfect detail [struggle / struggles] to generalize, learn, and make connections. ④ The discovery [that / what] our memories are reconstructed through abstract representations completely undermined the legal primacy of eyewitness testimony.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "retrieving",
+          "explanation": "'A rather than B' 구문에서 A와 B는 문법적으로 대등한 형태를 이루어야 합니다. 이 문장은 'We reconstruct... rather than we retrieve...'의 의미를 축약한 것으로, 동명사 'retrieving'을 사용하여 'reconstruct'와 대구를 이루는 것이 자연스럽습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "storing",
+          "explanation": "이 또한 'rather than' 구문으로, 'like ... rather than ...'의 구조입니다. 'like' 뒤에 명사구가 온 것처럼 'rather than' 뒤에도 대등한 형태인 동명사구 'storing a raw bitmap...'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "struggle",
+          "explanation": "이 문장의 주어는 관계대명사 'who'의 선행사인 'People'입니다. 'People'은 복수 명사이므로, 동사도 복수형인 'struggle'이 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "that",
+          "explanation": "뒤따르는 절 'our memories are reconstructed...'는 완전한 문장 구조를 가지고 있습니다. 이 절은 'The discovery'와 동격의 관계를 이루므로, 동격의 접속사 'that'이 와야 합니다. 'what'은 불완전한 절을 이끕니다."
+        }
+      ]
+    }
+  ]
+}

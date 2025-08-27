@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored. In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of forgetting.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to promote the benefits of modern air-conditioning"
+        },
+        {
+          "number": "②",
+          "text": "to describe the architecture of various cities"
+        },
+        {
+          "number": "③",
+          "text": "to explain how to install an air-conditioning unit"
+        },
+        {
+          "number": "④",
+          "text": "to criticize the neglect of traditional architectural wisdom"
+        },
+        {
+          "number": "⑤",
+          "text": "to advertise tourism in hot climates"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 에어컨의 등장으로 인해 현대 건축이 전통적인 지혜를 무시하게 되었다고 주장합니다. 과거 건축가들이 더위를 다루기 위해 사용했던 효과적인 방법들을 나열한 후, 이러한 지혜가 '무시되고(ignored)' 있으며 에어컨이 '망각의 기술'이 되었다고 비판합니다. 따라서 글의 주된 목적은 전통 건축 지혜의 경시에 대한 비판입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored. In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of forgetting.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The History of Sealed Boxes"
+        },
+        {
+          "number": "②",
+          "text": "Air-Conditioning: A Technology of Forgetting Wisdom"
+        },
+        {
+          "number": "③",
+          "text": "How to Build a Mudbrick House in Tucson"
+        },
+        {
+          "number": "④",
+          "text": "The Importance of Filtered Airflow"
+        },
+        {
+          "number": "⑤",
+          "text": "Architectural Marvels of the Ancient World"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 에어컨 기술이 개인의 편안함을 제공하는 동시에, 더위를 다루는 전통적인 건축 지혜를 잊게 만드는 '망각의 기술'이라는 것입니다. 이 제목은 글의 마지막 문장이자 핵심 주제를 직접적으로 반영하여 전체 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored. In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of forgetting.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The widespread adoption of air-conditioning has resulted in the neglect of traditional architectural knowledge for managing heat."
+        },
+        {
+          "number": "②",
+          "text": "Modern architects have successfully integrated traditional building techniques with advanced air-conditioning systems for better energy efficiency."
+        },
+        {
+          "number": "③",
+          "text": "Old buildings in hot climates are no longer comfortable or effective due to recent and drastic changes in weather patterns."
+        },
+        {
+          "number": "④",
+          "text": "The main benefit of air-conditioning is that it encourages smarter and more climate-aware architectural design in modern times."
+        },
+        {
+          "number": "⑤",
+          "text": "Building with thick walls and white roofs is a modern invention inspired by the cooling efficiency of air-conditioning."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 에어컨의 보급으로 인해, 더위를 자연적으로 관리해 온 수 세기 동안의 전통적인 건축 지식이 무시되고 있다는 것입니다. 현대의 '밀폐된 상자'와 전통 건축물을 대조하며 이 점을 명확히 하고 있습니다. 따라서 '에어컨의 광범위한 채택은 열을 관리하기 위한 전통적인 건축 지식의 경시를 초래했다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. ( ① ) In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of forgetting. ( ② ) ( ③ ) ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '하지만 이 모든 지혜는... 너무 자주 무시된다'는 내용입니다. 여기서 '이 모든 지혜(all this wisdom)'는 바로 앞 문장까지 설명된 전통 건축 방법들(두꺼운 벽, 흰 지붕, 좁은 거리 등)을 가리킵니다. 전통 방식이 효과적이라는 것을 확인한 후, '하지만(But)'이라는 역접 접속사를 사용하여 이 지혜가 무시되고 있다는 문제점을 지적하고, 그 결과 에어컨이 '망각의 기술'이라는 결론으로 이어지는 것이 자연스러운 흐름입니다. 따라서 주어진 문장은 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way.",
+      "question_blocks": {
+        "A": "They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow.",
+        "B": "Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors.",
+        "C": "Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored. In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of forgetting."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 에어컨으로 인한 '밀폐된 상자' 건축의 문제를 제기합니다. (B)는 이에 대한 대안으로 '옛 건물'을 살펴보라고 제안하며, 전통 건축가들이 이해했던 일반적인 원리(그늘, 공기 흐름 등)를 소개합니다. (A)는 (B)에서 언급된 원리들의 구체적인 적용 사례(건물 방향, 두꺼운 벽 등)를 설명합니다. 마지막으로 (C)는 이러한 방법들이 효과적임을 확인하고('knows how well...'), '하지만' 이러한 지혜가 무시되고 있음을 지적하며, 에어컨을 '망각의 기술'로 규정하며 글을 마무리합니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored. In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of [____________________].",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "innovation"
+        },
+        {
+          "number": "②",
+          "text": "health"
+        },
+        {
+          "number": "③",
+          "text": "communication"
+        },
+        {
+          "number": "④",
+          "text": "forgetting"
+        },
+        {
+          "number": "⑤",
+          "text": "efficiency"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 글의 결론이자 핵심 주장입니다. 글쓴이는 에어컨이 단지 편안함을 주는 기술일 뿐만 아니라, 수 세기 동안 축적된 전통적인 건축 지혜를 '무시하게(ignored)' 만드는 역할을 한다고 비판합니다. 따라서 에어컨은 이러한 지혜를 잊게 만드는 '망각'의 기술이라고 말하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The rise of air-conditioning ① [accelerated] the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to ② [capture] cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to ③ [encourage] airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ④ [applied]. In this sense, air-conditioning is not just a technology of personal ⑤ [comfort]; it is also a technology of forgetting.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 문장은 '하지만(But)'으로 시작하여, 앞서 언급된 효과적인 전통 건축 지혜가 오늘날 어떻게 다루어지는지를 설명합니다. 글의 전체적인 논조는 이러한 지혜가 현대에 와서 무시되고 있다는 것이므로, '적용된다'는 의미의 'applied'는 문맥상 어색합니다. '무시된다'는 의미의 'ignored'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The rise of air-conditioning accelerated the construction of (A) [sealed] boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They (B) [oriented] buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and (C) [transoms] over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this (D) [wisdom] about how to deal with heat, (E) [accumulated] over centuries of practical experience, is all too often ignored.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) sealed: closed tightly so that air or liquid cannot get in or out"
+        },
+        {
+          "number": "②",
+          "text": "(B) oriented: built or placed to face a particular direction"
+        },
+        {
+          "number": "③",
+          "text": "(C) transoms: decorative pieces of wood used to build a roof"
+        },
+        {
+          "number": "④",
+          "text": "(D) wisdom: the ability to use your knowledge and experience to make good decisions"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) accumulated: gathered or collected over a period of time"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) transoms는 문 위에 있는 작은 창문을 의미하며, 공기 흐름을 돕는 역할을 합니다. 제시된 영영 풀이 'decorative pieces of wood used to build a roof(지붕을 짓는 데 사용되는 장식용 목재 조각)'는 'transoms'의 의미와 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to (A) [capture / release] cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to (B) [encourage / restrict] airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often (C) [ignored / respected].",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "capture - encourage - ignored" },
+        { "number": "②", "text": "capture - restrict - respected" },
+        { "number": "③", "text": "release - encourage - ignored" },
+        { "number": "④", "text": "release - restrict - respected" },
+        { "number": "⑤", "text": "capture - encourage - respected" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 시원한 산들바람을 '잡기(포착하기)' 위해 건물의 방향을 정하는 것이므로 'capture'가 맞습니다. (B) 문 위의 채광창(transom)은 공기 흐름을 '촉진하기' 위한 것이므로 'encourage'가 적절합니다. (C) 글의 핵심 주장에 따라, 이러한 전통 지혜는 오늘날 너무 자주 '무시된다'고 해야 하므로 'ignored'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings to capture cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, knows how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, is all too often ignored. In this sense, air-conditioning is not just a technology of personal comfort; it is also a technology of forgetting.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Air-conditioning led to the increased construction of sealed buildings."
+        },
+        {
+          "number": "②",
+          "text": "Traditional architects in hot climates used design to manage heat."
+        },
+        {
+          "number": "③",
+          "text": "Thick walls and white roofs were used to encourage airflow in old buildings."
+        },
+        {
+          "number": "④",
+          "text": "The author argues that traditional building methods are ineffective."
+        },
+        {
+          "number": "⑤",
+          "text": "The author calls air-conditioning a 'technology of forgetting'."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'Anyone who has ever spent a few minutes in a mudbrick house... knows how well these construction methods work'라고 말하며, 전통 건축 방법들이 얼마나 잘 작동하는지(효과적인지)를 강조합니다. 따라서 저자가 전통 건축 방법이 비효과적이라고 주장한다는 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The rise of air-conditioning accelerated the construction of sealed boxes, where the building's only airflow is through the filtered ducts of the air-conditioning unit. It doesn't have to be this way. Look at any old building in a hot climate, whether it's in Sicily or Marrakesh or Tehran. Architects understood the importance of shade, airflow, light colors. They oriented buildings ① [to capture / capturing] cool breezes and block the worst heat of the afternoon. They built with thick walls and white roofs and transoms over doors to encourage airflow. Anyone who has ever spent a few minutes in a mudbrick house in Tucson, or walked on the narrow streets of old Seville, ② [knows / know] how well these construction methods work. But all this wisdom about how to deal with heat, accumulated over centuries of practical experience, ③ [is / are] all too often ignored.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to capture",
+          "explanation": "'~하기 위하여'라는 목적을 나타내는 to부정사의 부사적 용법으로 사용되었습니다. 따라서 'to capture'가 맞습니다. 'and (to) block'와 병렬 구조를 이룹니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "knows",
+          "explanation": "주어는 단수 명사인 'Anyone'입니다. 'who'가 이끄는 관계대명사절이 주어를 수식하고 있으므로, 동사는 단수 주어에 맞춰 'knows'가 되어야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "is",
+          "explanation": "주어는 'all this wisdom'으로, 셀 수 없는 명사인 'wisdom'이 핵심입니다. 따라서 동사는 단수형인 'is'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

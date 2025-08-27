@@ -1,0 +1,267 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to analyze an economic theory"
+        },
+        {
+          "number": "②",
+          "text": "to provide a brief biography of a person"
+        },
+        {
+          "number": "③",
+          "text": "to promote a specific university"
+        },
+        {
+          "number": "④",
+          "text": "to discuss the history of the Nobel Prize"
+        },
+        {
+          "number": "⑤",
+          "text": "to encourage students to major in history"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Robert E. Lucas, Jr.의 출생, 학력, 경력, 그리고 주요 업적(노벨상 수상) 등 그의 일생에 대한 사실들을 순차적으로 제공하고 있습니다. 따라서 이 글의 목적은 한 인물의 간략한 전기를 제공하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The History of the University of Chicago"
+        },
+        {
+          "number": "②",
+          "text": "From History Major to Nobel Laureate"
+        },
+        {
+          "number": "③",
+          "text": "The Impact of World War II on Seattle"
+        },
+        {
+          "number": "④",
+          "text": "A Guide to Winning the Nobel Prize"
+        },
+        {
+          "number": "⑤",
+          "text": "Economics vs. History: A Comparison"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Robert E. Lucas, Jr.가 학부에서 역사를 전공했지만 경제학에 관심을 갖게 되어 결국 경제학 교수가 되고 노벨상까지 수상하게 된 과정을 서술하고 있습니다. 따라서 '역사 전공자에서 노벨상 수상자까지'라는 제목이 그의 인생 경로를 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Robert E. Lucas, Jr. transitioned from history to economics and became a highly influential Nobel Prize-winning professor."
+        },
+        {
+          "number": "②",
+          "text": "The primary focus of Robert E. Lucas, Jr.'s life was teaching economic history at the University of California."
+        },
+        {
+          "number": "③",
+          "text": "Despite his great influence as an economist, Robert E. Lucas, Jr. was unfortunately never awarded the Nobel Prize."
+        },
+        {
+          "number": "④",
+          "text": "Robert E. Lucas, Jr. spent his entire academic and teaching career at Carnegie Mellon University after graduating."
+        },
+        {
+          "number": "⑤",
+          "text": "The experiences of Robert E. Lucas, Jr. during World War II directly led to his significant interest in economics."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Robert E. Lucas, Jr.의 삶의 주요 경로를 요약하고 있습니다. 그는 역사학에서 경제학으로 전공을 바꾸었고, 매우 영향력 있는 경제학 교수가 되어 노벨상을 수상했습니다. 이 문장은 그의 학문적 전환과 주요 성취를 포괄적으로 담고 있어 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. ( ① ) ( ② ) He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. ( ③ ) He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**He earned a doctoral degree in economics from the University of Chicago in 1964.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글은 시간 순서대로 서술되고 있습니다. 주어진 문장은 그가 1964년에 경제학 박사 학위를 취득했다는 내용입니다. 이 문장은 그가 경제학에 관심을 갖게 된 후, 그리고 그의 교수 경력이 시작되는 부분 앞에 위치하는 것이 가장 자연스럽습니다. 경제학에 대한 관심이 박사 과정으로 이어지고, 그 이후 본격적인 교수 생활과 학문적 성취가 뒤따르기 때문입니다. 따라서 정답은 ②입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington.",
+      "question_blocks": {
+        "A": "He earned a doctoral degree in economics from the University of Chicago in 1964.",
+        "B": "At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics.",
+        "C": "He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 출생에 대한 정보입니다. 글은 시간의 흐름에 따라 전개되어야 합니다. (B)에서 그의 학부 시절과 경제학에 대한 관심의 시작을 다루는 것이 자연스럽습니다. 그 다음, (A)에서 1964년에 박사 학위를 취득한 사실을 언급합니다. 마지막으로 (C)에서 그의 교수 경력과 노벨상 수상이라는 후기 업적을 서술하는 것이 논리적인 순서입니다. 따라서 정답은 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in [____________________]. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "economics" },
+        { "number": "②", "text": "history" },
+        { "number": "③", "text": "physics" },
+        { "number": "④", "text": "literature" },
+        { "number": "⑤", "text": "political science" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸이 있는 문장은 Lucas가 시카고 대학교에서 무엇을 전공했는지를 묻고 있습니다. 바로 다음 문장에서 그가 버클리에서 '경제사' 과목을 수강한 후에 경제학에 관심을 갖게 되었다고 했으므로, 그 이전의 학부 전공은 경제학이 아니었음을 알 수 있습니다. 본문은 그가 '역사(history)'를 전공했다고 명시하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family ① [moved] to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he ② [majored] in history. After taking economic history courses at University of California, Berkeley, he ③ [developed] an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before ④ [returning] to the University of Chicago to become a professor of economics. He was known as a very ⑤ [insignificant] economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 마지막 부분은 Lucas가 1995년에 노벨 경제학상을 수상했다고 언급합니다. 노벨상을 수상한 인물이 '중요하지 않은(insignificant)' 경제학자로 알려졌다는 것은 논리적으로 모순됩니다. 그는 '영향력 있는(influential)' 경제학자였으므로, ⑤번이 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he (A) [graduated from] Roosevelt High School. At the University of Chicago, he (B) [majored in] history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a (C) [doctoral degree] in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a (D) [professor] of economics. He was known as a very influential economist and, in 1995, he was (E) [awarded] the Nobel Prize in Economic Sciences.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) graduated from: successfully completed a course of study at a school"
+        },
+        {
+          "number": "②",
+          "text": "(B) majored in: studied something as a main subject at a university"
+        },
+        {
+          "number": "③",
+          "text": "(C) doctoral degree: the highest level of academic degree"
+        },
+        {
+          "number": "④",
+          "text": "(D) professor: a teacher of high rank at a college or university"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) awarded: to have something taken away as a form of penalty"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) awarded는 상이나 상금 등을 '수여하다' 또는 '받다'라는 의미입니다. 제시된 영영 풀이 'to have something taken away as a form of penalty(벌의 형태로 무언가를 빼앗기다)'는 '몰수당하다(confiscated)'에 가까운 의미로, 'awarded'의 뜻과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family (A) [moved / settled] to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an (B) [interest / indifference] in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 (C) [before / after] returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "moved - interest - before" },
+        { "number": "②", "text": "moved - indifference - after" },
+        { "number": "③", "text": "settled - interest - after" },
+        { "number": "④", "text": "settled - indifference - before" },
+        { "number": "⑤", "text": "moved - interest - after" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 제2차 세계대전 중에 그의 가족은 시애틀로 '이사했다'는 의미가 자연스러우므로 'moved'가 맞습니다. 'settled to'는 어법에 맞지 않습니다. (B) 경제사 과목을 수강한 후 경제학에 '관심'을 갖게 되었으므로 'interest'가 적절합니다. 'indifference'는 '무관심'이라는 반대 의미입니다. (C) 1974년까지 카네기 멜런 대학에서 가르치고 그 '이후에' 시카고 대학으로 돌아간 것이므로 'before returning(돌아가기 전에)'이 문맥상 맞습니다. '1974년까지 가르쳤다'는 내용이 '돌아가기 전'에 일어난 일이기 때문입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, where he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After taking economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before returning to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "Robert E. Lucas, Jr.에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "제2차 세계대전 중 그의 가족은 시애틀로 이사했다."
+        },
+        {
+          "number": "②",
+          "text": "시카고 대학교에서 역사학을 전공했다."
+        },
+        {
+          "number": "③",
+          "text": "경제학에 대한 관심은 버클리에서 시작되었다."
+        },
+        {
+          "number": "④",
+          "text": "카네기 멜런 대학에서 박사 학위를 받았다."
+        },
+        {
+          "number": "⑤",
+          "text": "1995년에 노벨 경제학상을 수상했다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에 따르면, 그는 'earned a doctoral degree in economics from the University of Chicago in 1964'라고 되어 있습니다. 따라서 그는 시카고 대학교에서 박사 학위를 받았으며, 카네기 멜런 대학에서는 가르쳤습니다. ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Robert E. Lucas, Jr. was born on September 15, 1937, in Yakima, Washington. During World War II, his family moved to Seattle, ① [where / which] he graduated from Roosevelt High School. At the University of Chicago, he majored in history. After ② [taking / taken] economic history courses at University of California, Berkeley, he developed an interest in economics. He earned a doctoral degree in economics from the University of Chicago in 1964. He taught at Carnegie Mellon University from 1963 to 1974 before ③ [returning / returned] to the University of Chicago to become a professor of economics. He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "where",
+          "explanation": "선행사 'Seattle'을 수식하며, 뒷문장 'he graduated from Roosevelt High School (in Seattle)'이 완전한 절이므로 관계부사 'where'가 적절합니다. 'which'는 뒷문장이 불완전할 때 사용됩니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "taking",
+          "explanation": "전치사 'After'의 목적어 자리이므로 동명사 'taking'이 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "returning",
+          "explanation": "전치사 'before'의 목적어 자리이므로 동명사 'returning'이 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways.\nLinguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor.\nIn the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive effort and without further engaging Shakespeare's prose.\nTechnological metaphors, on the other hand, are active (and often imposing) in the sense that they are realized in digital artifacts that are actively doing things, forcefully changing a user's meaning horizon.\nTechnological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance.\nShakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and requires some thought on the part of the audience.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the overuse of metaphors in modern technology" },
+        { "number": "②", "text": "to explain the cognitive process of understanding Shakespeare" },
+        { "number": "③", "text": "to argue that all metaphors function in the same basic way" },
+        { "number": "④", "text": "to compare and contrast two different types of metaphors" },
+        { "number": "⑤", "text": "to promote a new digital technology based on a linguistic metaphor" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '언어적 은유(linguistic metaphors)'와 '기술적 은유(technological metaphors)'라는 두 가지 유형을 제시하고, 각각의 특징을 설명하며 그 차이점을 명확히 대조하고 있습니다. 언어적 은유는 '수동적(passive)'이고 인지적 노력을 요구하는 반면, 기술적 은유는 '능동적(active)'이고 즉각적인 이해를 목표로 한다고 설명합니다. 따라서 글의 주된 목적은 두 가지 다른 유형의 은유를 비교하고 대조하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways.\nLinguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor.\nIn the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive effort and without further engaging Shakespeare's prose.\nTechnological metaphors, on the other hand, are active (and often imposing) in the sense that they are realized in digital artifacts that are actively doing things, forcefully changing a user's meaning horizon.\nTechnological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance.\nShakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and requires some thought on the part of the audience.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Active vs. The Passive: Two Faces of Metaphor" },
+        { "number": "②", "text": "Why Shakespeare's Works Are Still Beloved Today" },
+        { "number": "③", "text": "The Selling Points of Modern Digital Technology" },
+        { "number": "④", "text": "How Cognitive Effort Hinders Understanding" },
+        { "number": "⑤", "text": "Digital Artifacts: A New Form of Literature" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심은 언어적 은유를 '수동적(passive)'으로, 기술적 은유를 '능동적(active)'으로 규정하고 이 둘의 차이점을 설명하는 것입니다. '능동적인 것 대 수동적인 것: 은유의 두 얼굴'이라는 제목은 이 글의 중심적인 대조 구조를 가장 잘 포착하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways.\nLinguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor.\nIn the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive effort and without further engaging Shakespeare's prose.\nTechnological metaphors, on the other hand, are active (and often imposing) in the sense that they are realized in digital artifacts that are actively doing things, forcefully changing a user's meaning horizon.\nTechnological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance.\nShakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and requires some thought on the part of the audience.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Digital metaphors are distinct from literary ones as they are active and designed for immediate, effortless user comprehension." },
+        { "number": "②", "text": "Technological creators should design their products to require more cognitive effort from users, much like Shakespeare's works." },
+        { "number": "③", "text": "The primary value of all metaphors, whether linguistic or digital, lies in their unique ability to be instantly understood." },
+        { "number": "④", "text": "Shakespeare's metaphors are considered a form of active metaphor because they forcefully change a person's meaning horizon." },
+        { "number": "⑤", "text": "The evolution of modern digital technology has made traditional linguistic metaphors completely obsolete and no longer relevant." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 기술적(디지털) 은유가 언어적(문학적) 은유와 근본적으로 다르다고 주장합니다. 언어적 은유는 이해하는 데 노력이 필요한 반면, 기술적 은유는 사용자가 즉각적이고 수월하게 이해하도록 '능동적(active)'으로 설계된다는 점을 핵심 차이로 설명합니다. 따라서 '디지털 은유는 능동적이고 즉각적이며 수월한 사용자 이해를 위해 설계된다는 점에서 문학적 은유와 구별된다'는 ①번이 글의 요지를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Linguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor. In the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive effort. ( ① ) Technological metaphors, on the other hand, are active in the sense that they are realized in digital artifacts that are actively doing things, forcefully changing a user's meaning horizon. ( ② ) Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and requires some thought on the part of the audience. ( ③ ) This distinction highlights the different goals of art and technology. ( ④ ) One seeks to provoke thought, while the other seeks to simplify tasks. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 기술 창조자들이 왜 기술의 유용성을 첫눈에 명백하게 만드는지를 설명합니다(사용자가 궁금해하게 만들 여유가 없음). 이 문장은 기술적 은유가 '능동적'이라고 소개한 문장 바로 뒤, 그리고 셰익스피어의 작품이 사랑받는 이유(즉각적으로 명백하지 않음)를 대조적으로 설명하는 문장 바로 앞에 위치해야 합니다. 즉, 기술적 은유의 특징에 대한 이유를 설명하고, 그와는 반대되는 문학적 은유의 가치를 설명하기 전의 다리 역할을 하는 것이 가장 자연스럽습니다. 따라서 정답은 ②번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways.",
+      "question_blocks": {
+        "A": "Technological metaphors, on the other hand, are active (and often imposing) in the sense that they are realized in digital artifacts that are actively doing things, forcefully changing a user's meaning horizon.",
+        "B": "Linguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor. In the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive effort.",
+        "C": "Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 디지털 은유와 언어적 은유의 차이점을 소개합니다. 글의 논리적 전개상, 두 가지를 비교할 때 하나를 먼저 설명하는 것이 자연스럽습니다. (B)에서 '언어적 은유'의 수동적 특성을 먼저 설명합니다. 그 다음, 'on the other hand'라는 대조 연결어를 사용하여 (A)에서 '기술적 은유'의 능동적 특성을 설명합니다. 마지막으로 (C)에서 (A)에서 언급된 기술적 은유가 왜 그렇게 설계되었는지에 대한 이유(판매 포인트)를 설명하며 논지를 구체화합니다. 따라서 (B)-(A)-(C)가 가장 자연스러운 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones. Linguistic metaphors are passive, requiring cognitive effort. In the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand it easily. Technological metaphors, on the other hand, are active. Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is [____________________]. Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately clear.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a result of deep thought" },
+        { "number": "②", "text": "hidden from the average user" },
+        { "number": "③", "text": "obvious at first glance" },
+        { "number": "④", "text": "a topic for academic debate" },
+        { "number": "⑤", "text": "dependent on the user's creativity" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 기술적 은유와 문학적 은유를 대조합니다. 문학적 은유는 이해하는 데 노력이 필요한 반면, 기술적 은유는 사용자가 어떻게 작동하는지 궁금해하게 만들 여유가 없다고 설명합니다. 따라서 기술의 '판매 포인트(selling point)'는 그 유용성이 즉각적으로 드러나는 것이어야 합니다. 빈칸에는 '첫눈에 명백한'이라는 의미의 'obvious at first glance'가 들어가는 것이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways. Linguistic metaphors are ① [passive], in the sense that the audience needs to choose to actively enter the world proposed by metaphor. In the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive ② [effort]. Technological metaphors, on the other hand, are ③ [active] in the sense that they are realized in digital artifacts. Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is ④ [hidden]. Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and ⑤ [requires] some thought.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① passive" },
+        { "number": "②", "text": "② effort" },
+        { "number": "③", "text": "③ active" },
+        { "number": "④", "text": "④ hidden" },
+        { "number": "⑤", "text": "⑤ requires" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 기술적 은유의 '판매 포인트(selling point)'가 그 유용성이 즉각적으로 드러나는 것이라고 설명합니다. 사용자가 어떻게 작동하는지 궁금해하게 만들 여유가 없기 때문입니다. 따라서 기술의 유용성이 '숨겨져 있다(hidden)'는 것은 문맥에 맞지 않습니다. 오히려 '명백하다(obvious)'는 단어가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Digital technologies are essentially related to (A) [metaphors], but digital metaphors are different from linguistic ones in important ways. Linguistic metaphors are (B) [passive], in the sense that the audience needs to choose to actively enter the world proposed by metaphor. In the Shakespearean metaphor, the audience is unlikely to understand it without (C) [cognitive] effort. Technological metaphors, on the other hand, are active, forcefully changing a user's meaning horizon. Technological creators cannot generally (D) [afford] to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is (E) [obvious] at first glance.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) metaphors: ways of describing something by referring to it as something different" },
+        { "number": "②", "text": "(B) passive: accepting what happens or what people do without trying to change anything" },
+        { "number": "③", "text": "(C) cognitive: related to emotions and feelings rather than thought" },
+        { "number": "④", "text": "(D) afford: to have enough money or time for something" },
+        { "number": "⑤", "text": "(E) obvious: easy to see, recognize, or understand" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'cognitive(인지의)'는 생각, 정신적 과정, 이해와 관련된 것을 의미합니다. 영영 풀이 'related to emotions and feelings rather than thought (생각보다는 감정이나 느낌과 관련된)'는 'emotional' 또는 'affective'에 대한 설명에 더 가깝습니다. 따라서 ③번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways. Linguistic metaphors are (A) [passive / active], in the sense that the audience needs to choose to actively enter the world proposed by metaphor. Technological metaphors, on the other hand, are active in the sense that they are realized in digital artifacts that are actively doing things. Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is (B) [obvious / ambiguous] at first glance. Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and requires some (C) [thought / action] on the part of the audience.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "passive - obvious - thought" },
+        { "number": "②", "text": "passive - ambiguous - action" },
+        { "number": "③", "text": "active - obvious - thought" },
+        { "number": "④", "text": "active - ambiguous - action" },
+        { "number": "⑤", "text": "passive - obvious - action" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 언어적 은유는 청중이 적극적으로 참여해야 한다는 의미에서 '수동적(passive)'이라고 설명됩니다. (B) 기술의 판매 포인트는 그 유용성이 첫눈에 '명백한(obvious)' 것이어야 합니다. 'ambiguous'는 '모호한'이라는 뜻입니다. (C) 셰익스피어 작품의 의미는 청중의 편에서 어느 정도의 '생각(thought)'을 요구합니다. 'action'은 '행동'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ones in important ways.\nLinguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor.\nIn the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely to understand the metaphor without cognitive effort.\nTechnological metaphors, on the other hand, are active (and often imposing) in the sense that they are realized in digital artifacts that are actively doing things.\nTechnological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance.\nShakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Linguistic metaphors are described as passive and require thought." },
+        { "number": "②", "text": "Digital metaphors are active and realized in digital artifacts." },
+        { "number": "③", "text": "The value of a technology is often in its immediate obviousness." },
+        { "number": "④", "text": "Shakespeare's works are loved because their meanings are simple and clear." },
+        { "number": "⑤", "text": "Understanding Shakespeare's metaphors requires cognitive effort from the audience." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 셰익스피어가 사랑받는 이유가 '그의 작품의 의미가 즉각적으로 명백하지 않고(not immediately obvious) 청중의 생각을 요구하기 때문'이라고 명시하고 있습니다. 따라서 그의 작품 의미가 '단순하고 명확하기(simple and clear)' 때문에 사랑받는다는 ④번은 글의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic [one / ones] in important ways. ② Linguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world [proposed / proposing] by metaphor. ③ Technological metaphors, on the other hand, are active in the sense that they are realized in digital artifacts [that / what] are actively doing things. ④ Technological creators cannot generally afford [to require / requiring] their potential audience to wonder how the metaphor works. ⑤ Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and [requires / requiring] some thought.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "ones",
+          "explanation": "앞에 나온 복수 명사 'metaphors'를 대신하는 부정대명사 자리입니다. 따라서 복수형인 'ones'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "proposed",
+          "explanation": "앞의 명사 'the world'를 수식하는 분사 자리입니다. '세계'는 은유에 의해 '제안되는' 것이므로 수동의 의미를 가진 과거분사 'proposed'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "that",
+          "explanation": "선행사 'digital artifacts'를 수식하는 주격 관계대명사가 필요합니다. 뒤에 동사 'are'가 바로 이어지므로 'that'이 맞습니다. 'what'은 선행사를 포함하므로 올 수 없습니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "to require",
+          "explanation": "동사 'afford'는 목적어로 to부정사를 취합니다. 따라서 'to require'가 어법에 맞습니다."
+        },
+        {
+          "number": "⑤",
+          "correct_form": "requires",
+          "explanation": "주어 'the meaning of his works'에 연결되는 동사로, 앞선 동사 'is'와 병렬 구조를 이룹니다. 주어가 단수(The meaning)이므로 단수 동사 'requires'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

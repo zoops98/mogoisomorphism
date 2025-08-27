@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Have you ever been surprised to hear a recording of your own voice?\nYou might have thought, \"Is that really what my voice sounds like?\"\nMaybe your accent is more pronounced in the recording than you realized, or your voice is higher than it seems to your own ears.\nThis is of course quite a common experience.\nThe explanation is actually fairly simple.\nThere are two pathways through which we perceive our own voice when we speak.\nOne is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear.\nBut because our vocal cords vibrate when we speak, there is a second internal path.\nVibrations are conducted through our bones and stimulate our inner ears directly.\nLower frequencies are emphasized along this pathway.\nThat makes your voice sound deeper and richer to yourself than it may sound to other people.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to describe the structure of the human ear"
+        },
+        {
+          "number": "②",
+          "text": "to give advice on improving one's speaking voice"
+        },
+        {
+          "number": "③",
+          "text": "to explain why our recorded voice sounds different to us"
+        },
+        {
+          "number": "④",
+          "text": "to promote a new type of bone conduction technology"
+        },
+        {
+          "number": "⑤",
+          "text": "to complain about the low quality of recording equipment"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 녹음된 자신의 목소리를 들었을 때 왜 놀라게 되는지에 대한 질문으로 시작하여, 그에 대한 과학적 설명을 제시하고 있습니다. 공기를 통한 외부 경로와 뼈를 통한 내부 경로라는 두 가지 경로로 소리를 인식하며, 내부 경로가 저주파를 강조하기 때문에 자신에게 목소리가 다르게 들린다고 설명합니다. 따라서 글의 주된 목적은 녹음된 목소리가 자신에게 다르게 들리는 이유를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Have you ever been surprised to hear a recording of your own voice?\nYou might have thought, \"Is that really what my voice sounds like?\"\nMaybe your accent is more pronounced in the recording than you realized, or your voice is higher than it seems to your own ears.\nThis is of course quite a common experience.\nThe explanation is actually fairly simple.\nThere are two pathways through which we perceive our own voice when we speak.\nOne is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear.\nBut because our vocal cords vibrate when we speak, there is a second internal path.\nVibrations are conducted through our bones and stimulate our inner ears directly.\nLower frequencies are emphasized along this pathway.\nThat makes your voice sound deeper and richer to yourself than it may sound to other people.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Two Pathways of Hearing"
+        },
+        {
+          "number": "②",
+          "text": "Why Your Voice Sounds Deeper to You"
+        },
+        {
+          "number": "③",
+          "text": "The Shock of Hearing Your Own Accent"
+        },
+        {
+          "number": "④",
+          "text": "How Vocal Cords Vibrate and Produce Sound"
+        },
+        {
+          "number": "⑤",
+          "text": "Improving the Quality of Voice Recordings"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 녹음된 목소리가 실제보다 높게 들리는 현상에 대해 설명하며, 그 이유가 뼈를 통해 전달되는 내부 경로가 저주파를 강조하여 자신에게는 목소리가 더 깊게 들리기 때문이라고 결론 내립니다. 따라서 '왜 당신의 목소리가 당신에게 더 깊게 들리는가'라는 제목이 글의 핵심 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Have you ever been surprised to hear a recording of your own voice?\nYou might have thought, \"Is that really what my voice sounds like?\"\nMaybe your accent is more pronounced in the recording than you realized, or your voice is higher than it seems to your own ears.\nThis is of course quite a common experience.\nThe explanation is actually fairly simple.\nThere are two pathways through which we perceive our own voice when we speak.\nOne is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear.\nBut because our vocal cords vibrate when we speak, there is a second internal path.\nVibrations are conducted through our bones and stimulate our inner ears directly.\nLower frequencies are emphasized along this pathway.\nThat makes your voice sound deeper and richer to yourself than it may sound to other people.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "We hear our voice through bone and air conduction, with the former emphasizing lower frequencies."
+        },
+        {
+          "number": "②",
+          "text": "The quality of a recording device significantly alters the frequencies of the human voice it captures."
+        },
+        {
+          "number": "③",
+          "text": "People are often surprised by their recorded voices because they are not accustomed to hearing themselves."
+        },
+        {
+          "number": "④",
+          "text": "The perception of external sounds is a more complex process than the perception of internal sounds."
+        },
+        {
+          "number": "⑤",
+          "text": "A person's accent is always more noticeable on a recording than it is in a live conversation."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 우리가 자신의 목소리를 두 가지 경로, 즉 공기 전도(air conduction)와 뼈 전도(bone conduction)를 통해 듣는다고 설명합니다. 그리고 이 중 뼈를 통한 내부 경로가 저주파(lower frequencies)를 강조하기 때문에 자신에게 목소리가 더 깊고 풍부하게 들린다고 말합니다. 따라서 '우리는 뼈와 공기 전도로 목소리를 들으며, 전자는 저주파를 강조한다'는 선택지가 글의 핵심 요지를 가장 정확하게 담고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The explanation is actually fairly simple.\nThere are two pathways through which we perceive our own voice when we speak. ( ① ) One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear. ( ② ) But because our vocal cords vibrate when we speak, there is a second internal path. ( ③ ) Lower frequencies are emphasized along this pathway. ( ④ ) That makes your voice sound deeper and richer to yourself than it may sound to other people. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Vibrations are conducted through our bones and stimulate our inner ears directly.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "③의 앞 문장에서는 성대가 진동하기 때문에 두 번째 '내부 경로'가 존재한다고 소개합니다. 주어진 문장은 바로 이 내부 경로가 어떻게 작동하는지, 즉 진동이 '뼈를 통해 전도되어' 내이를 직접 자극한다고 구체적으로 설명합니다. 그리고 ③의 뒷 문장에서는 이 경로를 따라 저주파가 강조된다는 결과를 설명합니다. 따라서 내부 경로를 소개한 문장과 그 효과를 설명하는 문장 사이인 ③에 들어가, 그 작동 원리를 설명하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Have you ever been surprised to hear a recording of your own voice? You might have thought, \"Is that really what my voice sounds like?\"",
+      "question_blocks": {
+        "A": "One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear.",
+        "B": "The explanation is actually fairly simple. There are two pathways through which we perceive our own voice when we speak.",
+        "C": "But because our vocal cords vibrate when we speak, there is a second internal path. Vibrations are conducted through our bones and stimulate our inner ears directly. Lower frequencies are emphasized along this pathway."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 녹음된 목소리에 놀라는 흔한 경험에 대해 질문을 던집니다. (B)에서 그에 대한 설명이 간단하며, '두 가지 경로'가 있다고 답을 시작합니다. (A)에서 그중 첫 번째 경로인 외부 경로에 대해 설명합니다. (C)에서 'But'을 사용하여 두 번째 경로인 내부 경로를 대조적으로 설명하고, 이 경로의 특징(저주파 강조)까지 상세히 설명하며 글의 핵심 원리를 밝힙니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "There are two pathways through which we perceive our own voice when we speak.\nOne is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear.\nBut because our vocal cords vibrate when we speak, there is a second internal path.\nVibrations are conducted through our bones and stimulate our inner ears directly.\nLower frequencies are emphasized along this pathway.\nThat makes your voice sound ____________________ to yourself than it may sound to other people.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "higher and thinner"
+        },
+        {
+          "number": "②",
+          "text": "deeper and richer"
+        },
+        {
+          "number": "③",
+          "text": "clearer and louder"
+        },
+        {
+          "number": "④",
+          "text": "stranger and more alien"
+        },
+        {
+          "number": "⑤",
+          "text": "exactly the same"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸 바로 앞 문장에서 뼈를 통한 내부 경로를 따라 '저주파(Lower frequencies)'가 강조된다고 설명했습니다. 저주파는 낮은 음을 의미하므로, 이로 인해 자신의 목소리가 다른 사람에게 들리는 것보다 자신에게는 '더 깊고 풍부하게(deeper and richer)' 들리게 됩니다. 이는 글의 전체적인 결론에 해당합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Maybe your accent is more ①<u>pronounced</u> in the recording than you realized, or your voice is higher than it seems to your own ears.\nThis is of course quite a ②<u>common</u> experience.\nThere are two pathways through which we perceive our own voice.\nOne is the ③<u>external</u> route through the air.\nBut because our vocal cords vibrate, there is a second ④<u>internal</u> path through our bones.\n⑤<u>Higher</u> frequencies are emphasized along this internal pathway.\nThat makes your voice sound deeper and richer to yourself.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 뼈를 통한 내부 경로가 목소리를 자신에게 더 깊고 풍부하게 들리게 만든다고 설명합니다. 깊은 소리는 저주파에 해당하므로, 이 내부 경로를 따라 '저주파(Lower frequencies)'가 강조되어야 합니다. '더 높은(Higher)' 주파수가 강조된다면 목소리가 더 높게 들릴 것이므로, 이는 글의 논리와 정반대됩니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Maybe your accent is more (A)<u>pronounced</u> in the recording than you realized.\nThere are two pathways through which we (B)<u>perceive</u> our own voice when we speak.\nOne is the route through which we perceive most external sounds, like waves that travel from the air through the ear.\nBut because our vocal cords (C)<u>vibrate</u> when we speak, there is a second internal path.\nVibrations are (D)<u>conducted</u> through our bones and stimulate our inner ears directly.\n(E)<u>Lower</u> frequencies are emphasized along this pathway.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) pronounced: very easy to notice"
+        },
+        {
+          "number": "②",
+          "text": "(B) perceive: to understand or think of something in a particular way"
+        },
+        {
+          "number": "③",
+          "text": "(C) vibrate: to prevent something from moving"
+        },
+        {
+          "number": "④",
+          "text": "(D) conducted: (of sound) carried from one place to another"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) Lower: smaller in amount or degree"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'vibrate'는 성대가 '진동하다'라는 의미로 사용되었습니다. 제시된 영영 풀이('to prevent something from moving' - 무언가가 움직이는 것을 막다)는 '고정시키다'라는 의미로, '진동하다'와는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Maybe your accent is more pronounced in the recording than you realized, or your voice is (A)[higher / deeper] than it seems to your own ears.\nThis is of course quite a common experience.\nThere are two pathways through which we perceive our own voice.\nOne is the (B)[external / internal] route through which we perceive most sounds.\nBut because our vocal cords vibrate when we speak, there is a second internal path.\nVibrations are conducted through our bones.\n(C)[Lower / Higher] frequencies are emphasized along this pathway, which makes your voice sound deeper to yourself.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "higher - external - Lower"
+        },
+        {
+          "number": "②",
+          "text": "higher - internal - Higher"
+        },
+        {
+          "number": "③",
+          "text": "deeper - external - Lower"
+        },
+        {
+          "number": "④",
+          "text": "deeper - internal - Higher"
+        },
+        {
+          "number": "⑤",
+          "text": "higher - external - Higher"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 녹음된 목소리는 자신에게 들리는 것보다 '더 깊게(deeper)'가 아니라 '더 높게(higher)' 들려서 놀라게 됩니다. (B) 대부분의 소리를 인식하는 경로는 뼈를 통한 '내부(internal)' 경로가 아니라 공기를 통한 '외부(external)' 경로입니다. (C) 자신의 목소리가 더 깊게 들리는 이유는 뼈를 통한 경로에서 '더 높은(Higher)' 주파수가 아니라 '더 낮은(Lower)' 주파수가 강조되기 때문입니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "There are two pathways through which we perceive our own voice when we speak. ① One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear. ② But because our vocal cords vibrate when we speak, there is a second internal path. ③ Many professional singers and speakers take lessons to control their vocal cord vibrations more effectively. ④ Vibrations are conducted through our bones and stimulate our inner ears directly. ⑤ Lower frequencies are emphasized along this pathway, which makes your voice sound deeper to yourself.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 자신의 목소리를 인식하는 '두 가지 물리적 경로'에 대해 과학적으로 설명하는 데 초점을 맞추고 있습니다. ③번 문장은 가수나 연설가들이 목소리를 더 잘 내기 위해 받는 '훈련'에 대해 이야기하고 있습니다. 이는 목소리 '인식'의 원리가 아닌 목소리 '사용'의 기술에 대한 내용이므로, 글의 과학적 설명의 흐름을 방해하는 무관한 문장입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Have you ever been surprised to hear a recording of your own voice? You might have thought, \"Is that really ①[what / how] my voice sounds like?\" The explanation is actually fairly simple. There are two pathways through which we perceive our own voice. One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle and inner ear. But because our vocal cords vibrate when we speak, there is a second internal path. Vibrations are conducted through our bones and ②[stimulate / are stimulated] our inner ears directly. That makes your voice ③[sound / to sound] deeper and richer to yourself than it may sound to other people.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "what",
+          "explanation": "'sound like'의 전치사 'like'의 목적어 역할을 하는 명사절이 필요합니다. '내 목소리가 ~처럼 들리다'에서 '~'에 해당하는 부분이므로 선행사를 포함하는 관계대명사 'what'이 와야 합니다. 'how'는 '어떻게 들리는지'로 해석되나 'like'와 함께 쓰이지 않습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "stimulate",
+          "explanation": "문장의 주어는 'Vibrations'이며, 이 진동이 우리의 내이를 '자극하는' 능동적인 주체입니다. 따라서 능동태 동사인 'stimulate'가 와야 합니다. 'are stimulated'는 수동태로, 주어가 자극을 받는다는 의미가 되어 어색합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "sound",
+          "explanation": "사역동사 'make'는 목적격 보어로 동사원형을 취합니다 (make + 목적어 + 동사원형). 따라서 'your voice' 뒤에는 동사원형인 'sound'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

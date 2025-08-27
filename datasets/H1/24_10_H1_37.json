@@ -1,0 +1,197 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain.\nHowever, there is a major problem with this explanation.\nThis is because the imbalance of substances in the brain is a consequence of depression, not its cause.\nIn other words, depression causes a decrease in brain substances such as serotonin and noradrenaline, not a decrease in brain substances causes depression.\nIn this revised cause-and-effect, the key is to reframe depression as a problem of consciousness.\nOur consciousness is a more fundamental entity that goes beyond the functioning of the brain.\nThe brain is no more than an organ of consciousness.\nIf it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life.\nSuch a disease of consciousness may manifest itself in the form of depression.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to promote a new drug for depression" },
+        { "number": "②", "text": "to explain the function of neurotransmitters" },
+        { "number": "③", "text": "to criticize the conventional view of medicine" },
+        { "number": "④", "text": "to define the relationship between brain and consciousness" },
+        { "number": "⑤", "text": "to present an alternative theory on the cause of depression" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 우울증의 원인에 대한 기존 의학계의 관점(뇌 내 물질의 불균형)에 문제를 제기하고, 그 인과관계를 뒤집어 새로운 이론을 제시합니다. 필자는 우울증이 뇌의 문제가 아니라 '의식의 문제'이며, 의식의 왜곡이 근본 원인이라고 주장합니다. 따라서 글의 주된 목적은 '우울증의 원인에 대한 대안적 이론을 제시하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain.\nHowever, there is a major problem with this explanation.\nThis is because the imbalance of substances in the brain is a consequence of depression, not its cause.\nIn other words, depression causes a decrease in brain substances such as serotonin and noradrenaline, not a decrease in brain substances causes depression.\nIn this revised cause-and-effect, the key is to reframe depression as a problem of consciousness.\nOur consciousness is a more fundamental entity that goes beyond the functioning of the brain.\nThe brain is no more than an organ of consciousness.\nIf it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life.\nSuch a disease of consciousness may manifest itself in the form of depression.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Chemical Imbalance Myth" },
+        { "number": "②", "text": "Depression: A Disease of Consciousness, Not Chemistry" },
+        { "number": "③", "text": "The Brain: A Fundamental Entity" },
+        { "number": "④", "text": "Finding the True Meaning of Life" },
+        { "number": "⑤", "text": "How Serotonin Affects Your Mood" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 우울증의 원인이 뇌의 '화학 작용(chemistry)'이 아니라 '의식(consciousness)'의 문제라는 것입니다. 기존의 '화학적 불균형' 이론을 비판하고 '의식의 왜곡'이라는 새로운 관점을 제시하므로, '우울증: 화학이 아닌 의식의 질병'이라는 제목이 글의 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain.\nHowever, there is a major problem with this explanation.\nThis is because the imbalance of substances in the brain is a consequence of depression, not its cause.\nIn other words, depression causes a decrease in brain substances such as serotonin and noradrenaline, not a decrease in brain substances causes depression.\nIn this revised cause-and-effect, the key is to reframe depression as a problem of consciousness.\nOur consciousness is a more fundamental entity that goes beyond the functioning of the brain.\nThe brain is no more than an organ of consciousness.\nIf it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life.\nSuch a disease of consciousness may manifest itself in the form of depression.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The author posits that depression is a disease of consciousness which in turn causes the chemical imbalances in the brain." },
+        { "number": "②", "text": "Conventional medicine has correctly identified that a chemical imbalance in the brain is the primary cause of depression." },
+        { "number": "③", "text": "The brain is the most fundamental entity that creates and completely controls the state of our personal consciousness." },
+        { "number": "④", "text": "Decreased levels of serotonin and noradrenaline in the brain are the root cause of losing one's sense of self and meaning." },
+        { "number": "⑤", "text": "The most effective way to treat depression is by using medications that directly target the brain's neurotransmitters." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 우울증의 원인에 대한 전통적인 견해를 뒤집습니다. 뇌의 화학적 불균형이 우울증의 원인이 아니라, '의식의 질병'인 우울증이 그 '결과'로 화학적 불균형을 야기한다고 주장합니다. 따라서 '필자는 우울증이 의식의 질병이며, 이것이 결국 뇌의 화학적 불균형을 야기한다고 가정한다'는 ①번이 글의 요지를 가장 정확하게 담고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a consequence of depression, not its cause. In other words, depression causes a decrease in brain substances, not the other way around. ( ① ) Our consciousness is a more fundamental entity that goes beyond the functioning of the brain. ( ② ) The brain is no more than an organ of consciousness. ( ③ ) If it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life. ( ④ ) Such a disease of consciousness may manifest itself in the form of depression. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In this revised cause-and-effect, the key is to reframe depression as a problem of consciousness.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '이 수정된 인과관계에서, 핵심은 우울증을 의식의 문제로 재구성하는 것이다'라는 내용입니다. 이 문장은 기존 이론의 인과관계를 뒤집어 설명한 문장('depression causes a decrease in brain substances, not the other way around') 바로 뒤에 위치하여, 새롭게 정립된 인과관계를 바탕으로 우울증을 어떻게 봐야 하는지에 대한 핵심적인 대안(의식의 문제)을 제시하는 역할을 합니다. 그 후, 의식이 무엇인지에 대한 설명으로 넘어가는 것이 자연스럽습니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain. However, there is a major problem with this explanation.",
+      "question_blocks": {
+        "A": "In this revised cause-and-effect, the key is to reframe depression as a problem of consciousness. Our consciousness is a more fundamental entity that goes beyond the functioning of the brain.",
+        "B": "This is because the imbalance of substances in the brain is a consequence of depression, not its cause. In other words, depression causes a decrease in brain substances, not a decrease in brain substances causes depression.",
+        "C": "The brain is no more than an organ of consciousness. If it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 우울증에 대한 기존 설명의 문제점을 제기합니다. (B)에서 'This is because'로 시작하며 그 문제점이 무엇인지 구체적으로 설명합니다(인과관계가 반대임). (A)에서는 이 '수정된 인과관계'를 바탕으로 우울증을 '의식의 문제'로 재구성해야 한다는 새로운 관점을 제시합니다. 마지막으로 (C)에서는 (A)에서 제시된 '의식'과 뇌의 관계를 설명하고, 의식의 왜곡이 우울증의 근본 원인임을 설명하며 논지를 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a consequence of depression, not its cause. In this revised cause-and-effect, the key is to reframe depression as a problem of consciousness. Our consciousness is a more fundamental entity that goes beyond the functioning of the brain. The brain is no more than an organ of consciousness. If it is not consciousness itself, then the root cause of depression is also a [_________________________]: a consciousness that has lost its sense of self and the meaning of life. Such a disease of consciousness may manifest itself in the form of depression.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "lack of proper medication" },
+        { "number": "②", "text": "result of physical exhaustion" },
+        { "number": "③", "text": "distortion of our state of consciousness" },
+        { "number": "④", "text": "symptom of other brain diseases" },
+        { "number": "⑤", "text": "natural part of the human life cycle" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 우울증의 근본 원인을 '의식의 문제'로 재구성하고 있습니다. 빈칸은 그 근본 원인이 구체적으로 무엇인지를 설명하는 자리입니다. 바로 뒤 콜론(:) 이하에서 '자신과 삶의 의미를 잃어버린 의식'이라고 부연 설명을 하고 있으므로, 빈칸에는 '우리 의식 상태의 왜곡'이라는 의미의 ③번이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a ① [consequence] of depression, not its cause. In other words, depression causes a ② [decrease] in brain substances. In this ③ [revised] cause-and-effect, the key is to reframe depression as a problem of consciousness. Our consciousness is a more ④ [fundamental] entity that goes beyond the functioning of the brain. The brain is no more than an organ of consciousness. If it is not consciousness itself, then the root cause of depression is also a ⑤ [perfection] of our state of consciousness.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① consequence" },
+        { "number": "②", "text": "② decrease" },
+        { "number": "③", "text": "③ revised" },
+        { "number": "④", "text": "④ fundamental" },
+        { "number": "⑤", "text": "⑤ perfection" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "필자는 우울증의 근본 원인을 '자신과 삶의 의미를 잃어버린 의식'이라고 설명하며, 이는 의식 상태가 온전하지 못함을 의미합니다. 따라서 우울증의 근본 원인이 우리 의식 상태의 '완성' 또는 '완벽(perfection)'이라는 것은 문맥에 맞지 않습니다. 오히려 '왜곡(distortion)'이나 '문제(problem)'와 같은 부정적인 단어가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Conventional medicine has long believed that depression is caused by an (A) [imbalance] of neurotransmitters in the brain. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a (B) [consequence] of depression, not its cause. In this revised cause-and-effect, the key is to (C) [reframe] depression as a problem of consciousness. Our consciousness is a more (D) [fundamental] entity. The root cause of depression is also a (E) [distortion] of our state of consciousness: a consciousness that has lost its sense of self.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) imbalance: a state where things are not equal or in the correct proportions" },
+        { "number": "②", "text": "(B) consequence: something that happens as a result of a particular action" },
+        { "number": "③", "text": "(C) reframe: to change the way something is expressed or considered" },
+        { "number": "④", "text": "(D) fundamental: forming the base, from which everything else develops" },
+        { "number": "⑤", "text": "(E) distortion: the act of reporting something in a true and accurate way" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'distortion(왜곡)'은 사물이나 사실을 있는 그대로 보지 않고 비틀어서 보거나 표현하는 것을 의미합니다. 영영 풀이 'the act of reporting something in a true and accurate way (무언가를 사실 그대로 정확하게 보고하는 행위)'는 정반대의 의미입니다. 따라서 ⑤번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a (A) [consequence / cause] of depression, not its cause. In this revised cause-and-effect, the key is to reframe depression as a problem of consciousness. Our consciousness is a more (B) [fundamental / superficial] entity that goes beyond the functioning of the brain. The brain is no more than an organ of consciousness. If it is not consciousness itself, then the root cause of depression is also a (C) [distortion / correction] of our state of consciousness.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "consequence - fundamental - distortion" },
+        { "number": "②", "text": "consequence - superficial - correction" },
+        { "number": "③", "text": "cause - fundamental - distortion" },
+        { "number": "④", "text": "cause - superficial - correction" },
+        { "number": "⑤", "text": "consequence - fundamental - correction" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 필자는 뇌 내 물질의 불균형이 우울증의 원인이 아니라 '결과(consequence)'라고 주장합니다. (B) 의식은 뇌의 기능 너머에 있는 더 '근본적인(fundamental)' 실체라고 설명합니다. 'superficial'은 '피상적인'이라는 뜻입니다. (C) 우울증의 근본 원인은 우리 의식 상태의 '왜곡(distortion)'입니다. 'correction'은 '수정, 교정'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain.\nHowever, there is a major problem with this explanation.\nThis is because the imbalance of substances in the brain is a consequence of depression, not its cause.\nIn other words, depression causes a decrease in brain substances such as serotonin and noradrenaline, not a decrease in brain substances causes depression.\nIn this revised cause-and-effect, the key is to reframe depression as a problem of consciousness.\nOur consciousness is a more fundamental entity that goes beyond the functioning of the brain.\nThe brain is no more than an organ of consciousness.\nIf it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life.\nSuch a disease of consciousness may manifest itself in the form of depression.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "The traditional medical view is that a chemical imbalance causes depression." },
+        { "number": "②", "text": "The author argues that depression leads to a decrease in brain substances." },
+        { "number": "③", "text": "The author suggests reframing depression as a problem of consciousness." },
+        { "number": "④", "text": "The text claims the brain is more fundamental than consciousness." },
+        { "number": "⑤", "text": "Losing a sense of self can be a root cause of depression." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 '우리의 의식은 뇌의 기능을 넘어서는 더 근본적인 실체이다(Our consciousness is a more fundamental entity that goes beyond the functioning of the brain)'라고 명시하고 있습니다. 따라서 뇌가 의식보다 더 근본적이라고 주장하는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain. ② This is because the imbalance of substances in the brain [is / are] a consequence of depression, not its cause. ③ In other words, depression causes a decrease in brain substances, not a decrease in brain substances [causes / cause] depression. ④ In this revised cause-and-effect, the key is [to reframe / reframing] depression as a problem of consciousness. ⑤ The root cause of depression is also a distortion of our state of consciousness: a consciousness that has [lost / been lost] its sense of self.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "②",
+          "correct_form": "is",
+          "explanation": "이 절의 주어는 단수 명사인 'the imbalance'입니다. 따라서 단수 동사인 'is'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "causes",
+          "explanation": "'not A B' 구문에서 B에 해당하는 절의 주어는 단수 명사구 'a decrease in brain substances'입니다. 따라서 단수 동사인 'causes'가 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "to reframe",
+          "explanation": "be동사 'is'의 보어 자리로, '~하는 것'이라는 의미를 나타내는 to부정사의 명사적 용법 또는 동명사가 올 수 있습니다. 여기서는 to부정사 'to reframe'이 사용되었습니다. (동명사 'reframing'도 문법적으로 가능합니다.)"
+        },
+        {
+          "number": "⑤",
+          "correct_form": "lost",
+          "explanation": "관계대명사 'that'이 이끄는 절에서, 선행사인 'a consciousness'가 'its sense of self'를 '잃어버린' 능동의 주체입니다. 따라서 능동태인 'has lost'가 되어야 합니다."
+        }
+      ]
+    }
+  ]
+}

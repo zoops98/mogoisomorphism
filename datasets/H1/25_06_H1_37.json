@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Stanford psychology professor Dr. Carol Dweck is the internationally recognized pioneer of the concept of \"growth mindset\" as a way to continually grow, learn, and persevere in our efforts. Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\" In contrast, Dweck found, kids who are praised not for their smarts but for their effort develop what Dweck calls a \"growth mindset.\" They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and achieve more things. These kids end up taking on tougher things, and feel better about themselves. \"Emphasizing effort gives a child a variable that they can control,\" Dweck has explained.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the concept of growth mindset and its benefits" },
+        { "number": "②", "text": "to criticize the research methods of Dr. Carol Dweck" },
+        { "number": "③", "text": "to argue that intelligence is more important than effort" },
+        { "number": "④", "text": "to introduce various child psychology theories from Stanford" },
+        { "number": "⑤", "text": "to provide tips for choosing easier tasks for children" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Carol Dweck 교수의 '성장형 사고방식(growth mindset)'과 '고정형 사고방식(fixed mindset)' 개념을 소개하고 있습니다. 지능 대신 노력을 칭찬받은 아이들이 어떻게 성장형 사고방식을 갖게 되고, 더 어려운 과제에 도전하며 더 나은 성과를 내는지 설명합니다. 따라서 이 글의 주된 목적은 '성장형 사고방식의 개념과 그 이점을 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Stanford psychology professor Dr. Carol Dweck is the internationally recognized pioneer of the concept of \"growth mindset\" as a way to continually grow, learn, and persevere in our efforts. Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\" In contrast, Dweck found, kids who are praised not for their smarts but for their effort develop what Dweck calls a \"growth mindset.\" They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and achieve more things. These kids end up taking on tougher things, and feel better about themselves. \"Emphasizing effort gives a child a variable that they can control,\" Dweck has explained.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Praise the Effort, Not the Intelligence" },
+        { "number": "②", "text": "The Dangers of Taking on Tough Tasks" },
+        { "number": "③", "text": "Dr. Carol Dweck: A Life of a Pioneer" },
+        { "number": "④", "text": "How to Identify a 'Smart' Child" },
+        { "number": "⑤", "text": "Fixed vs. Growth: Which Are You?" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심은 아이의 타고난 '지능(intelligence)'을 칭찬하는 것보다, 그들이 기울인 '노력(effort)'을 칭찬하는 것이 '성장형 사고방식'을 길러 더 긍정적인 결과를 낳는다는 것입니다. 따라서 '지능이 아닌 노력을 칭찬하라'가 이 글의 중심 내용을 가장 효과적으로 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Stanford psychology professor Dr. Carol Dweck is the internationally recognized pioneer of the concept of \"growth mindset\" as a way to continually grow, learn, and persevere in our efforts. Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\" In contrast, Dweck found, kids who are praised not for their smarts but for their effort develop what Dweck calls a \"growth mindset.\" They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and achieve more things. These kids end up taking on tougher things, and feel better about themselves. \"Emphasizing effort gives a child a variable that they can control,\" Dweck has explained.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Praising children for their effort rather than innate intelligence fosters a beneficial growth mindset and encourages perseverance." },
+        { "number": "②", "text": "Dr. Carol Dweck's research is primarily focused on identifying which children are born with superior intelligence." },
+        { "number": "③", "text": "Children who are told they are smart consistently outperform their peers in all future academic tasks." },
+        { "number": "④", "text": "The most effective way to build self-esteem in children is to protect them from difficult and challenging tasks." },
+        { "number": "⑤", "text": "Stanford University is internationally recognized for its pioneering research into childhood development and educational psychology." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Dweck의 연구를 통해, 타고난 지능 대신 노력을 칭찬하는 것이 아이들에게 통제 가능한 변수를 제공하고, 이는 실패를 두려워하지 않고 더 어려운 과제에 도전하게 만드는 '성장형 사고방식'을 길러준다고 설명합니다. 이것이 곧 끈기(perseverance)를 장려하는 방법입니다. 따라서 '타고난 지능보다 노력에 대해 아이들을 칭찬하는 것이 유익한 성장형 사고방식을 기르고 끈기를 장려한다.'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\" In contrast, Dweck found, kids who are praised not for their smarts but for their effort develop what Dweck calls a \"growth mindset.\" ( ① ) These kids end up taking on tougher things, and feel better about themselves. ( ② ) \"Emphasizing effort gives a child a variable that they can control,\" Dweck has explained. ( ③ ) This simple shift in praise can have a long-lasting impact on a child's love of learning. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and achieve more things.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '그들은 노력이 성공으로 이끌었고, 계속 노력하면 발전하고 더 많은 것을 성취할 것이라고 배운다'는 내용입니다. 이는 '성장형 사고방식(growth mindset)'의 핵심적인 믿음 체계를 설명합니다. 이 문장은 성장형 사고방식이 무엇인지 소개한 직후, 그리고 그 사고방식의 결과('더 어려운 일에 도전한다')가 나타나기 전에 들어가는 것이 가장 자연스럽습니다. 즉, 사고방식이 어떻게 행동으로 이어지는지를 설명하는 연결고리 역할을 하므로 ①에 위치하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Stanford psychology professor Dr. Carol Dweck is the internationally recognized pioneer of the concept of \"growth mindset\" as a way to continually grow, learn, and persevere in our efforts.",
+      "question_blocks": {
+        "A": "In contrast, Dweck found, kids who are praised not for their smarts but for their effort develop what Dweck calls a \"growth mindset.\"",
+        "B": "Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\"",
+        "C": "They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and achieve more things. These kids end up taking on tougher things, and feel better about themselves. \"Emphasizing effort gives a child a variable that they can control,\" Dweck has explained."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 Dweck 교수와 '성장형 사고방식'을 소개합니다. (B)는 먼저 '고정형 사고방식(fixed mindset)'의 문제점을 설명합니다. '똑똑하다'는 칭찬을 받은 아이들이 오히려 도전을 피하게 된다는 내용입니다. (A)는 '대조적으로(In contrast)'라는 표현을 통해 (B)의 내용과 반대되는 '성장형 사고방식'을 소개하며, 노력을 칭찬받은 아이들이 이를 발전시킨다고 설명합니다. (C)는 (A)에서 소개된 성장형 사고방식을 가진 아이들이 구체적으로 무엇을 배우고 어떤 긍정적인 행동 변화를 보이는지, 그리고 그 원리가 무엇인지 상세히 설명하며 글을 마무리합니다. 따라서 '고정형 사고방식 설명(B) -> 성장형 사고방식 소개(A) -> 성장형 사고방식 상세 설명 및 결론(C)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Stanford psychology professor Dr. Carol Dweck is the internationally recognized pioneer of the concept of \"growth mindset\" as a way to continually grow, learn, and persevere in our efforts. Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\" In contrast, Dweck found, kids who are praised not for their smarts but for their effort develop what Dweck calls a \"growth mindset.\" They learn that their effort is what led to their success... These kids end up taking on tougher things, and feel better about themselves. \"Emphasizing effort gives a child a variable that they can ______________,\" Dweck has explained.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "ignore" },
+        { "number": "②", "text": "control" },
+        { "number": "③", "text": "measure" },
+        { "number": "④", "text": "hide" },
+        { "number": "⑤", "text": "forget" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸이 있는 문장은 Dweck 교수가 노력을 강조하는 이유를 설명하는 부분입니다. 지능은 타고난 것이라 아이가 바꿀 수 없다고 느끼는 반면, 노력은 아이 스스로 조절할 수 있는 요소입니다. 자신이 직접 통제할 수 있는 것에 집중하게 함으로써 아이는 주도권을 느끼고 도전을 두려워하지 않게 됩니다. 따라서 빈칸에는 '통제하다'라는 의미의 'control'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Stanford psychology professor Dr. Carol Dweck is the internationally recognized ① `pioneer` of the concept of \"growth mindset\"... Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing ② `harder` tasks to avoid evidence that they are not smart, which Dweck calls having a \"fixed mindset.\" In contrast, Dweck found, kids who are praised not for their smarts but for their ③ `effort` develop what Dweck calls a \"growth mindset.\" They learn that if they continue to try, over time they'll ④ `improve` and achieve more things. \"Emphasizing effort gives a child a variable that they can ⑤ `control`,\" Dweck has explained.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글에 따르면, '똑똑하다'는 말을 들은 아이들(고정형 사고방식)은 자신이 똑똑하지 않다는 증거를 피하기 위해 과제를 선택합니다. 실패할 위험이 있는 어려운 과제는 자신의 '똑똑함'에 대한 위협이 되므로, 그들은 성공이 보장된 '더 쉬운(easier)' 과제를 선택하는 경향이 있습니다. 따라서 '더 어려운(harder)'은 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Dr. Carol Dweck is the internationally recognized pioneer of the concept of \"growth mindset\" as a way to continually grow, learn, and (A) `persevere` in our efforts. Dweck found that kids who are told they're \"smart\" actually (B) `underperform` in future tasks, by choosing easier tasks to avoid (C) `evidence` that they are not smart... They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and (D) `achieve` more things. \"Emphasizing effort gives a child a (E) `variable` that they can control,\" Dweck has explained.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) persevere: to continue trying to achieve something, despite difficulties" },
+        { "number": "②", "text": "(B) underperform: to do worse than expected" },
+        { "number": "③", "text": "(C) evidence: one or more reasons for believing that something is or is not true" },
+        { "number": "④", "text": "(D) achieve: to succeed in reaching a particular goal or level" },
+        { "number": "⑤", "text": "(E) variable: a number, amount, or situation that is fixed and does not change" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) `variable`은 아이가 통제할 수 있는 '변수' 또는 '요인'을 의미합니다. 변수는 상황에 따라 변할 수 있는 것을 말합니다. 하지만 보기 ⑤의 영영 풀이는 '고정되어 변하지 않는 수, 양, 또는 상황'으로, 이는 '상수(constant)'의 정의입니다. 'variable'의 의미와 정반대이므로 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Dweck found that kids who are told they're \"smart\" actually (A) [underperform / outperform] in future tasks, by choosing easier tasks to avoid evidence that they are not smart... In contrast, Dweck found, kids who are praised not for their (B) [smarts / effort] but for their effort develop what Dweck calls a \"growth mindset.\" ... These kids end up taking on (C) [tougher / easier] things, and feel better about themselves.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "underperform / smarts / tougher" },
+        { "number": "②", "text": "underperform / effort / easier" },
+        { "number": "③", "text": "outperform / smarts / tougher" },
+        { "number": "④", "text": "outperform / effort / easier" },
+        { "number": "⑤", "text": "underperform / smarts / easier" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) Dweck의 연구에 따르면, '똑똑하다'는 칭찬을 받은 아이들은 실패를 두려워하여 실제로는 미래 과제에서 '성과가 더 부진하다(underperform)'고 합니다. (B) 성장형 사고방식을 가진 아이들은 그들의 타고난 '지능(smarts)'이 아니라 그들의 '노력(effort)'에 대해 칭찬받습니다. 'not A but B' 구문이므로 B에 해당하는 'effort'가 정답을 찾는 핵심입니다. (C) 성장형 사고방식을 가진 아이들은 도전을 두려워하지 않으므로 결국 '더 힘든(tougher)' 일에 도전하게 됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "They learn that their effort is what led to their success, and if they continue to try, over time they'll improve and achieve more things. ① These kids end up taking on tougher things, and feel better about themselves. ② Perseverance is often cited as a key personality trait for success in many professions. ③ \"Emphasizing effort gives a child a variable that they can control,\" Dweck has explained. ④ This demonstrates that the type of praise children receive can shape their attitude towards challenges.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Dweck 교수의 '성장형 사고방식' 이론, 즉 노력을 칭찬하는 것이 아이들의 태도와 행동에 미치는 영향에 초점을 맞추고 있습니다. ①, ③, ④번 문장은 모두 성장형 사고방식의 결과, 원리, 그리고 시사점을 설명하며 주제와 긴밀하게 연결됩니다. 하지만 ②번 문장 '끈기는 종종 많은 직업에서 성공을 위한 핵심적인 성격 특성으로 언급된다'는 '끈기'라는 개념에 대한 일반적인 사실을 언급하는 것으로, Dweck의 칭찬 방식과 사고방식에 대한 구체적인 논점에서 벗어나므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Dweck found that kids who are told they're \"smart\" actually underperform in future tasks, by choosing easier tasks to avoid evidence ① [that / which] they are not smart... In contrast, Dweck found, kids who are praised not for their smarts but for their effort ② [develop / develops] what Dweck calls a \"growth mindset.\" They learn that their effort is ③ [what / that] led to their success, and if they continue to try, over time they'll improve and achieve more things.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "명사 'evidence'의 내용을 설명하는 동격의 명사절을 이끄는 접속사가 필요합니다. 뒷부분 'they are not smart'는 완전한 문장이므로 접속사 'that'이 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "develop",
+          "explanation": "이 문장의 주어는 'kids who are praised...'입니다. 주어의 핵심인 'kids'가 복수이므로, 동사도 복수형인 'develop'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "what",
+          "explanation": "be동사 'is'의 보어 역할을 하는 명사절이 와야 합니다. 뒷부분 '... led to their success'에서 주어가 빠져 있는 불완전한 절이므로, 선행사를 포함하며 주어 역할을 할 수 있는 관계대명사 'what'이 적절합니다."
+        }
+      ]
+    }
+  ]
+}

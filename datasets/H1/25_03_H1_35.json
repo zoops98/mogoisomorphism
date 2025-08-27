@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize violence in modern films"
+        },
+        {
+          "number": "②",
+          "text": "to compare fictional and documentary storytelling"
+        },
+        {
+          "number": "③",
+          "text": "to define the terms 'hero' and 'villain'"
+        },
+        {
+          "number": "④",
+          "text": "to explain how emotional investment in characters is created"
+        },
+        {
+          "number": "⑤",
+          "text": "to advocate for more character deaths in movies"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 관객이 등장인물에게 강한 감정을 느끼기 위한 전제 조건을 설명하고 있습니다. 작가가 주인공과 관객 사이에 긍정적 관계를 설정하고, 주인공을 '동료' 또는 '적'으로 인식하게 만들어야 관객의 '감정적 투자'가 일어나고, 이를 통해 강한 감정적 반응을 이끌어낼 수 있다는 것입니다. 따라서 글의 목적은 등장인물에 대한 감정적 투자가 어떻게 형성되는지를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Hero's Journey in Modern Cinema"
+        },
+        {
+          "number": "②",
+          "text": "Ally or Enemy: The Key to Emotional Connection"
+        },
+        {
+          "number": "③",
+          "text": "Why We Don't Care About Minor Characters"
+        },
+        {
+          "number": "④",
+          "text": "The Difference Between Tragedy and Misfortune"
+        },
+        {
+          "number": "⑤",
+          "text": "Documentary vs. Fiction: A Study in Reality"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 관객이 등장인물을 '동료(ally)' 또는 '적(enemy)'으로 인식하고 감정적으로 투자할 때 비로소 강한 감정적 연결이 생긴다는 것입니다. 따라서 '동료인가 적인가: 감정적 연결의 열쇠'라는 제목이 글의 중심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "For an audience to feel strong emotions towards a character, they must be portrayed as a relatable friend or a clear enemy."
+        },
+        {
+          "number": "②",
+          "text": "Violent action films consistently fail to create emotional responses because they include too many minor character deaths."
+        },
+        {
+          "number": "③",
+          "text": "The most important element in any successful story is to ensure the protagonist is always morally good and righteous."
+        },
+        {
+          "number": "④",
+          "text": "Documentary films are far more effective at creating strong emotional bonds with protagonists than fictional movies could ever be."
+        },
+        {
+          "number": "⑤",
+          "text": "A hero is simply a character whose actions are flashy, while a villain is one whose actions are secretive."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 관객이 등장인물에게 강한 감정을 느끼려면, 그 인물이 우리에게 이득을 주는 '친구나 동료' 또는 '적'으로 명확하게 인식되어야 한다는 것입니다. 이를 통해 감정적 투자가 일어나기 때문입니다. 따라서 '관객이 등장인물에게 강한 감정을 느끼기 위해서는, 그들이 공감할 수 있는 친구나 명확한 적으로 그려져야 한다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. ( ① ) ( ② ) In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy. ( ③ ) ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 감정적 투자가 없을 때 관객의 반응이 거의 없다는 구체적인 예시입니다. 글의 흐름은 '감정적 반응을 위해서는 동료 또는 적으로 인식되어야 한다'는 원칙을 설명하고, '주인공이 우리에게 이득이 되어야 동료로 느낀다'고 부연합니다. 이 원칙이 적용되지 않는 반대 사례, 즉 감정적 투자가 없는 부수적 인물의 죽음에 대한 예시를 제시한 후, 마지막 문장에서 '강한 감정을 느끼기 위해서는 동료나 적으로 감정적 투자를 해야 한다'고 결론을 내리는 것이 가장 자연스럽습니다. 따라서 주어진 문장은 ②에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience.",
+      "question_blocks": {
+        "A": "Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally.",
+        "B": "In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy.",
+        "C": "Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 주인공과 관객 사이의 긍정적 관계 설정의 중요성을 말합니다. (B)는 이 관계 설정의 목적이 '친구 또는 적'으로 인식시켜 감정적 반응을 이끌어내기 위함이라고 설명합니다. (A)는 (B)에서 언급된 '친구'의 조건을 구체화하여, 우리에게 이득이 되는 존재여야 함을 설명합니다. 마지막으로 (C)는 이러한 감정적 투자가 없는 경우(부수적 인물의 죽음)를 예로 들며, 감정 이입을 위해서는 동료나 적으로서의 투자가 필수적임을 재확인하며 글을 마무리합니다. 따라서 논리적 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be [____________________] in a character as either ally or enemy.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "mildly interested"
+        },
+        {
+          "number": "②",
+          "text": "intellectually stimulated"
+        },
+        {
+          "number": "③",
+          "text": "emotionally invested"
+        },
+        {
+          "number": "④",
+          "text": "financially supportive"
+        },
+        {
+          "number": "⑤",
+          "text": "completely detached"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 강한 감정을 느끼기 위한 필수 조건을 요약하고 있습니다. 글 전체에서 강조하는 것은 관객이 주인공을 친구나 적으로 여기며 관계를 맺어야 한다는 것입니다. 이는 곧 '감정적으로 투자되는 것'을 의미합니다. 따라서 'emotionally invested'가 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's ① [essential] for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be ② [recognizable] as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions ③ [benefit] us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of ④ [incidental] deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally ⑤ [detached] from a character as either ally or enemy.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 강한 감정을 느끼기 위해 관객이 등장인물에게 감정적으로 '투자되어야 한다(invested)'고 주장합니다. '분리된, 거리를 두는'이라는 의미의 'detached'는 이와 정반대의 개념으로, 감정적 반응이 일어나지 않는 상태를 묘사합니다. 따라서 ⑤번이 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to (A) [establish] a positive relationship between a protagonist and the audience. In order for tragedy or (B) [misfortune] to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions (C) [benefit] us; the protagonist is, or would be, a worthy companion or valued (D) [ally]. Violent action films are often filled with dozens of (E) [incidental] deaths of minor characters that draw out little response in the audience.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) establish: to create or start something that is meant to last"
+        },
+        {
+          "number": "②",
+          "text": "(B) misfortune: an unlucky condition or event"
+        },
+        {
+          "number": "③",
+          "text": "(C) benefit: to be helpful or useful to someone"
+        },
+        {
+          "number": "④",
+          "text": "(D) ally: someone who helps and supports you, especially when others are against you"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) incidental: of the greatest importance; essential"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) incidental은 '부수적인, 덜 중요한'이라는 의미입니다. 제시된 영영 풀이 'of the greatest importance; essential(가장 중요한; 필수적인)'은 '주요한(primary)' 또는 '필수적인(essential)'에 대한 설명으로, 'incidental'의 의미와 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a (A) [positive / neutral] relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions (B) [benefit / betray] us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out (C) [little / massive] response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "positive - benefit - little"
+        },
+        {
+          "number": "②",
+          "text": "positive - betray - massive"
+        },
+        {
+          "number": "③",
+          "text": "neutral - benefit - little"
+        },
+        {
+          "number": "④",
+          "text": "neutral - betray - massive"
+        },
+        {
+          "number": "⑤",
+          "text": "positive - benefit - massive"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 관객의 감정 이입을 위해서는 작가가 주인공과 '긍정적인' 관계를 설정해야 하므로 'positive'가 맞습니다. (B) 주인공을 가치 있는 동료로 느끼려면 그의 행동이 우리에게 '이득이 되어야' 하므로 'benefit'이 적절합니다. (C) 감정적 투자가 없는 부수적인 인물의 죽음은 관객에게 '거의 반응을 이끌어내지 못하므로' 'little'이 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author to establish a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "An author needs to build a positive bond between the audience and the protagonist."
+        },
+        {
+          "number": "②",
+          "text": "To evoke an emotional reaction, a character should be seen as a friend or an enemy."
+        },
+        {
+          "number": "③",
+          "text": "We consider a protagonist a worthy companion if their actions are beneficial to us."
+        },
+        {
+          "number": "④",
+          "text": "The deaths of minor characters in action films typically cause a strong emotional response."
+        },
+        {
+          "number": "⑤",
+          "text": "Emotional investment is necessary for an audience to feel strong emotions."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience'라고 명시하고 있습니다. 이는 액션 영화에서 부수적인 인물들의 죽음이 관객에게 '거의 반응을 이끌어내지 못한다'는 의미입니다. 따라서 강한 감정적 반응을 일으킨다는 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it's essential for the author ① [to establish / establishing] a positive relationship between a protagonist and the audience. In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to ② [be / being] recognizable as either friend or enemy. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone ③ [whose / who's] actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to establish",
+          "explanation": "'it is essential for (목적격) to (동사원형)' 구문입니다. 여기서 'it'은 가주어이며, to부정사구 'to establish...'가 진주어입니다. 따라서 'to establish'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "be",
+          "explanation": "'so as to + 동사원형'은 '~하기 위하여'라는 목적을 나타내는 표현입니다. 따라서 동사원형 'be'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "whose",
+          "explanation": "선행사 'someone'을 수식하며 뒤따르는 명사 'actions'를 소유하는 관계를 나타내므로, 소유격 관계대명사 'whose'가 맞습니다. 'who's'는 'who is' 또는 'who has'의 축약형입니다."
+        }
+      ]
+    }
+  ]
+}

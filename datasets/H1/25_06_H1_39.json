@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "We have a 'diving reflex', like other marine mammals. This means that special nerve endings on our faces, around the mouth and nose, trigger this reflex only when the facial region goes under water. If we are in the water, with our head out in the air, there is no diving reflex. But if we sink just our face in a bowl of water, while the whole of the rest of our body is in the dry air, the diving reflex is triggered. It automatically closes down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing. By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would panic, its heart would race and it would quickly drown.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to describe the human diving reflex and its functions" },
+        { "number": "②", "text": "to compare humans with chimpanzees and gorillas" },
+        { "number": "③", "text": "to warn about the dangers of drowning" },
+        { "number": "④", "text": "to explain the anatomy of marine mammals" },
+        { "number": "⑤", "text": "to recommend a first-aid procedure for drowning" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 인간이 가진 '잠수 반사(diving reflex)'에 대해 설명하고 있습니다. 이 반사가 어떻게 유발되는지(얼굴이 물에 잠길 때), 어떤 생리적 변화를 일으키는지(기도 폐쇄, 심박수 저하, 혈액 재분배 등), 그리고 다른 영장류(침팬지, 고릴라)와는 어떻게 다른지를 구체적으로 서술합니다. 따라서 글의 주된 목적은 '인간의 잠수 반사와 그 기능을 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "We have a 'diving reflex', like other marine mammals. This means that special nerve endings on our faces, around the mouth and nose, trigger this reflex only when the facial region goes under water. If we are in the water, with our head out in the air, there is no diving reflex. But if we sink just our face in a bowl of water, while the whole of the rest of our body is in the dry air, the diving reflex is triggered. It automatically closes down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing. By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would panic, its heart would race and it would quickly drown.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Diving Reflex: Our Inner Marine Mammal" },
+        { "number": "②", "text": "How to Survive a Drowning Accident" },
+        { "number": "③", "text": "Chimpanzees vs. Gorillas: A Sad Tale" },
+        { "number": "④", "text": "The Dangers of Cold Water Immersion" },
+        { "number": "⑤", "text": "Nerve Endings: The Body's Triggers" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 인간이 다른 '해양 포유류(marine mammals)'처럼 '잠수 반사(diving reflex)'를 가지고 있다고 시작하며, 그 놀라운 생존 메커니즘을 설명합니다. 이는 인간 내면에 숨겨진 해양 포유류와 같은 특성을 드러내는 것이므로, '잠수 반사: 우리 내면의 해양 포유류'라는 제목이 글의 신비롭고 흥미로운 핵심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "We have a 'diving reflex', like other marine mammals. This means that special nerve endings on our faces, around the mouth and nose, trigger this reflex only when the facial region goes under water. If we are in the water, with our head out in the air, there is no diving reflex. But if we sink just our face in a bowl of water, while the whole of the rest of our body is in the dry air, the diving reflex is triggered. It automatically closes down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing. By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would panic, its heart would race and it would quickly drown.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Humans have a unique diving reflex, triggered by facial immersion, that aids survival in water unlike other primates." },
+        { "number": "②", "text": "The human body has many reflexes that are designed to prevent accidental drowning in various aquatic situations." },
+        { "number": "③", "text": "Chimpanzees and gorillas are unable to swim because their heart rate dangerously increases when they enter the water." },
+        { "number": "④", "text": "The most important function of the diving reflex is to automatically close the airway to prevent swallowing water." },
+        { "number": "⑤", "text": "All mammals, whether they live on land or in the sea, share the exact same basic survival reflexes." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심은 인간이 가진 특이한 '잠수 반사'에 대한 것입니다. 이 반사는 얼굴이 물에 잠기는 것만으로 유발되며, 물속에서 생존을 돕는 여러 신체적 변화를 일으킵니다. 이는 침팬지나 고릴라와 같은 다른 영장류에게는 없는 능력으로, 인간의 독특한 적응 방식을 보여줍니다. 따라서 '인간은 얼굴이 물에 잠기는 것으로 유발되는, 다른 영장류와는 달리 물속 생존을 돕는 독특한 잠수 반사를 가지고 있다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "If we are in the water, with our head out in the air, there is no diving reflex. But if we sink just our face in a bowl of water, while the whole of the rest of our body is in the dry air, the diving reflex is triggered. It automatically closes down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. ( ① ) By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would panic, its heart would race and it would quickly drown. ( ② ) This remarkable human trait is a subject of ongoing scientific research. ( ③ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '동시에 심박수가 절반으로 느려지고 혈액이 주요 장기로 재분배된다'는 내용으로, 잠수 반사의 생리적 효과 중 하나입니다. 바로 앞 문장에서는 잠수 반사의 또 다른 효과인 기도 폐쇄와 폐의 공기 통로 축소를 설명하고 있습니다. 주어진 문장은 '동시에(At the same time)'라는 표현을 통해 호흡기계의 변화와 순환기계의 변화가 함께 일어남을 보여줍니다. 따라서 호흡기계 변화에 대한 설명 직후이자, 침팬지와의 대조가 시작되기 전인 ①에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "We have a 'diving reflex', like other marine mammals. This means that special nerve endings on our faces, around the mouth and nose, trigger this reflex only when the facial region goes under water.",
+      "question_blocks": {
+        "A": "At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing.",
+        "B": "If we are in the water, with our head out in the air, there is no diving reflex. But if we sink just our face in a bowl of water, while the whole of the rest of our body is in the dry air, the diving reflex is triggered.",
+        "C": "It automatically closes down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(C)-(A)" },
+        { "number": "③", "text": "(B)-(A)-(C)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 잠수 반사와 그 유발 조건을 소개합니다. (B)는 '만약 ~라면'의 예시를 통해 몸 전체가 아닌 얼굴만 물에 잠겨도 반사가 유발된다는 점을 명확히 설명합니다. (C)는 유발된 반사('It')의 첫 번째 효과로 기도 폐쇄와 같은 호흡기계의 변화를 설명합니다. (A)는 '동시에(At the same time)'라는 표현으로 (C)에 이어지는 두 번째 효과, 즉 심박수 저하와 같은 순환기계의 변화를 설명합니다. 따라서 '유발 조건 명확화(B) -> 효과 1(C) -> 효과 2(A)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "We have a 'diving reflex', like other marine mammals. This means that special nerve endings on our faces, around the mouth and nose, trigger this reflex only when ____________________. If we are in the water, with our head out in the air, there is no diving reflex. But if we sink just our face in a bowl of water, while the whole of the rest of our body is in the dry air, the diving reflex is triggered. It automatically closes down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the entire body is submerged" },
+        { "number": "②", "text": "the water temperature is very low" },
+        { "number": "③", "text": "we intentionally hold our breath" },
+        { "number": "④", "text": "the facial region goes under water" },
+        { "number": "⑤", "text": "we experience a sense of panic" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 잠수 반사가 유발되는 '유일한(only when)' 조건에 대해 묻고 있습니다. 글은 얼굴의 신경 말단이 이 반사를 유발한다고 설명하며, 몸은 물 밖에 있고 얼굴만 물에 담가도 반사가 일어난다고 구체적인 예를 들어 강조합니다. 이는 반사의 유발 조건이 몸 전체가 아닌 얼굴 부위와 관련 있음을 보여줍니다. 따라서 빈칸에는 '얼굴 부위가 물 아래로 들어갈 때'라는 의미의 'the facial region goes under water'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "This means that ① `special` nerve endings on our faces... trigger this reflex only when the facial region goes under water. ... It automatically ② `closes` down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. At the same time the heart rate is ③ `accelerated` to half speed and blood is shunted to the ④ `vital` organs, protecting them from the effects of the brief stop in breathing. By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would ⑤ `panic`...",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "잠수 반사의 효과 중 하나는 산소 소비를 줄이기 위해 심박수를 늦추는 것입니다. 본문에서도 '절반 속도로 느려진다(slowed down to half speed)'고 해야 문맥이 맞습니다. ③번의 '가속된다(accelerated)'는 심박수가 빨라진다는 의미로, 침팬지가 보이는 공황 반응과 유사하며 잠수 반사의 효과와는 정반대입니다. 따라서 'accelerated'는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "We have a 'diving (A) `reflex`', like other marine mammals. This means that special nerve endings on our faces, around the mouth and nose, (B) `trigger` this reflex only when the facial region goes under water. ... It automatically closes down the (C) `airway`... At the same time the heart rate is slowed down to half speed and blood is (D) `shunted` to the vital organs, protecting them from the effects of the brief stop in breathing. By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would panic... and it would quickly (E) `drown`.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) reflex: a natural and automatic physical reaction to something" },
+        { "number": "②", "text": "(B) trigger: to cause an event or situation to happen or exist" },
+        { "number": "③", "text": "(C) airway: the passage from the nose and mouth to the lungs, through which you breathe" },
+        { "number": "④", "text": "(D) shunted: to talk about something unimportant to avoid a difficult subject" },
+        { "number": "⑤", "text": "(E) drown: to die from being under water and unable to breathe" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 (D) `shunted`는 혈액이 주요 장기로 '재분배되다, 보내지다'라는 생리학적 의미로 사용되었습니다. 하지만 보기 ④의 영영 풀이는 '어려운 주제를 피하기 위해 중요하지 않은 것에 대해 이야기하다', 즉 '화제를 돌리다'라는 대화상의 의미를 설명하고 있습니다. 이는 문맥상의 의미와 전혀 다르므로 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "This means that special nerve endings on our faces, around the mouth and nose, (A) [trigger / prevent] this reflex only when the facial region goes under water. ... It automatically (B) [closes / opens] down the airway, reducing the risk of swallowing water, and it narrows the small air-passages in the lungs. At the same time the heart rate is (C) [slowed down / sped up] to half speed and blood is shunted to the vital organs...",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "trigger / closes / slowed down" },
+        { "number": "②", "text": "trigger / opens / slowed down" },
+        { "number": "③", "text": "prevent / closes / sped up" },
+        { "number": "④", "text": "prevent / opens / sped up" },
+        { "number": "⑤", "text": "trigger / closes / sped up" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 얼굴의 신경 말단은 잠수 반사를 '유발한다(trigger)'. (B) 잠수 반사는 물을 삼키는 위험을 줄이기 위해 기도를 자동적으로 '닫는다(closes)'. (C) 산소 소비를 줄이기 위해 심박수는 절반 속도로 '느려진다(slowed down)'."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, protecting them from the effects of the brief stop in breathing. ① By contrast, if a chimpanzee or a gorilla found itself in water with its face below the surface, it would panic. ② Marine mammals like dolphins and whales are known for their high intelligence and complex social behaviors. ③ Its heart would race and it would quickly drown. ④ This highlights a remarkable difference in aquatic adaptation between humans and other great apes.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 인간의 잠수 반사 능력과 침팬지/고릴라의 반응을 '대조(By contrast)'하여 설명하는 데 초점을 맞추고 있습니다. ①, ③, ④번 문장은 모두 인간과 다른 유인원 간의 물에 대한 반응 차이를 설명하며 논리적으로 연결됩니다. 하지만 ②번 문장 '돌고래와 고래 같은 해양 포유류는 높은 지능과 복잡한 사회적 행동으로 알려져 있다'는 해양 포유류의 지능에 대한 내용으로, 인간과 침팬지의 생리적 반응 차이를 설명하는 글의 특정 맥락에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "This means that special nerve endings on our faces... trigger this reflex only when the facial region ① [goes / will go] under water. At the same time the heart rate is slowed down to half speed and blood is shunted to the vital organs, ② [protecting / protected] them from the effects of the brief stop in breathing. By contrast, if a chimpanzee or a gorilla found ③ [itself / it] in water with its face below the surface, it would panic, its heart would race and it would quickly drown.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "goes",
+          "explanation": "시간을 나타내는 부사절(when절)에서는 미래의 일이라도 현재 시제를 사용하여 나타냅니다. 여기서는 일반적인 사실을 설명하고 있으므로 현재 시제 'goes'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "protecting",
+          "explanation": "이 부분은 앞선 절의 내용(혈액이 주요 장기로 재분배되는 것)의 결과를 나타내는 분사구문입니다. 혈액 재분배가 주요 장기들을 '보호하는' 능동의 관계이므로 현재분사 'protecting'이 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "itself",
+          "explanation": "동사 'found'의 주어('a chimpanzee or a gorilla')와 목적어가 동일한 대상을 가리키므로, 목적어 자리에는 재귀대명사인 'itself'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

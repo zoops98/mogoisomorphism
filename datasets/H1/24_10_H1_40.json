@@ -1,0 +1,197 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.'\nA trick-punishment is a scolding, a moment of anger or a punishment in the most classic sense of the word.\nInstead of discouraging the child from doing something, it encourages them to do it.\nFor example, Hugh learns that when he hits his little brother, his mother scolds him.\nFor a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.\nIn this case, his mother would be better adopting a different strategy.\nFor instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.\nThe mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives.\nIn this way, any parent can avoid trick-punishments.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize parents who use punishment" },
+        { "number": "②", "text": "to explain a counterproductive punishment and suggest an alternative" },
+        { "number": "③", "text": "to analyze the psychological effects of loneliness in children" },
+        { "number": "④", "text": "to introduce the works of neuropsychologist Alvaro Bilbao" },
+        { "number": "⑤", "text": "to argue that all forms of punishment should be avoided" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '속임수-처벌(trick-punishments)'이라는 개념을 소개하며, 특정 처벌이 의도와 달리 아이의 나쁜 행동을 오히려 부추기는 역효과를 낼 수 있음을 설명합니다. 그리고 이에 대한 대안으로 부정적인 행동을 지적하기보다 긍정적인 행동을 보상하는 전략을 제안하고 있습니다. 따라서 글의 목적은 '역효과를 내는 처벌을 설명하고 대안을 제안하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.'\nA trick-punishment is a scolding, a moment of anger or a punishment in the most classic sense of the word.\nInstead of discouraging the child from doing something, it encourages them to do it.\nFor example, Hugh learns that when he hits his little brother, his mother scolds him.\nFor a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.\nIn this case, his mother would be better adopting a different strategy.\nFor instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.\nThe mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives.\nIn this way, any parent can avoid trick-punishments.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Lonely Child's Cry for Help" },
+        { "number": "②", "text": "Reward the Good, Not the Bad" },
+        { "number": "③", "text": "When Punishment Backfires: The 'Trick-Punishment'" },
+        { "number": "④", "text": "Different Strategies for Different Children" },
+        { "number": "⑤", "text": "Alvaro Bilbao's Guide to Parenting" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 소재는 '속임수-처벌(trick-punishment)'로, 이는 처벌이 의도와 달리 역효과(backfires)를 내는 상황을 말합니다. 글 전체가 이 개념을 정의하고, 예시를 들고, 해결책을 제시하는 구조로 되어 있으므로, '처벌이 역효과를 낼 때: '속임수-처벌''이라는 제목이 글의 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.'\nA trick-punishment is a scolding, a moment of anger or a punishment in the most classic sense of the word.\nInstead of discouraging the child from doing something, it encourages them to do it.\nFor example, Hugh learns that when he hits his little brother, his mother scolds him.\nFor a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.\nIn this case, his mother would be better adopting a different strategy.\nFor instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.\nThe mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives.\nIn this way, any parent can avoid trick-punishments.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Some punishments can backfire by reinforcing bad behavior, so parents should reward positive actions instead of scolding." },
+        { "number": "②", "text": "Children who feel lonely and isolated are more likely to respond positively to classic forms of punishment like a scolding." },
+        { "number": "③", "text": "The most effective and direct way to stop a child from hitting a sibling is to give them a stern scolding." },
+        { "number": "④", "text": "Neuropsychologist Alvaro Bilbao argues that parents should never allow a child to hit their younger sibling for any reason." },
+        { "number": "⑤", "text": "It is better for a parent to ignore a child's negative behavior completely than to give them any form of attention." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 꾸짖는 것과 같은 처벌이 때로는 아이의 나쁜 행동을 강화하는 역효과(backfire)를 낳을 수 있다는 것입니다. 외로운 아이에게는 꾸지람도 관심으로 여겨지기 때문입니다. 이에 대한 해결책으로, 부정적인 행동을 지적하는 대신 긍정적인 행동을 했을 때 보상하는 전략을 제시합니다. 따라서 '일부 처벌은 나쁜 행동을 강화하여 역효과를 낼 수 있으므로, 부모는 꾸짖는 대신 긍정적인 행동을 보상해야 한다'는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "A trick-punishment is a scolding or a punishment that, instead of discouraging a child from doing something, encourages them to do it. For example, Hugh learns that when he hits his little brother, his mother scolds him. ( ① ) In this case, his mother would be better adopting a different strategy. ( ② ) For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time. ( ③ ) The mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives. ( ④ ) In this way, any parent can avoid trick-punishments. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**For a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '외로움을 느끼는 아이에게는, 꾸중을 듣는 것이 무시당하는 느낌보다 훨씬 낫기 때문에, 그는 계속해서 동생을 때릴 것이다'라는 내용입니다. 이 문장은 Hugh가 동생을 때리면 엄마에게 꾸중을 듣는다는 사실을 알게 되었다는 문장 바로 뒤에 위치하여, Hugh가 왜 꾸중을 듣는 행동을 멈추지 않는지에 대한 심리적인 이유를 설명하는 역할을 합니다. 이유를 설명한 후, 그에 대한 대안 전략을 제시하는 것이 자연스러운 흐름입니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.' A trick-punishment is a scolding that encourages a child to do something, instead of discouraging it.",
+      "question_blocks": {
+        "A": "In this case, his mother would be better adopting a different strategy. For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.",
+        "B": "For example, Hugh learns that when he hits his little brother, his mother scolds him. For a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.",
+        "C": "The mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives. In this way, any parent can avoid trick-punishments."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '속임수-처벌'의 개념을 정의합니다. (B)에서 'For example'로 시작하며 Hugh의 사례를 들어 이 개념을 구체적으로 설명합니다. (A)에서는 'In this case'로 Hugh의 사례를 받아, 그 어머니가 취해야 할 다른 전략을 제안합니다. 마지막으로 (C)에서는 (A)에서 제시된 전략을 '부정적인 것을 지적하는 대신 긍정적인 것을 보상하는 것'으로 일반화하고, 이것이 모든 부모가 '속임수-처벌'을 피하는 방법이라고 결론 내립니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Punishing a child may not be effective due to 'trick-punishments.' A trick-punishment is a scolding that encourages a child to do something, instead of discouraging it. For example, Hugh learns that when he hits his little brother, his mother scolds him. For a child who feels lonely, being scolded is much better than [____________________], so he will continue to hit his brother. In this case, his mother would be better adopting a different strategy, such as rewarding the positives. For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "being praised" },
+        { "number": "②", "text": "feeling invisible" },
+        { "number": "③", "text": "getting a reward" },
+        { "number": "④", "text": "being physically hurt" },
+        { "number": "⑤", "text": "feeling successful" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 예시에서 Hugh가 꾸중을 듣는 행동을 반복하는 이유는 그가 '외로움을 느끼기' 때문입니다. 외로운 아이에게는 부정적인 관심(꾸중)조차 아무런 관심을 받지 못하는 것보다 낫습니다. 즉, 꾸중을 듣는 것이 '무시당하는 느낌(feeling invisible)'보다 낫기 때문에 그 행동을 계속하는 것입니다. 따라서 빈칸에는 ②번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Punishing a child may not be effective due to 'trick-punishments.' Instead of discouraging the child from doing something, it ① [encourages] them to do it. For example, Hugh learns that when he hits his little brother, his mother scolds him. For a child who feels ② [lonely], being scolded is much better than feeling invisible, so he will continue to hit his brother. In this case, his mother would be better adopting a ③ [different] strategy. For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time. The mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to ④ [ignore] the positives. In this way, any parent can avoid trick-punishments.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① encourages" },
+        { "number": "②", "text": "② lonely" },
+        { "number": "③", "text": "③ different" },
+        { "number": "④", "text": "④ ignore" },
+        { "number": "⑤", "text": "⑤ avoid" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "필자가 제안하는 대안 전략은 '부정적인 것을 끊임없이 지적하는 대신, 긍정적인 것을 보상하는 것'입니다. 따라서 어머니가 긍정적인 것을 '무시한다(ignore)'고 선택할 수 있다는 것은 제안된 전략과 정반대되는 내용이므로 문맥상 적절하지 않습니다. '보상한다(reward)'가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Punishing a child may not be (A) [effective] due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.' A trick-punishment is a scolding, a moment of anger or a punishment in the most classic sense of the word. Instead of (B) [discouraging] the child from doing something, it encourages them to do it. For a child who feels lonely, being scolded is much better than feeling (C) [invisible]. In this case, his mother would be better adopting a different (D) [strategy]. For instance, she could (E) [congratulate] Hugh when he has not hit his brother for a certain length of time.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) effective: producing the result that is wanted or intended" },
+        { "number": "②", "text": "(B) discouraging: making someone feel less confident or enthusiastic" },
+        { "number": "③", "text": "(C) invisible: that cannot be seen" },
+        { "number": "④", "text": "(D) strategy: a strong feeling of dislike or anger" },
+        { "number": "⑤", "text": "(E) congratulate: to tell someone that you are happy about their good fortune or success" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'strategy(전략)'는 성공을 달성하기 위한 계획을 의미합니다. 영영 풀이 'a strong feeling of dislike or anger (혐오나 분노의 강한 감정)'는 'hostility' 또는 'animosity'에 대한 설명에 가깝습니다. 따라서 ④번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Punishing a child may not be effective due to 'trick-punishments.' Instead of discouraging the child from doing something, it (A) [encourages / prevents] them to do it. For example, Hugh learns that when he hits his little brother, his mother scolds him. For a child who feels lonely, being scolded is much better than feeling (B) [invisible / important], so he will continue to hit his brother. The mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to (C) [reward / criticize] the positives.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "encourages - invisible - reward" },
+        { "number": "②", "text": "encourages - important - criticize" },
+        { "number": "③", "text": "prevents - invisible - reward" },
+        { "number": "④", "text": "prevents - important - criticize" },
+        { "number": "⑤", "text": "encourages - invisible - criticize" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) '속임수-처벌'은 아이가 무언가를 하지 못하게 막는 대신, 그것을 하도록 '부추긴다(encourages)'. 'prevents'는 '막는다'는 뜻입니다. (B) 외로운 아이에게 꾸중은 '무시당하는(invisible)' 느낌보다 낫습니다. 'important'는 '중요한'이라는 뜻입니다. (C) 대안 전략은 부정적인 것을 지적하는 대신 긍정적인 것을 '보상하는(reward)' 것입니다. 'criticize'는 '비판하다'는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.'\nA trick-punishment is a scolding that encourages the child to do something, instead of discouraging it.\nFor example, Hugh learns that when he hits his little brother, his mother scolds him.\nFor a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.\nIn this case, his mother would be better adopting a different strategy.\nFor instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.\nThe mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives.\nIn this way, any parent can avoid trick-punishments.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "A 'trick-punishment' can unintentionally encourage a child's misbehavior." },
+        { "number": "②", "text": "A child's feeling of loneliness can be a factor in their misbehavior." },
+        { "number": "③", "text": "The author suggests that parents should ignore it when a child hits a sibling." },
+        { "number": "④", "text": "Praising a child for not misbehaving is presented as a better strategy." },
+        { "number": "⑤", "text": "Focusing on positive actions can help parents avoid trick-punishments." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 '어머니는 아이가 동생을 때리도록 분명히 허락할 수 없다(The mother clearly cannot allow the child to hit his little brother)'고 명시하고 있습니다. 이는 나쁜 행동을 무시하라는 것이 아니라, 그 행동에 대처하는 방식을 바꾸라는 의미입니다. 따라서 부모가 형제를 때리는 행동을 무시해야 한다고 제안한다는 ③번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, [calls / is called] 'trick-punishments.' ② Instead of discouraging the child from doing something, it encourages them [to do / doing] it. ③ For a child who feels lonely, [being scolded / scolding] is much better than feeling invisible, so he will continue to hit his brother. ④ In this case, his mother would be better [adopting / to adopt] a different strategy. ⑤ For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "calls",
+          "explanation": "관계대명사 'what'이 이끄는 절에서, 주어 'Alvaro Bilbao'가 'trick-punishments'라고 '부르는' 능동의 주체입니다. 따라서 능동태 동사 'calls'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to do",
+          "explanation": "동사 'encourage'는 5형식으로 쓰일 때 목적격 보어로 to부정사를 취합니다(encourage + 목적어 + to부정사). 따라서 'to do'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "being scolded",
+          "explanation": "이 문장의 주어 자리이므로 동명사가 와야 합니다. 아이가 '꾸중을 듣는' 것이므로 수동의 의미를 가진 동명사 'being scolded'가 맞습니다. 'scolding'은 '꾸짖는 것'이라는 능동의 의미입니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "adopting",
+          "explanation": "'would be better + 동명사'는 '~하는 것이 더 낫다'는 의미의 관용 표현입니다. 따라서 동명사인 'adopting'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in theair after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain. It's more likely that these reactions are kneejerk survival actions. Plants are living organisms, and their main objective is to survive. Scents and sounds are their tools for defending against things that might harm them.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the act of mowing lawns"
+        },
+        {
+          "number": "②",
+          "text": "to promote a new type of microphone"
+        },
+        {
+          "number": "③",
+          "text": "to explain how plants communicate distress"
+        },
+        {
+          "number": "④",
+          "text": "to argue that plants feel pain like humans"
+        },
+        {
+          "number": "⑤",
+          "text": "to compare human and plant survival skills"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 식물이 인간과는 다른 방식으로, 즉 향기와 소리를 통해 고통이나 스트레스 상황을 어떻게 전달하는지에 대해 설명하고 있습니다. 또한 이러한 신호가 고통의 표현이라기보다는 생존을 위한 반응일 가능성이 높다고 덧붙입니다. 따라서 글의 주된 목적은 식물이 고통을 전달하는 방식을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in theair after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain. It's more likely that these reactions are kneejerk survival actions. Plants are living organisms, and their main objective is to survive. Scents and sounds are their tools for defending against things that might harm them.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Sound of a Thirsty Plant"
+        },
+        {
+          "number": "②",
+          "text": "Plants' SOS: Survival, Not Suffering"
+        },
+        {
+          "number": "③",
+          "text": "The Dangers of High-Frequency Sound"
+        },
+        {
+          "number": "④",
+          "text": "Why We Should Listen to Plants"
+        },
+        {
+          "number": "⑤",
+          "text": "How to Mow Your Lawn Properly"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 식물이 보내는 조난 신호(SOS)인 향기와 소리가 고통(suffering)의 표현이라기보다는 생존(survival)을 위한 본능적인 반응일 가능성이 높다는 점을 핵심적으로 다루고 있습니다. 따라서 '식물의 조난 신호: 고통이 아닌 생존'이라는 제목이 글의 중심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in theair after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain. It's more likely that these reactions are kneejerk survival actions. Plants are living organisms, and their main objective is to survive. Scents and sounds are their tools for defending against things that might harm them.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Plants signal distress through scents and high-frequency sounds, which are likely instinctual survival actions, not cries of pain."
+        },
+        {
+          "number": "②",
+          "text": "The primary way that plants communicate with each other and with humans is through a series of complex sounds."
+        },
+        {
+          "number": "③",
+          "text": "Experts have recently concluded that the smell of a mowed lawn is a plant's unique expression of its happiness."
+        },
+        {
+          "number": "④",
+          "text": "Researchers found that plants make the exact same clicking noise for every different type of external stressor they face."
+        },
+        {
+          "number": "⑤",
+          "text": "The main objective of all living organisms, including plants, is to experience and communicate complex emotions like pain."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 식물이 향기와 고주파 소리를 통해 고통을 신호로 보내며, 이는 고통의 외침이라기보다는 본능적인 생존 행동일 가능성이 높다는 것입니다. 따라서 '식물은 향기와 고주파 소리를 통해 고통을 신호로 보내는데, 이는 고통의 외침이 아닌 본능적인 생존 행동일 가능성이 높다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in theair after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. ( ① ) However, it's worth noting that experts don't think plants are crying out in pain. ( ② ) It's more likely that these reactions are kneejerk survival actions. ( ③ ) Plants are living organisms, and their main objective is to survive. ( ④ ) Scents and sounds are their tools for defending against things that might harm them. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 물이 부족할 때 내는 소리와 잎이 잘릴 때 내는 소리가 다르다는 구체적인 예시입니다. 이 문장은 바로 앞 문장인 'can make different sounds for different stressors(다른 스트레스 요인에 대해 다른 소리를 낼 수 있다)'라는 일반적인 진술을 뒷받침하는 역할을 합니다. 따라서 주어진 문장은 일반적 진술 바로 뒤인 ①에 위치하여 그 내용을 구체화하는 것이 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Plants can communicate, although not in the same way we do.",
+      "question_blocks": {
+        "A": "Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls.",
+        "B": "Some express their discontent through scents. You know that smell that hangs in the air after you've mowed the lawn? Yeah, that's actually an SOS.",
+        "C": "They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 식물의 의사소통이라는 주제를 소개합니다. (B)는 식물의 소통 방식 중 첫 번째로 '향기'를 제시하고 예시를 듭니다. (A)는 두 번째 소통 방식으로 '소리'를 제시하고, 연구자들이 이를 어떻게 실험했는지 설명합니다. (C)는 (A)에서 언급된 연구의 결과('They found...')를 설명하고, 이러한 신호에 대한 전문가들의 해석('However...')을 덧붙여 결론을 이끌어냅니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in the air after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain. It's more likely that these reactions are [____________________]. Plants are living organisms, and their main objective is to survive. Scents and sounds are their tools for defending against things that might harm them.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a sign of intelligence"
+        },
+        {
+          "number": "②",
+          "text": "complex emotional expressions"
+        },
+        {
+          "number": "③",
+          "text": "a form of conscious warning"
+        },
+        {
+          "number": "④",
+          "text": "kneejerk survival actions"
+        },
+        {
+          "number": "⑤",
+          "text": "an attempt to talk to humans"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 식물이 스트레스를 받을 때 내는 소리나 향기가 고통의 표현이 아니라 무엇일 가능성이 더 높은지를 설명합니다. 글의 마지막 부분에서 식물의 주된 목표가 '생존(survive)'이며, 이러한 신호들이 자신을 방어하기 위한 도구라고 설명하고 있습니다. 따라서 '무조건 반사적인 생존 행동'이라는 의미의 'kneejerk survival actions'가 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their ① [discontent] through scents. You know that smell that hangs in theair after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a ② [high-frequency] clicking noise when stressed and can make ③ [different] sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in ④ [pain]. It's more likely that these reactions are kneejerk survival actions. Plants are living organisms, and their main objective is to ⑤ [perish]. Scents and sounds are their tools for defending against things that might harm them.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 식물이 소리나 향기를 내는 것이 자신을 방어하고 생존하기 위한 행동이라고 설명합니다. '소멸하다, 죽다'라는 의미의 'perish'는 '생존하다'는 의미의 'survive'와 정반대되는 개념으로, 식물의 주된 목표라고 할 수 없습니다. 따라서 ⑤번이 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their (A) [discontent] through scents. You know that smell that hangs in theair after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a (B) [frequency] that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when (C) [stressed] and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain. It's more likely that these reactions are (D) [kneejerk] survival actions. Plants are living organisms, and their main (E) [objective] is to survive.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) discontent: a feeling of being unhappy or not satisfied"
+        },
+        {
+          "number": "②",
+          "text": "(B) frequency: the number of times something happens within a particular period"
+        },
+        {
+          "number": "③",
+          "text": "(C) stressed: worried and nervous"
+        },
+        {
+          "number": "④",
+          "text": "(D) kneejerk: happening or produced automatically as a reaction"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) objective: a conclusion reached after a long period of thought"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) objective는 이 문맥에서 '목표, 목적(goal)'을 의미합니다. 제시된 영영 풀이 'a conclusion reached after a long period of thought(오랜 생각 끝에 도달한 결론)'는 '결론(conclusion)'에 대한 설명으로, 'objective'의 의미와는 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their (A) [discontent / contentment] through scents. You know that smell that hangs in the air after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when (B) [stressed / relaxed] and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in (C) [pain / relief]. It's more likely that these reactions are kneejerk survival actions.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "discontent - stressed - pain"
+        },
+        {
+          "number": "②",
+          "text": "discontent - relaxed - relief"
+        },
+        {
+          "number": "③",
+          "text": "contentment - stressed - pain"
+        },
+        {
+          "number": "④",
+          "text": "contentment - relaxed - relief"
+        },
+        {
+          "number": "⑤",
+          "text": "discontent - stressed - relief"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 식물이 내는 SOS 신호는 '불만'을 표현하는 것이므로 'discontent'가 맞습니다. 'contentment'는 '만족'입니다. (B) 식물은 '스트레스를 받을' 때 딸깍거리는 소리를 내므로 'stressed'가 적절합니다. (C) 전문가들은 식물이 '고통' 속에서 울부짖는 것이 아니라고 생각하므로 'pain'이 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in the air after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency that we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when stressed and can make different sounds for different stressors. The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain. It's more likely that these reactions are kneejerk survival actions. Plants are living organisms, and their main objective is to survive. Scents and sounds are their tools for defending against things that might harm them.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The smell of a mowed lawn is considered a plant's distress signal."
+        },
+        {
+          "number": "②",
+          "text": "Plants can produce sounds that are inaudible to the human ear."
+        },
+        {
+          "number": "③",
+          "text": "A plant makes the same sound whether it is thirsty or being cut."
+        },
+        {
+          "number": "④",
+          "text": "Experts believe these plant signals are likely survival reactions."
+        },
+        {
+          "number": "⑤",
+          "text": "A plant's primary goal is to survive."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 'The sound a plant makes when it's not getting watered differs from the one it'll make when a leaf is cut'라고 명시하고 있습니다. 이는 식물이 목마를 때와 잘릴 때 서로 '다른' 소리를 낸다는 의미입니다. 따라서 '같은' 소리를 낸다는 ③번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Plants can communicate, although not in the same way we do. Some express their discontent through scents. You know that smell that hangs in the air after you've mowed the lawn? Yeah, that's actually an SOS. Some plants use sound. Yes, sound, though at a frequency ① [that / what] we can't hear. Researchers experimented with plants and microphones to see if they could record any trouble calls. They found that plants produce a high-frequency clicking noise when ② [stressed / stressing] and can make different sounds for different stressors. The sound a plant makes when it's not getting watered ③ [differs / is differed] from the one it'll make when a leaf is cut. However, it's worth noting that experts don't think plants are crying out in pain.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'a frequency'를 수식하는 목적격 관계대명사가 필요합니다. 뒷문장 'we can't hear (the frequency)'에서 목적어가 생략된 불완전한 문장이므로 'that' 또는 'which'가 올 수 있습니다. 선행사를 포함하는 'what'은 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "stressed",
+          "explanation": "접속사 'when' 뒤에 'they are'가 생략된 형태로, 식물이 스트레스를 '받는' 것이므로 수동의 의미를 지닌 과거분사 'stressed'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "differs",
+          "explanation": "주어는 'The sound'이며, 동사 자리입니다. 'differ from'은 '~와 다르다'라는 의미의 자동사 구문으로, 능동태로 써야 합니다. 따라서 3인칭 단수 동사 'differs'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

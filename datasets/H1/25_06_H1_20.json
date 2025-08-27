@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer convenience.\nThe amount of effort, time, or decision making required by an action has a huge influence on habit formation.\nTo a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not.\nFor this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.\nMany people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the importance of convenience in habit formation" },
+        { "number": "②", "text": "to criticize people for choosing only easy tasks" },
+        { "number": "③", "text": "to introduce various methods for time management" },
+        { "number": "④", "text": "to compare the pros and cons of modern technology" },
+        { "number": "⑤", "text": "to encourage maintaining strong family relationships" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글쓴이는 습관에 대해 가장 놀라운 점으로 '순전한 편리함(sheer convenience)'의 영향을 꼽고 있습니다. 글 전체에 걸쳐 행동을 편리하게 만드는 것이 습관 형성에 얼마나 큰 영향을 미치는지 설명하고 구체적인 예시를 들고 있으므로, 이 글의 주된 목적은 '습관 형성에 있어 편리함의 중요성을 설명하기' 위함입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer convenience.\nThe amount of effort, time, or decision making required by an action has a huge influence on habit formation.\nTo a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not.\nFor this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.\nMany people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Secret to Habits: Make It Convenient" },
+        { "number": "②", "text": "Why We Procrastinate on Simple Chores" },
+        { "number": "③", "text": "Technology: A Double-Edged Sword for Families" },
+        { "number": "④", "text": "The Power of Decision Making in Our Lives" },
+        { "number": "⑤", "text": "Effort: The Key to Meaningful Achievements" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 습관 형성에 있어 '편리함'이 결정적인 역할을 한다는 것을 핵심 내용으로 다루고 있습니다. 글쓴이는 어떤 행동에 필요한 노력이 적을수록 그 행동을 할 가능성이 높아진다고 주장하며, 이를 습관 형성의 비결로 제시합니다. 따라서 '습관의 비밀: 편리하게 만들어라'가 글 전체의 주제를 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer convenience.\nThe amount of effort, time, or decision making required by an action has a huge influence on habit formation.\nTo a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not.\nFor this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.\nMany people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Making a desired behavior as convenient as possible is a highly effective strategy for successful habit formation." },
+        { "number": "②", "text": "Procrastination is a common problem that can only be overcome with strong willpower and strict self-discipline." },
+        { "number": "③", "text": "Modern technology, such as group chats, has fundamentally changed the way families interact with each other daily." },
+        { "number": "④", "text": "The amount of time invested in an activity is the single most important determinant of its long-term success." },
+        { "number": "⑤", "text": "People should focus on completing difficult and unpleasant chores first to build a productive daily routine." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 인간의 행동과 습관이 '편리함'에 의해 지대한 영향을 받는다는 것입니다. 글쓴이는 어떤 행동을 습관으로 만들고 싶다면 그 활동의 편리함에 주목해야 한다고 말하며, 우편물 정리와 가족 연락의 예를 통해 이를 뒷받침합니다. 따라서 '원하는 행동을 가능한 한 편리하게 만드는 것이 성공적인 습관 형성을 위한 매우 효과적인 전략이다.'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer convenience.\nThe amount of effort, time, or decision making required by an action has a huge influence on habit formation.\n( ① ) For this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\n( ② ) Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.\n( ③ ) Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**To a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '정말로 놀라울 정도로, 우리는 무언가가 편리하면 더 하려는 경향이 있고, 그렇지 않으면 덜 하려는 경향이 있다'는 내용으로, 편리함이 행동에 미치는 영향에 대한 일반적인 원칙을 설명합니다. 바로 앞 문장에서 '노력, 시간, 의사결정의 양이 습관 형성에 큰 영향을 미친다'고 언급했고, 바로 뒤 문장은 '이러한 이유로(For this reason)'라며 앞선 원칙을 받아 해결책을 제시합니다. 따라서 주어진 문장은 일반적인 원칙을 설명하고 그에 따른 결론을 이끌어내는 연결고리 역할을 하므로, ①에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer convenience.",
+      "question_blocks": {
+        "A": "For this reason, we should pay close attention to the convenience of any activity we want to make into a habit.",
+        "B": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation. To a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not.",
+        "C": "Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore. Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 습관에 있어 '편리함'의 영향력이라는 주제를 제시합니다. (B)는 이 주제를 구체적으로 부연 설명하며, 노력과 편리함이 습관 형성에 미치는 일반적인 원리를 설명합니다. (A)는 '이러한 이유로(For this reason)'라는 표현을 통해 (B)에서 설명한 원리를 바탕으로 우리가 취해야 할 행동(편리함에 주목해야 한다)을 제안합니다. (C)는 (A)의 제안을 뒷받침하는 두 가지 구체적인 예시(우편물 정리, 가족과의 연락)를 제시합니다. 따라서 '주제 제시 -> 원리 설명(B) -> 해결책 제안(A) -> 구체적 예시(C)'의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by _______________.\nThe amount of effort, time, or decision making required by an action has a huge influence on habit formation.\nTo a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not.\nFor this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.\nMany people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "social pressure from peers" },
+        { "number": "②", "text": "the promise of future rewards" },
+        { "number": "③", "text": "our own internal willpower" },
+        { "number": "④", "text": "the advice of experts" },
+        { "number": "⑤", "text": "sheer convenience" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글쓴이는 습관에 대해 가장 놀라운 점을 설명하고 있으며, 이어지는 문장들에서 행동에 필요한 '노력, 시간, 의사결정'이 적을수록, 즉 '편리할수록' 그 행동을 더 하게 된다고 반복해서 강조하고 있습니다. 따라서 빈칸에는 글의 핵심 주제인 '순전한 편리함(sheer convenience)'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer convenience.\nThe amount of effort, time, or decision making required by an action has a ① `minor` influence on habit formation.\nTo a truly remarkable extent, we're more likely to do something if it's ② `convenient`, and less likely if it's not.\nFor this reason, we should pay close ③ `attention` to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped ④ `procrastinating` with this chore.\nMany people report that they do a much better job of staying close to ⑤ `distant` family members now that tools like group chats make it easy to stay in touch.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글쓴이는 편리함이 습관 형성에 미치는 영향이 자신을 '놀라게 할(astonishes)' 정도라고 말하며 그 중요성을 강조하고 있습니다. 따라서 행동에 필요한 노력이 습관 형성에 '사소한(minor)' 영향을 미친다고 하는 것은 글 전체의 주장과 정반대됩니다. 문맥상 '거대한(huge)' 영향이 적절합니다. 나머지 단어들은 모두 문맥에 맞게 사용되었습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually (A) `astonishes` me is the degree to which we're influenced by sheer convenience.\nThe amount of effort, time, or decision making required by an action has a huge influence on habit (B) `formation`.\nTo a truly remarkable extent, we're more likely to do something if it's (C) `convenient`, and less likely if it's not.\nFor this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this (D) `chore`.\nMany people report that they do a much better job of staying close to (E) `distant` family members now that tools like group chats make it easy to stay in touch.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) astonishes: to surprise someone very much" },
+        { "number": "②", "text": "(B) formation: a group of things that have been arranged in a particular way" },
+        { "number": "③", "text": "(C) convenient: easy to do, or not causing problems or difficulties" },
+        { "number": "④", "text": "(D) chore: a job or piece of work that is often boring or unpleasant" },
+        { "number": "⑤", "text": "(E) distant: related to you, but not closely" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "본문에서 (B) 'formation'은 'habit formation(습관 형성)'이라는 구문에서 '형성 과정'이라는 의미로 사용되었습니다. 하지만 보기 ②의 영영 풀이 '특정한 방식으로 배열된 사물의 집단(a group of things that have been arranged in a particular way)'은 '대형(隊形)'이나 '(암석의) 형성물'과 같은 다른 의미의 'formation'을 설명하고 있습니다. 따라서 문맥상의 의미와 다른 이 풀이는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "People often ask me, \"What surprises you most about habits?\"\nOne thing that continually astonishes me is the degree to which we're influenced by sheer (A) [convenience / difficulty].\nThe amount of effort, time, or decision making required by an action has a huge influence on habit formation.\nTo a truly remarkable extent, we're (B) [more / less] likely to do something if it's convenient, and less likely if it's not.\nFor this reason, we should pay close attention to the convenience of any activity we want to make into a habit.\nPutting a wastebasket next to our front door made mail sorting slightly more convenient, and I (C) [stopped / started] procrastinating with this chore.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "convenience / more / stopped" },
+        { "number": "②", "text": "convenience / less / stopped" },
+        { "number": "③", "text": "convenience / more / started" },
+        { "number": "④", "text": "difficulty / less / started" },
+        { "number": "⑤", "text": "difficulty / more / stopped" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 글 전체의 주제는 습관이 '편리함(convenience)'에 의해 영향을 받는다는 것이므로 'convenience'가 맞습니다. (B) 글의 핵심 내용에 따라, 우리는 어떤 일이 편리할 때 그것을 '더(more)' 할 가능성이 높습니다. (C) 우편물 정리가 더 편리해졌기 때문에, 글쓴이는 그 하기 싫은 일을 '미루는 것을 멈췄다(stopped procrastinating)'고 해야 문맥이 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "One thing that continually astonishes me is the degree to which we're influenced by sheer convenience. The amount of effort, time, or decision making required by an action has a huge influence on habit formation. ① To a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not. ② For this reason, we should pay close attention to the convenience of any activity we want to make into a habit. ③ Habits are technically defined as automatic behaviors triggered by situational cues. ④ Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore. ⑤ Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '편리함'이 습관 형성에 미치는 영향에 대해 설명하고, 이를 활용하여 좋은 습관을 만드는 방법에 대한 실용적인 조언과 예시를 제공하는 흐름을 가지고 있습니다. ①, ②, ④, ⑤는 모두 이 주제를 중심으로 긴밀하게 연결됩니다. 하지만 ③번 문장 '습관은 기술적으로 상황적 신호에 의해 유발되는 자동적인 행동으로 정의된다'는 습관에 대한 학술적, 기술적 정의를 내리는 문장으로, 글의 실용적인 조언과 개인적인 관찰이라는 전체적인 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① One thing that continually [astonishes / astonish] me is the degree to ② which we're influenced by sheer convenience. The amount of effort, time, or decision making required by an action has a huge influence on habit formation. To a truly remarkable extent, we're more likely to do something if it's convenient, and less likely if it's not. For this reason, we should pay close attention to the convenience of any activity we want to make into a habit. Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped ③ [to procrastinate / procrastinating] with this chore.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "astonishes",
+          "explanation": "주절의 주어는 관계대명사절(that continually ~ me)의 수식을 받는 단수 명사 'One thing'입니다. 주어가 3인칭 단수이므로 동사도 단수형인 'astonishes'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "which",
+          "explanation": "이 문장은 'we're influenced to the degree'라는 구조에서 'the degree'가 앞으로 나간 형태입니다. 따라서 전치사 'to'와 관계대명사 'which'가 함께 쓰여 'to which'가 되어야 합니다. 전치사 뒤에는 관계대명사 that을 사용할 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "procrastinating",
+          "explanation": "동사 'stop'은 목적어로 동명사(V-ing)를 취하면 '~하던 것을 멈추다'라는 의미가 되고, to부정사를 취하면 '~하기 위해 멈추다'라는 의미가 됩니다. 문맥상 '미루는 행위를 멈췄다'는 의미가 되어야 하므로 동명사인 'procrastinating'이 적절합니다."
+        }
+      ]
+    }
+  ]
+}

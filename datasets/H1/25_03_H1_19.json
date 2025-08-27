@@ -1,0 +1,272 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to warn about the dangers of old sheds"
+        },
+        {
+          "number": "②",
+          "text": "to describe a moment of suspense and relief"
+        },
+        {
+          "number": "③",
+          "text": "to explain how to catch a wild rabbit"
+        },
+        {
+          "number": "④",
+          "text": "to complain about a scary neighbor"
+        },
+        {
+          "number": "⑤",
+          "text": "to advertise a pest control service"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 어두운 헛간에서 정체 모를 움직임에 공포를 느끼다가 그것이 토끼임을 발견하고 안도하는 순간을 생생하게 묘사하고 있습니다. 따라서 글의 주된 목적은 긴장감 넘치는 순간과 그에 따른 안도감을 묘사하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "A Guide to Old Buildings"
+        },
+        {
+          "number": "②",
+          "text": "The Day I Befriended a Rabbit"
+        },
+        {
+          "number": "③",
+          "text": "An Unexpected Visitor in the Dark"
+        },
+        {
+          "number": "④",
+          "text": "The Smell of Wood and Earth"
+        },
+        {
+          "number": "⑤",
+          "text": "My Heart is Beating Fast"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 어두운 헛간에서 예기치 않게 마주친 존재(토끼)로 인해 겪는 공포와 안도감에 대한 이야기입니다. '어둠 속의 예상치 못한 방문객'이라는 제목이 글의 중심 사건과 분위기를 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "An unexpected encounter in a dark place initially caused great fear but ended in simple relief."
+        },
+        {
+          "number": "②",
+          "text": "The narrator's primary goal was to explore the old shed to find some lost items of value."
+        },
+        {
+          "number": "③",
+          "text": "A wild animal breaking into the shed posed a significant and lasting threat to the narrator."
+        },
+        {
+          "number": "④",
+          "text": "The story emphasizes the importance of keeping sheds well-lit and secure from any outside animals."
+        },
+        {
+          "number": "⑤",
+          "text": "The narrator's fear was justified because the moving shadow was a dangerous intruder in the end."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심은 어두운 장소에서 정체를 알 수 없는 존재와 마주쳐 큰 공포를 느꼈지만, 그 정체가 토끼임이 밝혀지면서 단순한 안도감으로 끝나는 경험입니다. 따라서 '어두운 곳에서의 예기치 않은 만남이 처음에는 큰 공포를 유발했지만 결국 단순한 안도감으로 끝났다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall. ( ① ) A rabbit. ( ② ) \"You scared me,\" I say, feeling much better. ( ③ ) The rabbit pauses for a moment, then hops away, disappearing back into the shadows. ( ④ ) I'm left smiling. ( ⑤ ) I start to feel at ease.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**A laugh escapes my lips as it stares at me with wide, curious eyes.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 화자의 입에서 웃음이 터져 나왔다는 내용으로, 공포가 안도와 재미로 바뀌는 전환점을 나타냅니다. 이 감정의 변화는 그림자의 정체가 '토끼'라는 것을 확인한 직후에 일어나는 것이 가장 자연스럽습니다. 따라서 주어진 문장은 'A rabbit.' 다음, 그리고 'You scared me'라고 말하기 전인 ②에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows.",
+      "question_blocks": {
+        "A": "A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much better.",
+        "B": "\"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall.",
+        "C": "The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문단은 어둡고 축축한 헛간에서 무언가 움직이는 것을 감지하는 상황 설정입니다. (B)에서 화자가 두려움에 떨며 소리치고, 그림자가 다가오며 긴장감이 고조됩니다. (A)에서 그 그림자가 토끼임이 밝혀지며 공포가 안도와 웃음으로 전환됩니다. 마지막으로 (C)에서 토끼가 사라지고 화자가 완전히 평온을 되찾는 것으로 이야기가 마무리됩니다. 따라서 논리적 순서는 (B)-(A)-(C)가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure [____________________]. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "makes a very loud noise"
+        },
+        {
+          "number": "②",
+          "text": "steps into a faint beam of light"
+        },
+        {
+          "number": "③",
+          "text": "suddenly attacks me"
+        },
+        {
+          "number": "④",
+          "text": "speaks in a human voice"
+        },
+        {
+          "number": "⑤",
+          "text": "blocks the only exit"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸 앞부분에서 화자의 심장이 빠르게 뛰며 공포가 최고조에 달했다가, 빈칸 뒷부분에서 그 정체가 토끼임이 밝혀지며 안도합니다. 공포가 멈추고 정체가 드러나는 계기는 '그 형체가 희미한 빛줄기 속으로 들어서는' 순간입니다. 따라서 빈칸에는 'steps into a faint beam of light'가 들어가는 것이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The shed is cold and damp, the air ① [thick] with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice ② [shaking] with fear. The shadow moves closer, and my heart is beating ③ [fast] ─ until the figure steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with ④ [wide], curious eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel ⑤ [uneasy].",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이야기의 마지막 부분에서 화자는 공포가 사라지고 웃음을 지으며 안도감을 느끼고 있습니다. 따라서 '불안한'을 의미하는 'uneasy'는 'I'm left smiling'(나는 미소를 지은 채 남겨졌다)이라는 앞 문장의 내용과 상반되어 문맥에 맞지 않습니다. '편안한'을 의미하는 'at ease'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The shed is cold and (A) [damp], the air thick with the smell of old wood and earth. It's dark, and I can't (B) [make out] what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the (C) [figure] steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh (D) [escapes] my lips as it stares at me with wide, (E) [curious] eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) damp: slightly wet, often in a way that is unpleasant"
+        },
+        {
+          "number": "②",
+          "text": "(B) make out: to manage to see or identify someone or something"
+        },
+        {
+          "number": "③",
+          "text": "(C) figure: a shape of a person or animal that is difficult to see clearly"
+        },
+        {
+          "number": "④",
+          "text": "(D) escapes: (of a sound) comes out from your mouth without you intending it to"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) curious: having no interest in learning or knowing about things"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) curious는 '호기심이 많은, 알고 싶어 하는'이라는 의미입니다. 영영 풀이 'having no interest in learning or knowing about things(무언가를 배우거나 아는 것에 관심이 없는)'는 '무관심한'이라는 뜻으로, 'curious'의 의미와 정반대입니다. 'curious'의 올바른 영영 풀이는 'eager to know or learn something'입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The shed is cold and damp, the air (A) [thick / thinly] with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice (B) [shaking / shaken] with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much (C) [better / worse]. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "thick - shaking - better" },
+        { "number": "②", "text": "thick - shaken - worse" },
+        { "number": "③", "text": "thick - shaking - worse" },
+        { "number": "④", "text": "thinly - shaken - better" },
+        { "number": "⑤", "text": "thinly - shaking - worse" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 공기 중에 냄새가 '자욱하다'는 의미이므로 형용사 'thick'이 적절합니다. (B) 목소리가 공포로 '떨리고 있는' 능동적인 상태를 나타내므로 현재분사 'shaking'이 맞습니다. (C) 공포의 원인이 토끼임이 밝혀진 후 '기분이 훨씬 나아졌다'는 의미가 되어야 하므로 'better'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "주인공의 심경 변화",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. It's dark, and I can't make out what's moving in the shadows. \"Who's there?\" I ask, my voice shaking with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light breaking through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, feeling much better. The rabbit pauses for a moment, then hops away, disappearing back into the shadows. I'm left smiling. I start to feel at ease.",
+      "question": "다음 글에 드러난 ‘I’의 심경 변화로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "excited → disappointed" },
+        { "number": "②", "text": "bored → interested" },
+        { "number": "③", "text": "hopeful → desperate" },
+        { "number": "④", "text": "frightened → relieved" },
+        { "number": "⑤", "text": "annoyed → grateful" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 전반부에서 화자는 어둠 속 움직임에 '목소리가 떨리고 심장이 빠르게 뛰는' 등 '두려움(frightened)'을 느낍니다. 하지만 그 정체가 토끼임을 확인한 후 웃음을 터뜨리고 '기분이 훨씬 나아졌다'고 말하며 '안도감(relieved)'을 느낍니다. 따라서 심경 변화는 '두려운 → 안도하는'이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The shed is cold and damp, the air thick with the smell of old wood and earth. ① It's dark, and I can't make out [what / that] is moving in the shadows. \"Who's there?\" I ask, my voice ② [shaking / shaken] with fear. The shadow moves closer, and my heart is beating fast ─ until the figure steps into a faint beam of light ③ [breaking / broken] through a crack in the wall. A rabbit. A laugh escapes my lips as it stares at me with wide, curious eyes. \"You scared me,\" I say, ④ [feeling / felt] much better.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "what",
+          "explanation": "'make out'의 목적어 역할을 하는 명사절을 이끌어야 합니다. 선행사를 포함하며 '~하는 것'으로 해석되는 관계대명사 'what'이 적절합니다. 'that'은 선행사가 없으므로 쓸 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "shaking",
+          "explanation": "분사구문으로, 주절의 주어인 'my voice'가 '떨리고 있는' 능동의 의미이므로 현재분사 'shaking'이 맞습니다. 'with fear'는 부사구입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "breaking",
+          "explanation": "앞의 명사 'a faint beam of light'를 수식하는 분사입니다. 빛줄기가 벽의 틈을 '뚫고 나오는' 능동의 의미이므로 현재분사 'breaking'이 적절합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "feeling",
+          "explanation": "분사구문으로, 주절의 주어인 'I'가 '느끼는' 주체이므로 능동의 의미를 나타내는 현재분사 'feeling'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

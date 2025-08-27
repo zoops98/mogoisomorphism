@@ -1,0 +1,202 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions, tales and sometimes plain silliness.\nHowever, psychology is different.\nIt is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we interact with one another.\nThe key word here is 'science.'\nPsychologists don't depend on opinions and hearsay, or the generally accepted views of society at the time, or even the considered opinions of deep thinkers.\nInstead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.\nIn addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social diversity, as well as those shared by all human beings.\nThese are what modern psychology is all about.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the lack of diversity in psychological studies" },
+        { "number": "②", "text": "to list common assumptions about human nature" },
+        { "number": "③", "text": "to explain the scientific nature of psychology" },
+        { "number": "④", "text": "to compare psychology with other branches of science" },
+        { "number": "⑤", "text": "to encourage people to trust their own opinions" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 심리학이 '가정, 이야기, 어리석음'의 혼합물인 일반적인 통념과 어떻게 다른지를 설명합니다. 핵심 단어를 '과학(science)'이라고 강조하며, 심리학이 의견이나 통념이 아닌 '증거(evidence)'에 기반하여 인간을 이해하려는 학문임을 역설하고 있습니다. 따라서 글의 주된 목적은 '심리학의 과학적 본질을 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions, tales and sometimes plain silliness.\nHowever, psychology is different.\nIt is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we interact with one another.\nThe key word here is 'science.'\nPsychologists don't depend on opinions and hearsay, or the generally accepted views of society at the time, or even the considered opinions of deep thinkers.\nInstead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.\nIn addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social diversity, as well as those shared by all human beings.\nThese are what modern psychology is all about.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Psychology: The Science of Us" },
+        { "number": "②", "text": "Common Tales and Silly Assumptions" },
+        { "number": "③", "text": "Why We Should Trust Deep Thinkers" },
+        { "number": "④", "text": "The Diversity of Human Culture" },
+        { "number": "⑤", "text": "The Limits of an Evidence-Based Approach" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 심리학이 단순한 의견이나 통념이 아니라, '우리(us)' 인간을 이해하기 위한 '과학(science)'임을 강조합니다. 증거를 기반으로 인간 행동의 근본 원리를 탐구하는 학문으로서의 심리학을 정의하고 있으므로, '심리학: 우리에 대한 과학'이라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions, tales and sometimes plain silliness.\nHowever, psychology is different.\nIt is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we interact with one another.\nThe key word here is 'science.'\nPsychologists don't depend on opinions and hearsay, or the generally accepted views of society at the time, or even the considered opinions of deep thinkers.\nInstead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.\nIn addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social diversity, as well as those shared by all human beings.\nThese are what modern psychology is all about.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Psychology is a distinct science that uses evidence, not just popular belief, to understand fundamental human processes." },
+        { "number": "②", "text": "The most reliable way to understand human nature is to analyze the various tales and assumptions common in society." },
+        { "number": "③", "text": "Modern psychology primarily focuses on the cultural diversity of human beings rather than on their shared characteristics." },
+        { "number": "④", "text": "The opinions of deep thinkers and philosophers are considered the most important form of evidence in modern psychology." },
+        { "number": "⑤", "text": "The main goal of psychology is to scientifically confirm that the generally accepted views of society are correct." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 심리학이 일반적인 통념이나 의견과 달리 '과학'이라는 점입니다. 심리학은 널리 퍼진 믿음이 아닌 '증거'를 통해 인간 행동과 생각의 '근본적인 과정'을 이해하고자 합니다. 따라서 '심리학은 단지 대중적 믿음이 아닌 증거를 사용하여 근본적인 인간 과정을 이해하는 독자적인 과학이다'라는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions, tales and sometimes plain silliness. However, psychology is different. It is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we interact with one another. ( ① ) Psychologists don't depend on opinions and hearsay, or the generally accepted views of society at the time, or even the considered opinions of deep thinkers. ( ② ) Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions. ( ③ ) In addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social diversity. ( ④ ) These are what modern psychology is all about. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**The key word here is 'science.'**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '여기서 핵심 단어는 '과학'이다'라는 내용입니다. 이 문장은 심리학을 '사람을 이해하는 데 전념하는 과학의 한 분야'라고 정의한 문장 바로 뒤에 위치하여 '과학'이라는 단어를 강조하고, 그 다음에 이어질 내용, 즉 심리학이 왜 과학인지를 설명하는(의견에 의존하지 않고 증거를 찾는) 부분의 도입 역할을 합니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions, tales and sometimes plain silliness. However, psychology is different.",
+      "question_blocks": {
+        "A": "Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.",
+        "B": "It is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we interact with one another. The key word here is 'science.'",
+        "C": "Psychologists don't depend on opinions and hearsay, or the generally accepted views of society at the time, or even the considered opinions of deep thinkers."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 심리학이 일반적인 통념과 다르다고 말합니다. (B)에서 심리학이 무엇인지 정의하며, 핵심이 '과학'임을 밝힙니다. (C)에서는 '과학'으로서의 심리학이 의존하지 *않는* 것들(의견, 소문 등)을 열거합니다. 마지막으로 (A)에서는 'Instead(대신에)'라는 연결어를 사용하여, 심리학이 의존하는 것, 즉 '증거'에 대해 설명하며 (C)의 내용과 대조를 이룹니다. 따라서 (B)-(C)-(A) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The common accounts of human nature are generally a mixture of assumptions and tales. However, psychology is different. It is the branch of science that is devoted to understanding people. The key word here is 'science.' Psychologists don't depend on opinions and hearsay, or the generally accepted views of society at the time. Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from [____________________]. In addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our diversity, as well as those shared by all human beings.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "rigorous scientific experiments" },
+        { "number": "②", "text": "the careful work of other psychologists" },
+        { "number": "③", "text": "data from controlled observations" },
+        { "number": "④", "text": "generally held beliefs or assumptions" },
+        { "number": "⑤", "text": "fundamental processes and principles" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 심리학이 증거를 통해 아이디어가 '확고하게 기반을 두도록' 확실히 하는 것과, '단지 ~로부터 파생되지 않도록' 하는 것을 대조하고 있습니다. 심리학이 의존하지 않는 것으로 앞에서 언급된 '의견, 소문, 사회의 일반적으로 받아들여지는 견해' 등과 같은 맥락의 표현이 빈칸에 들어가야 합니다. 따라서 '일반적으로 받아들여지는 믿음이나 가정'이라는 의미의 ④번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The common accounts of human nature that float around in society are generally a ① [mixture] of assumptions, tales and sometimes plain silliness. However, psychology is ② [different]. It is the branch of science that is devoted to understanding people. The key word here is 'science.' Psychologists don't ③ [depend on] opinions and hearsay, or the generally accepted views of society. Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just ④ [derived] from generally held beliefs or assumptions. In addition to this evidence-based approach, psychology deals with ⑤ [superficial] processes and principles that generate our rich cultural and social diversity.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① mixture" },
+        { "number": "②", "text": "② different" },
+        { "number": "③", "text": "③ depend on" },
+        { "number": "④", "text": "④ derived" },
+        { "number": "⑤", "text": "⑤ superficial" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "심리학은 증거 기반 접근법을 통해 인간의 다양성과 공통점을 만들어내는 과정을 다룬다고 설명합니다. 이러한 과정은 인간 행동과 생각의 핵심을 이루는 것이므로 '근본적인(fundamental)' 과정이라고 해야 합니다. '피상적인(superficial)'이라는 단어는 '근본적인'과 반대되는 의미로, 과학으로서의 심리학이 탐구하는 대상의 깊이를 폄하하므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of (A) [assumptions], tales and sometimes plain silliness. However, psychology is different. It is the branch of science that is (B) [devoted] to understanding people. Psychologists don't depend on opinions and (C) [hearsay], or the generally accepted views of society. Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just (D) [derived] from generally held beliefs. In addition, psychology deals with (E) [fundamental] processes and principles.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) assumptions: things that are accepted as true, without proof" },
+        { "number": "②", "text": "(B) devoted: to decide to do something and not change your mind" },
+        { "number": "③", "text": "(C) hearsay: information received from other people that one cannot adequately substantiate" },
+        { "number": "④", "text": "(D) derived: to get a substance or quality from something" },
+        { "number": "⑤", "text": "(E) fundamental: forming a necessary base or core; of central importance" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) 본문에서 'devoted'는 심리학이라는 학문이 사람들을 이해하는 데 '전념한다, 헌신한다'는 의미로 사용되었습니다. 영영 풀이 'to decide to do something and not change your mind (무언가를 하기로 결심하고 마음을 바꾸지 않다)'는 'be determined' 또는 'be resolved'에 더 가까운 설명입니다. 'Devoted'는 강한 애정과 충성심, 또는 특정 목적에 대한 헌신을 의미합니다. 따라서 ②번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions and tales. However, psychology is (A) [different / similar]. It is the branch of science that is devoted to understanding people. Psychologists don't depend on opinions and hearsay. Instead, they look for (B) [evidence / tradition], to make sure that psychological ideas are firmly based. In addition to this evidence-based approach, psychology deals with (C) [fundamental / secondary] processes and principles that generate our rich cultural and social diversity, as well as those shared by all human beings.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "different - evidence - fundamental" },
+        { "number": "②", "text": "different - tradition - secondary" },
+        { "number": "③", "text": "similar - evidence - fundamental" },
+        { "number": "④", "text": "similar - tradition - secondary" },
+        { "number": "⑤", "text": "different - evidence - secondary" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 심리학은 일반적인 통념과 '다르다(different)'고 설명하며 글이 시작됩니다. 'similar'는 '비슷한'이라는 뜻입니다. (B) 심리학은 의견이나 소문 대신 '증거(evidence)'를 찾습니다. 'tradition'은 '전통'이라는 뜻입니다. (C) 심리학은 문화적 다양성과 인간의 공통점을 생성하는 '근본적인(fundamental)' 과정을 다룹니다. 'secondary'는 '부차적인'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "The common accounts of human nature that float around in society are generally a mixture of assumptions, tales and sometimes plain silliness.\nHowever, psychology is different.\nIt is the branch of science that is devoted to understanding people. The key word here is 'science.'\nPsychologists don't depend on opinions and hearsay, or the generally accepted views of society, or even the considered opinions of deep thinkers.\nInstead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.\nIn addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social diversity, as well as those shared by all human beings.\nThese are what modern psychology is all about.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Common beliefs about people are often unscientific." },
+        { "number": "②", "text": "Psychology is defined as a scientific discipline." },
+        { "number": "③", "text": "Psychologists value evidence over generally accepted views." },
+        { "number": "④", "text": "Psychology is primarily concerned with what makes all humans the same." },
+        { "number": "⑤", "text": "Psychological ideas should be based on something firm, not just assumptions." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 심리학이 '우리의 풍부한 문화적, 사회적 다양성을 생성하는 근본적인 과정과 원리뿐만 아니라, 모든 인간이 공유하는 것들도 다룬다(deals with fundamental processes and principles that generate our rich cultural and social diversity, as well as those shared by all human beings)'고 명시하고 있습니다. 따라서 심리학이 주로 인간의 공통점에만 관심을 갖는다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① The common accounts of human nature that float around in society [is / are] generally a mixture of assumptions, tales and sometimes plain silliness. ② It is the branch of science that is devoted to [understanding / understand] people. ③ Psychologists don't depend on opinions, hearsay, or even the [considered / considering] opinions of deep thinkers. ④ Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just [derived / deriving] from generally held beliefs. ⑤ In addition, psychology deals with fundamental processes and principles that [generate / generates] our rich cultural and social diversity.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "are",
+          "explanation": "이 문장의 주어는 복수 명사인 'The common accounts'입니다. 따라서 복수 동사인 'are'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "understanding",
+          "explanation": "'be devoted to'에서 'to'는 전치사입니다. 따라서 뒤에는 명사 또는 동명사가 와야 하므로 'understanding'이 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "considered",
+          "explanation": "명사 'opinions'를 수식하는 분사 자리입니다. '의견'은 '고려되는' 대상이므로 수동의 의미를 가진 과거분사 'considered(심사숙고한)'가 맞습니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "derived",
+          "explanation": "앞의 'are firmly based'와 병렬 구조를 이루고 있습니다. 'ideas are... derived'의 형태로 수동태가 되어야 하므로 과거분사 'derived'가 맞습니다."
+        },
+        {
+          "number": "⑤",
+          "correct_form": "generate",
+          "explanation": "관계대명사 'that'의 선행사는 복수 명사인 'fundamental processes and principles'입니다. 따라서 관계대명사절의 동사도 복수형인 'generate'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

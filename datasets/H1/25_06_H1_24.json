@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will agree with us and see what we see. But the opposite is the case. Every human brain is different. Everyone's life experience is different. Everyone's desires and knowledge are different. You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. It's only your interpretation of reality, which will always be different from someone else's. When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are biased against their team.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain that human perception of reality is subjective" },
+        { "number": "②", "text": "to encourage people to think more logically and rationally" },
+        { "number": "③", "text": "to criticize the unfairness of sports referees" },
+        { "number": "④", "text": "to highlight the importance of shared life experiences" },
+        { "number": "⑤", "text": "to demonstrate how to reach an agreement with others" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 사람들이 자신을 논리적이고 객관적이라고 생각하지만 실제로는 그렇지 않다고 주장합니다. 모든 사람은 각기 다른 뇌, 경험, 욕망을 가지고 있기 때문에 현실에 대한 완벽히 객관적인 인식은 불가능하며, 각자의 '해석(interpretation)'일 뿐이라고 설명합니다. 월드컵 팬의 예를 통해 이를 뒷받침하므로, 이 글의 주된 목적은 '현실에 대한 인간의 인식이 주관적임을 설명하기' 위함입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will agree with us and see what we see. But the opposite is the case. Every human brain is different. Everyone's life experience is different. Everyone's desires and knowledge are different. You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. It's only your interpretation of reality, which will always be different from someone else's. When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are biased against their team.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Why We All See the World Differently" },
+        { "number": "②", "text": "The Keys to Rational Decision Making" },
+        { "number": "③", "text": "How to Be a Fair Referee in Sports" },
+        { "number": "④", "text": "Logic: The Common Ground for Humanity" },
+        { "number": "⑤", "text": "The Unforgettable Passion of World Cup Fans" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 우리가 세상을 객관적으로 보는 것이 아니라, 각자의 다른 뇌 구조, 경험, 지식 때문에 주관적으로 해석한다는 것입니다. 즉, 사람마다 세상을 다르게 보는 이유를 설명하고 있습니다. 따라서 '우리는 왜 모두 세상을 다르게 보는가'가 글 전체의 주제를 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will agree with us and see what we see. But the opposite is the case. Every human brain is different. Everyone's life experience is different. Everyone's desires and knowledge are different. You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. It's only your interpretation of reality, which will always be different from someone else's. When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are biased against their team.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Our perception of reality is not objective but a subjective interpretation shaped by our unique personal experiences." },
+        { "number": "②", "text": "Logical and rational thinking is the most effective tool for making accurate judgments and decisions in life." },
+        { "number": "③", "text": "International sporting events often suffer from poor officiating, which leads to frequent complaints from passionate fans." },
+        { "number": "④", "text": "It is crucial to set aside personal desires and biases when attempting to analyze a complex situation." },
+        { "number": "⑤", "text": "People tend to agree with others who share a similar educational background and cultural life experience." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 우리가 현실을 객관적으로 본다고 생각하지만, 실제로는 각자의 다른 경험, 욕망, 지식 때문에 현실을 주관적으로 해석할 뿐이라고 주장합니다. 월드컵 팬의 예시는 동일한 사건도 각자의 입장에 따라 얼마나 다르게 해석되는지를 보여줍니다. 따라서 '현실에 대한 우리의 인식은 객관적인 것이 아니라, 우리의 고유한 개인적 경험에 의해 형성되는 주관적인 해석이다.'가 이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will agree with us and see what we see. But the opposite is the case. ( ① ) Everyone's life experience is different. ( ② ) Everyone's desires and knowledge are different. ( ③ ) You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. ( ④ ) It's only your interpretation of reality, which will always be different from someone else's.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Every human brain is different.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '모든 인간의 뇌는 다르다'는 내용입니다. 바로 앞 문장은 '하지만 정반대가 사실이다(But the opposite is the case)'라며 우리가 객관적이라는 통념을 반박합니다. 주어진 문장은 왜 정반대가 사실인지에 대한 근본적인 이유(생물학적 차이)를 제시합니다. 이어지는 문장들은 '모든 사람의 인생 경험이 다르다', '모든 사람의 욕망과 지식이 다르다' 등으로, 뇌가 다르다는 근본적 차이에서 파생되는 구체적인 차이점들을 나열합니다. 따라서 주어진 문장은 통념 반박과 그에 대한 구체적 이유 나열의 시작점인 ①에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will agree with us and see what we see.",
+      "question_blocks": {
+        "A": "You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. It's only your interpretation of reality, which will always be different from someone else's.",
+        "B": "But the opposite is the case. Every human brain is different. Everyone's life experience is different. Everyone's desires and knowledge are different.",
+        "C": "When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are biased against their team."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 사람들이 자신을 객관적이라고 생각하고, 다른 사람들도 그럴 것이라고 믿는다는 '통념'을 제시합니다. (B)는 'But'으로 시작하며 이 통념을 정면으로 반박하고, 그 이유로 사람마다 뇌, 경험, 지식 등이 모두 다르다는 점을 설명합니다. (A)는 (B)의 내용을 이어받아, 우리가 현실적이라고 생각하는 것조차 불가능하며 단지 '해석'일 뿐이라고 심화하여 설명합니다. (C)는 (A)와 (B)에서 설명한 주관적 해석과 편향을 보여주는 구체적인 '예시'로 월드컵 팬들의 반응을 제시합니다. 따라서 '통념 반박(B) -> 주장 심화(A) -> 구체적 예시(C)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will agree with us and see what we see. But the opposite is the case. Every human brain is different. Everyone's life experience is different. Everyone's desires and knowledge are different. You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. It's only ___________________, which will always be different from someone else's. When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are biased against their team.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "your interpretation of reality" },
+        { "number": "②", "text": "a reflection of popular opinion" },
+        { "number": "③", "text": "a logical conclusion from facts" },
+        { "number": "④", "text": "the result of a lengthy debate" },
+        { "number": "⑤", "text": "an unimportant personal feeling" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 우리의 생각이 현실과 일치하는 것은 불가능하다고 말하며, 그 이유를 설명하고 있습니다. 빈칸은 우리의 생각이 무엇인지를 정의하는 부분입니다. 글의 핵심 주장은 우리가 현실을 객관적으로 보는 것이 아니라 각자의 경험과 지식에 따라 주관적으로 해석한다는 것이므로, 빈칸에는 '현실에 대한 당신의 해석(your interpretation of reality)'이 들어가는 것이 가장 적절합니다. 이어지는 문장도 이것이 항상 다른 사람의 것과 다를 것이라고 설명하여 이 아이디어를 뒷받침합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "We think we're being logical, objective, and rational - and therefore ① `accurate` in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will ② `agree` with us and see what we see. But the opposite is the case. Every human brain is different. Everyone's life experience is ③ `different`. You might think you're being realistic ─ that is, that your ideas match reality, but that's ④ `impossible`. It's only your interpretation of reality. When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are ⑤ `objective` against their team.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "월드컵 팬의 예시는 사람들이 어떻게 자신의 입장에서 주관적으로 상황을 해석하는지를 보여줍니다. 각 팀의 팬들은 심판이 상대팀의 반칙은 못 보고 우리 팀에게만 불리하게 판정한다고 생각합니다. 이는 심판이 '편향되었다(biased)'고 믿는 것입니다. ⑤번의 'objective'(객관적인)는 'biased'와 정반대의 의미이므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "We think we're being (A) `logical`, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and (B) `rational`, they will agree with us and see what we see. But the opposite is the case. ... You might think you're being realistic ... but that's impossible. It's only your (C) `interpretation` of reality, which will always be different from someone else's. When two nations play each other in the World Cup, the fans of each country (D) `criticize` the referees for missing all the infractions that the other team commits. Without fail, each fan base believes that the referees are (E) `biased` against their team.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) logical: using reason in a clear and orderly way" },
+        { "number": "②", "text": "(B) rational: based on facts or reason and not on emotions" },
+        { "number": "③", "text": "(C) interpretation: an explanation or opinion of what something means" },
+        { "number": "④", "text": "(D) criticize: to express disapproval of someone or something" },
+        { "number": "⑤", "text": "(E) biased: to unfairly influence someone's opinions or decisions" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) `biased`는 '편향된, 선입견을 가진'이라는 의미의 형용사로 사용되어 주격 보어 역할을 합니다. 하지만 보기 ⑤의 영영 풀이 '누군가의 의견이나 결정에 부당하게 영향을 미치다(to unfairly influence...)'는 동사 'bias'에 대한 설명입니다. 품사가 일치하지 않으므로 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "We think we're being logical, objective, and rational - and therefore accurate in our analysis, judgment, and decisions. So we think that if other people are logical, objective, and rational, they will (A) [agree / disagree] with us and see what we see. But the opposite is the case. ... You might think you're being realistic ─ that is, that your ideas match reality, but that's (B) [impossible / necessary]. It's only your interpretation of reality, which will always be different from someone else's. ... Without fail, each fan base believes that the referees are (C) [biased / fair] against their team.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "agree / impossible / biased" },
+        { "number": "②", "text": "agree / necessary / biased" },
+        { "number": "③", "text": "agree / impossible / fair" },
+        { "number": "④", "text": "disagree / necessary / fair" },
+        { "number": "⑤", "text": "disagree / impossible / biased" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 우리는 스스로가 논리적이라고 생각하기 때문에, 다른 논리적인 사람들도 우리에게 '동의할(agree)' 것이라고 생각합니다. (B) 그러나 글쓴이는 모든 사람이 다르기 때문에 우리의 생각이 현실과 완벽히 일치하는 것은 '불가능하다(impossible)'고 말합니다. (C) 월드컵 예시에서 각 팀의 팬들은 심판이 자신들의 팀에 불리하게 '편향되었다(biased)'고 믿습니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "It's only your interpretation of reality, which will always be different from someone else's. ① When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits. ② The FIFA World Cup was first held in 1930 and has been played every four years since, except in 1942 and 1946. ③ Without fail, each fan base believes that the referees are biased against their team. ④ This shows how our own perspective shapes what we see. ⑤",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 월드컵 팬들의 반응을 예시로 들어 인간의 인식이 얼마나 주관적인지를 설명하고 있습니다. ①, ③, ④번 문장은 모두 이 예시를 통해 주관적 편향이라는 주제를 설명하는 데 기여합니다. 하지만 ②번 문장 'FIFA 월드컵은 1930년에 처음 개최되었고 1942년과 1946년을 제외하고 4년마다 열렸다'는 월드컵의 역사에 대한 사실적 정보일 뿐, 글의 핵심 논점인 '주관적 인식'과는 관련이 없어 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "We think we're being logical, objective, and rational - and therefore ① [accurate / accurately] in our analysis, judgment, and decisions. Everyone's desires and knowledge ② [are / is] different. You might think you're being realistic ─ that is, that your ideas match reality, but that's impossible. It's only your interpretation of reality, which will always be different from someone else's. When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team ③ [commits / committing].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "accurate",
+          "explanation": "이 자리에는 'we're (being)'에 연결되는 보어가 필요합니다. 'logical', 'objective', 'rational'과 병렬 구조를 이루어야 하므로 형용사인 'accurate'가 와야 합니다. 부사 'accurately'는 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "are",
+          "explanation": "주어는 'Everyone's desires and knowledge'로, 'desires'와 'knowledge' 두 가지가 and로 연결된 복수 주어입니다. 따라서 동사는 복수형인 'are'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "commits",
+          "explanation": "이 부분은 'all the infractions'를 수식하는 관계대명사절 'that the other team...'입니다. 관계대명사절 안에는 동사가 필요하며, 주어인 'the other team'이 3인칭 단수이므로 동사 'commit'에 -s가 붙은 'commits'가 와야 합니다. 'committing'은 동사가 아닌 분사입니다."
+        }
+      ]
+    }
+  ]
+}

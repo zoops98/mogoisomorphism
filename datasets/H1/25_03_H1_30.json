@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the complexity of consumer psychology"
+        },
+        {
+          "number": "②",
+          "text": "to advertise a new marketing service"
+        },
+        {
+          "number": "③",
+          "text": "to explain the shift in modern promotion strategies"
+        },
+        {
+          "number": "④",
+          "text": "to teach consumers how to avoid being fooled"
+        },
+        {
+          "number": "⑤",
+          "text": "to analyze the long-term effects of sales"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과거의 기만적인 홍보 방식이 사라지고, 오늘날의 현명한 마케터들은 정직하고 명확한 정보 제공과 올바른 소비자층을 공략하는 방식으로 변화했음을 설명하고 있습니다. 따라서 글의 주된 목적은 현대의 홍보 전략이 어떻게 변화했는지를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Dangers of Word-of-Mouth"
+        },
+        {
+          "number": "②",
+          "text": "Consumer Psychology: A Complex Field"
+        },
+        {
+          "number": "③",
+          "text": "Modern Promotion: From Deception to Honesty"
+        },
+        {
+          "number": "④",
+          "text": "How to Increase Short-Term Sales"
+        },
+        {
+          "number": "⑤",
+          "text": "Identifying Your Potential Consumers"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과거에 소비자를 속이던 홍보 방식에서 벗어나, 현대에는 정직한 정보 제공과 명확한 가치 전달을 중시하는 방식으로 변화했다는 점을 핵심적으로 다루고 있습니다. 따라서 '현대의 홍보: 기만에서 정직으로'라는 제목이 글의 중심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Effective modern promotion focuses on honestly informing targeted consumers rather than trying to deceive a general audience."
+        },
+        {
+          "number": "②",
+          "text": "The most clever marketing strategy is to create promotions that successfully fool customers into making a quick purchase."
+        },
+        {
+          "number": "③",
+          "text": "Consumer psychology proves that people will eventually forget a bad experience and buy the same product once again."
+        },
+        {
+          "number": "④",
+          "text": "Marketers should primarily focus on reaching the largest possible audience, regardless of their specific interests or needs."
+        },
+        {
+          "number": "⑤",
+          "text": "The primary goal of promotion today is to increase short-term sales, even at the cost of losing long-term trust."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심은 현대 마케팅이 과거처럼 불특정 다수를 속이려 하는 대신, 제품의 가치를 알아볼 가능성이 높은 특정 소비자층을 찾아내어 그들에게 정직하고 명확한 정보를 제공하는 데 초점을 맞추고 있다는 것입니다. 이것이 장기적으로 더 효과적이기 때문입니다. 따라서 '효과적인 현대 홍보는 일반 대중을 속이려 하기보다, 목표 소비자에게 정직하게 정보를 제공하는 데 집중한다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. ( ① ) Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. ( ② ) ( ③ ) Therefore, marketers must know where the potential consumers are, and how to reach them. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In fact, consumers fooled once can do damage to sales as they relate their experience to others.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 한번 속은 소비자가 자신의 경험을 다른 사람에게 이야기함으로써 매출에 피해를 줄 수 있다는 내용입니다. 이는 바로 앞 문장인 'The long-term effect... wasn't good'에서 언급된 '좋지 않은 장기적 효과'가 무엇인지 구체적으로 설명하는 역할을 합니다. 따라서 'In fact'로 시작하는 주어진 문장은 앞 문장의 내용을 부연 설명하는 위치인 ①에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible.",
+      "question_blocks": {
+        "A": "The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others.",
+        "B": "By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something.",
+        "C": "Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 현대의 현명한 마케터가 정직한 정보 제공을 한다는 내용입니다. (B)는 'By doing so'를 통해 이 행동의 긍정적 결과(매출 증가)를 설명하고, 'Gone are the days'를 통해 과거의 기만적인 방식과 대조를 시작합니다. (A)는 (B)에서 언급된 과거 방식의 '좋지 않은 장기적 효과'에 대해 구체적으로 설명합니다. (C)는 'Instead'를 사용하여 다시 현대의 방식으로 돌아와, 목표 소비자에게 집중하는 현대 마케팅의 목표를 상세히 설명하고 'Therefore'로 결론을 내립니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to [____________________], and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "be fooled by clever tricks"
+        },
+        {
+          "number": "②",
+          "text": "complain about the price"
+        },
+        {
+          "number": "③",
+          "text": "appreciate a good or service"
+        },
+        {
+          "number": "④",
+          "text": "share negative experiences"
+        },
+        {
+          "number": "⑤",
+          "text": "resist any form of promotion"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 현대 마케터의 목표를 설명하고 있습니다. 현대 마케팅은 제품을 필요로 하지 않는 사람을 속이는 것이 아니라, 그 제품의 가치를 진정으로 알아보고 만족할 가능성이 높은 소비자를 찾아내는 것입니다. 따라서 빈칸에는 '제품이나 서비스의 진가를 알아보다'라는 의미의 'appreciate a good or service'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the ① [clever] marketer knows that promotion is used to provide information in the most clear, ② [honest], and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do ③ [damage] to sales as they relate their experience to others. Instead, marketers now know that their goal is to ④ [identify] the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value ⑤ [vague] to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 현대 마케팅이 소비자에게 가치를 '명확하게(clear)' 전달하는 것을 목표로 한다고 설명합니다. '모호한'이라는 뜻의 'vague'는 이러한 목표와 정반대되는 개념이므로 문맥상 적절하지 않습니다. 마케터는 소비자에게 가치를 명확하게 만들어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Promotion deals with consumer (A) [psychology]. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple (B) [fashion] possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they (C) [relate] their experience to others. Instead, marketers now know that their goal is to (D) [identify] the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the (E) [potential] consumers are, and how to reach them.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) psychology: the scientific study of the mind and how it influences behavior"
+        },
+        {
+          "number": "②",
+          "text": "(B) fashion: a popular style of clothes, hair, etc. at a particular time"
+        },
+        {
+          "number": "③",
+          "text": "(C) relate: to tell a story or describe a series of events"
+        },
+        {
+          "number": "④",
+          "text": "(D) identify: to recognize somebody or something and be able to say who or what they are"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) potential: possible but not yet actual"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) fashion은 이 문맥에서 '방식(manner, way)'이라는 의미로 사용되었습니다. 제시된 영영 풀이 'a popular style of clothes, hair, etc. at a particular time(특정 시기의 인기 있는 옷, 머리 등의 스타일)'은 우리가 흔히 아는 '유행'이라는 의미의 fashion에 대한 설명으로, 이 문맥과는 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Promotion deals with consumer psychology. We can't (A) [force / allow] people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do (B) [damage / justice] to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to (C) [appreciate / ignore] a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "force - damage - appreciate" },
+        { "number": "②", "text": "force - justice - ignore" },
+        { "number": "③", "text": "allow - damage - appreciate" },
+        { "number": "④", "text": "allow - justice - ignore" },
+        { "number": "⑤", "text": "force - damage - ignore" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 사람들에게 특정 방식으로 생각하도록 '강요할' 수 없다는 의미가 자연스러우므로 'force'가 맞습니다. (B) 속은 경험이 있는 소비자는 매출에 '피해를' 줄 수 있으므로 'damage'가 적절합니다. 'do justice to'는 '~을 제대로 다루다/보여주다'는 긍정적 의미입니다. (C) 마케터는 제품의 가치를 '진정으로 알아볼' 가능성이 있는 소비자를 찾아야 하므로 'appreciate'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used to provide information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. Gone are the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value clear to the consumer. Therefore, marketers must know where the potential consumers are, and how to reach them.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "A clever marketer provides information clearly and honestly."
+        },
+        {
+          "number": "②",
+          "text": "The era of tricking consumers with promotions is over."
+        },
+        {
+          "number": "③",
+          "text": "A negative experience can lead consumers to harm a company's sales."
+        },
+        {
+          "number": "④",
+          "text": "Modern marketers believe it's best to promote to the widest audience possible."
+        },
+        {
+          "number": "⑤",
+          "text": "Marketers need to know how to locate and contact potential customers."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service'라고 말하며, 현대 마케터들이 제품의 가치를 알아볼 특정 소비자층을 '식별하는' 것을 목표로 한다고 설명합니다. 이는 가능한 가장 넓은 대중에게 홍보하는 것과는 다른, 타겟 마케팅 전략입니다. 따라서 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Promotion deals with consumer psychology. We can't force people to think one way or another, and the clever marketer knows that promotion is used ① [to provide / for providing] information in the most clear, honest, and simple fashion possible. By doing so, the possibility of increasing sales goes up. ② [Gone are / Are gone] the days when promotions were done in order to fool the consumer into purchasing something. The long‐term effect of getting a consumer to buy something they did not really want or need wasn't good. In fact, consumers fooled once can do damage to sales as they relate their experience to others. Instead, marketers now know that their goal is to identify the consumers who are most likely to appreciate a good or service, and to promote that good or service in a way that makes the value ③ [clear / clearly] to the consumer.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to provide",
+          "explanation": "'be used to + 동사원형'은 '~하기 위해 사용되다'라는 목적을 나타내는 표현입니다. 'be used for + 동명사'도 가능하지만, 목적을 나타낼 때는 to부정사가 더 일반적으로 쓰입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "Gone are",
+          "explanation": "보어인 'Gone'이 문장 앞으로 나오면서 주어('the days')와 동사('are')가 도치된 구문입니다. 따라서 'Gone are the days'가 올바른 어순입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "clear",
+          "explanation": "'make + 목적어(the value) + 목적격보어'의 5형식 구문입니다. 목적격보어 자리에는 명사 또는 형용사가 올 수 있으므로, 형용사인 'clear'가 맞습니다. 부사 'clearly'는 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

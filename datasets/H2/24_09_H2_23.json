@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.\nIn the case of science, however, opinions differ.\nSome scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.\nOthers, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it.\nIn describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any link with value.\nThe aim of science according to this view is to represent this world of pure \"fact\", independently of any relationship it might bear contingently to human practices and experiences.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "예술과 과학의 공통점을 강조하기 위해" },
+        { "number": "②", "text": "과학의 본질에 대한 상반된 두 관점을 제시하기 위해" },
+        { "number": "③", "text": "과학적 발견이 문화에 미치는 영향을 설명하기 위해" },
+        { "number": "④", "text": "특정 철학자의 과학관을 비판하기 위해" },
+        { "number": "⑤", "text": "예술이 과학보다 더 우월한 활동임을 주장하기 위해" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 예술의 문화적 속성에 대한 일반적 인식으로 시작한 후, 'In the case of science, however, opinions differ'라는 문장을 통해 과학의 본질에 대해서는 의견이 갈린다고 밝힙니다. 이어 과학을 문화적, 역사적 맥락에서 이해해야 한다는 관점과 순수하게 객관적인 사실 탐구로 보는 관점을 대조적으로 제시하고 있으므로, 글의 주된 목적은 이 두 관점을 소개하고 대조하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.\nIn the case of science, however, opinions differ.\nSome scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.\nOthers, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it.\nIn describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any link with value.\nThe aim of science according to this view is to represent this world of pure \"fact\", independently of any relationship it might bear contingently to human practices and experiences.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Art and Science: Two Sides of the Same Coin?" },
+        { "number": "②", "text": "The Undeniable Objectivity of Scientific Facts" },
+        { "number": "③", "text": "Is Science a Cultural Activity or a Pursuit of Pure Fact?" },
+        { "number": "④", "text": "J. B. S. Haldane: A Biologist with a Vision" },
+        { "number": "⑤", "text": "The Hidden Values in Artistic Creation" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과학이 예술처럼 시대와 장소의 영향을 받는 '문화적 활동'인지, 아니면 문화나 가치와 무관하게 존재하는 '순수한 사실'을 추구하는 활동인지에 대한 두 가지 대립적인 견해를 핵심적으로 다루고 있습니다. 이 질문형 제목은 글의 중심 논쟁을 가장 명확하게 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.\nIn the case of science, however, opinions differ.\nSome scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.\nOthers, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it.\nIn describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any link with value.\nThe aim of science according to this view is to represent this world of pure \"fact\", independently of any relationship it might bear contingently to human practices and experiences.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The greatest scientists have always recognized the importance of cultural context in their research work." },
+        { "number": "②", "text": "Unlike art, science is fundamentally an objective process of discovering the world's pre-existing factual order." },
+        { "number": "③", "text": "There is an ongoing debate about whether science is a context-dependent cultural activity or not." },
+        { "number": "④", "text": "Understanding the cultural traditions of a specific time is essential for both artists and scientists." },
+        { "number": "⑤", "text": "The pursuit of pure facts, stripped of all human values, is the ultimate goal of science." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과학의 본질에 대한 한 가지 입장을 주장하기보다는, 두 가지 상반된 견해가 존재한다는 사실 자체를 전달하는 데 초점을 맞추고 있습니다. 'opinions differ'라고 명시하며, 과학이 맥락에 의존적인 문화 활동이라는 견해와 그렇지 않다는 견해가 대립하고 있음을 보여주므로, 이 논쟁의 존재 자체가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "People seem to recognize that the arts are cultural activities... In the case of science, however, opinions differ. ( ① ) Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and that needs to be understood within that context. ( ② ) In describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any link with value. ( ③ ) The aim of science according to this view is to represent this world of pure \"fact\", independently of any relationship it might bear contingently to human practices and experiences. ( ④ ) This perspective has been influential in the history of science. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Others, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②번 앞 문장은 '어떤 과학자들(Some scientists)'이 과학을 역사적 활동으로 본다는 첫 번째 관점을 소개합니다. 주어진 문장은 '그러나 다른 사람들(Others, however)'로 시작하며 이와 대조되는 두 번째 관점, 즉 과학을 순수하게 객관적인 활동으로 보는 견해를 제시합니다. 바로 뒤 문장이 '이러한 관점을 묘사함에 있어(In describing this view of science)'라고 시작하며 주어진 문장의 관점을 부연 설명하므로, ②의 위치가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.",
+      "question_blocks": {
+        "A": "Others, however, see science as a purely 'objective' pursuit, uninfluenced by the cultural viewpoint and values of those who create it.",
+        "B": "In the case of science, however, opinions differ. Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place...",
+        "C": "In describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered — the world of pure 'fact' stripped of any link with value."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 예술의 문화적 속성에 대한 일반적 견해를 제시합니다. (B)는 'however'를 사용해 과학의 경우 의견이 다름을 지적하며 첫 번째 관점을 소개합니다. (A)는 다시 'however'를 사용해 (B)와 대조되는 두 번째 관점을 제시합니다. (C)는 'this view'라는 표현으로 (A)에서 제시된 두 번째 관점을 구체적으로 부연 설명합니다. 따라서 (B)-(A)-(C)가 논리적으로 가장 자연스러운 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.\nOthers, however, see science as a purely \"objective\" pursuit, ____________________________________.\nIn describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any link with value.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "deeply connected to artistic expression" },
+        { "number": "②", "text": "driven primarily by economic factors" },
+        { "number": "③", "text": "uninfluenced by the cultural viewpoint and values" },
+        { "number": "④", "text": "a field that requires creative imagination" },
+        { "number": "⑤", "text": "an essential part of a nation's identity" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸은 과학을 '순수하게 객관적인 탐구'로 보는 관점을 설명하는 부분입니다. 이는 앞서 제시된 '특정 시간과 장소에서 발생하고 그 맥락 안에서 이해되어야 하는' 관점과 대조를 이룹니다. 빈칸 뒤에 이어지는 내용은 가치와 단절된 순수한 사실의 세계를 발견하는 것을 목표로 한다고 설명하므로, '창조하는 사람들의 문화적 관점과 가치에 영향을 받지 않는'다는 말이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "...the arts are cultural activities that draw on ... certain values and ideas that are ① `characteristic` of the time and place... In the case of science, however, opinions ② `differ`. Some scientists... see science in a ③ `similar` light... Others, however, see science as a purely 'objective' pursuit, ④ `determined` by the cultural viewpoint and values of those who create it. In describing this view... Lacey speaks of the belief that there is an underlying order of the world... stripped of any link with ⑤ `value`.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "characteristic" },
+        { "number": "②", "text": "differ" },
+        { "number": "③", "text": "similar" },
+        { "number": "④", "text": "determined" },
+        { "number": "⑤", "text": "value" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "④번 문장은 과학을 '순수하게 객관적인(objective)' 탐구로 보는 관점을 설명하고 있습니다. 이러한 관점은 과학이 문화적 관점이나 가치에 의해 '영향을 받지 않는다(uninfluenced)'고 주장할 것입니다. 따라서 문화에 의해 '결정된다(determined)'는 단어는 이 관점의 핵심 내용과 정면으로 배치되므로 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "...draw on ... certain cultural (A) `traditions`... and that needs to be understood within that (B) `context`. Others, however, see science as a purely 'objective' (C) `pursuit`... there is an (D) `underlying` order of the world... The aim of science according to this view is to (E) `represent` this world of pure 'fact'.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) traditions: customs or beliefs passed down from generation to generation" },
+        { "number": "②", "text": "(B) context: the situation in which something happens and that helps you to understand it" },
+        { "number": "③", "text": "(C) pursuit: an activity like a hobby that you do for pleasure when you are not working" },
+        { "number": "④", "text": "(D) underlying: important in a situation but not always easily noticed or stated" },
+        { "number": "⑤", "text": "(E) represent: to describe or depict something in a particular way" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 (C) pursuit은 '과학의 객관적 탐구'라는 맥락에서 쓰였습니다. 이는 장기간에 걸친 진지한 '탐구'나 '추구' 활동을 의미합니다. 제시된 영영 풀이는 즐거움을 위해 하는 '취미'와 같은 활동을 의미하므로, 과학적 탐구라는 진지한 맥락에 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "People seem to (A) [recognize / ignore] that the arts are cultural activities... Some scientists, like the great biologist J. B. S. Haldane, see science in a (B) [similar / different] light ― as a historical activity... Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any (C) [link / separation] with value.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "recognize - similar - link" },
+        { "number": "②", "text": "recognize - different - separation" },
+        { "number": "③", "text": "recognize - similar - separation" },
+        { "number": "④", "text": "ignore - different - link" },
+        { "number": "⑤", "text": "ignore - similar - link" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 사람들은 예술의 문화적 속성을 일반적으로 '인식한다(recognize)'. (B) Haldane은 과학을 예술과 '유사한(similar)' 관점에서 본다. (C) 객관주의적 관점은 과학이 가치와의 어떠한 '연관성(link)'도 제거된 순수한 사실의 세계라고 본다. 'stripped of a link'는 '연관성이 제거된'이라는 자연스러운 표현입니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.\nIn the case of science, however, opinions differ.\nSome scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.\nOthers, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it.\nIn describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered ― the world of pure \"fact\" stripped of any link with value.\nThe aim of science according to this view is to represent this world of pure \"fact\", independently of any relationship it might bear contingently to human practices and experiences.",
+      "question": "다음 글의 내용과 일치하는 것은?",
+      "options": [
+        { "number": "①", "text": "대부분의 사람들은 과학이 예술과 마찬가지로 문화적 활동이라고 생각한다." },
+        { "number": "②", "text": "J. B. S. Haldane은 과학이 문화적 맥락과 무관하게 객관적이라고 보았다." },
+        { "number": "③", "text": "Hugh Lacey는 과학이 가치와 분리될 수 없는 인간의 경험과 관련된다고 주장했다." },
+        { "number": "④", "text": "과학을 순수 사실의 탐구로 보는 관점은 그것이 인간의 경험과 무관해야 한다고 본다." },
+        { "number": "⑤", "text": "예술과 과학 모두 가치와 무관한 순수한 사실을 표현하는 것을 목표로 한다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문 마지막 문장은 과학을 순수 사실의 탐구로 보는 관점에 따르면, 과학의 목표가 '인간의 관행 및 경험과 우연히 맺을 수 있는 어떤 관계와도 독립적으로' 순수한 사실의 세계를 나타내는 것이라고 설명합니다. 이는 선택지 ④의 내용과 정확히 일치합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "...certain shared understanding, and certain values and ideas that ① [is / are] characteristic of the time and place in which the art is created. In the case of science, however, opinions differ. Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light ― as a historical activity that occurs in a particular time and place, and ② [that / what] needs to be understood within that context. ... The aim of science according to this view is ③ [to represent / representing] this world of pure \"fact\"...",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "are",
+          "explanation": "관계대명사 that의 선행사는 'certain values and ideas'로 복수 명사입니다. 따라서 관계대명사절의 동사는 복수형인 'are'가 되어야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "that",
+          "explanation": "앞에 있는 관계대명사절 'that occurs...'와 and로 연결되어 병렬 구조를 이루며, 공통 선행사인 'a historical activity'를 수식합니다. 따라서 관계대명사 'that'을 사용해야 합니다. 선행사를 포함하는 'what'은 올 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to represent",
+          "explanation": "주어인 'The aim'을 설명하는 주격 보어 자리입니다. be동사 뒤에서 '...하는 것'이라는 의미의 보어 역할을 하기 위해서는 to부정사의 명사적 용법인 'to represent'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

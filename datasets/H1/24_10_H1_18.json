@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to apply for a new construction project" },
+        { "number": "②", "text": "to complain about the budget reduction" },
+        { "number": "③", "text": "to report the completion of a school facility" },
+        { "number": "④", "text": "to request an update on a funding application review" },
+        { "number": "⑤", "text": "to thank the department for its financial support" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 후반부에서 필자는 제출된 서류에 대한 검토 결과를 통지해달라고 요청하고 있습니다(we request you notify us of the review result). 이는 자금 지원 신청 검토에 대한 진척 상황을 알려달라는 의미이므로, 글의 목적으로 가장 적절한 것은 ④번입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "A Guide to School Construction Budgets" },
+        { "number": "②", "text": "The Success of Our New Media Center" },
+        { "number": "③", "text": "Inquiry Regarding Delayed Funding Notification" },
+        { "number": "④", "text": "How to Submit Documents for State Funding" },
+        { "number": "⑤", "text": "Announcing a New Principal at Fort Montgomery" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 학교 건설 프로젝트를 위한 자금 지원 신청 후 주 교육부로부터 아무런 통지를 받지 못해, 지연되고 있는 통지에 대해 문의하는 내용입니다. 따라서 글의 제목으로 '지연된 자금 지원 통지에 관한 문의'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a a fully functional Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The school requires professional assistance to properly complete all the required funding documentation for submission." },
+        { "number": "②", "text": "The principal is mainly explaining the detailed budgetary constraints the high school is currently facing." },
+        { "number": "③", "text": "Fort Montgomery High School is asking for an immediate extension on the project's overall construction schedule." },
+        { "number": "④", "text": "The school urgently requests the state to provide the review results for its submitted funding application." },
+        { "number": "⑤", "text": "The state is informing the school about new budgetary constraints affecting all pending construction projects." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "필자는 학교 건설 프로젝트를 위한 자금 지원 서류를 제출했으나 아직 통지를 받지 못했고, 이로 인한 지연이 예산 및 일정에 중대한 결과를 초래할 수 있다고 말합니다. 따라서 프로젝트 진행을 위해 검토 결과를 통지해 달라고 요청하는 것이 이 글의 핵심 내용이므로, 요지는 ④번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School. ( ① ) Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way. ( ② ) Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department. ( ③ ) Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation. ( ④ ) I look forward to hearing from you. ( ⑤ )\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**A delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 '과정의 지연이 학교의 예산 제약 및 일정과 관련된 상당한 결과를 초래할 수 있다'는 내용입니다. 이 문장은 '아직 어떠한 통지도 받지 못했다'는 내용 뒤, 그리고 '따라서, 프로젝트를 진행하기 위해 검토 결과를 통지해 달라'는 요청 앞에 위치하여, 통지를 받지 못한 상황(원인)이 초래할 수 있는 부정적 결과(결과)를 설명하고 요청의 타당성을 뒷받침하는 것이 가장 자연스럽습니다. 따라서 정답은 ③번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.",
+      "question_blocks": {
+        "A": "Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.",
+        "B": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+        "C": "A delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule. Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 편지의 주제인 '건설 프로젝트 자금 지원'을 제시합니다. (B)에서는 그 프로젝트가 필요한 이유(추가 공간 필요)를 설명하며 자연스럽게 이어집니다. 그 다음, (A)에서 문제 상황(서류를 제출했지만 통지를 받지 못함)을 제시합니다. 마지막으로 (C)에서는 (A)에서 언급된 문제 상황(지연)으로 인한 부정적 결과와 최종적인 요청을 전달하며 글을 마무리합니다. 따라서 가장 적절한 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to proceed with our project, we request you [____________________] regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "approve the full funding amount immediately" },
+        { "number": "②", "text": "provide alternative funding sources for consideration" },
+        { "number": "③", "text": "schedule a meeting to discuss the project details" },
+        { "number": "④", "text": "cancel the entire construction project funding" },
+        { "number": "⑤", "text": "notify us of the review result" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 전체적인 흐름은 서류 제출 후 아무런 통지를 받지 못한 상황에 대한 문의입니다. 바로 앞 문장에서 지연으로 인한 부정적 결과를 언급한 후, '따라서(Therefore)'라는 연결어로 결론을 이끌어내고 있습니다. 이 편지의 핵심 요구사항은 '검토 결과'를 알려달라는 것이므로, 빈칸에는 '검토 결과를 우리에게 통지해달라'는 의미의 ⑤번이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs ① [additional] spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all ② [required] documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA ③ [delay] in the process can carry considerable consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to ④ [proceed] with our project, we request you notify us of the review result regarding the submitted documentation, which would be very ⑤ [discouraging].\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① additional" },
+        { "number": "②", "text": "② required" },
+        { "number": "③", "text": "③ delay" },
+        { "number": "④", "text": "④ proceed" },
+        { "number": "⑤", "text": "⑤ discouraging" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 편지는 주 교육부로부터 긍정적인 소식, 즉 검토 결과 통지를 요청하는 글입니다. 그러한 통지를 받는 것이 '실망스러울(discouraging)' 것이라는 말은 문맥에 맞지 않습니다. 오히려 '도움이 되는(helpful)' 또는 '감사한(appreciated)'과 같은 긍정적인 단어가 와야 자연스럽습니다. 따라서 ⑤번이 어색합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's (A) [funding] for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a fully (B) [functional] Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all required (C) [documentation] for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry (D) [considerable] consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to (E) [proceed] with our project, we request you notify us of the review result regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) funding: money given by an organization for a particular purpose" },
+        { "number": "②", "text": "(B) functional: designed to be practical and useful rather than attractive" },
+        { "number": "③", "text": "(C) documentation: the act of recording something in a document" },
+        { "number": "④", "text": "(D) considerable: large or of noticeable importance" },
+        { "number": "⑤", "text": "(E) proceed: to prevent something or someone from moving forward" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'proceed'는 '(계획된 일을) 계속 진행하다, 나아가다'라는 의미입니다. 영영 풀이 'to prevent something or someone from moving forward (무언가 또는 누군가가 앞으로 나아가는 것을 막다)'는 'hinder' 또는 'obstruct'에 대한 설명에 가깝습니다. 따라서 ⑤번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a fully functional Art and Library Media Center to (A) [serve / deserve] our students in a more meaningful way.\nDespite (B) [submitting / admitting] all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry considerable (C) [consequences / conferences] related to the school's budgetary constraints and schedule.\nTherefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "serve - submitting - consequences" },
+        { "number": "②", "text": "serve - admitting - conferences" },
+        { "number": "③", "text": "serve - submitting - conferences" },
+        { "number": "④", "text": "deserve - admitting - conferences" },
+        { "number": "⑤", "text": "deserve - submitting - consequences" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 학생들에게 더 의미 있는 방식으로 '도움을 주다, 기여하다'라는 의미의 'serve'가 적절합니다. 'deserve'는 '~받을 자격이 있다'는 의미입니다. (B) '제출하다'라는 의미의 'submitting'이 문맥상 맞습니다. 'admitting'은 '인정하다, 입장을 허락하다'는 의미입니다. (C) 지연으로 인해 예산 및 일정에 '결과(영향)'를 초래할 수 있다는 내용이므로 'consequences'가 적절합니다. 'conferences'는 '회의'라는 의미입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "To the State Education Department,\nI am writing with regard to the state's funding for the construction project at Fort Montgomery High School.\nOur school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.\nDespite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.\nA delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule.\nTherefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.\nI look forward to hearing from you.\nRespectfully, Clara Smith Principal, Fort Montgomery High School",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "This letter is written by the principal of a high school." },
+        { "number": "②", "text": "The school requires more space for an Art and Library Media Center." },
+        { "number": "③", "text": "The school has already received the approved funding from the state." },
+        { "number": "④", "text": "The necessary paperwork was sent to the education department in April 2024." },
+        { "number": "⑤", "text": "A delay in notification could negatively impact the school's schedule." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'we have not yet received any notification from your department'라고 명시되어 있으므로, 학교는 아직 주 정부로부터 어떠한 통지도, 당연히 승인된 자금도 받지 못했습니다. 따라서 '학교가 이미 승인된 자금을 받았다'는 ③번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "I am writing with regard to the state's funding for the construction project at Fort Montgomery High School. ① Our school needs additional spaces to provide a fully functional Art and Library Media Center to [serve / serving] our students in a more meaningful way. ② Despite [submitting / submitted] all required documentation for funding to your department in April 2024, we have not yet received any notification from your department. ③ A delay in the process can carry considerable consequences [related / relating] to the school's budgetary constraints and schedule. Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "serve",
+          "explanation": "'to provide A to B'는 'B에게 A를 제공하기 위하여'라는 목적을 나타내는 to부정사구입니다. 여기서 to부정사 provide에 이어지는 또 다른 목적을 나타내기 위해 to부정사 'to serve'가 사용되는 것이 어법상 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "submitting",
+          "explanation": "전치사 'Despite' 뒤에는 명사 상당어구(명사, 대명사, 동명사구)가 와야 합니다. 따라서 동사 submit의 동명사 형태인 'submitting'이 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "related",
+          "explanation": "앞에 있는 명사 'consequences'를 수식하는 자리입니다. 'consequences'는 예산 제약과 '관련된' 것이므로, 수동의 의미를 가지는 과거분사 'related'가 와야 합니다. 'relating'은 능동의 의미를 가집니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Capuchins ― New World Monkeys that live in large social groups ― will, in captivity, trade with people all day long, especially if food is involved.\nI give you this rock and you give me a treat to eat.\nIf you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers.\nIf, however, you give one monkey grapes instead ― grapes being universally preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter.\nEven though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation unfair.\nFurthermore, she is now willing to abandon all gains ― the cucumbers themselves ― to communicate her displeasure to the experimenter.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to describe the diet of capuchin monkeys"
+        },
+        {
+          "number": "②",
+          "text": "to criticize the use of animals in experiments"
+        },
+        {
+          "number": "③",
+          "text": "to illustrate a sense of fairness in monkeys"
+        },
+        {
+          "number": "④",
+          "text": "to explain how to train monkeys to trade"
+        },
+        {
+          "number": "⑤",
+          "text": "to compare the intelligence of different monkeys"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 카푸친 원숭이를 대상으로 한 실험을 통해, 자신과 동일한 노력을 한 다른 원숭이가 더 나은 보상을 받을 때 불공평함을 느끼고 보상을 거부하는 행동을 보여줍니다. 이는 원숭이에게 공정성(fairness)에 대한 감각이 있음을 보여주기 위한 예시이므로, 원숭이의 공정성 감각을 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Capuchins ― New World Monkeys that live in large social groups ― will, in captivity, trade with people all day long, especially if food is involved.\nI give you this rock and you give me a treat to eat.\nIf you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers.\nIf, however, you give one monkey grapes instead ― grapes being universally preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter.\nEven though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation unfair.\nFurthermore, she is now willing to abandon all gains ― the cucumbers themselves ― to communicate her displeasure to the experimenter.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Best Foods for Training Monkeys"
+        },
+        {
+          "number": "②",
+          "text": "A Monkey's Anger: The Rejection of Unequal Pay"
+        },
+        {
+          "number": "③",
+          "text": "How Monkeys Communicate with Humans"
+        },
+        {
+          "number": "④",
+          "text": "Capuchins: Social Animals in the Wild"
+        },
+        {
+          "number": "⑤",
+          "text": "The Importance of Comparison in Animal Behavior"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 자신보다 더 좋은 보상을 받는 동료를 본 카푸친 원숭이가 불공정한 대우(unequal pay)에 분노하여 오이라는 보상을 거부(rejection)한다는 것입니다. '원숭이의 분노: 불공평한 보상에 대한 거부'라는 제목은 이러한 실험 결과와 그 이면의 감정을 가장 잘 포착합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Capuchins ― New World Monkeys that live in large social groups ― will, in captivity, trade with people all day long, especially if food is involved.\nI give you this rock and you give me a treat to eat.\nIf you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers.\nIf, however, you give one monkey grapes instead ― grapes being universally preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter.\nEven though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation unfair.\nFurthermore, she is now willing to abandon all gains ― the cucumbers themselves ― to communicate her displeasure to the experimenter.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Capuchin monkeys demonstrate a sense of fairness by rejecting rewards they perceive as unequal."
+        },
+        {
+          "number": "②",
+          "text": "The value of a reward is the single most important factor in motivating a capuchin monkey."
+        },
+        {
+          "number": "③",
+          "text": "Capuchin monkeys will refuse to trade unless they are offered their favorite food, such as grapes."
+        },
+        {
+          "number": "④",
+          "text": "Experiments on animals in captivity often lead to aggressive and unpredictable behaviors from the subjects."
+        },
+        {
+          "number": "⑤",
+          "text": "Social comparison is a behavior unique to primates living in large and complex social groups."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 카푸친 원숭이가 자신의 보상이 변하지 않았음에도 불구하고, 다른 원숭이가 더 나은 보상을 받는 것을 보고 자신의 보상을 거부하는 행동을 통해 불공정함을 표현한다는 것을 보여줍니다. 이는 원숭이가 불공평하다고 인식하는 보상을 거부함으로써 공정성에 대한 감각을 가지고 있음을 나타냅니다. 따라서 '카푸친 원숭이는 불공평하다고 인식하는 보상을 거부함으로써 공정성 감각을 보여준다'가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "If you put two monkeys in cages next to each other, and offer them both slices of cucumber for their rocks, they will happily eat the cucumbers.\nIf, however, you give one monkey grapes instead ― grapes being universally preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter. ( ① ) Furthermore, she is now willing to abandon all gains ― the cucumbers themselves ― to communicate her displeasure to the experimenter. ( ② )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Even though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation unfair.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 원숭이가 왜 오이를 던지는지에 대한 심리적 이유를 설명합니다. 즉, 자신의 상황은 변하지 않았지만 '다른 원숭이와의 비교' 때문에 상황이 불공평해졌다는 것입니다. ①의 앞 문장은 원숭이가 오이를 던지는 행동을 묘사하고, ①의 뒷 문장은 'Furthermore(게다가)'를 사용하여 심지어 이익(오이)까지 포기한다는 추가적인 행동을 설명합니다. 따라서 행동(오이를 던짐)과 그 행동의 심화(이익 포기) 사이에 들어가 행동의 원인을 설명하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Capuchins ― New World Monkeys that live in large social groups ― will, in captivity, trade with people all day long, especially if food is involved.",
+      "question_blocks": {
+        "A": "If, however, you give one monkey grapes instead ― grapes being universally preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter.",
+        "B": "If you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers.",
+        "C": "Even though her particular situation has not changed, the comparison to another makes the situation unfair. Furthermore, she is now willing to abandon all gains ― the cucumbers themselves ― to communicate her displeasure."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 카푸친 원숭이가 거래를 한다는 배경을 설명합니다. (B)에서 두 원숭이에게 동일한 보상(오이)을 주는 통제 실험 상황을 설정하고 그 결과를 보여줍니다. (A)에서 'however'를 사용하여 대조적으로, 한 원숭이에게만 더 좋은 보상(포도)을 주는 불공평한 실험 상황과 그 즉각적인 반응(오이를 던짐)을 묘사합니다. (C)에서 (A)의 반응을 분석하며, 이것이 '비교'에 의한 불공정함 때문이며 심지어 이익을 포기하기까지 한다는 심층적인 해석을 제공합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Capuchins ― New World Monkeys that live in large social groups ― will, in captivity, trade with people all day long, especially if food is involved.\nIf you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers.\nIf, however, you give one monkey grapes instead ― grapes being universally preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter.\nEven though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, _________________________ makes the situation unfair.\nFurthermore, she is now willing to abandon all gains to communicate her displeasure to the experimenter.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the presence of an experimenter"
+        },
+        {
+          "number": "②",
+          "text": "the lack of a better reward"
+        },
+        {
+          "number": "③",
+          "text": "the effort of finding rocks"
+        },
+        {
+          "number": "④",
+          "text": "the comparison to another"
+        },
+        {
+          "number": "⑤",
+          "text": "the memory of past trades"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 원숭이의 상황 자체는 변하지 않았음에도 무엇이 상황을 불공평하게 만드는지 설명하는 부분입니다. 글의 핵심은 원숭이가 자신의 보상을 다른 원숭이의 보상과 비교하여 불공평함을 느낀다는 것입니다. 따라서 빈칸에는 '다른 원숭이와의 비교(the comparison to another)'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "If you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will ①<u>happily</u> eat the cucumbers.\nIf, however, you give one monkey grapes instead ― grapes being universally ②<u>preferred</u> to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back at the experimenter.\nEven though she is still getting \"paid\" the same amount, and so her particular situation has not changed, the comparison to another makes the situation ③<u>unfair</u>.\nFurthermore, she is now willing to ④<u>accept</u> all gains ― the cucumbers themselves ― to communicate her displeasure to the experimenter.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "불공평한 대우를 받은 원숭이는 자신의 불쾌감을 표현하기 위해 보상으로 받은 오이를 실험자에게 다시 던진다고 했습니다. 이는 자신의 이익(오이)을 '포기하는' 행동입니다. 따라서 모든 이익을 '받아들인다(accept)'는 것은 문맥에 맞지 않으며, '포기하다(abandon)'가 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Capuchins will, in (A)<u>captivity</u>, trade with people all day long.\nIf you offer them both slices of cucumber, they will happily eat them.\nIf, however, you give one monkey grapes instead ― grapes being (B)<u>universally</u> preferred to cucumbers ― the monkey that is still receiving cucumbers will begin to throw them back.\nEven though her particular situation has not changed, the (C)<u>comparison</u> to another makes the situation unfair.\nFurthermore, she is now willing to (D)<u>abandon</u> all gains to communicate her (E)<u>displeasure</u> to the experimenter.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) captivity: the state of being free to live in a natural environment"
+        },
+        {
+          "number": "②",
+          "text": "(B) universally: by everyone; in every case or situation"
+        },
+        {
+          "number": "③",
+          "text": "(C) comparison: the act of considering the similarities and differences between things"
+        },
+        {
+          "number": "④",
+          "text": "(D) abandon: to give something up completely"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) displeasure: a feeling of being annoyed or unsatisfied"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "본문에서 'captivity'는 원숭이가 우리에 갇혀 있는 '사육 상태'를 의미합니다. 제시된 영영 풀이('the state of being free to live in a natural environment' - 자연 환경에서 자유롭게 사는 상태)는 '야생'을 의미하므로, '사육'과는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "If you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will (A)[happily / reluctantly] eat the cucumbers.\nIf, however, you give one monkey grapes instead, the monkey that is still receiving cucumbers will begin to throw them back.\nEven though her particular situation has not changed, the comparison to another makes the situation (B)[fair / unfair].\nFurthermore, she is now willing to (C)[abandon / obtain] all gains ― the cucumbers themselves ― to communicate her displeasure to the experimenter.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "happily - unfair - abandon"
+        },
+        {
+          "number": "②",
+          "text": "happily - fair - obtain"
+        },
+        {
+          "number": "③",
+          "text": "reluctantly - unfair - abandon"
+        },
+        {
+          "number": "④",
+          "text": "reluctantly - fair - obtain"
+        },
+        {
+          "number": "⑤",
+          "text": "happily - unfair - obtain"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 두 원숭이가 똑같이 오이를 받았을 때는 불만이 없었으므로 '마지못해(reluctantly)'가 아니라 '기쁘게(happily)' 먹을 것입니다. (B) 다른 원숭이가 더 좋은 보상을 받는 것을 본 원숭이는 그 상황을 '공정하다(fair)'고 여기는 것이 아니라 '불공평하다(unfair)'고 여깁니다. (C) 불쾌감을 표현하기 위해, 그녀는 모든 이익(오이)을 '얻으려(obtain)' 하는 것이 아니라 '포기하려(abandon)' 합니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "If you put two monkeys in cages and offer them both cucumbers, they will happily eat them. ① If, however, you give one monkey grapes instead, the monkey still receiving cucumbers will throw them back. ② Even though her situation has not changed, the comparison makes the situation unfair. ③ Grapes have a higher sugar content than cucumbers, making them a more energy-rich food source for monkeys. ④ Furthermore, she is now willing to abandon all gains ― the cucumbers themselves ― to communicate her displeasure. ⑤ This behavior suggests a deep-rooted sense of fairness.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 카푸친 원숭이의 '심리적 반응', 즉 불공정함에 대한 감정에 초점을 맞추고 있습니다. ③번 문장은 포도와 오이의 '영양학적 차이'(당 함량, 에너지)에 대해 설명하고 있습니다. 이는 원숭이가 왜 포도를 선호하는지에 대한 배경 정보일 수는 있으나, 불공정함을 느낀 원숭이의 행동과 심리를 분석하는 글의 핵심 흐름에서는 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Capuchins will, in captivity, trade with people all day long. If you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers. If, however, you give one monkey grapes instead — grapes ①[being / are] universally preferred to cucumbers — the monkey that is still receiving cucumbers will begin to throw them back at the experimenter. Even though she is still getting \"paid\" the same amount for her effort, the comparison to another makes the situation ②[unfair / unfairly]. Furthermore, she is now willing to abandon all gains to communicate her displeasure, which suggests that monkeys have a sense of fairness.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "being",
+          "explanation": "앞선 명사 'grapes'에 대한 부수적인 정보를 제공하는 분사구문입니다. 주절과 독립적으로 '포도가 보편적으로 선호되면서'라는 동시 상황을 나타내므로, 현재분사 'being'이 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "unfair",
+          "explanation": "5형식 동사 'make'의 목적격 보어 자리입니다. 목적어인 'the situation'의 상태를 설명해야 하므로, 부사 'unfairly'가 아닌 형용사 'unfair'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

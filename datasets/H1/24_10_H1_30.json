@@ -1,0 +1,200 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.\nAs we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation.\nThen all we have to do is socially learn the right answers.\nYou don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.\nAll that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than how they work.\nAnd so instead of holding more information than we have mental capacity for and indeed need to know, we could dedicate our large brains to a small piece of a giant calculation.\nWe understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole.\nWe are just doing our part in a larger computation for our societies' collective brains.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize people's lack of technological knowledge" },
+        { "number": "②", "text": "to celebrate the Nobel Prize win of Herbert Simon" },
+        { "number": "③", "text": "to explain the concept of distributed social cognition" },
+        { "number": "④", "text": "to argue for the importance of independent problem-solving" },
+        { "number": "⑤", "text": "to compare the human brain with a computer's interface" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 허버트 사이먼의 이론을 바탕으로, 인간이 정보, 시간, 인지 능력의 한계를 어떻게 극복하는지 설명합니다. 핵심은 개인이 독립적으로 모든 것을 계산하는 대신, 사회 전체에 계산을 '분산'시키고 세대에 걸쳐 해결하며, 우리는 그 결과물을 사용하는 법만 사회적으로 학습한다는 것입니다. 이는 '분산된 사회적 인지'라는 개념을 설명하는 것이므로 ③번이 가장 적절한 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.\nAs we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation.\nThen all we have to do is socially learn the right answers.\nYou don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.\nAll that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than how they work.\nAnd so instead of holding more information than we have mental capacity for and indeed need to know, we could dedicate our large brains to a small piece of a giant calculation.\nWe understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole.\nWe are just doing our part in a larger computation for our societies' collective brains.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Limits of Social Learning" },
+        { "number": "②", "text": "Herbert Simon: A Man Ahead of His Time" },
+        { "number": "③", "text": "Why You Must Understand How Things Work" },
+        { "number": "④", "text": "The Collective Brain: We Think Together" },
+        { "number": "⑤", "text": "The Decline of Individual Cognitive Capacity" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 개인이 모든 것을 알 필요 없이, 사회가 마치 하나의 '집단 두뇌(collective brains)'처럼 함께 문제를 해결하고 지식을 축적해 나가는 방식을 설명합니다. 개인은 그저 인터페이스를 사용하는 법을 배우고 거대한 계산의 일부를 담당할 뿐입니다. 따라서 '집단 두뇌: 우리는 함께 생각한다'는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.\nAs we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation.\nThen all we have to do is socially learn the right answers.\nYou don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.\nAll that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than how they work.\nAnd so instead of holding more information than we have mental capacity for and indeed need to know, we could dedicate our large brains to a small piece of a giant calculation.\nWe understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole.\nWe are just doing our part in a larger computation for our societies' collective brains.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Humans overcome individual cognitive limits by distributing mental tasks and socially learning how to use the resulting solutions." },
+        { "number": "②", "text": "Herbert Simon argued that every individual must strive to understand the complex inner workings of modern technologies." },
+        { "number": "③", "text": "The human brain's capacity is large enough to hold all necessary information without relying on any social learning." },
+        { "number": "④", "text": "The primary function of society is to ensure that all citizens can compute answers independently and very quickly." },
+        { "number": "⑤", "text": "Our society's collective brain is becoming weaker as we dedicate our minds to smaller and more specialized tasks." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 인간이 개인의 인지적 한계를 가지고 있기 때문에, 계산(문제 해결)을 사회 전체에 분산시키고, 각 개인은 그 결과물인 기술이나 해답을 사용하는 방법만을 사회적으로 학습함으로써 한계를 극복한다는 것입니다. 따라서 '인간은 정신적 과업을 분산시키고 그 결과적 해결책을 사용하는 법을 사회적으로 학습함으로써 개인의 인지적 한계를 극복한다'는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity. As we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation. Then all we have to do is socially learn the right answers. ( ① ) All that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than how they work. ( ② ) And so instead of holding more information than we have mental capacity for, we could dedicate our large brains to a small piece of a giant calculation. ( ③ ) We understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole. ( ④ ) We are just doing our part in a larger computation for our societies' collective brains. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**You don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '컴퓨터나 화장실이 어떻게 작동하는지 이해할 필요 없이, 인터페이스를 사용하고 물을 내릴 수만 있으면 된다'는 구체적인 예시입니다. 이 문장은 '우리가 해야 할 일은 정답을 사회적으로 배우는 것뿐이다'라는 일반적인 원칙을 제시한 문장 바로 뒤에 와서 그 원칙을 구체화하는 역할을 합니다. 또한, '전달되어야 할 모든 것은 어느 버튼을 누르는가이다'라는 다음 문장과도 자연스럽게 연결됩니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.",
+      "question_blocks": {
+        "A": "Then all we have to do is socially learn the right answers. You don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.",
+        "B": "As we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation.",
+        "C": "We understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole. We are just doing our part in a larger computation for our societies' collective brains."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 허버트 사이먼이 인간의 '한계'를 인식했다는 내용입니다. (B)는 이 '한계' 때문에 우리가 독립적으로 답을 계산할 수 없어 계산을 분산시킨다고 설명하며 자연스럽게 이어집니다. (A)에서는 계산을 분산시킨 후의 다음 단계로, 우리가 그 결과를 사회적으로 학습하기만 하면 된다는 점을 화장실 예시와 함께 설명합니다. 마지막으로 (C)는 이러한 시스템 속에서 개인의 역할(거대한 계산의 작은 부분을 담당)을 설명하며 글 전체를 요약 및 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity. As we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly. Then all we have to do is socially learn the right answers. You don't need to understand how your computer or toilet works; you just need to be able to use the interface. All that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than [____________________]. And so we dedicate our large brains to a small piece of a giant calculation, contributing to our societies' collective brains.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "what they are used for" },
+        { "number": "②", "text": "who invented them" },
+        { "number": "③", "text": "how they work" },
+        { "number": "④", "text": "why they are important" },
+        { "number": "⑤", "text": "where to buy them" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 우리가 기술의 작동 원리를 이해할 필요 없이 인터페이스를 사용하는 법만 배우면 된다고 반복해서 설명합니다. 빈칸이 있는 문장은 '전달되어야 할 것은 본질적으로 기술과 상호작용하는 방법이지, ~가 아니다'라는 구조입니다. 글의 전체적인 맥락에 따라, '상호작용하는 방법(how to interact)'과 대조되는 개념은 '그것들이 어떻게 작동하는지(how they work)'입니다. 따라서 빈칸에는 ③번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our ① [limitations] in information, time, and cognitive capacity. As we lack the resources to compute answers independently, we ② [distribute] the computation across the population. Then all we have to do is ③ [socially] learn the right answers. You don't need to understand how your computer or toilet works; you just need to be able to use the interface. All that needs to be transmitted is essentially how to interact with technologies rather than how they work. And so instead of holding more information than we have mental capacity for, we could ④ [dedicate] our large brains to a small piece of a giant calculation. We understand things well enough to benefit from them, but all the while we are making small calculations that ⑤ [hinder] a larger whole.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① limitations" },
+        { "number": "②", "text": "② distribute" },
+        { "number": "③", "text": "③ socially" },
+        { "number": "④", "text": "④ dedicate" },
+        { "number": "⑤", "text": "⑤ hinder" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글에서 개인은 사회라는 '집단 두뇌'의 일부로서, 각자 작은 계산을 수행하여 더 큰 전체에 기여한다고 설명합니다. 따라서 우리가 하는 작은 계산들이 더 큰 전체를 '방해한다(hinder)'는 것은 문맥에 맞지 않습니다. 오히려 '기여한다(contribute)' 또는 '도움을 준다(help)'와 같은 긍정적인 단어가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and (A) [cognitive] capacity. As we lack the resources to compute answers independently, we (B) [distribute] the computation across the population and solve the answer slowly. Then all we have to do is socially learn the right answers. You don't need to understand how your computer or toilet works; you just need to be able to use the (C) [interface]. All that needs to be (D) [transmitted] is which button to push. And so we could (E) [dedicate] our large brains to a small piece of a giant calculation.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) cognitive: relating to the process of thinking and understanding" },
+        { "number": "②", "text": "(B) distribute: to share something among a number of people" },
+        { "number": "③", "text": "(C) interface: the point where two systems or subjects meet and interact" },
+        { "number": "④", "text": "(D) transmitted: to argue about something in an angry way" },
+        { "number": "⑤", "text": "(E) dedicate: to give a lot of your time and energy to something" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'transmitted'는 정보나 지식 등이 '전달되다, 전수되다'라는 의미입니다. 영영 풀이 'to argue about something in an angry way (무언가에 대해 화를 내며 논쟁하다)'는 'dispute' 또는 'quarrel'에 대한 설명에 가깝습니다. 따라서 ④번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our (A) [limitations / strengths] in information, time, and cognitive capacity. As we lack the resources to compute answers independently, we distribute the computation across the population. Then all we have to do is socially learn the right answers. You don't need to understand how your computer or toilet works; you just need to be able to use the interface. All that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than how they (B) [work / appear]. We understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a (C) [larger / smaller] whole.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "limitations - work - larger" },
+        { "number": "②", "text": "limitations - appear - smaller" },
+        { "number": "③", "text": "strengths - work - larger" },
+        { "number": "④", "text": "strengths - appear - smaller" },
+        { "number": "⑤", "text": "limitations - work - smaller" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 허버트 사이먼은 정보, 시간, 인지 능력 면에서 우리의 '한계(limitations)'를 인식한 공로로 노벨상을 받았습니다. 'strengths'는 '강점'이라는 뜻입니다. (B) 우리가 알 필요가 없는 것은 기술이 어떻게 '작동하는지(work)'입니다. 'appear'는 '보이는지, 나타나는지'라는 뜻입니다. (C) 우리는 '더 큰(larger)' 전체에 기여하는 작은 계산들을 합니다. 'smaller'는 '더 작은'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.\nAs we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation.\nThen all we have to do is socially learn the right answers.\nYou don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.\nAll that needs to be transmitted is which button to push ─ essentially how to interact with technologies rather than how they work.\nWe understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole.\nWe are just doing our part in a larger computation for our societies' collective brains.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Herbert Simon's Nobel Prize was for recognizing human limitations." },
+        { "number": "②", "text": "Humans solve problems by distributing computation across society." },
+        { "number": "③", "text": "The text stresses the importance of understanding how technology functions." },
+        { "number": "④", "text": "We only need to learn how to interact with technologies, not their mechanisms." },
+        { "number": "⑤", "text": "Each person plays a small part in society's larger collective computation." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 '컴퓨터나 화장실이 어떻게 작동하는지 이해할 필요가 없다(You don't need to understand how your computer or toilet works)'고 명시하며, 기술의 작동 원리를 아는 것보다 사용하는 법을 아는 것이 중요하다고 주장합니다. 따라서 기술이 어떻게 기능하는지 이해하는 것의 중요성을 강조한다는 ③번은 글의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Herbert Simon won his Nobel Prize for [recognizing / being recognized] our limitations in information, time, and cognitive capacity. ② As we lack the resources to compute answers independently, we distribute the computation across the population and [solve / solving] the answer slowly. ③ You don't need to understand how your computer or toilet works; you just need to be able to use the interface and [flush / flushing]. ④ All that needs to be transmitted [is / are] which button to push. ⑤ We understand things well enough to benefit from them, but all the while we are making small calculations that [contribute / contributes] to a larger whole.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "recognizing",
+          "explanation": "전치사 'for'의 목적어 자리이므로 동명사가 와야 합니다. 허버트 사이먼이 '인식한' 것이므로 능동의 의미를 가진 'recognizing'이 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "solve",
+          "explanation": "주어 'we'에 연결되는 동사로, 앞선 동사 'distribute'와 병렬 구조를 이룹니다. 따라서 동사원형 'solve'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "flush",
+          "explanation": "'to be able to'에 동사 'use'와 'flush'가 병렬로 연결되어 있습니다. 따라서 동사원형 'flush'가 와야 합니다."
+        },
+        {
+          "number": "④", "correct_form": "is",
+          "explanation": "주어는 관계대명사절인 'All that needs to be transmitted'입니다. 'All'이 사물을 나타낼 때는 단수 취급하므로, 단수 동사인 'is'가 맞습니다."
+        },
+        {
+          "number": "⑤", "correct_form": "contribute",
+          "explanation": "관계대명사 'that'의 선행사는 'small calculations'입니다. 선행사가 복수이므로, 관계대명사절의 동사도 복수형인 'contribute'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

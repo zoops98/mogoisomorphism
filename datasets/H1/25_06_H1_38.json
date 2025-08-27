@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. But sometimes what really marks a place is something less specific ─ a feeling within us. An interesting example emerged from a study of subway passenger behavior. Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations. One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious convenience of being able to exit more quickly. But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling of accidentally making eye contact with seated passengers. We can't see feelings ─ but they're very real, and they influence our experience of the world.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to show how internal feelings influence behavior" },
+        { "number": "②", "text": "to recommend ways to improve subway design" },
+        { "number": "③", "text": "to criticize people for avoiding eye contact" },
+        { "number": "④", "text": "to explain the methodology of a psychology study" },
+        { "number": "⑤", "text": "to emphasize the importance of monitoring one's surroundings" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 외부 환경뿐만 아니라 우리 '내면의 감정(a feeling within us)'이 장소에 대한 경험과 행동을 형성한다고 주장합니다. 지하철 승객들이 출입문 근처에 서는 이유를 '편리함'이라는 외적 요인과 '불편한 눈 마주침을 피하려는 욕구'라는 내적 요인으로 설명하며, 보이지 않는 감정이 우리의 경험에 영향을 미친다고 결론 내립니다. 따라서 글의 주된 목적은 '내면의 감정이 행동에 어떻게 영향을 미치는지 보여주기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. But sometimes what really marks a place is something less specific ─ a feeling within us. An interesting example emerged from a study of subway passenger behavior. Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations. One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious convenience of being able to exit more quickly. But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling of accidentally making eye contact with seated passengers. We can't see feelings ─ but they're very real, and they influence our experience of the world.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "More Than Convenience: The Hidden Force in Our Choices" },
+        { "number": "②", "text": "The Five Senses: How We Monitor Our Surroundings" },
+        { "number": "③", "text": "Subway Etiquette: The Unspoken Rules of Eye Contact" },
+        { "number": "④", "text": "A Study on How to Navigate Public Transportation" },
+        { "number": "⑤", "text": "Feelings: The Invisible but Unreal Influence" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 지하철 문가에 서는 이유가 단순히 '편리함(convenience)' 때문만이 아니라, 눈 마주침을 피하려는 내면의 감정이라는 '숨겨진 힘(hidden force)'에 의해서도 영향을 받는다고 설명합니다. 이는 우리의 선택이 보이는 것 이상의 요인에 의해 결정된다는 것을 보여주므로, '편리함 그 이상: 우리 선택 속의 숨겨진 힘'이 글의 주제를 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. But sometimes what really marks a place is something less specific ─ a feeling within us. An interesting example emerged from a study of subway passenger behavior. Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations. One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious convenience of being able to exit more quickly. But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling of accidentally making eye contact with seated passengers. We can't see feelings ─ but they're very real, and they influence our experience of the world.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Our behavior in a physical space is shaped not only by convenience but also by internal, abstract feelings." },
+        { "number": "②", "text": "Subway system designers should prioritize the convenience of passengers to ensure efficient and rapid transit for everyone." },
+        { "number": "③", "text": "Making accidental eye contact with strangers is universally considered the most uncomfortable social situation in public transportation." },
+        { "number": "④", "text": "Scientific research on passenger behavior is essential for improving the safety and comfort of modern subway systems." },
+        { "number": "⑤", "text": "People primarily choose where to stand on a subway based on the most logical and efficient exit strategy." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 우리의 행동이 외부의 실용적인 요인과 내부의 감정적인 요인 모두에 의해 영향을 받는다는 점을 핵심으로 다룹니다. 지하철 문가에 서는 행동을 예로 들어, '편리함(convenience)'이라는 명백한 이유와 함께 눈 마주침을 피하려는 '추상적인 감각(abstract sensation)'이라는 내적 이유를 제시합니다. 따라서 '물리적 공간에서의 우리의 행동은 편리함뿐만 아니라 내적이고 추상적인 감정에 의해서도 형성된다.'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. ( ① ) An interesting example emerged from a study of subway passenger behavior. ( ② ) Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations. ( ③ ) One of their findings involved the reasons many riders like to plant themselves close to the train's doors. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But sometimes what really marks a place is something less specific ─ a feeling within us.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '하지만 때로는 장소를 진정으로 특징짓는 것은 덜 구체적인 것, 즉 우리 내면의 감정이다'라는 내용입니다. 이 문장은 'But'을 사용하여 글의 첫 문장에서 언급된 '외부적인 것'에 초점을 맞추는 일반적인 상황과 대조를 이룹니다. 이 문장은 글 전체의 주제를 제시하는 역할을 하며, 바로 뒤에 '흥미로운 예시가 나타났다'며 이 주제를 뒷받침하는 사례를 소개합니다. 따라서 일반적 상황과 구체적 예시 사이에서 주제를 제시하는 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. But sometimes what really marks a place is something less specific ─ a feeling within us.",
+      "question_blocks": {
+        "A": "Partly this was the obvious convenience of being able to exit more quickly. But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling of accidentally making eye contact with seated passengers.",
+        "B": "An interesting example emerged from a study of subway passenger behavior. Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations.",
+        "C": "One of their findings involved the reasons many riders like to plant themselves close to the train's doors."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(C)-(A)" },
+        { "number": "③", "text": "(B)-(A)-(C)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 외부 요인과 내면의 감정이 장소에 대한 경험을 형성한다는 주제를 제시합니다. (B)는 '흥미로운 예시(An interesting example)'라며 이 주제를 뒷받침하기 위한 지하철 승객 행동 연구를 소개합니다. (C)는 그 연구의 '발견 중 하나(One of their findings)'로, 사람들이 왜 문 근처에 서는지에 대한 이유를 언급하며 논의를 구체화합니다. (A)는 (C)에서 제기된 이유를 '부분적으로는(Partly)' 명백한 편리함, '부분적으로는(partly)' 추상적인 감각이라고 설명하며 (C)에 대한 직접적인 답변을 제공합니다. 따라서 '예시 도입(B) -> 예시의 구체적 발견(C) -> 발견에 대한 설명(A)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. But sometimes what really marks a place is something less specific ─ ___________________. An interesting example emerged from a study of subway passenger behavior. Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations. One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious convenience of being able to exit more quickly. But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling of accidentally making eye contact with seated passengers.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a historical event" },
+        { "number": "②", "text": "a famous landmark" },
+        { "number": "③", "text": "a feeling within us" },
+        { "number": "④", "text": "a specific architectural style" },
+        { "number": "⑤", "text": "a type of local food" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 외부 감각과 대조되는, 장소를 특징짓는 '덜 구체적인 무언가'에 대해 말하고 있습니다. 글의 전체적인 내용은 외부의 편리함뿐만 아니라 눈 마주침을 피하려는 불편함과 같은 내면의 감정이 우리의 행동에 영향을 미친다는 것입니다. 따라서 빈칸에는 글의 핵심 주제인 '우리 내면의 감정'이라는 의미의 'a feeling within us'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "To monitor our surroundings is to focus on what's outside of ourselves: what we see, hear, smell, feel, and perhaps even taste. But sometimes what really ① `marks` a place is something less specific ─ a feeling within us. An interesting example emerged from a study of subway passenger behavior. ... One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the ② `obvious` convenience of being able to exit more quickly. But it was shaped partly by a more ③ `concrete` sensation ─ the desire to avoid the sometimes ④ `uncomfortable` feeling of accidentally making eye contact with seated passengers. We can't see feelings ─ but they're very real, and they ⑤ `influence` our experience of the world.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 눈에 보이는 '명백한 편리함(obvious convenience)'과 눈에 보이지 않는 내면의 감각을 대조하고 있습니다. 눈 마주침을 피하려는 욕구는 물리적인 것이 아니라 심리적인 것이므로 '추상적인(abstract)' 감각이라고 해야 합니다. '구체적인(concrete)'은 'obvious convenience'와 같은 성질을 나타내므로, 대조되는 내용을 설명하는 이 문맥에는 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "To (A) `monitor` our surroundings is to focus on what's outside of ourselves... But sometimes what really marks a place is something less specific ─ a feeling within us. An interesting example (B) `emerged` from a study of subway passenger behavior. ... One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious convenience of being able to exit more quickly. But it was shaped partly by a more abstract (C) `sensation` ─ the desire to avoid the sometimes uncomfortable feeling of (D) `accidentally` making eye contact with seated passengers. We can't see feelings ─ but they're very real, and they (E) `influence` our experience of the world.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) monitor: to watch and check a situation carefully over a period of time" },
+        { "number": "②", "text": "(B) emerged: to become known or apparent" },
+        { "number": "③", "text": "(C) sensation: a general feeling or impression caused by an experience" },
+        { "number": "④", "text": "(D) accidentally: in a way that is planned or intended" },
+        { "number": "⑤", "text": "(E) influence: the power to have an effect on people or things" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 (D) `accidentally`는 '우연히, 뜻하지 않게'라는 의미로 사용되었습니다. 하지만 보기 ④의 영영 풀이는 '계획되거나 의도된 방식으로'로, 이는 '의도적으로(intentionally, deliberately)'의 의미입니다. 따라서 'accidentally'의 의미와 정반대이므로 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "To monitor our surroundings is to focus on what's (A) [outside / inside] of ourselves... But sometimes what really marks a place is something less specific ─ a feeling within us. ... One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious (B) [convenience / discomfort] of being able to exit more quickly. But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling... We can't see feelings ─ but they're very (C) [real / imaginary], and they influence our experience of the world.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "outside / convenience / real" },
+        { "number": "②", "text": "outside / discomfort / real" },
+        { "number": "③", "text": "inside / convenience / imaginary" },
+        { "number": "④", "text": "inside / discomfort / imaginary" },
+        { "number": "⑤", "text": "outside / convenience / imaginary" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 주변 환경을 살피는 것은 우리 '외부(outside)'에 있는 것에 집중하는 것입니다. (B) 문 가까이 서는 이유 중 하나는 더 빨리 내릴 수 있는 명백한 '편리함(convenience)'입니다. (C) 글쓴이는 감정이 보이지는 않지만, 우리의 경험에 영향을 미치는 매우 '실재하는(real)' 것이라고 결론 내립니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space. ① One of their findings involved the reasons many riders like to plant themselves close to the train's doors. ② The world's first underground railway, the Metropolitan Railway, was opened in London in 1863. ③ Partly this was the obvious convenience of being able to exit more quickly. ④ But it was shaped partly by a more abstract sensation ─ the desire to avoid the sometimes uncomfortable feeling of accidentally making eye contact.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 특정 연구의 '발견(findings)'을 설명하여 내면의 감정이 행동에 미치는 영향을 보여주는 데 집중하고 있습니다. ①, ③, ④번 문장은 모두 이 연구의 발견과 그 이유를 설명하며 논리적으로 연결됩니다. 하지만 ②번 문장 '세계 최초의 지하철인 메트로폴리탄 철도는 1863년 런던에서 개통되었다'는 지하철의 역사에 대한 사실을 언급하는 것으로, 특정 심리 연구의 결과를 설명하는 글의 중심 내용에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Researchers ① [trying / tried] to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space. One of their findings involved the reasons many riders like to plant themselves close to the train's doors. Partly this was the obvious convenience of being able to exit more ② [quick / quickly]. But it was shaped partly by a more abstract sensation. We can't see feelings ─ but they're very real, and they ③ [influence / are influenced] our experience of the world.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "trying",
+          "explanation": "이 문장의 주어는 'Researchers'이고 동사는 'examined'입니다. 주어와 동사 사이에 있는 [trying/tried] 부분은 주어를 수식하는 분사구입니다. 연구원들이 '이해하려고 노력하는' 능동의 의미이므로 현재분사 'trying'이 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "quickly",
+          "explanation": "이 자리에는 동사 'exit'를 수식하는 부사가 필요합니다. '빠르게' 내린다는 의미이므로 부사인 'quickly'가 와야 합니다. 'quick'은 형용사입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "influence",
+          "explanation": "주어 'they'(feelings)가 '우리의 경험'에 영향을 '미치는' 능동적인 주체이므로 능동태 동사인 'influence'가 와야 합니다. 'are influenced'는 수동태로, '영향을 받는다'는 의미가 되어 어색합니다."
+        }
+      ]
+    }
+  ]
+}

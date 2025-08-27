@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "For many of us, making time for exercise is a continuing challenge.\nBetween work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of integrating mini-exercises into household chores comes into play.\nLet's be realistic; chores are inevitable.\nWhether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?\nFor instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil.\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the importance of family obligations" },
+        { "number": "②", "text": "to advertise a new type of home exercise equipment" },
+        { "number": "③", "text": "to complain about the burden of household chores" },
+        { "number": "④", "text": "to suggest integrating exercise into daily routines" },
+        { "number": "⑤", "text": "to compare the benefits of squats and push-ups" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 바쁜 일상 때문에 운동할 시간을 내기 어려운 사람들에게 해결책을 제시하고 있습니다. 그 해결책은 바로 집안일과 같은 일상적인 활동에 간단한 운동을 결합하는 것입니다('integrating mini-exercises into household chores'). 따라서 이 글의 주된 목적은 '일상에 운동을 통합하는 방법을 제안하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "For many of us, making time for exercise is a continuing challenge.\nBetween work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of integrating mini-exercises into household chores comes into play.\nLet's be realistic; chores are inevitable.\nWhether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?\nFor instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil.\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Too Busy to Work Out? Turn Chores into Fitness" },
+        { "number": "②", "text": "The Hidden Dangers of Household Chores" },
+        { "number": "③", "text": "Why a Dedicated Workout Is Essential" },
+        { "number": "④", "text": "Family Obligations vs. Work Commitments" },
+        { "number": "⑤", "text": "How to Make Your Kettle Boil Faster" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 바쁜 일정 속에서 운동 시간을 찾기 어려운 문제점을 제기하고, 그 해결책으로 집안일을 운동 기회로 활용하자는 아이디어를 제시합니다. 따라서 '너무 바빠서 운동을 못하나요? 집안일을 운동으로 바꾸세요'라는 제목이 글의 핵심 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "For many of us, making time for exercise is a continuing challenge.\nBetween work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of integrating mini-exercises into household chores comes into play.\nLet's be realistic; chores are inevitable.\nWhether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?\nFor instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil.\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Finding a dedicated time for an intense workout is the only truly effective way to improve one's health." },
+        { "number": "②", "text": "People should view their daily household chores as valuable opportunities for incorporating simple physical exercises." },
+        { "number": "③", "text": "The primary reason people often avoid exercising is because they do not enjoy doing household chores." },
+        { "number": "④", "text": "It is more effective to perform complex exercises at a gym than doing mini-exercises at home." },
+        { "number": "⑤", "text": "Individuals must learn how to better balance their work commitments and their various family obligations." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "필자는 바쁜 사람들이 운동할 시간을 내기 어렵다는 문제를 인식하고, 집안일을 단순히 의무적인 활동으로 보지 말고 신체 활동의 기회로 삼자고 제안합니다('seize these moments as opportunities for physical activity'). 즉, 일상적인 집안일을 간단한 신체 운동을 통합할 수 있는 귀중한 기회로 바라보아야 한다는 것이 이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "For many of us, making time for exercise is a continuing challenge. Between work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout. But what if the workout came to you, right in the midst of your daily routine? That's where the beauty of integrating mini-exercises into household chores comes into play. ( ① ) Whether it's washing dishes or taking out the trash, these tasks are an essential part of daily life. ( ② ) But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity? ( ③ ) For instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil. ( ④ ) Incorporating quick exercises into your daily chores can improve your health. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Let's be realistic; chores are inevitable.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '현실적으로 생각해보자; 집안일은 피할 수 없다'는 내용입니다. 이 문장은 '집안일에 간단한 운동을 통합하는 것'이라는 해결책을 제시한 직후, 그리고 그 집안일의 구체적인 예시(설거지, 쓰레기 버리기)를 들기 전에 위치하는 것이 가장 자연스럽습니다. 즉, 해결책의 배경이 되는 '집안일'이라는 소재를 현실적이고 피할 수 없는 것으로 규정하며 논리를 전개하는 역할을 합니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "For many of us, making time for exercise is a continuing challenge. Between work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.",
+      "question_blocks": {
+        "A": "Let's be realistic; chores are inevitable. Whether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.",
+        "B": "But what if the workout came to you, right in the midst of your daily routine? That's where the beauty of integrating mini-exercises into household chores comes into play.",
+        "C": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity? For instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 운동 시간 부족이라는 '문제'를 제시합니다. (B)에서 '운동이 일상 속으로 들어온다면 어떨까?'라며 집안일을 활용하는 '해결책'을 처음으로 제안합니다. 그 다음, (A)에서 그 해결책의 기반이 되는 '집안일'이 현실적으로 피할 수 없는 것임을 설명합니다. 마지막으로 (C)에서 (A)에서 언급된 집안일을 어떻게 운동 기회로 삼을 수 있는지 구체적인 방법과 예시를 들며 논지를 발전시킵니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "For many of us, making time for exercise is a continuing challenge.\nBetween work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of integrating mini-exercises into household chores comes into play.\nLet's be realistic; chores are inevitable.\nWhether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as [____________________]?\nFor instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil.\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "unavoidable but meaningless tasks" },
+        { "number": "②", "text": "a brief escape from work" },
+        { "number": "③", "text": "opportunities for physical activity" },
+        { "number": "④", "text": "a chance to organize our thoughts" },
+        { "number": "⑤", "text": "barriers to our personal goals" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 주장은 집안일을 운동과 결합하자는 것입니다. 빈칸이 있는 문장은 '집안일을 순전히 의무적인 활동으로 보기보다는, 이러한 순간들을 ~로 포착하는 것이 어떤가?'라고 묻고 있습니다. 글의 전체적인 맥락과 바로 뒤에 나오는 스쿼트나 팔굽혀펴기 같은 예시를 고려할 때, 빈칸에는 '신체 활동을 위한 기회'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "For many of us, making time for exercise is a continuing ① [challenge].\nBetween work commitments and family obligations, it often feels like there's no room in our ② [packed] schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of ③ [integrating] mini-exercises into household chores comes into play.\nLet's be realistic; chores are ④ [optional].\nWhether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① challenge" },
+        { "number": "②", "text": "② packed" },
+        { "number": "③", "text": "③ integrating" },
+        { "number": "④", "text": "④ optional" },
+        { "number": "⑤", "text": "⑤ essential" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "필자는 '현실적으로 생각해보자'고 말하며 집안일의 특성을 규정하고 있습니다. 바로 다음 문장에서 설거지나 쓰레기 버리기 같은 일들이 일상생활의 '필수적인(essential)' 부분이라고 설명하는 것으로 보아, 집안일은 '피할 수 없는(inevitable)' 것임을 알 수 있습니다. 따라서 집안일이 '선택적인(optional)'이라는 ④번은 문맥의 흐름에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "For many of us, making time for exercise is a continuing (A) [challenge].\nBetween work commitments and family obligations, it often feels like there's no room in our packed schedules for a (B) [dedicated] workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of (C) [integrating] mini-exercises into household chores comes into play.\nLet's be realistic; chores are (D) [inevitable].\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as (E) [opportunities] for physical activity?\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) challenge: something that needs great mental or physical effort in order to be done successfully" },
+        { "number": "②", "text": "(B) dedicated: believing that something is very important and giving a lot of time and energy to it" },
+        { "number": "③", "text": "(C) integrating: to force a person or group to leave a particular country or place" },
+        { "number": "④", "text": "(D) inevitable: that you cannot avoid or prevent" },
+        { "number": "⑤", "text": "(E) opportunities: a time when a particular situation makes it possible to do something" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'integrating'은 '통합하다, 결합하다'라는 의미입니다. 영영 풀이 'to force a person or group to leave a particular country or place (사람이나 집단이 특정 국가나 장소를 떠나도록 강요하다)'는 'deport' 또는 'expel'에 대한 설명에 가깝습니다. 따라서 ③번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "For many of us, making time for exercise is a continuing challenge.\nBetween work commitments and family obligations, it often feels like there's no room in our (A) [packed / empty] schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of integrating mini-exercises into household chores comes into play.\nLet's be realistic; chores are (B) [inevitable / avoidable].\nBut rather than viewing chores as purely obligatory activities, why not (C) [seize / lose] these moments as opportunities for physical activity?\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "packed - inevitable - seize" },
+        { "number": "②", "text": "packed - avoidable - lose" },
+        { "number": "③", "text": "packed - inevitable - lose" },
+        { "number": "④", "text": "empty - avoidable - seize" },
+        { "number": "⑤", "text": "empty - inevitable - seize" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 일과 가족 의무 사이에서 운동할 공간이 없다고 느끼는 것은 '꽉 찬(packed)' 일정 때문입니다. '텅 빈(empty)' 일정은 문맥에 맞지 않습니다. (B) 집안일은 일상에서 '피할 수 없는(inevitable)' 것이라고 설명하는 것이 글의 논리에 맞습니다. '피할 수 있는(avoidable)'은 반대 의미입니다. (C) 이러한 순간들을 신체 활동의 기회로 '붙잡으라(seize)'고 제안하는 것이 자연스럽습니다. '잃어버리다(lose)'는 문맥에 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "For many of us, making time for exercise is a continuing challenge.\nBetween work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.\nBut what if the workout came to you, right in the midst of your daily routine?\nThat's where the beauty of integrating mini-exercises into household chores comes into play.\nLet's be realistic; chores are inevitable.\nWhether it's washing dishes or taking out the trash, these tasks are an essential part of daily life.\nBut rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?\nFor instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil.\nIncorporating quick exercises into your daily chores can improve your health.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Work and family duties make it hard to find time for exercise." },
+        { "number": "②", "text": "The author suggests that chores should be seen as exercise opportunities." },
+        { "number": "③", "text": "Doing exercises during chores is less effective than a dedicated workout." },
+        { "number": "④", "text": "Household chores like washing dishes are considered inevitable." },
+        { "number": "⑤", "text": "One can do push-ups while waiting for a kettle to boil." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 집안일 중 운동하는 것을 바쁜 사람들을 위한 '대안'으로 제시할 뿐, '전용 운동(dedicated workout)'과 효과성을 비교하지는 않았습니다. 필자는 이러한 '미니 운동'이 건강을 향상시킬 수 있다고 긍정적으로 서술하고 있습니다. 따라서 집안일 중 운동하는 것이 덜 효과적이라고 단정하는 ③번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① For many of us, making time for exercise [is / are] a continuing challenge. ② Between work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout. ③ Whether it's washing dishes or [take / taking] out the trash, these tasks are an essential part of daily life. ④ But rather than viewing chores as purely obligatory activities, why not [seize / to seize] these moments as opportunities for physical activity? ⑤ Incorporating quick exercises into your daily chores can improve your health.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "is",
+          "explanation": "이 문장의 주어는 동명사구 'making time for exercise'입니다. 동명사구는 단수 취급하므로, 단수 동사인 'is'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "taking",
+          "explanation": "'Whether A or B' 구문에서 A와 B는 병렬 구조를 이루어야 합니다. A가 동명사 'washing'이므로, B도 같은 형태인 동명사 'taking'이 되어야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "seize",
+          "explanation": "'Why not + 동사원형?'은 '~하는 게 어때?'라고 제안하는 관용 표현입니다. 따라서 동사원형인 'seize'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}
