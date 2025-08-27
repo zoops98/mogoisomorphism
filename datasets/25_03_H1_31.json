@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies within each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare painting and photography"
+        },
+        {
+          "number": "②",
+          "text": "to criticize the concept of abstract ideas"
+        },
+        {
+          "number": "③",
+          "text": "to explain Plato's theory of true beauty"
+        },
+        {
+          "number": "④",
+          "text": "to teach the mathematical concept of triangles"
+        },
+        {
+          "number": "⑤",
+          "text": "to argue that beauty is subjective"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 플라톤이 진정한 아름다움을 어떻게 생각했는지에 대해 설명하고 있습니다. 물리적 세계의 아름다움은 '진정한 아름다움', 즉 '아름다움의 이데아(Form of Beauty)'의 불완전한 반영이며, 이 진정한 아름다움은 물리적 형태가 없는 추상적인 개념이라고 설명합니다. 따라서 글의 주된 목적은 플라톤의 진정한 아름다움에 대한 이론을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies within each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Art of Drawing Triangles"
+        },
+        {
+          "number": "②",
+          "text": "Physical Beauty vs. Abstract Ideas"
+        },
+        {
+          "number": "③",
+          "text": "Plato's Form of Beauty: The Abstract Ideal"
+        },
+        {
+          "number": "④",
+          "text": "Why Photography Can't Capture Reality"
+        },
+        {
+          "number": "⑤",
+          "text": "The Number Five: A Philosophical Study"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 플라톤의 '아름다움의 이데아(Form of Beauty)'가 물리적 속성이 없는 '추상적인 이상(Abstract Ideal)'이라는 개념을 중심으로 전개됩니다. 따라서 '플라톤의 아름다움의 이데아: 추상적 이상'이라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies within each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Plato's philosophy suggests that true beauty is an abstract ideal, and physical objects are merely its imperfect reflections."
+        },
+        {
+          "number": "②",
+          "text": "According to Plato, the most beautiful things are those that have a very specific color, shape, and even size."
+        },
+        {
+          "number": "③",
+          "text": "The number five and the idea of a triangle are considered the highest forms of true beauty in Plato's philosophy."
+        },
+        {
+          "number": "④",
+          "text": "Plato argued that photographs and paintings are the only way for humans to experience any form of true beauty."
+        },
+        {
+          "number": "⑤",
+          "text": "The primary goal of philosophy is to create physical objects that perfectly capture the abstract Form of Beauty."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 플라톤에 따르면 진정한 아름다움은 추상적인 이상(ideal)이며, 우리가 보는 물리적인 아름다운 것들은 그 이상의 불완전한 반영(reflection)에 불과하다는 것입니다. 따라서 '플라톤의 철학은 진정한 아름다움은 추상적 이상이며, 물리적 대상은 단지 그것의 불완전한 반영이라고 제안한다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five. ( ① ) You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. ( ② ) Think of the idea of a triangle, for example. ( ③ ) Although it has no particular color or size, it somehow lies within each and every triangle you see. ( ④ ) Plato thought the same was true of beauty. ( ⑤ ) The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**It has no physical form.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장 '그것은 물리적 형태가 없다'는 앞서 설명한 내용에 대한 결론적인 진술입니다. 바로 앞 문장에서 숫자 5의 개념이 파란색, 빨간색, 크고 작은 그림 등 구체적인 표현물과는 다른 것임을 설명했습니다. 이 설명에 대한 요약으로서 '물리적 형태가 없다'고 말한 후, 다음 비유인 삼각형의 예시로 넘어가는 것이 가장 자연스럽습니다. 따라서 정답은 ②입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing.",
+      "question_blocks": {
+        "A": "You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form.",
+        "B": "True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five.",
+        "C": "Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies within each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 우리가 보는 아름다움이 '부분적인 반영'이라고 소개합니다. (B)는 이 '진정한 아름다움'이 무엇인지 정의하며, 그것이 특정 속성이 없는 추상적 개념임을 밝히고 숫자 5라는 비유를 도입합니다. (A)는 (B)에서 도입된 숫자 5의 비유를 구체적으로 설명합니다. 마지막으로 (C)는 삼각형이라는 또 다른 비유를 들어 추상적 개념이 어떻게 구체적인 사물에 내재하는지를 설명하고, 이를 다시 아름다움의 개념에 적용하며 글을 마무리합니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is a(n) [____________________], like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies within each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "physical object"
+        },
+        {
+          "number": "②",
+          "text": "personal opinion"
+        },
+        {
+          "number": "③",
+          "text": "abstract idea"
+        },
+        {
+          "number": "④",
+          "text": "visual reflection"
+        },
+        {
+          "number": "⑤",
+          "text": "scientific fact"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 '진정한 아름다움'의 본질을 정의하고 있습니다. 글쓴이는 진정한 아름다움이 특정 색, 모양, 크기가 없다고 말하며, 숫자 5를 예로 들어 설명합니다. 숫자 5의 개념이 물리적 형태가 없는 것처럼, 진정한 아름다움 또한 물리적 실체가 아닌 '추상적인 개념'입니다. 따라서 'abstract idea'가 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a ① [partial] reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an ② [abstract] idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no ③ [physical] form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies ④ [outside] each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies ⑤ [within] each and every beautiful thing you see.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 삼각형의 추상적인 '이데아'가 우리가 보는 모든 구체적인 삼각형 안에 '내재한다(lies within)'는 개념을 설명하고, 이를 아름다움의 이데아에도 적용합니다. 따라서 추상적 개념이 모든 삼각형의 '밖에(outside)' 존재한다는 것은 글의 핵심 논리와 정면으로 배치됩니다. 'within'이 문맥상 올바른 표현입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial (A) [reflection] of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the (B) [Form] of Beauty, has no particular color, shape, or size. Rather, it is an (C) [abstract] idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow (D) [lies within] each and every triangle you see. Plato thought the same was (E) [true] of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) reflection: an image seen in a mirror or on a shiny surface"
+        },
+        {
+          "number": "②",
+          "text": "(B) Form: a printed document with spaces for information to be written"
+        },
+        {
+          "number": "③",
+          "text": "(C) abstract: existing as an idea or quality rather than as a physical object"
+        },
+        {
+          "number": "④",
+          "text": "(D) lies within: to be present or contained as a central part of something"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) true: connected with facts rather than things that are imagined"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) Form은 이 글에서 플라톤 철학의 전문 용어인 '이데아'를 의미하며, 사물의 완벽하고 영원한 본질을 가리킵니다. 제시된 영영 풀이 'a printed document with spaces for information to be written(정보를 기입할 공란이 있는 인쇄된 문서)'는 '서식, 양식'이라는 의미의 일상적인 form에 대한 설명으로, 철학적 맥락에 전혀 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a (A) [partial / complete] reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an (B) [abstract / concrete] idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies (C) [within / without] each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "partial - abstract - within"
+        },
+        {
+          "number": "②",
+          "text": "partial - concrete - without"
+        },
+        {
+          "number": "③",
+          "text": "complete - abstract - within"
+        },
+        {
+          "number": "④",
+          "text": "complete - concrete - without"
+        },
+        {
+          "number": "⑤",
+          "text": "partial - abstract - without"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 우리가 보는 아름다움은 진정한 아름다움의 '부분적인' 반영이라고 했으므로 'partial'이 맞습니다. (B) 진정한 아름다움은 물리적 형태가 없는 '추상적인' 개념이므로 'abstract'가 적절합니다. (C) 삼각형의 이데아는 모든 개별 삼각형 '안에' 내재해 있다고 설명하므로 'within'이 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Plato argued that when you see something that strikes you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself is none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow lies within each and every triangle you see. Plato thought the same was true of beauty. The Form of Beauty somehow lies within each and every beautiful thing you see.",
+      "question": "플라톤의 미(美)에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "우리가 보는 아름다운 것은 진정한 아름다움의 부분적 반영이다."
+        },
+        {
+          "number": "②",
+          "text": "'아름다움의 이데아'는 특정한 색, 모양, 크기를 가지고 있다."
+        },
+        {
+          "number": "③",
+          "text": "진정한 아름다움은 물리적 형태가 없는 추상적인 개념이다."
+        },
+        {
+          "number": "④",
+          "text": "숫자 5의 개념은 추상적 이데아에 대한 비유로 사용되었다."
+        },
+        {
+          "number": "⑤",
+          "text": "'아름다움의 이데아'는 모든 아름다운 것 안에 내재한다."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "본문에서 'True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size'라고 명시적으로 언급했습니다. 이는 '아름다움의 이데아'가 특정한 색, 모양, 또는 크기를 가지고 있지 않다는 의미입니다. 따라서 ②번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Plato argued that when you see something that ① [strikes / striking] you as beautiful, you are really just seeing a partial reflection of true beauty, just as a painting or even a photograph only captures part of the real thing. True beauty, or what Plato calls the Form of Beauty, has no particular color, shape, or size. Rather, it is an abstract idea, like the number five. You can make drawings of the number five in blue or red ink, big or small, but the number five itself ② [is / are] none of those things. It has no physical form. Think of the idea of a triangle, for example. Although it has no particular color or size, it somehow ③ [lies / lays] within each and every triangle you see. Plato thought the same was true of beauty.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "strikes",
+          "explanation": "주격 관계대명사 'that'의 선행사는 'something'이므로, 동사는 3인칭 단수형인 'strikes'가 되어야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "is",
+          "explanation": "주어는 'the number five itself'로 단수이므로, 동사는 단수형인 'is'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "lies",
+          "explanation": "'~에 있다, 놓여 있다'라는 의미의 자동사 'lie'의 3인칭 단수형인 'lies'가 필요합니다. 'lay'는 '~을 놓다, 두다'라는 의미의 타동사입니다."
+        }
+      ]
+    }
+  ]
+}

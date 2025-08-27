@@ -1,0 +1,202 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.\nWhen he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.\nBelieving that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.\nWhen Look magazine hired him at age 24, he became their second-youngest photographer ever.\nHis photos taken of Marilyn Monroe in 1961 became iconic almost instantly.\nKirkland spent his weeks shooting day-to-day life across the United States and his weekends in exotic locations.\nHis photo essays could run up to a dozen pages and were seen by more than half of all Americans.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to promote an upcoming photo exhibition" },
+        { "number": "②", "text": "to inform about the life and career of a photographer" },
+        { "number": "③", "text": "to compare the styles of Life and Look magazines" },
+        { "number": "④", "text": "to criticize the commercialization of portrait photography" },
+        { "number": "⑤", "text": "to persuade young people to move to the United States" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 사진작가 Douglas Kirkland의 출생, 어린 시절의 관심사, 미국으로의 이주, 경력의 주요 사건(Look 매거진 입사, 마릴린 먼로 촬영), 그리고 그의 작업이 미친 영향 등을 시간 순서에 따라 서술하고 있습니다. 이는 특정 인물의 삶과 경력에 대한 정보를 제공하는 전형적인 인물 소개 글입니다. 따라서 글의 목적은 '사진작가의 삶과 경력에 대해 알리기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.\nWhen he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.\nBelieving that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.\nWhen Look magazine hired him at age 24, he became their second-youngest photographer ever.\nHis photos taken of Marilyn Monroe in 1961 became iconic almost instantly.\nKirkland spent his weeks shooting day-to-day life across the United States and his weekends in exotic locations.\nHis photo essays could run up to a dozen pages and were seen by more than half of all Americans.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Rise and Fall of Look Magazine" },
+        { "number": "②", "text": "Marilyn Monroe: An Iconic Muse" },
+        { "number": "③", "text": "Douglas Kirkland: A Lens on a Legendary Career" },
+        { "number": "④", "text": "How to Become a Celebrity Photographer" },
+        { "number": "⑤", "text": "A Comparison of American and Canadian Photography" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 사진작가 Douglas Kirkland의 전반적인 삶과 경력을 다루고 있습니다. 그의 어린 시절부터 Look 매거진에서의 성공, 그리고 그의 영향력까지 조명하고 있습니다. 'Douglas Kirkland: 전설적인 경력에 대한 렌즈'라는 제목은 그의 직업(사진작가, 렌즈)을 비유적으로 사용하여 그의 경력을 요약하는, 글의 전체 내용을 포괄하는 가장 적절한 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.\nWhen he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.\nBelieving that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.\nWhen Look magazine hired him at age 24, he became their second-youngest photographer ever.\nHis photos taken of Marilyn Monroe in 1961 became iconic almost instantly.\nKirkland spent his weeks shooting day-to-day life across the United States and his weekends in exotic locations.\nHis photo essays could run up to a dozen pages and were seen by more than half of all Americans.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Douglas Kirkland's early passion for photography and bold career move to the U.S. led to great success." },
+        { "number": "②", "text": "The primary reason for Kirkland's fame was his exclusive focus on photographing day-to-day life in America." },
+        { "number": "③", "text": "Despite his obvious talent, Kirkland struggled for many years to find stable work as a professional photographer." },
+        { "number": "④", "text": "Marilyn Monroe's iconic photographs were the only significant achievement in Douglas Kirkland's long and varied career." },
+        { "number": "⑤", "text": "Look magazine was known for hiring photographers based on their age rather than on their artistic skill." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Kirkland가 어릴 적부터 사진에 대한 열정(Life 잡지를 기다림)을 가졌고, 더 나은 직업 전망을 위해 미국으로 이주하는 과감한 결정을 내렸으며, 그 결과 Look 매거진에 고용되어 상징적인 사진들을 남기는 등 큰 성공을 거두었음을 보여줍니다. 따라서 그의 초기 열정과 과감한 직업적 행보가 큰 성공으로 이어졌다는 ①번이 글의 내용을 가장 잘 요약한 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada. When he was young, he eagerly awaited the weekly arrival of Life magazine. Believing that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio. ( ① ) His photos taken of Marilyn Monroe in 1961 became iconic almost instantly. ( ② ) Kirkland spent his weeks shooting day-to-day life across the United States and his weekends in exotic locations. ( ③ ) His photo essays could run up to a dozen pages and were seen by more than half of all Americans. ( ④ ) His influence on modern photography is still studied today. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**When Look magazine hired him at age 24, he became their second-youngest photographer ever.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 Kirkland가 24세에 Look 매거진에 고용되어 주요 경력상의 전환점을 맞이했음을 알립니다. 이 문장은 그가 고등학교 졸업 후 사진 스튜디오에서 일하기 시작했다는 내용과, 그의 가장 상징적인 작업 중 하나인 마릴린 먼로 사진을 찍었다는 내용 사이에 위치하는 것이 가장 자연스럽습니다. Look 매거진에 고용된 것이 먼로 사진 촬영과 같은 중요한 작업을 할 수 있었던 배경이 되기 때문입니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.",
+      "question_blocks": {
+        "A": "Believing that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.",
+        "B": "When he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.",
+        "C": "When Look magazine hired him at age 24, he became their second-youngest photographer ever. His photos taken of Marilyn Monroe in 1961 became iconic almost instantly."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 Kirkland의 출생지를 언급하며 시작합니다. 인물 소개의 자연스러운 흐름에 따라 어린 시절의 일화가 이어지는 것이 적절하므로, Life 잡지를 기다렸다는 내용의 (B)가 가장 먼저 와야 합니다. 그 다음, 성장 후의 경력 시작을 다루는 (A)가 이어집니다(고등학교 졸업 후 미국으로 이주). 마지막으로, 그의 경력에서 중요한 이정표가 된 Look 매거진 입사와 마릴린 먼로 사진 촬영을 다루는 (C)가 오는 것이 가장 논리적입니다. 따라서 (B)-(A)-(C) 순서가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.\nWhen he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.\nBelieving that he would have better [____________________], Kirkland moved to the United States after graduating from high school and found work at a photography studio.\nWhen Look magazine hired him at age 24, he became their second-youngest photographer ever.\nHis photos taken of Marilyn Monroe in 1961 became iconic almost instantly.\nKirkland spent his weeks shooting day-to-day life across the United States and his weekends in exotic locations.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "educational opportunities" },
+        { "number": "②", "text": "personal connections" },
+        { "number": "③", "text": "artistic freedom" },
+        { "number": "④", "text": "career prospects" },
+        { "number": "⑤", "text": "financial stability" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 Kirkland가 고등학교 졸업 후 미국으로 이주한 이유를 설명하는 부분입니다. 그가 이주 후 바로 사진 스튜디오에서 일자리를 구하고 이후 Look 매거진에 입사하는 등 직업적인 성공을 거두었다는 내용이 이어지므로, '더 나은 직업 전망'을 기대하고 이주했다고 보는 것이 가장 타당합니다. 따라서 빈칸에는 'career prospects'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada. When he was young, he ① [eagerly] awaited the weekly arrival of Life magazine. Believing that he would have ② [better] career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio. When Look magazine hired him at age 24, he became their third-youngest photographer ever. His photos taken of Marilyn Monroe in 1961 became ③ [iconic] almost instantly. Kirkland spent his weeks shooting ④ [day-to-day] life across the United States. His photo essays could run up to a ⑤ [dozen] pages and were seen by more than half of all Americans.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① eagerly" },
+        { "number": "②", "text": "② better" },
+        { "number": "③", "text": "③ iconic" },
+        { "number": "④", "text": "④ day-to-day" },
+        { "number": "⑤", "text": "⑤ dozen" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "본문에는 Kirkland가 Look 매거진에 고용되었을 때 '역대 두 번째로 어린 사진작가(second-youngest photographer ever)'가 되었다고 나와 있습니다. 따라서 '세 번째로 어린(third-youngest)'이라는 정보는 사실과 다릅니다. 이 문제의 경우, 본문 내용과 다른 정보가 선택지에 제시되어 부적절한 것을 찾는 유형으로 출제되었습니다. (*실제 시험에서는 본문 자체의 단어를 바꾸는 경우가 많지만, 이처럼 내용 불일치 형태로 어휘 문제를 내기도 합니다.)"
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Douglas Kirkland, known for his highly artistic (A) [portraits] of Hollywood celebrities, was born in Toronto, Canada.\nWhen he was young, he eagerly awaited the weekly (B) [arrival] of Life magazine.\nBelieving that he would have better career (C) [prospects], Kirkland moved to the United States.\nWhen Look magazine (D) [hired] him at age 24, he became their second-youngest photographer ever.\nHis photos taken of Marilyn Monroe in 1961 became (E) [iconic] almost instantly.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) portraits: pictures of people, especially of their faces" },
+        { "number": "②", "text": "(B) arrival: the act of coming to or reaching a place" },
+        { "number": "③", "text": "(C) prospects: chances or opportunities for success, especially in a career" },
+        { "number": "④", "text": "(D) hired: to pay someone to work for you" },
+        { "number": "⑤", "text": "(E) iconic: related to a religious painting or image" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'iconic(상징적인)'은 매우 유명하고 많은 사람들이 특정 아이디어를 대표한다고 여기는 것을 의미합니다. 영영 풀이 'related to a religious painting or image(종교적인 그림이나 이미지와 관련된)'는 'icon'의 원래 의미 중 하나이지만, 본문에서는 '매우 유명하고 상징적인'이라는 의미로 사용되었으므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "When he was young, he (A) [eagerly / anxiously] awaited the weekly arrival of Life magazine. Believing that he would have (B) [better / worse] career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio. When Look magazine hired him at age 24, he became their second-youngest photographer ever. His photos taken of Marilyn Monroe in 1961 became (C) [iconic / obscure] almost instantly.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "eagerly - better - iconic" },
+        { "number": "②", "text": "eagerly - worse - obscure" },
+        { "number": "③", "text": "anxiously - better - iconic" },
+        { "number": "④", "text": "anxiously - worse - obscure" },
+        { "number": "⑤", "text": "eagerly - better - obscure" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 잡지를 기다리고 아버지와 사진에 대해 토론했다는 내용은 긍정적인 열정을 나타내므로 '열렬히(eagerly)'가 적절합니다. 'anxiously'는 '불안해하며'라는 뜻입니다. (B) 미국으로 이주한 동기는 '더 나은(better)' 직업 전망 때문이었습니다. 'worse'는 '더 나쁜'이라는 뜻입니다. (C) 마릴린 먼로 사진은 즉시 '상징적인(iconic)' 것이 되었습니다. 'obscure'는 '무명의, 잘 알려지지 않은'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.\nWhen he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.\nBelieving that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.\nWhen Look magazine hired him at age 24, he became their second-youngest photographer ever.\nHis photos taken of Marilyn Monroe in 1961 became iconic almost instantly.\nKirkland spent his weeks shooting day-to-day life across the United States and his weekends in exotic locations.\nHis photo essays could run up to a dozen pages and were seen by more than half of all Americans.",
+      "question": "Douglas Kirkland에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "He was born in Canada and later moved to the U.S." },
+        { "number": "②", "text": "He developed his interest in photography by reading Life magazine." },
+        { "number": "③", "text": "He was the youngest photographer ever hired by Look magazine." },
+        { "number": "④", "text": "His 1961 photographs of Marilyn Monroe brought him great fame." },
+        { "number": "⑤", "text": "His work was widely viewed by the American public." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 Kirkland는 Look 매거진에 고용되었을 때 '역대 두 번째로 어린 사진작가(second-youngest photographer ever)'였다고 명시되어 있습니다. 따라서 그가 '역대 가장 어린 사진작가(the youngest photographer ever)'였다는 ③번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Douglas Kirkland, [known / knowing] for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada. ② When he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine [containing / contained] with his father. ③ [Believing / Believed] that he would have better career prospects, Kirkland moved to the United States after graduating from high school. ④ His photos [taken / taking] of Marilyn Monroe in 1961 became iconic almost instantly. ⑤ His photo essays could run up to a dozen pages and [were seen / saw] by more than half of all Americans.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "known",
+          "explanation": "Douglas Kirkland는 그의 초상화로 '알려진' 것이므로 수동의 의미를 나타내는 과거분사 'known'이 와야 합니다. 'knowing'은 능동의 의미입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "contained",
+          "explanation": "앞의 명사 'the photographs'를 수식하는 관계대명사절 'that the magazine contained'에서 'that'이 생략된 형태입니다. 'the magazine'이 주어, 'contained'가 동사이므로 능동태가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "Believing",
+          "explanation": "주절의 주어인 'Kirkland'가 '믿었기 때문에'라는 능동의 의미를 나타내는 분사구문입니다. 따라서 현재분사 'Believing'이 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "taken",
+          "explanation": "앞의 명사 'His photos'를 수식하는 분사구입니다. 사진은 마릴린 먼로를 대상으로 '찍힌' 것이므로 수동의 의미를 가진 과거분사 'taken'이 와야 합니다."
+        },
+        {
+          "number": "⑤",
+          "correct_form": "were seen",
+          "explanation": "주어 'His photo essays'는 미국인 절반 이상에 의해 '보여진' 것이므로 수동태 'were seen'이 어법에 맞습니다. 'saw'는 능동태입니다."
+        }
+      ]
+    }
+  ]
+}

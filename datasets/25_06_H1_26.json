@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Edward O. Wilson was born in Birmingham, Alabama, in 1929. In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants. He could not observe larger animals from a distance. Instead, he concentrated on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956. He never received a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology. However, he was awarded the Crafoord Prize in 1990. Wilson, known to some as the \"modern-day Darwin\", died at the age of 92 in Massachusetts.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to provide a brief biography of Edward O. Wilson" },
+        { "number": "②", "text": "to persuade people to study evolutionary biology" },
+        { "number": "③", "text": "to explain the criteria for the Nobel Prize" },
+        { "number": "④", "text": "to warn about the dangers of fishing accidents" },
+        { "number": "⑤", "text": "to compare the study of ants with that of larger animals" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Edward O. Wilson의 출생, 어린 시절의 사건, 학문적 경력, 수상 내역, 그리고 죽음에 이르기까지 그의 삶의 주요 사건들을 시간 순서대로 서술하고 있습니다. 이는 특정 인물의 일생을 간략하게 소개하는 전기의 형식이므로, 글의 목적은 'Edward O. Wilson의 간략한 전기를 제공하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Edward O. Wilson was born in Birmingham, Alabama, in 1929. In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants. He could not observe larger animals from a distance. Instead, he concentrated on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956. He never received a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology. However, he was awarded the Crafoord Prize in 1990. Wilson, known to some as the \"modern-day Darwin\", died at the age of 92 in Massachusetts.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "A Life Devoted to the Smallest Creatures" },
+        { "number": "②", "text": "The Nobel Prize and Its Controversies" },
+        { "number": "③", "text": "The Dangers Lurking in Nature" },
+        { "number": "④", "text": "Harvard University's Greatest Scholars" },
+        { "number": "⑤", "text": "How to Become a Modern-Day Darwin" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 E. O. Wilson이 어린 시절 사고로 시력이 저하되어, 멀리 있는 큰 동물 대신 가까이서 볼 수 있는 '더 작은 생물체(smaller creatures)', 특히 개미 연구에 집중하게 되었다고 설명합니다. 그의 생애와 업적이 이 작은 생물체 연구에 헌신된 것임을 보여주므로, '가장 작은 생명체에 바친 일생'이 글의 내용을 가장 잘 함축하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Edward O. Wilson was born in Birmingham, Alabama, in 1929. In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants. He could not observe larger animals from a distance. Instead, he concentrated on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956. He never received a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology. However, he was awarded the Crafoord Prize in 1990. Wilson, known to some as the \"modern-day Darwin\", died at the age of 92 in Massachusetts.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "An unfortunate childhood accident steered Edward O. Wilson toward his influential career as a famous biologist." },
+        { "number": "②", "text": "Edward O. Wilson's most significant achievement was receiving the highly prestigious Nobel Prize for his research." },
+        { "number": "③", "text": "The Crafoord Prize is considered by many scientists to be more important than the traditional Nobel Prize." },
+        { "number": "④", "text": "Studying small insects like ants requires more patience than observing larger animals in the wild." },
+        { "number": "⑤", "text": "Harvard University has a long and distinguished history of producing the world's leading evolutionary biologists." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용 중 하나는 7살 때 겪은 낚시 사고로 인해 Wilson의 시력이 저하되었고, 이 사건이 그가 개미 연구로 방향을 틀게 된 결정적인 계기가 되었다는 점입니다. 즉, 불행한 사고가 역설적으로 그를 영향력 있는 생물학자의 길로 이끌었다는 것이 글의 중요한 흐름이자 요지입니다. 다른 선택지들은 본문 내용과 다르거나, 지엽적인 내용을 다루고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants. ( ① ) Instead, he concentrated on smaller creatures he could study up close. ( ② ) After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956. ( ③ ) He never received a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology. ( ④ ) However, he was awarded the Crafoord Prize in 1990.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**He could not observe larger animals from a distance.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '그는 멀리서 큰 동물들을 관찰할 수 없었다'는 내용입니다. 바로 앞 문장에서 그의 '저하된 시력(reduced sight)'이 그를 개미 연구로 이끌었다고 언급했습니다. 주어진 문장은 그 이유를 구체적으로 설명합니다. 즉, 큰 동물을 볼 수 없었기 때문에, 그 '대신에(Instead)' 작은 생물에 집중했다는 흐름이 자연스럽습니다. 따라서 주어진 문장은 원인 설명과 그 대안을 제시하는 문장 사이인 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Edward O. Wilson was born in Birmingham, Alabama, in 1929. In his early childhood, he became interested in nature and spent much time in the outdoors.",
+      "question_blocks": {
+        "A": "After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956.",
+        "B": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants. He could not observe larger animals from a distance. Instead, he concentrated on smaller creatures he could study up close.",
+        "C": "He never received a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology. However, he was awarded the Crafoord Prize in 1990. Wilson, known to some as the \"modern-day Darwin\", died at the age of 92 in Massachusetts."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Edward O. Wilson의 생애를 시간 순서대로 서술하고 있습니다. 주어진 글은 그의 출생과 어린 시절의 관심사를 다룹니다. (B)는 7살 때 겪은 결정적인 사고와 그로 인해 개미 연구에 집중하게 된 계기를 설명하며 자연스럽게 이어집니다. (A)는 그 후의 학문적 경로인 앨라배마 대학과 하버드 대학에서의 교수 생활을 설명합니다. (C)는 그의 후기 경력인 수상 내역과 별명, 그리고 죽음을 다루며 글을 마무리합니다. 따라서 시간의 흐름에 따른 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Edward O. Wilson was born in Birmingham, Alabama, in 1929. In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to ____________________. He could not observe larger animals from a distance. Instead, he concentrated on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956. He never received a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology. However, he was awarded the Crafoord Prize in 1990. Wilson, known to some as the \"modern-day Darwin\", died at the age of 92 in Massachusetts.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the study of ants" },
+        { "number": "②", "text": "a fear of the outdoors" },
+        { "number": "③", "text": "a career in medicine" },
+        { "number": "④", "text": "the invention of fishing gear" },
+        { "number": "⑤", "text": "a deep resentment for nature" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "빈칸이 있는 문장은 그의 저하된 시력이 그를 어디로 이끌었는지를 묻고 있습니다. 바로 다음 문장에서 그가 멀리 있는 큰 동물은 볼 수 없었고, 대신 가까이서 연구할 수 있는 작은 생물에 집중했다고 설명합니다. 글의 초반에 그가 개미 연구로 유명했다는 암시가 있고, 시력 저하라는 조건은 작은 곤충 연구와 직접적으로 연결됩니다. 따라서 빈칸에는 '개미 연구(the study of ants)'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Edward O. Wilson was born in Birmingham, Alabama, in 1929. In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was ① `partially` blinded in a fishing accident; his reduced sight led Wilson to the study of ants. He could not observe larger animals from a distance. Instead, he ② `concentrated` on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson ③ `rejected` to Harvard University, where he became a professor in 1956. He never received a Nobel Prize ─ the prize didn't ④ `recognize` research in the field of evolutionary biology. However, he was ⑤ `awarded` the Crafoord Prize in 1990.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 Wilson이 앨라배마 대학에서 공부한 후 하버드 대학으로 가서 교수가 되었다는 그의 학문적 경로를 설명하고 있습니다. 한 대학에서 다른 대학으로 학적을 옮기는 것을 '편입하다' 또는 '옮기다'라는 의미의 'transferred'라고 해야 합니다. ③번의 'rejected'(거절했다)는 문맥에 맞지 않으며, 글의 내용과도 반대됩니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "In his early childhood, he became interested in nature and spent much time in the outdoors. At age seven, he was partially blinded in a fishing (A) `accident`; his reduced sight led Wilson to the study of ants. He could not (B) `observe` larger animals from a distance. Instead, he (C) `concentrated` on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson (D) `transferred` to Harvard University, where he became a professor in 1956. He never received a Nobel Prize ─ the prize didn't (E) `recognize` research in the field of evolutionary biology.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) accident: an unpleasant event that happens unexpectedly and causes damage or injury" },
+        { "number": "②", "text": "(B) observe: to watch something or someone carefully" },
+        { "number": "③", "text": "(C) concentrated: increased in strength by having water removed" },
+        { "number": "④", "text": "(D) transferred: to move from one school, job, or place to another" },
+        { "number": "⑤", "text": "(E) recognize: to accept that something is true, legal, or important" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 (C) `concentrated`는 Wilson이 그의 노력을 작은 생물 연구에 '집중했다'는 의미로 사용되었습니다. 하지만 보기 ③의 영영 풀이는 '물이 제거되어 농도나 강도가 증가된', 즉 '농축된'이라는 화학적 의미를 설명하고 있습니다. 이는 문맥상의 의미와 전혀 다르므로 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "At age seven, he was (A) [partially / fully] blinded in a fishing accident; his reduced sight led Wilson to the study of ants. He could not observe (B) [larger / smaller] animals from a distance. Instead, he concentrated on smaller creatures he could study up close. After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University... He never (C) [received / rejected] a Nobel Prize ─ the prize didn't recognize research in the field of evolutionary biology.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "partially / larger / received" },
+        { "number": "②", "text": "partially / smaller / received" },
+        { "number": "③", "text": "fully / larger / rejected" },
+        { "number": "④", "text": "fully / smaller / received" },
+        { "number": "⑤", "text": "partially / larger / rejected" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 그는 낚시 사고로 '부분적으로(partially)' 시력을 잃었다고 나와 있습니다. (B) 시력이 저하되어 멀리 있는 '더 큰(larger)' 동물들을 관찰할 수 없었기 때문에 작은 동물에 집중했습니다. (C) 그는 그의 연구 분야가 인정받지 못해 노벨상을 '받지 못했다(received)'고 해야 문맥이 자연스럽습니다. 'never'가 앞에 있으므로 'received'를 사용하여 '결코 받지 못했다'는 의미를 완성합니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants. ① He could not observe larger animals from a distance. ② Instead, he concentrated on smaller creatures he could study up close. ③ Ants are social insects that live in colonies which are usually located underground. ④ After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956. ⑤",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 Edward O. Wilson의 생애와 경력에 대한 전기적 사실을 서술하고 있습니다. ①, ②, ④번 문장은 모두 Wilson의 개인적인 경험과 학문적 경로에 대한 이야기로, 글의 중심 내용과 긴밀하게 연결됩니다. 하지만 ③번 문장 '개미는 보통 땅속에 위치한 군집을 이루어 사는 사회적 곤충이다'는 개미에 대한 일반적인 생물학적 사실을 설명하는 문장으로, Wilson의 개인적인 이야기라는 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "In his early childhood, he became interested in nature and ① [spent / was spent] much time in the outdoors. At age seven, he was partially blinded in a fishing accident. After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, ② [where / which] he became a professor in 1956. He never received a Nobel Prize. Wilson, ③ [known / knowing] to some as the \"modern-day Darwin\", died at the age of 92 in Massachusetts.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "spent",
+          "explanation": "주어 'he'(Wilson)가 시간을 '보낸' 능동의 주체이므로 능동태 동사인 'spent'가 와야 합니다. 'was spent'는 수동태로, '시간이 보내졌다'는 의미가 되어 어색합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "where",
+          "explanation": "선행사 'Harvard University'는 장소를 나타냅니다. 뒷부분 'he became a professor in 1956'은 완전한 문장이므로, 장소 선행사를 받고 뒤에 완전한 절을 이끄는 관계부사 'where'가 적절합니다. 관계대명사 'which'는 뒤에 불완전한 절을 이끕니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "known",
+          "explanation": "이 부분은 주어인 'Wilson'을 수식하는 분사구문입니다. Wilson은 다른 사람들에게 '알려진' 대상이므로 수동의 의미를 나타내는 과거분사 'known'이 맞습니다. 현재분사 'knowing'은 능동의 의미를 가집니다."
+        }
+      ]
+    }
+  ]
+}

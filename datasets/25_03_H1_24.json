@@ -1,0 +1,243 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. This leads to an overall improvement in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain how fMRI technology works"
+        },
+        {
+          "number": "②",
+          "text": "to criticize modern public speaking habits"
+        },
+        {
+          "number": "③",
+          "text": "to compare the brains of children and adults"
+        },
+        {
+          "number": "④",
+          "text": "to inform about the benefits of reading aloud"
+        },
+        {
+          "number": "⑤",
+          "text": "to recommend new methods for silent reading"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 소리 내어 읽기가 뇌 구조 강화, 집중력 향상, 대중 연설 능력 개발 등 다양한 이점을 가지고 있으며, 특히 어린이에게 유익하다고 설명하고 있습니다. 따라서 글의 주된 목적은 '소리 내어 읽기의 이점에 대해 알리는 것'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. This leads to an overall improvement in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "How Brain-Scanning Changed Medicine"
+        },
+        {
+          "number": "②",
+          "text": "The Power of Reading Aloud"
+        },
+        {
+          "number": "③",
+          "text": "Silent vs. Spoken: A Reading War"
+        },
+        {
+          "number": "④",
+          "text": "Public Speaking for Beginners"
+        },
+        {
+          "number": "⑤",
+          "text": "Why Children Should Read in Silence"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 소리 내어 읽기가 뇌 활동을 촉진하고, 집중력과 연설 능력을 향상시키는 등 다양한 긍정적 효과를 가져온다는 내용을 중심으로 전개됩니다. 따라서 '소리 내어 읽기의 힘'이라는 제목이 글 전체의 내용을 가장 잘 함축하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. This leads to an overall improvement in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Reading text aloud offers significant cognitive and practical advantages by stimulating various areas of the human brain."
+        },
+        {
+          "number": "②",
+          "text": "Modern brain-scanning techniques like fMRI are primarily used for developing better public speaking skills in many adults."
+        },
+        {
+          "number": "③",
+          "text": "Reading in silence is a much more effective method for improving overall concentration than reading any words out loud."
+        },
+        {
+          "number": "④",
+          "text": "The human brain can only develop its connective structures through physical stimulation like touching or singing some songs."
+        },
+        {
+          "number": "⑤",
+          "text": "Children should avoid reading aloud because it can slow down their overall reading speed and comprehension abilities."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 소리 내어 읽기가 뇌의 여러 영역을 자극함으로써 인지 능력(뇌세포 구조 강화, 집중력 향상)과 실용적 기술(대중 연설 능력)에 상당한 이점을 제공한다는 것입니다. 따라서 '글을 소리 내어 읽는 것은 인간 두뇌의 다양한 영역을 자극함으로써 상당한 인지적, 실용적 이점을 제공한다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. ( ① ) ( ② ) Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. ( ③ ) Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This leads to an overall improvement in concentration.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③",
+          "text": "③"
+        },
+        { "number": "④",
+          "text": "④"
+        },
+        { "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장의 'This'는 앞선 내용을 가리킵니다. 바로 앞 문장에서 소리 내어 읽기가 '뇌세포의 연결 구조를 강화하여 더 많은 지적 능력을 갖게 한다'고 설명했습니다. 이러한 뇌 구조의 강화가 '전반적인 집중력 향상으로 이어진다'고 설명하는 것이 논리적으로 자연스럽습니다. 따라서 주어진 문장은 뇌 구조 강화에 대한 설명 다음, 그리고 또 다른 이점인 대중 연설 능력에 대한 설명 전인 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
+      "question_blocks": {
+        "A": "Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence.",
+        "B": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. This leads to an overall improvement in concentration.",
+        "C": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 소리 내어 읽기가 뇌의 여러 영역을 활성화시킨다는 일반적인 사실을 제시합니다. (B)는 이에 대한 구체적인 설명으로, 어떤 영역이 활성화되고 그 결과로 뇌 구조 강화와 집중력 향상이라는 인지적 이점이 생기는지를 설명합니다. (A)는 'also'를 사용하여 인지적 이점 외에 대중 연설 능력 개발이라는 또 다른 이점을 추가합니다. 마지막으로 (C)는 'in particular'를 통해 논의의 대상을 어린이로 좁혀 소리 내어 읽기의 교육적 중요성을 강조하며 마무리합니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for [____________________]. This leads to an overall improvement in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "emotional stability" },
+        { "number": "②", "text": "more brainpower" },
+        { "number": "③", "text": "faster reading speed" },
+        { "number": "④", "text": "better memory recall" },
+        { "number": "⑤", "text": "physical strength" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸이 있는 문장은 소리 내어 읽기가 뇌세포의 연결 구조를 강화하여 어떤 결과를 가져오는지를 설명합니다. 뇌세포의 연결 구조가 강화되는 것은 곧 지적 능력, 즉 '더 많은 지적 능력(more brainpower)'의 향상으로 이어지는 것을 의미합니다. 바로 다음 문장에서 이것이 집중력 향상으로 이어진다고 부연 설명하고 있어, 지적 능력의 향상이라는 포괄적인 개념이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have ① [revealed] that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which ② [strengthens] the connective structures of your brain cells for more brainpower. This leads to an overall ③ [improvement] in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be ④ [discouraged] to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 소리 내어 읽기의 여러 이점을 설명하며, 특히 긍정적 자극을 통해 학습하는 어린이들에게 좋다고 말하고 있습니다. 따라서 어린이들에게 소리 내어 읽기를 '좌절시키거나 말려야 한다'는 의미의 'discouraged'는 문맥상 완전히 반대되는 내용입니다. '권장되어야 한다'는 의미의 'encouraged'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have (A) [revealed] that reading aloud lights up many areas of the brain. There is intense activity in areas associated with (B) [pronunciation] and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. This leads to an overall improvement in (C) [concentration]. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be (D) [encouraged] to read aloud because the brain is (E) [wired] for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) revealed: to make something known that was secret or unknown" },
+        { "number": "②", "text": "(B) pronunciation: the way in which a word is spoken" },
+        { "number": "③", "text": "(C) concentration: the ability to think carefully about something you are doing" },
+        { "number": "④", "text": "(D) encouraged: to be given support, confidence, or hope to do something" },
+        { "number": "⑤", "text": "(E) wired: to be connected to a piece of electrical equipment" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'wired for'는 이 문맥에서 '무언가를 하도록 타고나다, 타고나게 설정되어 있다'는 비유적인 의미(naturally predisposed to)로 사용되었습니다. 제시된 영영 풀이 'to be connected to a piece of electrical equipment(전기 장비에 연결되다)'는 'wire'의 문자적, 물리적 의미이므로 이 문맥에는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which (A) [strengthens / weakens] the connective structures of your brain cells for more brainpower. This leads to an overall (B) [improvement / decline] in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading (C) [quickly / slowly], or reading in silence.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "strengthens - improvement - quickly" },
+        { "number": "②", "text": "strengthens - decline - quickly" },
+        { "number": "③", "text": "weakens - improvement - slowly" },
+        { "number": "④", "text": "weakens - decline - slowly" },
+        { "number": "⑤", "text": "strengthens - improvement - slowly" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 소리 내어 읽기는 뇌세포의 연결 구조를 '강화한다'는 것이 글의 내용이므로 'strengthens'가 맞습니다. (B) 뇌 구조 강화는 집중력의 '향상'으로 이어지므로 'improvement'가 적절합니다. (C) 사람들이 조용히 또는 '빨리' 읽을 때는 모든 단어를 다 읽지 않는 경향이 있다고 설명하며 소리 내어 읽기와 대조하고 있으므로 'quickly'가 문맥에 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower. This leads to an overall improvement in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "fMRI scans show that reading aloud activates multiple brain regions." },
+        { "number": "②", "text": "The act of reading aloud can enhance a person's concentration." },
+        { "number": "③", "text": "Reading silently is the recommended way to develop public speaking skills." },
+        { "number": "④", "text": "One benefit of reading aloud is that it makes you read every single word." },
+        { "number": "⑤", "text": "The passage suggests reading aloud is a beneficial stimulation for children's brains." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'Reading aloud is also a good way to develop your public speaking skills(소리 내어 읽는 것은 또한 당신의 대중 연설 능력을 개발하는 좋은 방법이다)'라고 명시되어 있습니다. 따라서 조용히 읽는 것이 대중 연설 능력 개발에 추천된다는 ③번 선택지는 글의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Modern brain-scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain. There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which ① [strengthens / strengthening] the connective structures of your brain cells for more brainpower. This leads to an overall improvement in concentration. Reading aloud is also a good way to develop your public speaking skills because it forces you ② [to read / reading] each and every word ─ something people don't often do when reading quickly, or reading in silence. Children, in particular, should be encouraged ③ [to read / reading] aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "strengthens",
+          "explanation": "관계대명사 'which'는 앞선 절의 내용(intense activity)을 선행사로 받으며, 이 절의 동사 역할을 하는 단어가 필요합니다. 따라서 3인칭 단수 동사 'strengthens'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to read",
+          "explanation": "동사 'force'는 목적어가 어떤 행동을 하도록 강요한다는 의미로, 'force + 목적어 + to부정사' 구문을 사용합니다. 따라서 'to read'가 올바른 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to read",
+          "explanation": "동사 'encourage'는 목적어가 어떤 행동을 하도록 격려한다는 의미로, 'encourage + 목적어 + to부정사' 구문을 사용합니다. 이 문장은 수동태로 쓰였지만, 뒤따르는 구조는 변하지 않으므로 'to read'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

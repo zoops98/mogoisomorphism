@@ -1,0 +1,343 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation.\nAs children we learn a lot by observing what our parents and friends do.\nNewborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs.\nSuch imitation is not perfect.\nYou may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different.\nBabies babble and later start to imitate the sounds their parents produce.\nLater still, they play with vacuum cleaners and hammers in imitation of their parents.\nOur modern cultures, in which we write, speak, read, build spaceships and go to school, can work only because we are not restricted to the behavior we are born with or learn by trial and error.\nWe can learn a lot by simply watching others.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain the discovery of mirror neurons"
+        },
+        {
+          "number": "②",
+          "text": "to highlight the importance of observational learning"
+        },
+        {
+          "number": "③",
+          "text": "to provide parenting tips for newborns"
+        },
+        {
+          "number": "④",
+          "text": "to criticize trial and error learning methods"
+        },
+        {
+          "number": "⑤",
+          "text": "to compare human learning with animal learning"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 거울 뉴런의 발견이 관찰 학습에 대한 우리의 생각을 바꾸었다고 시작하며, 신생아의 혀 내밀기 모방, 아기의 옹알이, 아이들의 놀이 등 다양한 예를 통해 관찰을 통한 학습이 인간의 발달과 현대 문화에 얼마나 중요한지를 설명하고 있습니다. 따라서 글의 주된 목적은 관찰 학습의 중요성을 강조하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation.\nAs children we learn a lot by observing what our parents and friends do.\nNewborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs.\nSuch imitation is not perfect.\nYou may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different.\nBabies babble and later start to imitate the sounds their parents produce.\nLater still, they play with vacuum cleaners and hammers in imitation of their parents.\nOur modern cultures, in which we write, speak, read, build spaceships and go to school, can work only because we are not restricted to the behavior we are born with or learn by trial and error.\nWe can learn a lot by simply watching others.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Born to Imitate: The Power of Observation"
+        },
+        {
+          "number": "②",
+          "text": "Mirror Neurons: A Scientific Breakthrough"
+        },
+        {
+          "number": "③",
+          "text": "How Modern Culture Shapes Our Brains"
+        },
+        {
+          "number": "④",
+          "text": "Trial and Error vs. Observational Learning"
+        },
+        {
+          "number": "⑤",
+          "text": "The Imperfect Nature of Newborn Imitation"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 인간이 태어날 때부터 모방하려는 선천적 경향이 있으며, 이러한 관찰 학습의 힘이 개인의 발달과 문화의 근간을 이룬다고 설명합니다. '모방하도록 태어났다: 관찰의 힘'이라는 제목은 이러한 글의 핵심 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation.\nAs children we learn a lot by observing what our parents and friends do.\nNewborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs.\nSuch imitation is not perfect.\nYou may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different.\nBabies babble and later start to imitate the sounds their parents produce.\nLater still, they play with vacuum cleaners and hammers in imitation of their parents.\nOur modern cultures, in which we write, speak, read, build spaceships and go to school, can work only because we are not restricted to the behavior we are born with or learn by trial and error.\nWe can learn a lot by simply watching others.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Observational learning is an innate human ability that is fundamental for personal and cultural development."
+        },
+        {
+          "number": "②",
+          "text": "Newborns are capable of perfectly imitating their parents' actions from the moment they are born."
+        },
+        {
+          "number": "③",
+          "text": "The complexity of modern culture primarily relies on trial and error learning rather than simple observation."
+        },
+        {
+          "number": "④",
+          "text": "Mirror neurons are only active during early childhood and lose their function as we grow older."
+        },
+        {
+          "number": "⑤",
+          "text": "Formal schooling is the most effective method for transmitting cultural knowledge across generations."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 관찰 학습이 거울 뉴런과 관련된 기본적인 인간의 능력이며, 신생아 때부터 나타나는 선천적인(inborn) 경향이라고 설명합니다. 또한 이러한 능력이 개인의 발달과 현대 문화의 작동에 필수적이라고 강조합니다. 따라서 '관찰 학습은 개인적, 문화적 발달에 필수적인 선천적 인간 능력이다'라는 선택지가 글의 요지를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation.\nAs children we learn a lot by observing what our parents and friends do.\nNewborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs. ( ① ) You may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different. ( ② ) Babies babble and later start to imitate the sounds their parents produce. ( ③ ) Later still, they play with vacuum cleaners and hammers in imitation of their parents. ( ④ ) Our modern cultures can work only because we are not restricted to the behavior we are born with or learn by trial and error. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Such imitation is not perfect.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '그러한 모방은 완벽하지 않다'는 내용입니다. '그러한 모방(Such imitation)'은 바로 앞 문장에서 언급된 '신생아가 부모를 따라 혀를 내미는 경향'을 가리킵니다. 그리고 ①의 뒷 문장은 '매번 혀를 내미는 것을 보지는 못할 수도 있지만'이라며 그 모방이 왜 완벽하지 않은지에 대한 구체적인 설명을 시작합니다. 따라서 신생아의 모방 행동을 언급한 직후, 그리고 그 불완전성에 대한 부연 설명 앞인 ①에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation. As children we learn a lot by observing what our parents and friends do.",
+      "question_blocks": {
+        "A": "Such imitation is not perfect. You may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different.",
+        "B": "Newborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs.",
+        "C": "Babies babble and later start to imitate the sounds their parents produce. Later still, they play with vacuum cleaners and hammers in imitation of their parents. Our modern cultures can work only because we can learn a lot by simply watching others."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 관찰 학습의 중요성을 소개합니다. (B)에서 가장 초기 단계의 예시로 '신생아의 혀 내밀기 모방'을 제시합니다. (A)에서 'Such imitation'으로 (B)의 내용을 받아서, 그 모방이 완벽하지는 않다는 점을 부연 설명합니다. (C)에서 시간의 흐름에 따라 '옹알이 모방', '놀이 모방' 등 더 발달된 형태의 모방 예시를 제시하고, 이러한 관찰 학습 능력이 현대 문화의 기반임을 설명하며 결론을 맺습니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, ____________________.\nAs children we learn a lot by observing what our parents and friends do.\nNewborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs.\nSuch imitation is not perfect.\nBabies babble and later start to imitate the sounds their parents produce.\nLater still, they play with vacuum cleaners and hammers in imitation of their parents.\nOur modern cultures can work only because we are not restricted to the behavior we are born with or learn by trial and error.\nWe can learn a lot by simply watching others.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "trial and error"
+        },
+        {
+          "number": "②",
+          "text": "inborn tendency"
+        },
+        {
+          "number": "③",
+          "text": "learning by observation"
+        },
+        {
+          "number": "④",
+          "text": "building modern cultures"
+        },
+        {
+          "number": "⑤",
+          "text": "producing sounds"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "첫 문장은 거울 뉴런의 발견이 '기본적인 인간의 능력'에 대한 우리의 생각을 바꾸었다고 말합니다. 글 전체가 아이들이 부모를 관찰하고 신생아가 혀를 내미는 것을 모방하는 등, 다른 사람을 보고 배우는 것에 대한 예시로 가득 차 있습니다. 따라서 빈칸에는 글의 핵심 주제인 '관찰을 통한 학습(learning by observation)'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The discovery of mirror neurons has ①<u>profoundly</u> changed the way we think of a fundamental human capacity, learning by observation.\nNewborns have an ②<u>inborn</u> tendency to stick out their tongue if their parents stick out theirs.\nSuch imitation is not ③<u>perfect</u>.\nYou may not see the tongue stick out each time, but if you do it many times, the tongue will come out more ④<u>often</u> than if you do something different.\nBabies babble and later start to imitate the sounds their parents produce.\nOur modern cultures can work only because we are ⑤<u>limited</u> to the behavior we are born with or learn by trial and error.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 현대 문화가 작동할 수 있는 이유가 우리가 관찰을 통해 학습할 수 있기 때문이며, 선천적인 행동이나 시행착오 학습에만 '제한되지 않기' 때문이라고 설명합니다. 따라서 '~에 제한되다'라는 의미의 'limited'는 문맥상 틀리며, '제한되지 않는다'는 의미의 'not restricted'가 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The discovery of mirror neurons has (A)<u>profoundly</u> changed the way we think of a fundamental human (B)<u>capacity</u>, learning by observation.\nNewborns have an inborn (C)<u>tendency</u> to stick out their tongue if their parents stick out theirs.\nSuch (D)<u>imitation</u> is not perfect.\nOur modern cultures can work only because we are not (E)<u>restricted</u> to the behavior we are born with or learn by trial and error.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) profoundly: in a way that is very great or intense"
+        },
+        {
+          "number": "②",
+          "text": "(B) capacity: the maximum amount that something can contain"
+        },
+        {
+          "number": "③",
+          "text": "(C) tendency: an inclination to act in a particular way"
+        },
+        {
+          "number": "④",
+          "text": "(D) imitation: the action of using someone or something as a model"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) restricted: limited in extent, scope, or action"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "본문에서 'capacity'는 '능력'이라는 의미로 사용되었습니다 ('a fundamental human capacity' - 기본적인 인간의 능력). 제시된 영영 풀이('the maximum amount that something can contain' - 무언가가 담을 수 있는 최대량)는 '용량, 수용력'이라는 다른 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a (A)[fundamental / secondary] human capacity, learning by observation.\nAs children we learn a lot by observing what our parents and friends do.\nNewborns have an inborn tendency to stick out their tongue if their parents stick out theirs.\nSuch imitation is not (B)[perfect / random].\nYou may not see the tongue stick out each time, but if you do it many times, the tongue will come out more often than if you do something different.\nOur modern cultures can work only because we are not (C)[restricted / accustomed] to the behavior we are born with or learn by trial and error.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "fundamental - perfect - restricted"
+        },
+        {
+          "number": "②",
+          "text": "fundamental - random - accustomed"
+        },
+        {
+          "number": "③",
+          "text": "secondary - perfect - restricted"
+        },
+        {
+          "number": "④",
+          "text": "secondary - random - accustomed"
+        },
+        {
+          "number": "⑤",
+          "text": "fundamental - perfect - accustomed"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 관찰 학습은 '부차적인(secondary)' 능력이 아니라 인간의 '근본적인(fundamental)' 능력입니다. (B) 신생아의 모방이 '무작위적인(random)' 것은 아니지만, '완벽하지도(perfect)' 않다고 설명하는 것이 글의 흐름에 맞습니다. (C) 우리는 선천적 행동이나 시행착오에만 '익숙해진(accustomed)' 것이 아니라 '제한되지(restricted)' 않기 때문에 현대 문화가 가능합니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "Newborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs. ① Such imitation is not perfect. ② You may not see the tongue stick out each time you stick yours out, but if you do it many times, the tongue will come out more often than if you do something different. ③ This shows that infants are highly responsive to facial cues from a very early age. ④ Babies babble and later start to imitate the sounds their parents produce. ⑤ Language acquisition is a complex process that also involves understanding grammar and vocabulary.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 인간이 관찰과 '모방(imitation)'을 통해 어떻게 학습하는지에 초점을 맞추고 있습니다. ④번 문장은 아기들이 부모의 소리를 '모방한다'고 말하며 이 흐름을 이어갑니다. 그러나 ⑤번 문장은 언어 습득이 문법과 어휘 이해를 포함하는 복잡한 과정이라는 일반적인 언어학적 사실을 설명합니다. 이는 '모방을 통한 학습'이라는 글의 핵심 주제에서 벗어나는 내용이므로, 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation. As children we learn a lot by observing ①[that / what] our parents and friends do. Newborns have an inborn tendency to stick out their tongue if their parents stick out ②[their / theirs]. You may not see the tongue stick out each time, but the tongue will come out more often than if you do something different. Babies babble and later start to imitate the sounds their parents produce. Our modern cultures, ③[which / in which] we write, speak, read, and go to school, can work only because we are not restricted to the behavior we are born with.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "what",
+          "explanation": "동사 'observing'의 목적어 역할을 하는 명사절이 와야 합니다. 뒤따르는 절에 동사 'do'의 목적어가 없으므로, 선행사를 포함하는 관계대명사 'what'(~하는 것)이 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "theirs",
+          "explanation": "'their tongue'을 대신하는 소유대명사가 필요한 자리입니다. 따라서 'their'가 아닌 'theirs'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "in which",
+          "explanation": "선행사 'Our modern cultures'를 수식하는 관계대명사절입니다. 뒤따르는 절 'we write, speak...' 등은 완전한 문장이므로, 관계부사나 '전치사+관계대명사' 형태가 와야 합니다. 문맥상 '그 문화 안에서'라는 의미이므로 'in which'가 적절합니다."
+        }
+
+      ]
+    }
+  ]
+}

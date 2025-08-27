@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain why children often feel sad"
+        },
+        {
+          "number": "②",
+          "text": "to criticize parents who argue in front of children"
+        },
+        {
+          "number": "③",
+          "text": "to advise on how to talk to an emotional child"
+        },
+        {
+          "number": "④",
+          "text": "to emphasize the importance of piano recitals"
+        },
+        {
+          "number": "⑤",
+          "text": "to compare the emotional responses of children and adults"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 감정적인 순간에 있는 아이와 대화할 때, '왜?'라고 직접 질문하는 것보다 아이의 상태에 대한 단순한 관찰을 공유하는 것이 더 효과적이라고 조언하고 있습니다. 이는 아이가 대화를 시작하도록 돕는 방법에 대한 구체적인 조언이므로, 글의 목적은 '감정적인 아이와 대화하는 방법에 대해 조언하기 위해'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Danger of Asking Why"
+        },
+        {
+          "number": "②",
+          "text": "Observe, Don't Interrogate Your Child"
+        },
+        {
+          "number": "③",
+          "text": "How to Prepare for a Piano Recital"
+        },
+        {
+          "number": "④",
+          "text": "Sadness: A Child's Most Common Emotion"
+        },
+        {
+          "number": "⑤",
+          "text": "Why Simple Answers Are Not Enough"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 아이에게 질문을 퍼붓는(interrogate) 대신, 아이의 상태를 있는 그대로 관찰하고(observe) 말해주는 것이 더 나은 소통 방법이라는 것입니다. '아이를 심문하지 말고 관찰하라'는 제목이 이러한 글의 중심 조언을 가장 명확하고 강력하게 전달합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To help an emotional child communicate, making simple observations is more effective than asking direct questions."
+        },
+        {
+          "number": "②",
+          "text": "It is crucial to ask children a series of direct questions to help them identify their true feelings."
+        },
+        {
+          "number": "③",
+          "text": "Children often feel sad because they are worried about performing well in activities like various piano recitals."
+        },
+        {
+          "number": "④",
+          "text": "Parents should avoid talking to their children when they are experiencing a very emotional moment in their lives."
+        },
+        {
+          "number": "⑤",
+          "text": "You should tell a child their reasons for feeling sad are not good enough to make them feel much better."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 감정적인 아이가 소통하도록 돕기 위해서는, 직접적인 질문을 하는 것보다 아이의 상태에 대한 단순한 관찰을 공유하는 것이 더 효과적이라는 것입니다. 질문은 아이를 침묵하게 할 수 있지만, 관찰은 아이가 반응하도록 유도할 수 있습니다. 따라서 '감정적인 아이의 소통을 돕기 위해, 직접적인 질문보다 단순한 관찰을 하는 것이 더 효과적이다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. ( ① ) It's better to simply reflect what you notice. ( ② ) You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" ( ③ ) and wait for her response. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Under these circumstances, a series of questions can just make a child silent.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장의 'Under these circumstances(이러한 상황에서는)'는 바로 앞서 언급된 상황들, 즉 아이가 왜 슬픈지 모르거나, 설명을 못하거나, 혹은 자신의 대답이 감정을 정당화하기에 충분치 않다고 걱정하는 상황들을 가리킵니다. 이러한 상황들 때문에 질문 공세가 아이를 침묵하게 만들 수 있다는 결론을 내린 후, 'It's better to...'라며 대안을 제시하는 것이 자연스러운 흐름입니다. 따라서 주어진 문장은 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling.",
+      "question_blocks": {
+        "A": "Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this.",
+        "B": "You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue.",
+        "C": "And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '관찰이 질문보다 낫다'는 핵심 주장을 제시합니다. (B)는 왜 질문이 좋지 않은지에 대한 첫 번째 이유를 제시합니다 (아이는 답을 모를 수 있다). (A)는 (B)에 대한 부연 설명으로, 아이가 슬픈 복합적인 이유들과 그것을 설명하지 못할 수 있음을 보여줍니다. (C)는 'And even when'을 통해 질문이 좋지 않은 또 다른 이유를 추가하고(답이 불충분할까 봐 걱정함), 질문 방식의 문제점을 요약한 뒤, 대안인 관찰 방식을 제시하며 마무리합니다. 따라서 논리적 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to [____________________]. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "win her parents' approval"
+        },
+        {
+          "number": "②",
+          "text": "get a perfect score"
+        },
+        {
+          "number": "③",
+          "text": "start a different topic"
+        },
+        {
+          "number": "④",
+          "text": "hide her real intentions"
+        },
+        {
+          "number": "⑤",
+          "text": "justify the feeling"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸이 있는 문장은 아이가 대답을 하더라도 걱정하는 이유를 설명합니다. 아이는 자신의 대답이, 즉 슬픈 이유가, 자신이 느끼는 슬픔이라는 '감정을 정당화하기에' 충분하지 않다고 생각할 수 있습니다. 예를 들어 '피곤해서 슬프다'는 것이 슬픔의 충분한 이유가 아닐까 봐 걱정하는 것입니다. 따라서 빈칸에는 '감정을 정당화하다'라는 의미의 'justify the feeling'이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works ① [better] than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's ② [worried] about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to ③ [justify] the feeling. Under these circumstances, a series of questions can just make a child ④ [talkative]. It's better to simply ⑤ [reflect] what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 아이에게 연속적으로 질문하는 것이 아이를 침묵하게 만들 수 있는 부정적인 결과를 낳는다고 설명합니다. '말이 많은'이라는 뜻의 'talkative'는 이러한 맥락과 정반대되는 의미입니다. 아이를 '침묵하게' 만든다는 의미의 'silent'가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple (A) [observations] usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a (B) [clue]. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to (C) [explain] any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to (D) [justify] the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her (E) [response].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) observations: comments based on something one has seen, heard, or noticed"
+        },
+        {
+          "number": "②",
+          "text": "(B) clue: a piece of information that helps you find the answer to a problem"
+        },
+        {
+          "number": "③",
+          "text": "(C) explain: to make something difficult or complex easy to understand"
+        },
+        {
+          "number": "④",
+          "text": "(D) justify: to show that somebody or something is right or reasonable"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) response: a question asked in order to get information"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) response는 '응답, 반응'을 의미합니다. 제시된 영영 풀이 'a question asked in order to get information(정보를 얻기 위해 묻는 질문)'은 '질문(question)'에 대한 설명으로, 'response'의 의미와는 다릅니다. 'response'의 올바른 영영 풀이는 'a spoken or written answer to a question'입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works (A) [better / worse] than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to (B) [explain / conceal] any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. Under these circumstances, a series of questions can just make a child (C) [silent / expressive]. It's better to simply reflect what you notice.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "better - explain - silent"
+        },
+        {
+          "number": "②",
+          "text": "better - conceal - expressive"
+        },
+        {
+          "number": "③",
+          "text": "worse - explain - silent"
+        },
+        {
+          "number": "④",
+          "text": "worse - conceal - expressive"
+        },
+        {
+          "number": "⑤",
+          "text": "better - explain - expressive"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 이 글의 핵심 주장은 관찰을 공유하는 것이 질문하는 것보다 '더 낫다'는 것이므로 'better'가 맞습니다. (B) 아이는 슬픔의 원인이 복합적이어서 그것들 중 어떤 것도 '설명하지' 못할 수 있으므로 'explain'이 적절합니다. (C) 일련의 질문들은 아이를 '침묵하게' 만들 수 있다고 했으므로 'silent'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than asking questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to justify the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect what you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Sharing observations is often more effective than asking questions to start a talk with a child."
+        },
+        {
+          "number": "②",
+          "text": "A child may not always be able to articulate the reasons for their feelings."
+        },
+        {
+          "number": "③",
+          "text": "A child might worry that their reason for feeling sad is not a valid one."
+        },
+        {
+          "number": "④",
+          "text": "Asking a series of questions is recommended to encourage an emotional child to speak."
+        },
+        {
+          "number": "⑤",
+          "text": "Saying \"You seem tired\" is an example of sharing a simple observation."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'a series of questions can just make a child silent'라고 명시하며, 일련의 질문들이 오히려 아이를 침묵하게 만들 수 있다고 경고합니다. 따라서 질문을 하는 것이 아이가 말하도록 격려하는 추천 방법이라는 ④번 선택지는 글의 내용과 정면으로 배치됩니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "As you listen to your child in an emotional moment, be aware that sharing simple observations usually works better than ① [asking / to ask] questions to get a conversation rolling. You may ask your child \"Why do you feel sad?\" and she may not have a clue. As a child, she may not have an answer on the tip of her tongue. Maybe she's feeling sad about her parents' arguments, or because she feels overtired, or she's worried about a piano recital. But she may or may not be able to explain any of this. And even when she does come up with an answer, she might be worried that the answer is not good enough to ② [justify / justifying] the feeling. Under these circumstances, a series of questions can just make a child silent. It's better to simply reflect ③ [what / that] you notice. You can say, \"You seem a little tired today,\" or, \"I noticed that you frowned when I mentioned the recital,\" and wait for her response.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "asking",
+          "explanation": "'sharing simple observations'와 'asking questions'가 'than'을 사이에 두고 비교되는 병렬 구조입니다. 동명사 'sharing'과 형태를 맞추기 위해 동명사 'asking'이 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "justify",
+          "explanation": "'~하기에 충분한'이라는 의미의 'good enough to' 구문에서는 뒤에 to부정사가 와야 합니다. 따라서 동사원형 'justify'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "what",
+          "explanation": "동사 'reflect'의 목적어 역할을 하는 명사절을 이끌어야 합니다. 선행사를 포함하며 '~하는 것'으로 해석되는 관계대명사 'what'이 적절합니다. 'that'은 선행사가 없으므로 쓸 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

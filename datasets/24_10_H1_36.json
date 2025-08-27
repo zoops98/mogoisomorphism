@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group.\nIf the group valued us, we could count on support, resources, and probably a mate.\nIf it didn't, we might get none of these merits.\nIt was a matter of survival, physically and genetically.\nOver millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.\nThe result was the development of a tendency to unconsciously monitor how other people in our community perceive us.\nWe process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity.\nThese emotions compel us to do more of what makes our community value us and less of what doesn't.\nAnd, crucially, they are meant to make that motivation feel like it is coming from within.\nIf we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the negative effects of social pressure" },
+        { "number": "②", "text": "to provide practical advice for improving self-esteem" },
+        { "number": "③", "text": "to explain the evolutionary function of self-esteem" },
+        { "number": "④", "text": "to argue that genetic survival is a modern concept" },
+        { "number": "⑤", "text": "to compare the emotions of pride and shame" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 자존감과 관련 감정들이 어떻게 진화했는지를 설명합니다. 집단 내에서의 생존을 위해 타인의 인식을 무의식적으로 감지하는 경향이 발달했고, 이것이 자존감의 형태로 나타나 우리 행동을 유도한다고 설명합니다. 따라서 글의 주된 목적은 '자존감의 진화적 기능을 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group.\nIf the group valued us, we could count on support, resources, and probably a mate.\nIf it didn't, we might get none of these merits.\nIt was a matter of survival, physically and genetically.\nOver millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.\nThe result was the development of a tendency to unconsciously monitor how other people in our community perceive us.\nWe process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity.\nThese emotions compel us to do more of what makes our community value us and less of what doesn't.\nAnd, crucially, they are meant to make that motivation feel like it is coming from within.\nIf we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Dangers of Too Much Pride" },
+        { "number": "②", "text": "Self-Esteem: Our Inner Social Compass" },
+        { "number": "③", "text": "Conscious vs. Unconscious Decisions" },
+        { "number": "④", "text": "How to Maximize Your Social Standing" },
+        { "number": "⑤", "text": "Survival of the Physically Strongest" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 자존감을 타인이 우리를 어떻게 인식하는지 무의식적으로 감시하는 메커니즘으로 묘사합니다. 이 메커니즘은 사회 집단 내에서 우리의 생존과 번영을 위해 올바른 방향으로 행동하도록 유도하는 '내면의 사회적 나침반(Inner Social Compass)'과 같은 역할을 합니다. 따라서 ②번이 글의 핵심 내용을 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group.\nIf the group valued us, we could count on support, resources, and probably a mate.\nIf it didn't, we might get none of these merits.\nIt was a matter of survival, physically and genetically.\nOver millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.\nThe result was the development of a tendency to unconsciously monitor how other people in our community perceive us.\nWe process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity.\nThese emotions compel us to do more of what makes our community value us and less of what doesn't.\nAnd, crucially, they are meant to make that motivation feel like it is coming from within.\nIf we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Self-esteem is an evolved psychological mechanism that unconsciously monitors social standing to guide behavior for group acceptance." },
+        { "number": "②", "text": "Consciously understanding social pressures is the most effective way to maximize one's standing within any social group." },
+        { "number": "③", "text": "The primary human motivation for any action comes from a purely internal and individual desire for self-improvement." },
+        { "number": "④", "text": "In modern society, our ability to thrive no longer depends on how well we navigate our relationships within a group." },
+        { "number": "⑤", "text": "Emotions like pride and shame are learned social constructs that have no real basis in human evolutionary history." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 자존감이 집단 내에서의 생존을 위해 진화한 심리적 기제라는 것입니다. 이 기제는 우리가 타인에게 어떻게 인식되는지를 무의식적으로 감시하고, 집단이 가치 있게 여기는 행동을 하도록 동기를 부여함으로써 집단 수용을 돕습니다. 따라서 '자존감은 집단 수용을 위해 행동을 안내하도록 사회적 지위를 무의식적으로 감시하는 진화된 심리적 기제이다'라는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on support, resources, and probably a mate. If it didn't, we might get none of these merits. ( ① ) Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing. ( ② ) The result was the development of a tendency to unconsciously monitor how other people in our community perceive us. ( ③ ) We process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity. ( ④ ) These emotions compel us to do more of what makes our community value us and less of what doesn't. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**It was a matter of survival, physically and genetically.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '그것은 신체적으로 그리고 유전적으로 생존의 문제였다'는 내용입니다. 이 문장은 집단에게 인정받을 경우 얻는 이점(지원, 자원, 짝)과 그렇지 않을 경우의 불이익을 설명한 직후에 위치하여, 그 상황이 얼마나 중대한 문제였는지를 강조하는 역할을 합니다. '생존의 문제'라는 점을 명확히 한 후에, 그로 인한 수백만 년간의 진화적 압력에 대해 설명하는 것이 논리적으로 가장 자연스럽습니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on support, resources, and probably a mate. If it didn't, we might get none of these merits.",
+      "question_blocks": {
+        "A": "The result was the development of a tendency to unconsciously monitor how other people in our community perceive us. We process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity.",
+        "B": "It was a matter of survival, physically and genetically. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.",
+        "C": "These emotions compel us to do more of what makes our community value us and less of what doesn't. And, crucially, they are meant to make that motivation feel like it is coming from within."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 집단 내 관계의 중요성을 설명합니다. (B)에서 이것이 '생존의 문제'였음을 강조하고, 그로 인한 진화적 '압력'을 소개합니다. (A)에서 그 압력의 '결과'로 자존감이라는 무의식적 감시 체계가 발달했음을 설명합니다. 마지막으로 (C)에서 'These emotions'로 (A)에서 언급된 감정들을 받아, 그것들이 어떻게 우리의 행동에 동기를 부여하고 왜 내적인 것처럼 느껴지는지를 설명하며 논지를 심화시킵니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on support. If it didn't, we might get none of these merits. It was a matter of survival. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing. The result was the development of a tendency to unconsciously monitor how other people in our community perceive us. We process that information in the form of self-esteem and such related emotions. These emotions compel us to do more of what makes our community value us and less of what doesn't. And, crucially, they are meant to make that motivation [______________________________].",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "feel like it is coming from within" },
+        { "number": "②", "text": "be obvious to other group members" },
+        { "number": "③", "text": "disappear once we feel secure" },
+        { "number": "④", "text": "seem like a burden to our consciousness" },
+        { "number": "⑤", "text": "be controlled by rational thought" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 자존감과 같은 감정들이 사회적 압력에 대한 반응이지만, 이것이 마치 우리 내부에서 우러나오는 것처럼 느껴지도록 설계되었다고 설명합니다. 바로 다음 문장에서 만약 우리가 그것이 사회적 압력에 대한 반응임을 의식적으로 깨닫는다면, 우리의 행동이 진실되게 보이지 않을 것이라고 그 이유를 설명합니다. 따라서 빈칸에는 '그 동기가 내부에서 오는 것처럼 느껴지게 만드는 것'이라는 의미의 ①번이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on ① [support]. If it didn't, we might get none of these merits. It was a matter of ② [survival]. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing. The result was the development of a tendency to ③ [consciously] monitor how other people in our community perceive us. We process that information in the form of self-esteem. These emotions ④ [compel] us to do more of what makes our community value us. And, crucially, they are meant to make that motivation feel like it is coming from within, because if we realized we were responding to social pressure, our performance might be less ⑤ [persuasive].",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① support" },
+        { "number": "②", "text": "② survival" },
+        { "number": "③", "text": "③ consciously" },
+        { "number": "④", "text": "④ compel" },
+        { "number": "⑤", "text": "⑤ persuasive" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 우리가 타인의 인식을 감시하는 경향이 '무의식적으로(unconsciously)' 발달했다고 설명합니다. 이는 동기가 내부에서 오는 것처럼 느껴지게 만들어, 우리의 행동이 더 설득력 있게 보이도록 하기 위함입니다. 만약 우리가 '의식적으로(consciously)' 타인의 인식을 감시한다면, 이는 사회적 압력에 반응하는 계산된 행동으로 비춰질 수 있어 글의 전체 논리와 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "As individuals, our ability to (A) [thrive] depended on how well we navigated relationships in a group. If the group valued us, we could count on support, resources, and probably a mate. If it didn't, we might get none of these (B) [merits]. It was a matter of survival. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their (C) [standing]. The result was the development of a tendency to unconsciously monitor how other people perceive us. These emotions (D) [compel] us to do more of what makes our community value us. If we realized we were responding to social pressure, our performance might come off as (E) [grudging].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) thrive: to grow, develop, or be successful" },
+        { "number": "②", "text": "(B) merits: good qualities that deserve praise" },
+        { "number": "③", "text": "(C) standing: a person's reputation or position in a community" },
+        { "number": "④", "text": "(D) compel: to suggest that someone do something" },
+        { "number": "⑤", "text": "(E) grudging: given or done unwillingly" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'compel'은 '강요하다, ~하게 만들다'라는 강제성의 의미를 가집니다. 영영 풀이 'to suggest that someone do something (누군가에게 무언가를 하도록 제안하다)'는 'compel'의 강제성을 제대로 표현하지 못하며 'suggest'에 더 가까운 설명입니다. 따라서 ④번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group (A) [valued / neglected] us, we could count on support, resources, and probably a mate. The result was the development of a tendency to (B) [unconsciously / deliberately] monitor how other people in our community perceive us. We process that information in the form of self-esteem. And, crucially, these emotions are meant to make that motivation feel like it is coming from within. If we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less (C) [persuasive / impressive].",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "valued - unconsciously - persuasive" },
+        { "number": "②", "text": "valued - deliberately - impressive" },
+        { "number": "③", "text": "neglected - unconsciously - persuasive" },
+        { "number": "④", "text": "neglected - deliberately - impressive" },
+        { "number": "⑤", "text": "valued - unconsciously - impressive" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 집단이 우리를 '가치 있게 여길(valued)' 경우에 지원, 자원 등을 얻을 수 있습니다. 'neglected'는 '무시했다'는 뜻입니다. (B) 타인의 인식을 감시하는 경향은 '무의식적으로(unconsciously)' 발달했습니다. 'deliberately'는 '의도적으로'라는 뜻입니다. (C) 사회적 압력에 반응한다는 것을 의식하면 우리의 행동이 덜 '설득력 있게(persuasive)' 보일 수 있습니다. 'impressive'는 '인상적인'이라는 뜻으로, 문맥상 '진실되게 보이지 않아 설득력이 떨어진다'는 의미와는 거리가 있습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "As individuals, our ability to thrive depended on how well we navigated relationships in a group.\nIf the group valued us, we could count on support, resources, and probably a mate. If it didn't, we might get none of these merits.\nIt was a matter of survival, physically and genetically.\nOver millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.\nThe result was the development of a tendency to unconsciously monitor how other people in our community perceive us.\nWe process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity.\nThese emotions compel us to do more of what makes our community value us and less of what doesn't.\nAnd, crucially, they are meant to make that motivation feel like it is coming from within.\nIf we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Being valued by one's group was critical for survival." },
+        { "number": "②", "text": "Self-esteem helps us monitor how others in our community see us." },
+        { "number": "③", "text": "Pride and shame motivate us to behave in socially valued ways." },
+        { "number": "④", "text": "The motivation to please others is designed to feel like an external pressure." },
+        { "number": "⑤", "text": "Acting out of conscious response to social pressure can seem insincere." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 '그들은 그 동기가 내부에서 오는 것처럼 느껴지게 만들어졌다(they are meant to make that motivation feel like it is coming from within)'고 명시하고 있습니다. 이는 동기가 '외부적 압력(external pressure)'처럼 느껴지도록 설계되었다는 ④번의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Our ability to thrive depended on how well we navigated relationships in a group. ② If the group valued us, we could count on support, resources, and probably a mate. ③ The pressure selected for people who are sensitive to and skilled at [maximizing / maximize] their standing. ④ The result was the development of a tendency to unconsciously monitor how other people in our community [perceive / are perceived] us. ⑤ These emotions compel us to do more of what makes our community value us. ⑥ And, crucially, they are meant to make that motivation [feel / to feel] like it is coming from within.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "③",
+          "correct_form": "maximizing",
+          "explanation": "전치사 'at'의 목적어 자리이므로 동명사인 'maximizing'이 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "perceive",
+          "explanation": "의문사 'how'가 이끄는 절 'how other people... perceive us'에서 'other people'이 주어이므로 능동태 동사 'perceive'가 와야 합니다. 'are perceived'는 수동태입니다."
+        },
+        {
+          "number": "⑥",
+          "correct_form": "feel",
+          "explanation": "사역동사 'make'는 목적격 보어로 동사원형을 취합니다(make + 목적어 + 동사원형). 따라서 'feel'이 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

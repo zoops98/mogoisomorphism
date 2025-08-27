@@ -1,0 +1,191 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "There is a natural assumption of truth, or a truth bias when humans communicate with one another. In other words, when we're listening to others or reading their words, our automatic assumption is that the other person is telling the truth. This usually works out fine. If you ask someone where the restroom is located or if it's raining outside, you can safely assume that most people will not lie in their responses. Imagine how difficult it would be to converse with someone if you assumed that everything they were telling you was false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than seems necessary in a given situation. It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the psychological reasons for the human tendency to believe others" },
+        { "number": "②", "text": "to warn about the dangers of spreading fake news online" },
+        { "number": "③", "text": "to teach a method for detecting lies in conversation" },
+        { "number": "④", "text": "to criticize people for not expending enough mental effort" },
+        { "number": "⑤", "text": "to compare communication styles in different situations" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 인간이 타인과 소통할 때 진실을 가정하는 경향, 즉 '진실 편향(truth bias)'이 있다고 설명합니다. 그리고 그 이유로 대화의 효율성과, 의심하고 불신하는 데 드는 추가적인 정신적 노력을 피하려는 '인지적 구두쇠(cognitive misers)'로서의 인간 본성을 제시합니다. 따라서 이 글의 주된 목적은 '사람들이 타인을 믿는 경향에 대한 심리학적 이유를 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "There is a natural assumption of truth, or a truth bias when humans communicate with one another. In other words, when we're listening to others or reading their words, our automatic assumption is that the other person is telling the truth. This usually works out fine. If you ask someone where the restroom is located or if it's raining outside, you can safely assume that most people will not lie in their responses. Imagine how difficult it would be to converse with someone if you assumed that everything they were telling you was false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than seems necessary in a given situation. It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Why We Are Hardwired to Believe" },
+        { "number": "②", "text": "The Rise of Fake News Online" },
+        { "number": "③", "text": "How to Be a Better Listener" },
+        { "number": "④", "text": "The Mental Effort of Lying" },
+        { "number": "⑤", "text": "Truth Bias: A Flaw in Communication" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 인간에게 '진실 편향(truth bias)'이 있으며, 우리의 '자동적인 가정(automatic assumption)'이 바로 믿는 것임을 설명합니다. 그 이유로 정신적 에너지를 아끼려는 '인지적 구두쇠' 경향을 듭니다. 이는 우리가 '믿도록 타고났다' 또는 '믿는 것이 기본값으로 설정되어 있다'는 의미입니다. 따라서 '우리는 왜 믿도록 타고났는가'라는 제목이 글의 핵심 내용을 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "There is a natural assumption of truth, or a truth bias when humans communicate with one another. In other words, when we're listening to others or reading their words, our automatic assumption is that the other person is telling the truth. This usually works out fine. If you ask someone where the restroom is located or if it's raining outside, you can safely assume that most people will not lie in their responses. Imagine how difficult it would be to converse with someone if you assumed that everything they were telling you was false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than seems necessary in a given situation. It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Humans have a default tendency to believe others, as questioning requires more mental effort than accepting statements." },
+        { "number": "②", "text": "It is essential to question every piece of information we encounter online to avoid spreading fake news." },
+        { "number": "③", "text": "Most people will intentionally lie when asked simple questions about their surroundings in everyday life." },
+        { "number": "④", "text": "The difficulty of communication arises primarily from the complex mental steps involved in formulating a response." },
+        { "number": "⑤", "text": "Cognitive misers are less intelligent because they are unwilling to expend the necessary mental effort to learn." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 인간에게는 '진실 편향', 즉 다른 사람의 말을 우선 믿고 보는 기본 경향이 있다는 것입니다. 그 이유로 의심하고 믿지 않는 것이 '추가적인 정신적 단계(additional mental steps)'를 요구하며, 인간은 불필요한 정신적 노력을 피하는 '인지적 구두쇠'이기 때문이라고 설명합니다. 따라서 '인간은 의심하는 것이 받아들이는 것보다 더 많은 정신적 노력을 요구하기 때문에, 타인을 믿는 기본적 경향을 가지고 있다.'가 이 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "If you ask someone where the restroom is located or if it's raining outside, you can safely assume that most people will not lie in their responses. Imagine how difficult it would be to converse with someone if you assumed that everything they were telling you was false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. ( ① ) It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first. ( ② ) This vulnerability is often exploited by those who create misinformation. ( ③ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than seems necessary in a given situation.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 인간이 '인지적 구두쇠'로서 불필요한 정신적 노력을 피한다는 개념을 소개합니다. 바로 앞 문장에서는 '진실을 의심하고 믿지 않기로 선택하는 것'이 '추가적인 정신적 단계'를 요구한다고 말했습니다. 주어진 문장은 왜 우리가 그 추가적인 단계를 피하는 경향이 있는지에 대한 심리학적 이유를 제공합니다. 그리고 바로 뒤 문장은 '그렇다면(~하다는 것이 말이 된다)'라며 이 두 가지 이유(추가 노력 필요 + 노력 회피 경향)를 종합하여 온라인 정보를 쉽게 믿는 현상을 설명합니다. 따라서 주어진 문장은 ①에 들어가 두 아이디어를 연결하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "There is a natural assumption of truth, or a truth bias when humans communicate with one another. In other words, when we're listening to others or reading their words, our automatic assumption is that the other person is telling the truth.",
+      "question_blocks": {
+        "A": "Imagine how difficult it would be to converse with someone if you assumed that everything they were telling you was false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps.",
+        "B": "This usually works out fine. If you ask someone where the restroom is located or if it's raining outside, you can safely assume that most people will not lie in their responses.",
+        "C": "For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than seems necessary in a given situation. It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '진실 편향'이라는 개념을 소개합니다. (B)는 '이것은 보통 잘 통한다'며 이 편향이 일상생활에서 실용적인 이유와 그 예시를 들어 설명합니다. (A)는 (B)의 내용을 이어받아, 만약 반대로 가정할 경우(모두 거짓이라 가정) 대화가 얼마나 어려울지를 상상하게 하고, 불신에 '추가적인 정신적 단계'가 필요함을 언급합니다. (C)는 (A)에서 언급된 추가적인 노력을 피하는 이유로 인간이 '인지적 구두쇠'라는 점을 설명하고, 이를 온라인 정보에 적용하며 결론을 맺습니다. 따라서 '실용적 이유(B) -> 인지적 비용(A) -> 심리적 원인 및 적용(C)'의 흐름이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than ____________________ in a given situation. It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "is physically possible" },
+        { "number": "②", "text": "our peers expend" },
+        { "number": "③", "text": "seems necessary" },
+        { "number": "④", "text": "is morally right" },
+        { "number": "⑤", "text": "we did in the past" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 '인지적 구두쇠(cognitive misers)'의 의미를 정의하는 부분입니다. 인지적 구두쇠란 가능한 한 정신적 에너지를 아끼려는 경향을 말합니다. 따라서 주어진 상황에서 '필요해 보이는 것' 이상의 정신적 노력을 쓰지 않는다는 의미가 되어야 합니다. 'seems necessary'가 이 의미를 가장 잘 전달합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "There is a natural assumption of ① `truth`, or a truth bias when humans communicate with one another. In other words, when we're listening to others or reading their words, our ② `automatic` assumption is that the other person is telling the truth. If you ask someone where the restroom is located or if it's raining outside, you can safely assume that most people will not ③ `lie` in their responses. Indeed, questioning the truth of a statement and then choosing not to believe it requires ④ `fewer` mental steps. For the most part, humans are \"cognitive misers\"... It makes sense then, that when we see something online, even if it is fake, our default is to ⑤ `believe` it, at least at first.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 진실을 의심하고 불신하는 것이 믿는 것보다 더 많은 노력을 필요로 한다고 설명합니다. 따라서 진실을 의심하는 것은 '추가적인(additional)' 또는 '더 많은(more)' 정신적 단계를 요구한다고 해야 합니다. '더 적은(fewer)'은 글의 핵심 논리와 정반대되는 내용이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "There is a natural (A) `assumption` of truth, or a truth bias when humans communicate with one another. In other words, when we're listening to others or reading their words, our automatic assumption is that the other person is telling the truth. ... Imagine how difficult it would be to (B) `converse` with someone if you assumed that everything they were telling you was false! ... For the most part, humans are \"cognitive misers,\" which means we typically don't (C) `expend` more mental effort than seems necessary in a given situation. It makes sense then, that when we see something online, even if it is fake, our (D) `default` is to believe it, at least at first.",
+      "question": "밑줄 친 (A)~(D)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) assumption: something that you accept as true without proof" },
+        { "number": "②", "text": "(B) converse: to have a formal discussion about a topic" },
+        { "number": "③", "text": "(C) expend: to use or spend a lot of time, effort, or money" },
+        { "number": "④", "text": "(D) default: what exists or happens if you do not make another choice" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "본문에서 (B) `converse`는 '대화하다'라는 일반적인 의미로 사용되었습니다. 하지만 보기 ②의 영영 풀이는 '어떤 주제에 대해 공식적인 토론을 하다(to have a formal discussion)'로, 이는 일반적인 대화보다는 격식 있는 토론을 의미합니다. 'converse'의 일반적인 의미와는 뉘앙스가 다르므로 가장 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "In other words, when we're listening to others or reading their words, our automatic assumption is that the other person is telling the (A) [truth / lie]. ... Imagine how (B) [difficult / easy] it would be to converse with someone if you assumed that everything they were telling you was false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. For the most part, humans are \"cognitive misers,\" which means we typically don't (C) [expend / conserve] more mental effort than seems necessary in a given situation.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "truth / difficult / expend" },
+        { "number": "②", "text": "truth / easy / expend" },
+        { "number": "③", "text": "lie / difficult / conserve" },
+        { "number": "④", "text": "lie / easy / conserve" },
+        { "number": "⑤", "text": "truth / difficult / conserve" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 글의 핵심 개념인 '진실 편향'에 따라, 우리의 자동적인 가정은 상대방이 '진실(truth)'을 말하고 있다는 것입니다. (B) 만약 모든 것을 거짓으로 가정한다면 대화하는 것이 매우 '어려울(difficult)' 것이라고 상상하게 합니다. (C) '인지적 구두쇠'는 필요 이상의 정신적 노력을 '쓰지(expend)' 않는다는 의미입니다. 'don't'가 앞에 있으므로 'expend'가 와야 '소비하지 않는다'는 의미가 완성됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. ① For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than seems necessary. ② It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least at first. ③ The term \"fake news\" became widely used around the world during the 2016 U.S. presidential election. ④ This default tendency to believe makes us all vulnerable to misinformation.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 인간이 '인지적 구두쇠'이기 때문에 정보를 접할 때 우선 믿는 경향이 있다는 심리적 원리를 설명하고 있습니다. ①, ②, ④번 문장은 모두 이 원리가 어떻게 온라인 정보에 적용되고 우리를 취약하게 만드는지를 논리적으로 연결합니다. 하지만 ③번 문장 '\"가짜 뉴스\"라는 용어는 2016년 미국 대선 무렵 전 세계적으로 널리 사용되었다'는 특정 용어의 역사적 배경을 설명하는 것으로, 심리적 원리를 설명하는 글의 중심 논점에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Imagine how difficult it would be to converse with someone if you assumed that everything they were telling you ① [was / were] false! Indeed, questioning the truth of a statement and then choosing not to believe it requires additional mental steps. For the most part, humans are \"cognitive misers,\" which means we typically don't expend more mental effort than ② [seems / seem] necessary in a given situation. It makes sense then, that when we see something online, even if it is fake, our default is to believe it, at least ③ [at / in] first.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "was",
+          "explanation": "관계대명사절 'they were telling you'의 수식을 받는 'everything'은 단수 취급하는 대명사입니다. 따라서 동사는 단수형인 'was'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "seems",
+          "explanation": "비교 구문 'more ... than'에서 than 이하의 절 '... seems necessary'의 주어는 생략된 'mental effort'입니다. 'mental effort'는 셀 수 없는 명사이므로 단수 취급하여 동사는 'seems'가 되어야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "at",
+          "explanation": "'at first'는 '처음에는'이라는 의미의 관용적인 전치사구입니다. 'in first'는 사용되지 않습니다."
+        }
+      ]
+    }
+  ]
+}

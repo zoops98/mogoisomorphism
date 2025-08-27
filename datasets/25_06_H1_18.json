@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more dog-friendly, we recently opened a new dog park.\nThe park was designed to provide an enjoyable experience for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and play.\nWe have separate spaces for small dogs and big dogs, to ensure safety.\nYou'll also find lots of benches and areas for resting and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "새로운 반려견 공원의 개장을 안내하려고" },
+        { "number": "②", "text": "반려견 관련 규정 변경을 공지하려고" },
+        { "number": "③", "text": "공원 이용 시 유의사항을 설명하려고" },
+        { "number": "④", "text": "반려견 프로그램 자원봉사자를 모집하려고" },
+        { "number": "⑤", "text": "지역 사회의 반려견 문제점을 지적하려고" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 서두에서 필자는 자신을 'Pet Program Coordinator'라고 소개하고, 지역 사회를 더 'dog-friendly'하게 만들려는 목표의 일환으로 새로운 반려견 공원을 열었다고(opened a new dog park) 밝히고 있습니다. 글의 나머지 부분은 공원의 시설과 특징을 설명하며 이용을 독려하고 있으므로, 글의 주된 목적은 새로운 반려견 공원의 개장을 안내하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more dog-friendly, we recently opened a new dog park.\nThe park was designed to provide an enjoyable experience for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and play.\nWe have separate spaces for small dogs and big dogs, to ensure safety.\nYou'll also find lots of benches and areas for resting and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Come and Enjoy Our New Dog Park!" },
+        { "number": "②", "text": "The Importance of Pet Safety Rules" },
+        { "number": "③", "text": "How to Train Your Dog Effectively" },
+        { "number": "④", "text": "A Guide to Adopting a Pet" },
+        { "number": "⑤", "text": "Fundraising for Community Facilities" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 새로 개장한 반려견 공원의 다양한 시설(넓은 잔디밭, 분리된 공간, 벤치 등)을 소개하며 반려견과 주인이 즐거운 시간을 보내기를 바란다는 내용을 담고 있습니다. 따라서 글 전체의 내용을 가장 잘 아우르는 제목은 '새 반려견 공원에 와서 즐기세요!'입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more dog-friendly, we recently opened a new dog park.\nThe park was designed to provide an enjoyable experience for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and play.\nWe have separate spaces for small dogs and big dogs, to ensure safety.\nYou'll also find lots of benches and areas for resting and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The town has opened a new, well-designed dog park with various amenities for pets and their owners." },
+        { "number": "②", "text": "Dog owners are encouraged to participate in training programs to improve their pets' social behaviors in public." },
+        { "number": "③", "text": "The community is seeking financial support through fundraising for future pet-friendly infrastructure development projects." },
+        { "number": "④", "text": "A new local regulation requires all pet owners to keep their dogs on a leash at all times." },
+        { "number": "⑤", "text": "The local government is conducting a detailed survey to better understand the preferences of all pet owners." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "본문은 새로 개장한 반려견 공원에 대해 알리는 글입니다. 공원이 반려견과 주인을 위해 설계되었으며, 넓은 잔디밭, 크기별로 분리된 공간, 벤치 등 다양한 편의 시설(amenities)을 갖추고 있다는 점을 구체적으로 설명하고 있습니다. 따라서 '마을에 반려견과 주인을 위한 다양한 편의 시설을 갖춘, 잘 설계된 새 반려견 공원이 문을 열었다.'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more dog-friendly, we recently opened a new dog park.\nThe park was designed to provide an enjoyable experience for both dogs and owners. ( ① ) There are big grassy areas where your dogs can run, jump, and play. ( ② ) We have separate spaces for small dogs and big dogs, to ensure safety. ( ③ ) We hope you will have a wonderful time with your dogs in this newly opened park. ( ④ ) Regards, Lily Paxton, Pet Program Coordinator. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**You'll also find lots of benches and areas for resting and staying cool.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 '또한 쉴 수 있고 시원하게 지낼 수 있는 많은 벤치와 공간도 발견할 수 있을 것입니다.'라는 의미로, 공원의 편의 시설에 대한 추가적인 정보를 제공합니다. 글의 흐름은 공원의 전반적인 소개 후, 반려견을 위한 시설(넓은 잔디밭, 분리된 공간)을 먼저 설명하고 있습니다. 따라서 반려견 시설 설명이 끝난 뒤, 주인을 포함한 이용객들을 위한 시설인 벤치 등을 언급하는 것이 자연스럽습니다. 그러므로 주어진 문장은 반려견을 위한 공간 설명이 끝나는 문장 다음이자, 마무리 인사를 하는 문장 앞인 ③에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more dog-friendly, we recently opened a new dog park.",
+      "question_blocks": {
+        "A": "There are big grassy areas where your dogs can run, jump, and play. We have separate spaces for small dogs and big dogs, to ensure safety.",
+        "B": "The park was designed to provide an enjoyable experience for both dogs and owners.",
+        "C": "You'll also find lots of benches and areas for resting and staying cool. We hope you will have a wonderful time with your dogs in this newly opened park."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 새로운 반려견 공원이 개장했음을 알립니다. (B)에서는 공원의 전반적인 설계 목적(반려견과 주인을 위한 즐거운 경험 제공)을 설명하며 글을 자연스럽게 이어갑니다. 그 다음 (A)에서는 반려견을 위한 구체적인 시설(넓은 잔디밭, 분리된 공간)을 묘사합니다. 마지막으로 (C)에서는 '또한(also)'이라는 연결어를 사용해 주인을 위한 편의 시설(벤치)을 추가로 설명하고, 공원에서의 즐거운 시간을 기원하며 글을 마무리합니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more dog-friendly, we recently opened a new dog park.\nThe park was designed to provide _______________ for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and play.\nWe have separate spaces for small dogs and big dogs, to ensure safety.\nYou'll also find lots of benches and areas for resting and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a strict training ground" },
+        { "number": "②", "text": "temporary shelter services" },
+        { "number": "③", "text": "an enjoyable experience" },
+        { "number": "④", "text": "advanced medical care" },
+        { "number": "⑤", "text": "competitive sporting events" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 공원의 설계 목적을 설명합니다. 이어지는 내용에서 반려견이 뛰어놀 수 있는 잔디밭, 안전을 위한 분리된 공간, 주인이 쉴 수 있는 벤치 등 공원의 긍정적인 시설들을 나열하고 있습니다. 이는 모두 공원 이용자들이 즐거운 시간을 보낼 수 있도록 하기 위함이므로, 빈칸에는 '즐거운 경험(an enjoyable experience)'이 들어가는 것이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our ① `goal` to make the community more dog-friendly, we recently opened a new dog park.\nThe park was ② `designed` to provide an enjoyable experience for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and ③ `compete`.\nWe have separate spaces for small dogs and big dogs, to ensure ④ `safety`.\nYou'll also find lots of benches and areas for ⑤ `resting` and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 반려견들이 자유롭게 즐길 수 있는 공원을 소개하고 있습니다. ③번의 'compete'(경쟁하다)는 승패를 가리는 활동을 의미하므로, 개들이 '달리고, 점프하고, 노는(run, jump, and play)' 일반적인 공원의 목적과는 어울리지 않습니다. 문맥상 'play'(놀다)가 적절합니다. 나머지 단어들은 각각 '목표'(goal), '설계된'(designed), '안전'(safety), '휴식'(resting)의 의미로 문맥에 맞게 사용되었습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program (A) `Coordinator`.\nAs part of our (B) `goal` to make the community more dog-friendly, we recently opened a new dog park.\nThe park was designed to (C) `provide` an enjoyable experience for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and play.\nWe have (D) `separate` spaces for small dogs and big dogs, to ensure safety.\nYou'll also (E) `find` lots of benches and areas for resting and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) Coordinator: a person who organizes the different parts of an activity" },
+        { "number": "②", "text": "(B) goal: something that you hope to achieve in the future" },
+        { "number": "③", "text": "(C) provide: to give something to someone or make it available to use" },
+        { "number": "④", "text": "(D) separate: to divide a large group into smaller parts" },
+        { "number": "⑤", "text": "(E) find: to discover something or someone by chance" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 (D) 'separate'는 '분리된'이라는 의미의 형용사로 사용되어 'spaces'를 수식하고 있습니다. 하지만 보기 ④의 영영 풀이 'to divide a large group into smaller parts'(큰 그룹을 더 작은 부분으로 나누다)는 동사 'separate'에 대한 설명입니다. 품사가 일치하지 않으므로 적절하지 않은 풀이입니다. 나머지 단어들의 영영 풀이는 모두 문맥과 의미에 맞게 정확하게 설명되었습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator.\nAs part of our goal to make the community more (A) [dog-friendly / dog-hostile], we recently opened a new dog park.\nThe park was designed to provide an enjoyable experience for both dogs and owners.\nThere are big grassy areas where your dogs can run, jump, and play.\nWe have (B) [separate / combined] spaces for small dogs and big dogs, to ensure safety.\nYou'll also find lots of benches and areas for (C) [resting / working] and staying cool.\nWe hope you will have a wonderful time with your dogs in this newly opened park.\nRegards, Lily Paxton, Pet Program Coordinator",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "dog-friendly / separate / resting" },
+        { "number": "②", "text": "dog-friendly / combined / resting" },
+        { "number": "③", "text": "dog-friendly / separate / working" },
+        { "number": "④", "text": "dog-hostile / combined / working" },
+        { "number": "⑤", "text": "dog-hostile / separate / resting" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 새로운 반려견 공원을 개장하는 것은 지역사회를 '반려견 친화적인(dog-friendly)' 곳으로 만들려는 목표의 일환입니다. 'dog-hostile'(반려견에 적대적인)은 문맥에 맞지 않습니다. (B) 작은 개와 큰 개를 위한 공간을 나누는 것은 안전을 '보장하기(ensure)' 위함이므로 '분리된(separate)' 공간이 적절합니다. 'combined'(합쳐진)는 안전 목적과 상반됩니다. (C) 벤치와 시원한 공간은 '휴식(resting)'을 위한 것입니다. 'working'(일하는)은 문맥과 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Dear Dog Owners,\nMy name is Lily Paxton, and I'm the town's Pet Program Coordinator. As part of our goal to make the community more dog-friendly, we recently opened a new dog park. ① The park was designed to provide an enjoyable experience for both dogs and owners. ② There are big grassy areas where your dogs can run, jump, and play. ③ All dogs in the town must be registered with the local office by the end of the month. ④ We have separate spaces for small dogs and big dogs, to ensure safety. ⑤ You'll also find lots of benches and areas for resting and staying cool.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 새로 개장한 반려견 공원의 시설과 특징을 소개하는 것이 전체적인 흐름입니다. ①, ②, ④, ⑤는 모두 공원의 목적과 구체적인 시설(즐거운 경험, 잔디밭, 분리된 공간, 벤치)에 대해 설명하고 있습니다. 하지만 ③번 문장 '마을의 모든 개는 이달 말까지 관공서에 등록되어야 합니다'는 반려견 등록 의무에 관한 내용으로, 공원 소개라는 글의 주제에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① The park was [designed / designing] to provide an enjoyable experience for both dogs and owners. ② There are big grassy areas [where / which] your dogs can run, jump, and play. We have separate spaces for small dogs and big dogs, ③ to [ensure / ensuring] safety. We hope you will have a wonderful time with your dogs in this newly opened park.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "designed",
+          "explanation": "주어인 'The park'(공원)는 스스로 디자인하는 것이 아니라 사람에 의해 '설계되는' 것이므로 수동태인 'was designed'가 맞습니다. 'designing'은 능동의 의미를 가집니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "where",
+          "explanation": "선행사 'big grassy areas'는 장소를 나타내며, 뒤따르는 절 'your dogs can run, jump, and play'는 주어, 동사를 모두 갖춘 완전한 문장입니다. 따라서 장소의 선행사를 받고 뒤에 완전한 절이 오는 관계부사 'where'가 적절합니다. 관계대명사 'which' 뒤에는 불완전한 절이 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "ensure",
+          "explanation": "'~하기 위하여'라는 목적의 의미를 나타내기 위해서는 to부정사인 'to ensure'를 사용해야 합니다. 'to'는 여기서 전치사가 아니므로 뒤에 동명사 'ensuring'이 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

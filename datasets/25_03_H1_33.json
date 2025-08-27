@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind. We can actually measure your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin. We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how good your skin gets at transferring an electrical current.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to warn about the dangers of electric shocks"
+        },
+        {
+          "number": "②",
+          "text": "to explain how emotions can be measured scientifically"
+        },
+        {
+          "number": "③",
+          "text": "to compare different types of intense emotions"
+        },
+        {
+          "number": "④",
+          "text": "to recommend ways to control subconscious sweating"
+        },
+        {
+          "number": "⑤",
+          "text": "to criticize the subjectivity of scientific research"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 감정적 자극으로 인한 무의식적인 땀 분비가 피부의 전기 전도성을 어떻게 변화시키는지, 그리고 이 원리를 이용하여 주관적인 감정 상태를 객관적인 수치로 측정할 수 있는 과학적 방법에 대해 설명하고 있습니다. 따라서 글의 주된 목적은 감정이 과학적으로 측정될 수 있는 방법을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind. We can actually measure your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin. We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how good your skin gets at transferring an electrical current.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Dangers of Intense Emotions"
+        },
+        {
+          "number": "②",
+          "text": "How Your Skin Reveals Your Mind"
+        },
+        {
+          "number": "③",
+          "text": "The Conscious Control of Sweating"
+        },
+        {
+          "number": "④",
+          "text": "Electricity: A Cure for Sadness"
+        },
+        {
+          "number": "⑤",
+          "text": "Subjective vs. Objective Science"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 우리의 피부가 감정에 따라 어떻게 전기 전도성이 변하는지를 설명하고, 이를 통해 우리의 마음(감정 상태)을 과학적으로 측정할 수 있다는 내용을 다루고 있습니다. 따라서 '당신의 피부가 당신의 마음을 어떻게 드러내는가'라는 제목이 글의 핵심 내용을 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind. We can actually measure your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin. We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how good your skin gets at transferring an electrical current.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Subjective emotional intensity can be objectively quantified by measuring the skin's changing electrical conductivity due to sweat."
+        },
+        {
+          "number": "②",
+          "text": "The most reliable way to understand your emotions is to consciously notice how much your body is sweating daily."
+        },
+        {
+          "number": "③",
+          "text": "Intense emotions like stress and sadness actually decrease the amount of sweat your body produces on your skin."
+        },
+        {
+          "number": "④",
+          "text": "Running electricity through the skin is a new therapeutic method to help people control their intense emotions."
+        },
+        {
+          "number": "⑤",
+          "text": "Scientists have proven that it is impossible to put an objective value on any subjective state of your mind."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 감정으로 인한 땀 때문에 변하는 피부의 전기 전도도를 측정함으로써, 주관적인 감정의 강도를 객관적으로 수량화할 수 있다는 것입니다. 따라서 '주관적인 감정의 강도는 땀으로 인한 피부의 변화하는 전기 전도도를 측정함으로써 객관적으로 정량화될 수 있다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. ( ① ) We can actually measure your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin. ( ② ) ( ③ ) We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how good your skin gets at transferring an electrical current. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 감정에 따른 땀샘 활동의 변화가 '과학적 관점'에서 왜 유용한지를 설명하며, 주관적 상태를 객관적 가치로 바꿀 수 있게 해준다고 말합니다. 이 문장은 현상에 대한 설명(감정이 격하면 땀샘 활동 증가)과 그 현상을 이용한 구체적인 측정 방법에 대한 설명('We can actually measure...') 사이를 연결하는 다리 역할을 합니다. 즉, 현상의 의의를 설명한 후 구체적인 적용 방법을 설명하는 것이 자연스러운 흐름이므로 ①에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions.",
+      "question_blocks": {
+        "A": "This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity.",
+        "B": "We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive.",
+        "C": "This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind. We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how good your skin gets at transferring an electrical current."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '감정에 따라 피부의 전기 전도성이 달라진다'는 핵심 전제를 제시합니다. (B)는 이 현상의 구체적인 과정(감정 자극 → 땀 → 전도성 증가)을 설명합니다. (A)는 (B)에서 설명한 땀 분비가 '무의식적'으로 일어나는 변화임을 부연 설명합니다. (C)는 이러한 무의식적 변화가 '과학적 관점'에서 왜 유용한지, 즉 주관적 감정을 객관적으로 측정할 수 있게 해준다는 점을 설명하며 결론을 맺습니다. 따라서 가장 자연스러운 순서는 (B)-(A)-(C)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind. We can actually measure your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin. We can then turn the subjective, subconscious experience of emotional intensity into a(n) [____________________] by figuring out how good your skin gets at transferring an electrical current.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "conscious thought"
+        },
+        {
+          "number": "②",
+          "text": "more intense emotion"
+        },
+        {
+          "number": "③",
+          "text": "objective number"
+        },
+        {
+          "number": "④",
+          "text": "physical reaction"
+        },
+        {
+          "number": "⑤",
+          "text": "subjective feeling"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 글의 결론으로, 피부의 전기 전도도를 측정함으로써 무엇을 얻을 수 있는지를 요약합니다. 글쓴이는 이 과학적 방법을 통해 '주관적이고 무의식적인 감정의 강도 경험'을 다른 형태로 바꿀 수 있다고 말합니다. 그 결과는 측정된 값이므로 '객관적인 숫자'가 됩니다. 이는 글의 핵심인 '주관적 상태에 객관적 가치를 부여한다'는 내용과 일맥상통합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically ① [conductive]. This change in sweat gland activity happens completely without your conscious mind having much ② [say] in the matter. If you feel emotionally intense, you're going to notice an ③ [increase] in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a ④ [subjective] state of mind. We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how ⑤ [poor] your skin gets at transferring an electrical current.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 문장은 피부가 전류를 얼마나 잘 '전달하는지(transferring)' 알아냄으로써 감정을 측정한다고 설명합니다. 따라서 피부가 전류를 전달하는 것을 얼마나 '잘하는지(good)'를 측정해야 합니다. '형편없는, 서투른'이라는 의미의 'poor'는 이 맥락에서 반대의 의미를 가지므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Our skin (A) [conducts] electricity more or less efficiently, depending on our emotions. We know that when we're emotionally (B) [stimulated] ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your (C) [conscious] mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a (D) [subjective] state of mind. We can actually (E) [measure] your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) conducts: allows electricity or heat to pass along or through it"
+        },
+        {
+          "number": "②",
+          "text": "(B) stimulated: made more active or responsive"
+        },
+        {
+          "number": "③",
+          "text": "(C) conscious: having knowledge of something; aware"
+        },
+        {
+          "number": "④",
+          "text": "(D) subjective: based on fact and not influenced by personal beliefs or feelings"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) measure: to find the size, amount, or degree of something by using an instrument"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) subjective는 '주관적인'이라는 의미로, 개인적인 감정이나 의견에 기반하거나 영향을 받는 것을 말합니다. 제시된 영영 풀이 'based on fact and not influenced by personal beliefs or feelings(사실에 기반하고 개인적 믿음이나 감정에 영향을 받지 않는)'는 '객관적인(objective)'에 대한 설명이므로, 'subjective'의 의미와 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Our skin conducts electricity more or less (A) [efficiently / inefficiently], depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets (B) [more / less] electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an (C) [objective / ambiguous] value on a subjective state of mind.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "efficiently - more - objective"
+        },
+        {
+          "number": "②",
+          "text": "efficiently - less - ambiguous"
+        },
+        {
+          "number": "③",
+          "text": "inefficiently - more - objective"
+        },
+        {
+          "number": "④",
+          "text": "inefficiently - less - ambiguous"
+        },
+        {
+          "number": "⑤",
+          "text": "efficiently - more - ambiguous"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 피부는 감정에 따라 전기를 '더 효율적으로 또는 덜 효율적으로' 전도한다고 해야 문맥상 자연스럽습니다. (B) 땀이 나면 피부의 전기 전도성이 '더 높아진다'고 설명하고 있으므로 'more'가 맞습니다. (C) 과학적 방법은 주관적인 상태에 '객관적인' 가치를 부여하는 것이므로 'objective'가 적절합니다. 'ambiguous'는 '모호한'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so little we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind having much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind. We can actually measure your emotional state by tracking how your body subconsciously sweats, by running a bit of electricity through your skin. We can then turn the subjective, subconscious experience of emotional intensity into an objective number by figuring out how good your skin gets at transferring an electrical current.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Skin's ability to conduct electricity is affected by emotions."
+        },
+        {
+          "number": "②",
+          "text": "The sweat produced from emotional stimulation is often unnoticeable."
+        },
+        {
+          "number": "③",
+          "text": "The change in sweat gland activity is a process we consciously control."
+        },
+        {
+          "number": "④",
+          "text": "This phenomenon allows for the objective measurement of subjective feelings."
+        },
+        {
+          "number": "⑤",
+          "text": "Measuring emotional state involves passing electricity through the skin."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 'This change in sweat gland activity happens completely without your conscious mind having much say in the matter'라고 명시하고 있습니다. 이는 땀샘 활동의 변화가 우리의 의식적인 마음이 거의 관여하지 않는, 즉 무의식적인 과정임을 의미합니다. 따라서 우리가 이 과정을 의식적으로 통제한다는 ③번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Our skin conducts electricity more or less efficiently, depending on our emotions. We know that when we're emotionally stimulated ─ stressed, sad, any intense emotion, really ─ our bodies sweat a tiny bit, so ① [little / few] we might not even notice. And when those tiny drops of sweat appear, our skin gets more electrically conductive. This change in sweat gland activity happens completely without your conscious mind ② [having / to have] much say in the matter. If you feel emotionally intense, you're going to notice an increase in sweat gland activity. This is particularly useful from a scientific viewpoint, because it allows us ③ [to put / putting] an objective value on a subjective state of mind.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "little",
+          "explanation": "'so ~ that ...' 구문에서 'sweat'은 불가산 명사이므로, 양이 적음을 나타내는 'little'이 와야 합니다. 'few'는 가산 명사와 함께 쓰입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "having",
+          "explanation": "전치사 'without' 뒤에는 명사 또는 동명사구가 와야 합니다. 'your conscious mind'는 동명사 'having'의 의미상 주어입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to put",
+          "explanation": "동사 'allow'는 'allow + 목적어 + to부정사'의 5형식 구문으로 쓰여 '~가 ...하도록 허락하다'라는 의미를 나타냅니다. 따라서 to부정사 'to put'이 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

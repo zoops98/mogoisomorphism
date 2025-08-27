@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Science is concerned with accumulating and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to act on that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise. And that's the hard part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. In this sense, science really solves no problems at all. Problems are only solved when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by lack of action, and not lack of knowledge.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to emphasize that action is essential to apply scientific knowledge" },
+        { "number": "②", "text": "to explain the process of scientific discovery" },
+        { "number": "③", "text": "to compare the benefits of knowledge and exercise" },
+        { "number": "④", "text": "to criticize the limitations of modern science" },
+        { "number": "⑤", "text": "to encourage people to read more scientific articles" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 과학적 이해나 지식 그 자체만으로는 문제를 해결할 수 없으며, 사람들이 그 지식을 바탕으로 '행동(act on it)'할 때 비로소 문제가 해결된다고 반복해서 강조하고 있습니다. 운동의 예를 통해 지식 습득(쉬운 것)과 실제 행동(어려운 것)을 대조하며, 문제 해결에 있어 행동의 필수적인 역할을 역설하고 있습니다. 따라서 이 글의 목적은 '과학적 지식을 적용하기 위해 행동이 필수적임을 강조하기' 위함입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Science is concerned with accumulating and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to act on that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise. And that's the hard part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. In this sense, science really solves no problems at all. Problems are only solved when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by lack of action, and not lack of knowledge.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Knowledge Is Not Enough: The Power of Action" },
+        { "number": "②", "text": "The Easiest Way to Start Regular Exercise" },
+        { "number": "③", "text": "Science: The Key to Solving All Problems" },
+        { "number": "④", "text": "Why We Suffer From a Lack of Knowledge" },
+        { "number": "⑤", "text": "The Fascinating World of Scientific Observation" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 과학이 제공하는 '지식(Knowledge)'만으로는 충분하지 않으며, 문제를 해결하기 위해서는 그 지식을 실행에 옮기는 '행동(Action)'이 반드시 필요하다는 점을 핵심 내용으로 다루고 있습니다. 글의 마지막 문장에서도 인류의 많은 문제가 지식 부족이 아닌 행동 부족 때문이라고 결론 내립니다. 따라서 '지식만으로는 충분하지 않다: 행동의 힘'이 글 전체의 주제를 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Science is concerned with accumulating and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to act on that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise. And that's the hard part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. In this sense, science really solves no problems at all. Problems are only solved when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by lack of action, and not lack of knowledge.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Scientific knowledge only becomes useful for solving problems when people take deliberate action based on it." },
+        { "number": "②", "text": "The primary goal of science is to develop practical solutions for humanity's most pressing and difficult problems." },
+        { "number": "③", "text": "Regular physical exercise is the single most effective method for preventing various types of chronic heart disease." },
+        { "number": "④", "text": "Acquiring new scientific knowledge often requires more significant effort than putting that existing knowledge into practice." },
+        { "number": "⑤", "text": "Humanity's biggest challenges can be resolved by investing more resources into advanced scientific research and discovery." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 핵심 주장은 과학적 지식 그 자체는 문제를 해결하지 못하며, 오직 사람들이 그 지식을 '사용하고(use it)' '행동으로 옮길(act on it)' 때에만 문제가 해결된다는 것입니다. 마지막 문장은 이를 '많은 인류의 큰 문제들은 지식의 부족이 아니라 행동의 부족으로 인해 야기된다'고 요약합니다. 따라서 '과학 지식은 사람들이 그것에 기반하여 의도적인 행동을 취할 때에만 문제 해결에 유용해진다'가 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Science is concerned with accumulating and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to act on that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise. ( ① ) Reading an article about exercise is easy. ( ② ) Getting into an actual routine of regular exercise is harder. ( ③ ) In this sense, science really solves no problems at all. ( ④ ) Problems are only solved when people take the knowledge provided by science and use it.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**And that's the hard part.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '그리고 그것이 어려운 부분이다'라는 의미입니다. 여기서 '그것(that)'은 바로 앞 문장에서 언급된 '행동으로 옮겨 실제로 운동하는 것(act on it and actually exercise)'을 가리킵니다. 그리고 뒤따르는 문장들은 운동에 관한 글을 읽는 것(쉬운 것)과 실제 운동 습관을 만드는 것(어려운 것)을 비교하며 왜 그것이 '어려운 부분'인지를 구체적으로 설명합니다. 따라서 주어진 문장은 행동의 어려움을 도입하고 그에 대한 부연 설명을 연결하는 다리 역할을 하므로 ①에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Science is concerned with accumulating and understanding observations of the physical world. That understanding alone solves no problems.",
+      "question_blocks": {
+        "A": "For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise.",
+        "B": "In this sense, science really solves no problems at all. Problems are only solved when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by lack of action, and not lack of knowledge.",
+        "C": "And that's the hard part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 글은 '과학적 이해만으로는 문제를 해결할 수 없다'는 핵심 주장을 제시합니다. (A)는 '예를 들어(For instance)'라는 표현으로 시작하며, 운동의 예를 들어 이 주장을 구체화합니다. (C)는 (A)에서 언급된 '실제로 운동하는 것'을 'that'으로 받아서 그것이 '어려운 부분'이라고 설명하며, 지식 습득과 행동의 난이도를 비교합니다. (B)는 '이런 의미에서(In this sense)'라는 말로 앞선 예시와 논의를 종합하여, '과학은 아무 문제도 해결하지 못하며, 행동이 수반될 때만 문제가 해결된다'고 글 전체의 결론을 내립니다. 따라서 '주장 -> 예시(A) -> 예시 심화(C) -> 결론(B)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Science is concerned with accumulating and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to act on that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise. And that's the hard part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. In this sense, science really solves no problems at all. Problems are only solved when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by ____________________, and not lack of knowledge.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "lack of action" },
+        { "number": "②", "text": "scientific errors" },
+        { "number": "③", "text": "insufficient funding" },
+        { "number": "④", "text": "flawed data collection" },
+        { "number": "⑤", "text": "complex social structures" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 전체적인 흐름은 지식만으로는 부족하고 '행동'이 있어야 문제가 해결된다는 점을 강조하고 있습니다. 빈칸이 있는 마지막 문장은 이 글의 최종 결론으로, '지식 부족이 아니라 ... 때문에 문제가 발생한다'고 말합니다. 글의 논리에 따라, 문제의 근본 원인은 바로 '행동의 부족(lack of action)'입니다. 이는 글 전체의 주제를 압축하는 핵심 표현입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Science is concerned with ① `accumulating` and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to act on that understanding for it to help ② `solve` problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise. And that's the ③ `hard` part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. In this sense, science really solves no problems at all. Problems are only ④ `solved` when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by lack of ⑤ `improvement`, and not lack of knowledge.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 지식과 행동의 차이를 강조하며, 문제의 원인이 지식 부족이 아닌 행동 부족에 있다고 주장합니다. ⑤번이 포함된 마지막 문장은 이 주장을 명확히 하는 결론 부분입니다. 문맥상 문제의 원인은 '행동(action)'의 부족이어야 합니다. '개선(improvement)'의 부족이라는 말은 의미가 통하지 않으며, 글의 핵심어인 'action'을 대체할 수 없습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Science is concerned with (A) `accumulating` and understanding observations of the physical world. That understanding alone solves no problems. Individual people have to (B) `act on` that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. ... Getting into an actual (C) `routine` of regular exercise is harder. ... Problems are only solved when people take the knowledge (D) `provided` by science and use it. In fact, many of (E) `humanity's` biggest problems are caused by lack of action, and not lack of knowledge.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) accumulating: to gradually get more and more of something over a period of time" },
+        { "number": "②", "text": "(B) act on: to do something as a result of a piece of information or advice" },
+        { "number": "③", "text": "(C) routine: a usual or fixed way of doing things" },
+        { "number": "④", "text": "(D) provided: given or supplied" },
+        { "number": "⑤", "text": "(E) humanity: the quality of being kind and thoughtful towards others" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) `humanity's`는 '인류의'라는 의미로, 모든 사람 즉 'mankind'를 지칭합니다. 하지만 보기 ⑤의 영영 풀이는 '다른 사람에 대해 친절하고 사려 깊은 특성', 즉 '인류애, 인간성(the quality of being humane)'을 설명하고 있습니다. 이는 문맥상의 의미와 다른 뜻이므로 적절하지 않은 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "That understanding (A) [alone / together] solves no problems. Individual people have to act on that understanding for it to help solve problems. ... Getting into an actual routine of regular exercise is (B) [harder / easier]. In this sense, science really solves no problems at all. Problems are only solved when people take the knowledge provided by science and use it. In fact, many of humanity's biggest problems are caused by lack of (C) [action / knowledge], and not lack of knowledge.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "alone / harder / action" },
+        { "number": "②", "text": "alone / easier / action" },
+        { "number": "③", "text": "alone / harder / knowledge" },
+        { "number": "④", "text": "together / easier / knowledge" },
+        { "number": "⑤", "text": "together / harder / action" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 과학적 이해 '그 자체만으로는(alone)' 문제를 해결할 수 없다는 것이 글의 핵심 주장입니다. (B) 글을 읽는 것(쉬운 것)과 비교하여 실제 운동 습관을 만드는 것은 '더 어렵다(harder)'고 말하고 있습니다. (C) 글의 결론으로, 문제의 원인은 지식 부족이 아니라 '행동(action)'의 부족이라고 명시하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. ① In this sense, science really solves no problems at all. ② The scientific method involves making an observation, forming a hypothesis, and conducting an experiment. ③ Problems are only solved when people take the knowledge provided by science and use it. ④ In fact, many of humanity's biggest problems are caused by lack of action, and not lack of knowledge. ⑤",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 과학적 '결과물(지식)'의 '적용(행동)'에 대해 논하고 있습니다. ①, ③, ④번 문장은 모두 지식과 행동의 관계 및 문제 해결에서의 행동의 중요성이라는 주제를 중심으로 유기적으로 연결됩니다. 하지만 ②번 문장 '과학적 방법은 관찰, 가설 설정, 실험 수행을 포함한다'는 과학적 '과정' 자체를 설명하는 문장입니다. 이는 과학 지식의 적용이라는 글의 중심 논점에서 벗어나므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① That understanding alone [solves / solve] no problems. Individual people have to act on that understanding for it to help solve problems. For instance, science has found that regular exercise can lower your risk of heart disease. Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and ② [actual / actually] exercise. And that's the hard part. Reading an article about exercise is easy. Getting into an actual routine of regular exercise is harder. Problems are only solved when people take the knowledge ③ [provided / providing] by science and use it.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "solves",
+          "explanation": "주어는 3인칭 단수인 'That understanding'입니다. 따라서 동사는 단수형인 'solves'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "actually",
+          "explanation": "이 자리에는 동사 'exercise'를 수식하는 부사가 필요합니다. 'actually'는 '실제로'라는 의미의 부사이며, 'actual'은 형용사입니다. 따라서 부사인 'actually'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "provided",
+          "explanation": "이 자리에는 명사 'the knowledge'를 뒤에서 수식하는 분사가 필요합니다. 지식은 과학에 의해 '제공되는' 것이므로 수동의 의미를 나타내는 과거분사 'provided'가 맞습니다. 현재분사 'providing'은 능동의 의미를 가집니다."
+        }
+      ]
+    }
+  ]
+}

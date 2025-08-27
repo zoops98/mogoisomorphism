@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date. As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not random. Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves building upon past experiences.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the reconstructive nature of human memory" },
+        { "number": "②", "text": "to compare memory skills across different cultures" },
+        { "number": "③", "text": "to criticize the methodology of a 1930s experiment" },
+        { "number": "④", "text": "to emphasize the importance of listening to folktales" },
+        { "number": "⑤", "text": "to introduce methods for improving memory recall" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Bartlett의 실험을 통해 인간의 기억이 단순히 과거 사건을 재생하는 것이 아님을 설명합니다. 실험 참가자들은 낯선 이야기의 이해되지 않는 부분을 자신의 기존 지식(스키마)을 이용해 '다시 썼습니다(rewrote)'. 이는 기억이 과거 경험을 바탕으로 재구성되는 '상상적 과정(imaginative process)'임을 보여줍니다. 따라서 이 글의 목적은 '인간 기억의 재구성적 본질을 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date. As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not random. Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves building upon past experiences.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Memory: More Imaginative Than Accurate" },
+        { "number": "②", "text": "The Lost Folktales of the 1930s" },
+        { "number": "③", "text": "How Schemata Lead to Random Errors" },
+        { "number": "④", "text": "The Importance of Familiarity in Recall" },
+        { "number": "⑤", "text": "Bartlett's Revolutionary Experiment" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 기억이 정확한 기록이 아니라, 기존의 지식(스키마)을 바탕으로 빈틈을 메우는 '상상적 과정(imaginative process)'이라는 것입니다. 즉, 기억은 정확성보다는 상상력에 더 가깝게 작동한다는 것을 Bartlett의 실험을 통해 보여주고 있습니다. 따라서 '기억: 정확하기보다는 더 상상적이다'라는 제목이 글의 중심 생각을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date. As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not random. Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves building upon past experiences.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Human memory is an active process of reconstruction, using existing knowledge to fill in unfamiliar details." },
+        { "number": "②", "text": "The accuracy of memory recall is primarily determined by the familiarity of the story being told." },
+        { "number": "③", "text": "Sir Frederic Bartlett's experiments in the 1930s were fundamentally flawed because of their non-random errors." },
+        { "number": "④", "text": "Folktales from foreign countries are inherently more difficult to understand and remember than domestic stories are." },
+        { "number": "⑤", "text": "It is crucial to have a wide range of stored knowledge to accurately remember past events." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Bartlett의 실험을 통해 기억이 수동적인 재생이 아님을 보여줍니다. 사람들은 기억의 빈틈(gaps)을 메우기 위해 자신의 기존 지식, 즉 '정신적 스키마(mental schemata)'를 활용합니다. 이는 기억이 과거 경험을 바탕으로 적극적으로 재구성(reconstruction)되는 과정임을 의미합니다. 따라서 '인간의 기억은 기존 지식을 이용해 낯선 세부 사항을 채워 넣는 능동적인 재구성 과정이다.'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not random. Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. ( ① ) Therefore, remembering is an imaginative process that involves building upon past experiences. ( ② ) This view contrasted sharply with the older idea of memory as a simple storage box. ( ③ ) Bartlett's work laid the foundation for modern cognitive psychology. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 Bartlett가 내린 '결론(concluded)'으로, 인간이 기억의 빈틈을 메우기 위해 '정신적 스키마'를 사용한다는 내용입니다. 이 결론은 바로 앞 문장에서 묘사된 '실험 참가자들이 이해하기 어려운 부분을 자신의 방식으로 다시 썼다'는 관찰 결과에 대한 직접적인 설명입니다. 그리고 바로 뒤 문장은 '그러므로(Therefore)'라는 접속사로 시작하며, 이 결론을 바탕으로 '기억은 상상적 과정'이라는 최종적인 의미를 도출합니다. 따라서 주어진 문장은 관찰과 최종 결론 사이의 다리 역할을 하는 ①에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date.",
+      "question_blocks": {
+        "A": "Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them.",
+        "B": "As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not random.",
+        "C": "Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves building upon past experiences."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 Bartlett의 실험 설계를 설명합니다. (B)는 실험의 두 가지 결과, 즉 예상된 결과(낯선 이야기는 기억하기 어렵다)와 놀라운 결과(기억 오류는 무작위가 아니다)를 제시하며 자연스럽게 이어집니다. (A)는 '오히려(Rather)'라는 표현을 사용해 (B)에서 언급된 '무작위가 아닌 오류'가 구체적으로 어떤 형태(이해 안 되는 부분을 고쳐 씀)였는지를 설명합니다. (C)는 (A)와 (B)의 관찰 결과를 바탕으로 Bartlett이 내린 결론(스키마의 사용)과 최종적인 시사점(기억은 상상적 과정)을 제시하며 글을 마무리합니다. 따라서 '결과 제시(B) -> 결과 상세 설명(A) -> 결론 및 시사점(C)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date. As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were ________________. Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves building upon past experiences.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "not random" },
+        { "number": "②", "text": "quickly forgotten" },
+        { "number": "③", "text": "extremely rare" },
+        { "number": "④", "text": "easy to correct" },
+        { "number": "⑤", "text": "a sign of low intelligence" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "빈칸이 포함된 문장은 실험의 '놀라운(Surprisingly)' 발견에 대해 서술합니다. 이어지는 문장은 '오히려(Rather)'라는 표현을 사용하며, 피실험자들이 특정 방식으로(이해 안 되는 부분을 고쳐 씀) 이야기를 바꾸었다고 설명합니다. 이는 오류가 아무렇게나 발생한 것이 아니라 일정한 패턴을 가졌음을 의미합니다. 따라서 빈칸에는 '무작위가 아니었다(not random)'가 들어가는 것이 가장 적절합니다. 이 발견이 스키마 이론의 출발점이 됩니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "As you might guess, ① `unfamiliar` stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not ② `random`. Rather, subjects often ③ `repeated` similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. Bartlett concluded that when facing problems, humans draw upon mental ④ `schemata`, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an ⑤ `imaginative` process that involves building upon past experiences.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 발견은 사람들이 이해하기 어려운 부분을 자신의 기존 지식에 맞춰 변형시킨다는 것입니다. 이는 단순히 이야기를 '반복하는(repeated)' 것이 아니라, 내용을 바꾸어 '다시 쓰는(rewrote)' 행위에 해당합니다. 'repeated'는 정확한 복제를 의미하므로, 기억이 변형되는 과정을 설명하는 문맥에 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then (A) `recall` these stories at a later date. ... Surprisingly, however, errors in memory were not (B) `random`. Rather, subjects often rewrote similar parts of the stories in their own minds... Bartlett (C) `concluded` that when facing problems, humans draw upon mental schemata...to fill in any minor (D) `gaps` in our memories. Therefore, remembering is an (E) `imaginative` process that involves building upon past experiences.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) recall: to bring the memory of a past event into your mind" },
+        { "number": "②", "text": "(B) random: happening, done, or chosen by chance rather than according to a plan" },
+        { "number": "③", "text": "(C) concluded: to judge or decide something after thinking carefully about it" },
+        { "number": "④", "text": "(D) gaps: a promise to do something or to behave in a particular way" },
+        { "number": "⑤", "text": "(E) imaginative: new, original, and clever; good at thinking of new ideas" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 (D) `gaps`는 '기억 속의 빈틈, 공백'이라는 의미로 사용되었습니다. 하지만 보기 ④의 영영 풀이는 '무언가를 하거나 특정 방식으로 행동하겠다는 약속'으로, 이는 '서약(vow, pledge)'의 의미입니다. 따라서 문맥상의 의미와 전혀 다른 이 풀이는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "As you might guess, (A) [unfamiliar / familiar] stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not (B) [random / systematic]. Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. ... Bartlett concluded that when facing problems, humans draw upon mental schemata ... to fill in any minor gaps in our memories. Therefore, remembering is an (C) [imaginative / accurate] process...",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "unfamiliar / random / imaginative" },
+        { "number": "②", "text": "unfamiliar / systematic / accurate" },
+        { "number": "③", "text": "familiar / random / imaginative" },
+        { "number": "④", "text": "familiar / systematic / accurate" },
+        { "number": "⑤", "text": "unfamiliar / random / accurate" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 익숙한 이야기보다 '낯선(unfamiliar)' 이야기가 더 기억하기 어려웠을 것입니다. (B) 기억의 오류는 아무렇게나 발생하는 '무작위적(random)'인 것이 아니라, 일정한 패턴을 보였다는 것이 놀라운 발견이었습니다. (C) 기억이 기존 지식으로 빈틈을 메우는 과정이라면, 이는 정확한 복제가 아닌 '상상적인(imaginative)' 과정이라고 결론 내릴 수 있습니다. (B)에서 'systematic(체계적인)'은 'not random'과 유사한 의미이지만, 본문에서 사용된 단어는 'random'이므로, 'not random'이 더 직접적인 답이 됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Surprisingly, however, errors in memory were not random. ① Rather, subjects often rewrote similar parts of the stories in their own minds ─ particularly the parts that made the least sense to them. ② Folktales often serve to transmit cultural values and morals from one generation to the next. ③ Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. ④ Therefore, remembering is an imaginative process that involves building upon past experiences.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Bartlett의 실험을 통해 기억이 작동하는 심리적 '과정'을 설명하는 데 초점을 맞추고 있습니다. ①, ③, ④번 문장은 모두 기억 오류의 패턴, 그 원인(스키마), 그리고 기억의 본질(상상적 과정)에 대해 논리적으로 연결됩니다. 하지만 ②번 문장 '민담은 종종 한 세대에서 다음 세대로 문화적 가치와 도덕을 전달하는 역할을 한다'는 민담의 '사회적 기능'에 대한 설명으로, 기억의 심리적 메커니즘이라는 글의 중심 주제에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "In the 1930s, the British psychologist Sir Frederic Bartlett asked people ① [to listen / listening] to folktales from other countries and then recall these stories at a later date. Surprisingly, however, errors in memory were not ② [random / randomly]. Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves ③ [building / to build] upon past experiences.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to listen",
+          "explanation": "동사 'ask'는 5형식으로 쓰일 때 목적격 보어 자리에 to부정사를 사용합니다 ('ask + 목적어 + to부정사'). 따라서 'to listen'이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "random",
+          "explanation": "be동사 'were'의 보어 자리에는 형용사가 와야 합니다. 'random'은 '무작위의'라는 뜻의 형용사이고, 'randomly'는 부사입니다. 따라서 형용사인 'random'이 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "building",
+          "explanation": "동사 'involves'는 목적어로 동명사(V-ing)나 명사를 취합니다. '과거 경험을 바탕으로 구축하는 것'이라는 의미이므로 동명사 'building'이 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

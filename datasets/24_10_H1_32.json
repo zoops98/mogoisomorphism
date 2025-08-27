@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "How much we suffer relates to how we frame the pain in our mind.\nWhen 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much.\nIn fact, ultramarathon runners ─ those people who are crazy enough to push themselves beyond the normal boundaries of human endurance, covering distances of 50-100km or more over many hours, talk about making friends with their pain.\nWhen a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value, even though the practitioner is pushing right into the patient's sore tissues.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to promote ultramarathons as a beneficial exercise" },
+        { "number": "②", "text": "to compare the pain tolerance of athletes and patients" },
+        { "number": "③", "text": "to advertise a new form of therapy for back pain" },
+        { "number": "④", "text": "to explain how mental framing affects the experience of pain" },
+        { "number": "⑤", "text": "to describe the physiological process of muscle soreness" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 첫 문장에서 '우리가 얼마나 고통받는지는 우리가 마음속에서 고통을 어떻게 구성하는지와 관련이 있다'고 주제를 명확히 제시합니다. 이후 달리기 선수와 환자의 예를 들어, 고통에 대한 정신적 해석(mental framing)이 심리적 고통의 정도를 어떻게 변화시키는지를 설명하고 있습니다. 따라서 글의 주된 목적은 '정신적 구성이 고통의 경험에 어떻게 영향을 미치는지 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "How much we suffer relates to how we frame the pain in our mind.\nWhen 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much.\nIn fact, ultramarathon runners ─ those people who are crazy enough to push themselves beyond the normal boundaries of human endurance, covering distances of 50-100km or more over many hours, talk about making friends with their pain.\nWhen a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value, even though the practitioner is pushing right into the patient's sore tissues.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Pain of Victory: An Athlete's Story" },
+        { "number": "②", "text": "Pain vs. Suffering: A Matter of Mindset" },
+        { "number": "③", "text": "Effective Therapies for Chronic Back Pain" },
+        { "number": "④", "text": "The Limits of Human Endurance" },
+        { "number": "⑤", "text": "Why We Should Avoid Pain at All Costs" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 신체적 '고통(pain)'과 심리적 '괴로움(suffering)'을 구분하며, 후자는 전적으로 우리의 '마음가짐(mindset)' 또는 고통을 어떻게 '구성(frame)'하느냐에 달려있다고 설명합니다. 선수와 환자의 예를 통해 이를 뒷받침하므로, '고통 대 괴로움: 마음가짐의 문제'라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "How much we suffer relates to how we frame the pain in our mind.\nWhen 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much.\nIn fact, ultramarathon runners ─ those people who are crazy enough to push themselves beyond the normal boundaries of human endurance, covering distances of 50-100km or more over many hours, talk about making friends with their pain.\nWhen a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value, even though the practitioner is pushing right into the patient's sore tissues.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The amount of psychological suffering we experience depends on the mental framework we apply to our physical pain." },
+        { "number": "②", "text": "Long-distance runners experience less physical pain than other athletes because of their unique mental and physical training." },
+        { "number": "③", "text": "Passive back pain therapy is only effective if the practitioner applies an extremely high level of painful pressure." },
+        { "number": "④", "text": "The human mind is capable of completely eliminating all sensations of physical pain through positive thinking and framing." },
+        { "number": "⑤", "text": "It is psychologically better to avoid any kind of painful experience rather than trying to find meaning within it." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 첫 문장에 명시된 바와 같이, 우리가 겪는 심리적 고통의 양은 신체적 고통 그 자체가 아니라 그 고통에 부여하는 정신적 틀(mental framework)에 달려 있다는 것입니다. 달리기 선수와 환자의 사례는 모두 이 주장을 뒷받침하는 예시입니다. 따라서 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "How much we suffer relates to how we frame the pain in our mind. When 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much. ( ① ) When a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value. ( ② ) This belief transforms the perception of the sensation. ( ③ ) For them, the pain is a signal of healing and progress, not of damage. ( ④ ) This psychological reframing is a powerful tool in managing discomfort. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In fact, ultramarathon runners ─ those people who are crazy enough to push themselves beyond the normal boundaries of human endurance, covering distances of 50-100km or more over many hours, talk about making friends with their pain.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '고통과 친구가 된다'고 말하는 울트라마라톤 선수들의 극단적인 예를 소개합니다. 이 문장은 1500m 선수들이 심리적으로 많이 고통받지 않는다는 내용을 설명한 직후에 위치하여, 'In fact(사실은)'라는 연결어를 통해 운동선수의 예를 심화 및 확장하는 역할을 합니다. 그 다음, 환자의 예시로 화제가 전환되기 전에 오는 것이 가장 자연스러운 흐름입니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "How much we suffer relates to how we frame the pain in our mind.",
+      "question_blocks": {
+        "A": "In fact, ultramarathon runners ─ those people who are crazy enough to push themselves beyond the normal boundaries of human endurance, talk about making friends with their pain.",
+        "B": "When a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value.",
+        "C": "When 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 문장은 고통을 구성하는 방식이 중요다는 핵심 주장을 제시합니다. (C)에서 첫 번째 예시로 1500m 달리기 선수의 경우를 설명합니다. (A)에서는 'In fact'를 사용하여 (C)의 운동선수 예시를 울트라마라톤 선수라는 더 극단적인 사례로 심화시킵니다. 마지막으로 (B)에서는 완전히 다른 맥락인 환자의 사례를 들어 핵심 주장을 다시 한번 뒷받침합니다. 따라서 (C)-(A)-(B)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "How much we suffer relates to how we frame the pain in our mind.\nWhen 1500m runners push themselves into extreme pain to win a race, they don't psychologically suffer much. In fact, ultramarathon runners talk about making friends with their pain.\nWhen a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will [____________________], even though the practitioner is pushing right into the patient's sore tissues.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "cause further injury" },
+        { "number": "②", "text": "be covered by insurance" },
+        { "number": "③", "text": "be of value" },
+        { "number": "④", "text": "be over quickly" },
+        { "number": "⑤", "text": "feel completely numb" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 고통에 대한 정신적 해석이 중요하다고 말합니다. 환자가 아픈 치료를 '좋은 고통'이라고 부르는 이유는 그 치료가 자신에게 도움이 될 것이라는 믿음 때문입니다. 즉, 그 치료가 '가치가 있을 것(be of value)'이라고 믿기 때문에 고통을 긍정적으로 해석하는 것입니다. 따라서 빈칸에는 ③번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "How much we suffer relates to how we ① [frame] the pain in our mind. When 1500m runners push themselves into ② [extreme] pain to win a race, they don't psychologically suffer much. In fact, ultramarathon runners talk about making friends with their pain. When a patient has paid for some form of ③ [passive] back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she ④ [doubts] this type of deep pressure treatment will be of value, even though the practitioner is pushing right into the patient's ⑤ [sore] tissues.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① frame" },
+        { "number": "②", "text": "② extreme" },
+        { "number": "③", "text": "③ passive" },
+        { "number": "④", "text": "④ doubts" },
+        { "number": "⑤", "text": "⑤ sore" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "환자가 아픈 치료를 '좋은 고통'이라고 부르는 이유는 그 치료가 가치가 있을 것이라고 '믿기(believes)' 때문입니다. 만약 환자가 치료의 가치를 '의심한다면(doubts)', 그 고통을 좋다고 부를 이유가 없습니다. 따라서 ④번 'doubts'는 문맥의 흐름에 맞지 않으며, 'believes'가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "How much we suffer relates to how we (A) [frame] the pain in our mind. When 1500m runners push themselves into (B) [extreme] pain to win a race, they don't psychologically suffer much. In fact, ultramarathon runners talk about making friends with their pain. When a patient has paid for some form of (C) [passive] back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to (D) [mobilise] it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of (E) [value].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) frame: to surround something with a border" },
+        { "number": "②", "text": "(B) extreme: very large in amount or degree" },
+        { "number": "③", "text": "(C) passive: not taking an active part" },
+        { "number": "④", "text": "(D) mobilise: to make something able to move freely" },
+        { "number": "⑤", "text": "(E) value: the importance or worth of something for someone" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 본문에서 'frame'은 '고통을 마음속에서 (특정한 방식으로) 구성하다, 틀을 씌우다'라는 비유적인 의미로 사용되었습니다. 영영 풀이 'to surround something with a border (테두리로 무언가를 둘러싸다)'는 '액자에 넣다'와 같은 물리적인 의미로, 본문의 문맥과 맞지 않습니다. 따라서 ①번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "How much we suffer relates to how we frame the pain in our mind. When 1500m runners push themselves into extreme pain, they don't psychologically (A) [suffer / recover] much. In fact, ultramarathon runners talk about making friends with their pain. When a patient has paid for some form of (B) [active / passive] back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that (C) [good / useless] pain if he or she believes this type of deep pressure treatment will be of value.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "suffer - passive - good" },
+        { "number": "②", "text": "suffer - active - useless" },
+        { "number": "③", "text": "recover - passive - good" },
+        { "number": "④", "text": "recover - active - useless" },
+        { "number": "⑤", "text": "suffer - passive - useless" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 선수들은 극심한 고통을 겪지만 심리적으로는 많이 '고통받지(suffer)' 않습니다. 'recover'는 '회복하다'는 뜻입니다. (B) 환자가 직접 움직이지 않고 시술자가 치료하는 형태이므로 '수동적인(passive)' 허리 통증 치료법입니다. 'active'는 '능동적인'이라는 뜻입니다. (C) 치료가 가치가 있다고 믿기 때문에 환자는 그 고통을 '좋은(good)' 고통이라고 부릅니다. 'useless'는 '쓸모없는'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "How much we suffer relates to how we frame the pain in our mind.\nWhen 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much.\nIn fact, ultramarathon runners talk about making friends with their pain.\nWhen a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value, even though the practitioner is pushing right into the patient's sore tissues.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Our psychological suffering is influenced by our interpretation of pain." },
+        { "number": "②", "text": "1500m runners experience intense physical pain during a race." },
+        { "number": "③", "text": "Ultramarathon runners view pain as something to be embraced." },
+        { "number": "④", "text": "A patient considers any deep pressure from a practitioner to be bad pain." },
+        { "number": "⑤", "text": "Belief in a treatment's value can change how pain is perceived." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 환자가 치료가 가치가 있을 것이라고 믿는다면, 시술자가 가하는 깊은 압박을 '좋은 고통(good pain)'이라고 부른다고 명시하고 있습니다. 따라서 환자가 시술자의 모든 깊은 압박을 나쁜 고통으로 간주한다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① How much we suffer [relates / relating] to how we frame the pain in our mind. ② When 1500m runners push themselves into extreme pain to win a race ─ their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much. ③ In fact, ultramarathon runners ─ those people who are crazy enough [to push / pushing] themselves beyond the normal boundaries of human endurance, talk about making friends with their pain. ④ When a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to [mobilise / be mobilised] it...",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "relates",
+          "explanation": "이 문장의 주어는 명사절인 'How much we suffer'입니다. 명사절 주어는 단수 취급하므로, 단수 동사인 'relates'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to push",
+          "explanation": "'be + 형용사 + enough + to부정사' 구문은 '~할 만큼 충분히 ...하다'는 의미입니다. 따라서 'crazy enough' 뒤에는 to부정사인 'to push'가 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "mobilise",
+          "explanation": "'~하기 위하여'라는 목적을 나타내는 to부정사의 부사적 용법이 필요합니다. 'it' (a painful part of a patient's back)을 '움직이게 하는' 것이므로 능동태인 'to mobilise'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

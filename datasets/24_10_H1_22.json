@@ -1,0 +1,197 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification.\nIt's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.\nSometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.\nIn his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the proper procedures for eyewitness testimony" },
+        { "number": "②", "text": "to argue for the superiority of intuition over deliberate thought" },
+        { "number": "③", "text": "to criticize the research methods used by David Dunning" },
+        { "number": "④", "text": "to recommend a book by Malcolm Gladwell to the reader" },
+        { "number": "⑤", "text": "to teach a logical, step-by-step decision-making process" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 David Dunning의 목격자 증언 실험과 Malcolm Gladwell의 책을 예로 들어, 신중하고 논리적인 숙고보다 첫인상이나 무의식적인 첫 추측과 같은 즉각적이고 직관적인 반응이 더 정확할 수 있음을 보여주고 있습니다. 따라서 글의 주된 목적은 '신중한 사고보다 직관의 우월성을 주장하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification.\nIt's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.\nSometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.\nIn his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Surprising Power of Your First Instinct" },
+        { "number": "②", "text": "How to Improve Your Logical Reasoning" },
+        { "number": "③", "text": "Eyewitnesses: The Pillars of Justice" },
+        { "number": "④", "text": "Deliberation: The Key to Accuracy" },
+        { "number": "⑤", "text": "The Dangers of Making Quick Decisions" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 첫인상, 즉각적이고 자동적인 반응, 그리고 무의식적인 첫 추측이 신중한 분석보다 더 정확하고 우월할 수 있다는 점을 여러 연구를 통해 강조하고 있습니다. 따라서 '당신의 첫 번째 본능의 놀라운 힘'이라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification.\nIt's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.\nSometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.\nIn his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Immediate and intuitive judgments can often be more accurate than conclusions reached through careful and logical deliberation." },
+        { "number": "②", "text": "To ensure accuracy in eyewitness testimony, a detailed and careful discussion of facial features is absolutely essential." },
+        { "number": "③", "text": "Logical step-by-step justifications consistently outperform unconscious first guesses when making any important life decisions." },
+        { "number": "④", "text": "David Dunning's experiments proved that all eyewitness testimonies are fundamentally unreliable and should be completely dismissed." },
+        { "number": "⑤", "text": "Developing a reasoned self-narrative is the most reliable method for interpreting what our mind is telling us." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 신중한 숙고가 오히려 부정확한 식별의 신호가 될 수 있으며, 설명할 수 없는 즉각적인 반응이 더 정확할 때가 많다고 주장합니다. 또한 무의식적인 첫 추측이 논리적 정당화보다 우월한 성과를 보인다는 연구를 인용합니다. 따라서 '즉각적이고 직관적인 판단이 신중하고 논리적인 숙고를 통해 도달한 결론보다 종종 더 정확할 수 있다'는 ①번이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification. It's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often. ( ① ) That very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be. ( ② ) In his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision. ( ③ ) These findings challenge the common assumption that more thought always leads to better decisions. ( ④ ) Therefore, it can be beneficial to sometimes trust our gut feelings. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '때때로 상황에 대한 우리의 첫, 즉각적, 자동적 반응이 우리 마음이 말하는 가장 진실한 해석이다'라는 일반적인 원리를 제시합니다. 이 문장은 목격자 증언이라는 구체적인 예시('...that they tend to be accurate more often.')를 설명한 후, 그리고 그 원리를 '바로 그 첫인상(That very first impression)'이라는 말로 다시 한번 강조하며 부연 설명하기 전에 위치하는 것이 가장 자연스럽습니다. 즉, 구체적 사례에서 일반적 원리를 도출하는 다리 역할을 합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification.",
+      "question_blocks": {
+        "A": "Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us. That very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.",
+        "B": "It's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.",
+        "C": "In his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '신중한 숙고가 부정확함의 신호일 수 있다'는 Dunning의 연구 결과를 제시합니다. (B)에서 'It's when...' 구문을 사용하여, 반대로 정확할 때는 언제인지를 설명하며 주어진 글의 내용과 대조를 이룹니다. (A)에서 (B)의 사례를 일반화하여 '때때로 우리의 첫 반응이 가장 진실하다'는 원리를 제시합니다. 마지막으로 (C)에서 Malcolm Gladwell의 책을 인용하며 (A)에서 제시된 원리를 뒷받침하는 추가적인 증거를 제시합니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification.\nIt's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.\nSometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than [____________________] can be.\nIn his book Blink, Malcolm Gladwell describes a variety of studies that demonstrate the superior performance of relatively unconscious first guesses.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "an emotional and biased judgment" },
+        { "number": "②", "text": "the collective wisdom of a group" },
+        { "number": "③", "text": "a memory from early childhood" },
+        { "number": "④", "text": "the deliberative, reasoned self-narrative" },
+        { "number": "⑤", "text": "a completely random, uninformed guess" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '첫인상(first impression)'과 '즉각적인 반응(immediate reaction)'을 '신중한 숙고(careful deliberation)'와 대조하고 있습니다. 빈칸은 첫인상이 무엇보다 더 정확할 수 있는지를 묻고 있으며, 글의 전체적인 대조 구조에 따라 '신중하고, 이성적인 자기 서술'이 들어가는 것이 가장 적절합니다. 이는 즉각적이고 직관적인 판단의 반대 개념을 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a ① [careful] deliberation of facial features can actually be a sign of an ② [inaccurate] identification.\nIt's when people find themselves unable to explain why they recognize the person that they tend to be ③ [accurate] more often.\nSometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.\nIn his book Blink, Malcolm Gladwell describes studies that demonstrate the ④ [inferior] performance of relatively unconscious first guesses compared to ⑤ [logical] step-by-step justifications for a decision.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① careful" },
+        { "number": "②", "text": "② inaccurate" },
+        { "number": "③", "text": "③ accurate" },
+        { "number": "④", "text": "④ inferior" },
+        { "number": "⑤", "text": "⑤ logical" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 전체적인 내용은 무의식적인 첫 추측이 논리적 정당화보다 '우월하다'는 것입니다. 따라서 Gladwell의 책이 '무의식적인 첫 추측'의 '열등한(inferior)' 성과를 보여준다고 하는 것은 문맥에 맞지 않습니다. '우월한(superior)'이라는 단어가 들어가야 글의 흐름이 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found (A) [evidence] that a careful deliberation of facial features can actually be a sign of an inaccurate identification.\nIt's when people find themselves unable to (B) [explain] why they recognize the person, that they tend to be accurate more often.\nSometimes our first, immediate, (C) [automatic] reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.\nIn his book Blink, Malcolm Gladwell describes a variety of studies that demonstrate the (D) [superior] performance of relatively unconscious first guesses compared to logical step-by-step (E) [justifications] for a decision.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) evidence: facts or signs that show that something is true" },
+        { "number": "②", "text": "(B) explain: to make something clear or easy to understand by giving reasons for it" },
+        { "number": "③", "text": "(C) automatic: done or happening without conscious thought or intention" },
+        { "number": "④", "text": "(D) superior: better than average or better than other things of the same type" },
+        { "number": "⑤", "text": "(E) justifications: decisions made quickly based on feelings or instinct" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'justifications'는 결정이나 행동에 대해 설명하거나 방어하기 위해 제시하는 '정당한 이유, 정당화'를 의미합니다. 영영 풀이 'decisions made quickly based on feelings or instinct (감정이나 본능에 기반하여 빠르게 내려진 결정)'는 'hunches' 또는 'intuitive judgments'에 대한 설명에 더 가깝습니다. 따라서 ⑤번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an (A) [accurate / inaccurate] identification.\nIt's when people find themselves (B) [able / unable] to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.\nIn his book Blink, Malcolm Gladwell describes a variety of studies that demonstrate the (C) [superior / inferior] performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "accurate - able - superior" },
+        { "number": "②", "text": "accurate - unable - inferior" },
+        { "number": "③", "text": "inaccurate - unable - superior" },
+        { "number": "④", "text": "inaccurate - able - inferior" },
+        { "number": "⑤", "text": "inaccurate - unable - inferior" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(A) 신중한 숙고는 오히려 '부정확한(inaccurate)' 식별의 신호가 될 수 있다고 했습니다. (B) 사람들이 왜 그 사람을 알아보는지 설명할 수 '없을(unable)' 때 더 정확한 경향이 있다고 했습니다. (C) 무의식적인 첫 추측은 논리적 정당화에 비해 '우월한(superior)' 성과를 보인다고 했습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful deliberation of facial features and a detailed discussion of selection procedures can actually be a sign of an inaccurate identification.\nIt's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often.\nSometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.\nThat very first impression can also be more accurate about the world than the deliberative, reasoned self-narrative can be.\nIn his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively unconscious first guesses compared to logical step-by-step justifications for a decision.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "David Dunning's experiment suggested careful deliberation could indicate inaccuracy." },
+        { "number": "②", "text": "An eyewitness who cannot explain their choice is often more reliable." },
+        { "number": "③", "text": "A reasoned, logical analysis is always more accurate than a first impression." },
+        { "number": "④", "text": "An automatic, immediate reaction can be a very truthful interpretation." },
+        { "number": "⑤", "text": "Malcolm Gladwell's book provides studies supporting the power of intuition." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 첫인상이나 즉각적인 반응이 '이성적이고 논리적인 분석(reasoned, logical analysis)'보다 더 정확할 수 있다고 반복해서 주장합니다('That very first impression can also be more accurate...'). 따라서 이성적 분석이 '항상(always)' 더 정확하다는 ③번은 글의 내용과 명백히 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence [that / which] a careful deliberation... can actually be a sign of an inaccurate identification. ② It's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" [that / who] they tend to be accurate more often. ③ Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind [is telling / telling] us. ④ In his book Blink, Malcolm Gladwell describes a variety of studies... that [demonstrate / demonstrates] the superior performance of relatively unconscious first guesses...",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "뒤따르는 절 'a careful deliberation... can... be a sign...'은 완전한 문장입니다. 이 절은 앞의 명사 'evidence'와 동격의 관계를 이루므로, 동격절을 이끄는 접속사 'that'이 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "that",
+          "explanation": "이 문장은 'It is ~ that ...' 강조 구문입니다. 부사절인 'when people find...'을 강조하고 있으므로, 강조 구문을 완성하는 'that'을 사용해야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "is telling",
+          "explanation": "간접의문문 'what our mind is telling us'에서 'our mind'가 주어이므로, 뒤에는 동사가 와야 합니다. 현재진행형 시제 'is telling'이 적절합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "demonstrate",
+          "explanation": "관계대명사 'that'의 선행사는 'a variety of studies'입니다. 'studies'는 복수 명사이므로, 관계대명사절의 동사도 복수형인 'demonstrate'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

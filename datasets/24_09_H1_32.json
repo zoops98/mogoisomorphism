@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Every time a new medium comes along ─ whether it's the invention of the printed book, or TV, or SNS ─ and you start to use it, it's like you are putting on a new kind of goggles, with their own special colors and lenses.\nEach set of goggles you put on makes you see things differently.\nSo when you start to watch television, before you absorb the message of any particular TV show ─ whether it's Wheel of Fortune or The Wire ─ you start to see the world as being shaped like television itself.\nThat's why Marshall McLuhan said that every time a new medium comes along ─ a new way for humans to communicate ─ it has buried in it a message.\nIt is gently guiding us to see the world according to a new set of codes.\nThe way information gets to you, McLuhan argued, is more important than the information itself.\nTV teaches you that the world is fast; that it's about surfaces and appearances.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the superficiality of television"
+        },
+        {
+          "number": "②",
+          "text": "to compare the effects of different types of media"
+        },
+        {
+          "number": "③",
+          "text": "to explain a theory on how media shapes perception"
+        },
+        {
+          "number": "④",
+          "text": "to encourage people to read more printed books"
+        },
+        {
+          "number": "⑤",
+          "text": "to recommend specific TV shows like The Wire"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 마샬 맥루언의 이론을 중심으로, 새로운 미디어가 등장할 때마다 그 미디어의 형식 자체가 우리의 세계관과 인식(perception)을 어떻게 형성하는지에 대해 설명하고 있습니다. '고글'의 비유를 사용하여, 미디어의 내용보다 형식이 더 중요하다는 이론을 독자가 이해하기 쉽게 전달하는 것이 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Every time a new medium comes along ─ whether it's the invention of the printed book, or TV, or SNS ─ and you start to use it, it's like you are putting on a new kind of goggles, with their own special colors and lenses.\nEach set of goggles you put on makes you see things differently.\nSo when you start to watch television, before you absorb the message of any particular TV show ─ whether it's Wheel of Fortune or The Wire ─ you start to see the world as being shaped like television itself.\nThat's why Marshall McLuhan said that every time a new medium comes along ─ a new way for humans to communicate ─ it has buried in it a message.\nIt is gently guiding us to see the world according to a new set of codes.\nThe way information gets to you, McLuhan argued, is more important than the information itself.\nTV teaches you that the world is fast; that it's about surfaces and appearances.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Medium's Message: More Than Just Content"
+        },
+        {
+          "number": "②",
+          "text": "A Brief History of Human Communication"
+        },
+        {
+          "number": "③",
+          "text": "The Dangers of Modern Social Networking"
+        },
+        {
+          "number": "④",
+          "text": "How Television Manipulates Our Minds"
+        },
+        {
+          "number": "⑤",
+          "text": "The Rise and Fall of Printed Books"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 마샬 맥루언의 유명한 구절 '미디어는 메시지다'를 설명하고 있습니다. 즉, 미디어의 내용(content)보다 정보를 전달하는 방식(medium) 자체가 우리에게 더 중요한 메시지를 전달한다는 것입니다. '미디어의 메시지: 단순한 내용을 넘어서'라는 제목은 이러한 핵심 아이디어를 가장 정확하게 포착합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Every time a new medium comes along ─ whether it's the invention of the printed book, or TV, or SNS ─ and you start to use it, it's like you are putting on a new kind of goggles, with their own special colors and lenses.\nEach set of goggles you put on makes you see things differently.\nSo when you start to watch television, before you absorb the message of any particular TV show ─ whether it's Wheel of Fortune or The Wire ─ you start to see the world as being shaped like television itself.\nThat's why Marshall McLuhan said that every time a new medium comes along ─ a new way for humans to communicate ─ it has buried in it a message.\nIt is gently guiding us to see the world according to a new set of codes.\nThe way information gets to you, McLuhan argued, is more important than the information itself.\nTV teaches you that the world is fast; that it's about surfaces and appearances.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The specific content of a media message is far more influential than the medium it is delivered through."
+        },
+        {
+          "number": "②",
+          "text": "The medium itself shapes our perception of the world more profoundly than the actual information it conveys."
+        },
+        {
+          "number": "③",
+          "text": "Newer media like social networking services have a stronger impact on us than older media like television."
+        },
+        {
+          "number": "④",
+          "text": "People should consciously resist the hidden messages that are buried within every new form of media."
+        },
+        {
+          "number": "⑤",
+          "text": "Television's primary lesson is that the world operates at a high speed and values appearances."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '정보가 당신에게 도달하는 방식이 정보 그 자체보다 더 중요하다'는 마샬 맥루언의 주장을 중심으로 전개됩니다. 이는 미디어의 형식, 즉 매체(medium) 자체가 그것이 전달하는 구체적인 정보(information)나 내용보다 우리의 인식을 더 근본적으로 형성한다는 의미입니다. 따라서 '매체 자체가 그것이 전달하는 실제 정보보다 우리의 세계 인식을 더 심오하게 형성한다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Every time a new medium comes along and you start to use it, it's like putting on a new kind of goggles.\nEach set of goggles makes you see things differently.\nSo when you start to watch television, before you absorb the message of any particular TV show, you start to see the world as being shaped like television itself. ( ① ) That's why Marshall McLuhan said that every time a new medium comes along, it has buried in it a message. ( ② ) The way information gets to you, McLuhan argued, is more important than the information itself. ( ③ ) TV teaches you that the world is fast; that it's about surfaces and appearances. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**It is gently guiding us to see the world according to a new set of codes.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '그것(It)'이 우리를 부드럽게 이끌어 새로운 규칙에 따라 세상을 보게 만든다고 설명합니다. 여기서 'It'은 바로 앞 문장 ②에서 언급된, 새로운 미디어 속에 '묻혀 있는 메시지(a message buried in it)'를 가리킵니다. 따라서 미디어 속에 메시지가 묻혀 있다는 맥루언의 말을 인용한 직후인 ②에 들어가, 그 메시지가 어떤 역할을 하는지 부연 설명하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Every time a new medium comes along ─ whether it's the invention of the printed book, or TV, or SNS ─ and you start to use it, it's like you are putting on a new kind of goggles, with their own special colors and lenses.",
+      "question_blocks": {
+        "A": "That's why Marshall McLuhan said that every time a new medium comes along — a new way for humans to communicate — it has buried in it a message. It is gently guiding us to see the world according to a new set of codes.",
+        "B": "Each set of goggles you put on makes you see things differently. So when you start to watch television, before you absorb the message of any particular TV show, you start to see the world as being shaped like television itself.",
+        "C": "The way information gets to you, McLuhan argued, is more important than the information itself. TV teaches you that the world is fast; that it's about surfaces and appearances."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 새로운 미디어를 '고글'에 비유합니다. (B)에서 이 '고글' 비유를 이어받아, 각각의 고글(미디어)이 세상을 다르게 보게 만들며 TV를 예로 듭니다. (A)에서 'That's why'를 사용하여 (B)의 현상을 마샬 맥루언의 '미디어 속 메시지' 이론과 연결합니다. (C)에서 맥루언 이론의 핵심('정보 전달 방식 > 정보 자체')을 명확히 설명하고, TV가 전달하는 메시지의 구체적인 내용을 예로 들며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Every time a new medium comes along ─ whether it's the invention of the printed book, or TV, or SNS ─ and you start to use it, it's like you are putting on a new kind of goggles, with their own special colors and lenses.\nEach set of goggles you put on makes you see things differently.\nSo when you start to watch television, before you absorb the message of any particular TV show you start to see the world as being shaped like ____________________.\nThat's why Marshall McLuhan said that every time a new medium comes along it has buried in it a message.\nIt is gently guiding us to see the world according to a new set of codes.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the show's main character"
+        },
+        {
+          "number": "②",
+          "text": "a printed book"
+        },
+        {
+          "number": "③",
+          "text": "your own personal values"
+        },
+        {
+          "number": "④",
+          "text": "television itself"
+        },
+        {
+          "number": "⑤",
+          "text": "a set of rules"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 미디어의 내용이 아니라 형식, 즉 미디어 자체가 우리의 인식을 형성한다고 주장합니다. 텔레비전을 예로 들면서, 특정 TV 쇼의 메시지를 흡수하기 전에 우리는 세상을 '텔레비전 그 자체처럼(like television itself)' 보도록 영향을 받는다고 설명합니다. 이는 미디어의 형식이 우리의 세계관을 규정한다는 핵심 주장을 구체화하는 부분입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Every time a new medium comes along, it's like you are putting on a new kind of goggles, with their own special colors and lenses.\nEach set of goggles you put on makes you see things ①<u>differently</u>.\nSo when you start to watch television, before you ②<u>absorb</u> the message of any particular TV show, you start to see the world as being ③<u>shaped</u> like television itself.\nThat's why Marshall McLuhan said that every time a new medium comes along it has ④<u>revealed</u> in it a message.\nIt is gently guiding us to see the world according to a new set of codes.\nThe way information gets to you is more important than the information itself.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "마샬 맥루언은 새로운 미디어가 그 안에 메시지를 '숨기고 있다' 또는 '묻어두고 있다'고 보았습니다. 이 메시지는 명시적이지 않고 미디어의 형식 자체에 내재되어 있기 때문입니다. 따라서 '드러내다(revealed)'는 문맥상 적절하지 않으며, '묻혀있는(buried)'이 올바른 표현입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Every time a new (A)<u>medium</u> comes along, it's like you are putting on new goggles.\nEach set of goggles makes you see things differently.\nSo when you start to watch television, before you (B)<u>absorb</u> the message of any (C)<u>particular</u> TV show, you start to see the world as being shaped like television itself.\nThat's why Marshall McLuhan said that every time a new medium comes along, it has (D)<u>buried</u> in it a message.\nIt is gently (E)<u>guiding</u> us to see the world according to a new set of codes.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) medium: a way of communicating information and ideas, especially to a lot of people"
+        },
+        {
+          "number": "②",
+          "text": "(B) absorb: to take in and understand information"
+        },
+        {
+          "number": "③",
+          "text": "(C) particular: relating to the whole of something, not just one part"
+        },
+        {
+          "number": "④",
+          "text": "(D) buried: hidden deep inside something"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) guiding: helping someone to do something by showing them the way"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'particular'는 '특정한'이라는 의미로, 여러 TV 쇼 중 어느 하나를 지칭하는 데 사용되었습니다. 제시된 영영 풀이('relating to the whole of something, not just one part' - 단지 한 부분이 아니라 전체에 관련된)는 'general'이나 'overall'에 가까운 의미이므로, 'specific'의 의미를 가진 'particular'와는 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Each set of goggles you put on makes you see things (A)[differently / similarly].\nSo when you start to watch television, before you absorb the message of any particular TV show, you start to see the world as being shaped like television itself.\nThat's why Marshall McLuhan said that every time a new medium comes along, it has (B)[buried / exposed] in it a message.\nIt is gently guiding us to see the world according to a new set of codes.\nThe way information gets to you, McLuhan argued, is (C)[more / less] important than the information itself.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "differently - buried - more"
+        },
+        {
+          "number": "②",
+          "text": "differently - exposed - less"
+        },
+        {
+          "number": "③",
+          "text": "similarly - buried - more"
+        },
+        {
+          "number": "④",
+          "text": "similarly - exposed - less"
+        },
+        {
+          "number": "⑤",
+          "text": "differently - buried - less"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 새로운 미디어라는 '고글'은 세상을 '비슷하게(similarly)'가 아니라 '다르게(differently)' 보게 만듭니다. (B) 미디어의 메시지는 명시적으로 '노출된(exposed)' 것이 아니라 그 형식 안에 '묻혀(buried)' 있습니다. (C) 맥루언의 핵심 주장은 정보 전달 방식(매체)이 정보 그 자체보다 '덜(less)' 중요한 것이 아니라 '더(more)' 중요하다는 것입니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "So when you start to watch television, before you absorb the message of any particular TV show, you start to see the world as being shaped like television itself. ① That's why Marshall McLuhan said that every time a new medium comes along, it has buried in it a message. ② It is gently guiding us to see the world according to a new set of codes. ③ Many popular TV shows are produced in large studios with expensive equipment and a large crew. ④ The way information gets to you, McLuhan argued, is more important than the information itself. ⑤ TV teaches you that the world is fast; that it's about surfaces and appearances.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 미디어의 '형식'이 어떻게 우리의 '인식'을 형성하는지에 대한 이론을 설명하고 있습니다. 그러나 ③번 문장은 TV 쇼가 '어떻게 제작되는지'(스튜디오, 장비, 제작진)에 대한 물리적, 산업적 사실을 언급하고 있습니다. 이는 미디어 이론이라는 글의 핵심 주제에서 벗어나므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Every time a new medium comes along, it's like you are putting on a new kind of goggles. Each set of goggles you put on ①[make / makes] you see things differently. So when you start to watch television, before you absorb the message of any particular TV show, you start to see the world as being ②[shaped / shaping] like television itself. That's why Marshall McLuhan said that every time a new medium comes along it has buried in it a message. It is gently guiding us to see the world according to a new set of codes. The way information gets to you, McLuhan argued, ③[is / are] more important than the information itself.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "makes",
+          "explanation": "문장의 주어는 'Each set of goggles'입니다. of 뒤의 복수 명사 'goggles'가 아니라 단수 표현인 'Each set'이 핵심 주어이므로, 3인칭 단수 동사인 'makes'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "shaped",
+          "explanation": "'see A as B' 구문에서 A(the world)가 B(shaped like television itself)의 동작을 당하는 수동 관계입니다. '세상이 텔레비전처럼 형성되는 것'으로 보는 것이므로 과거분사 'shaped'가 맞습니다. 'being'이 생략된 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "is",
+          "explanation": "문장의 주어는 'The way information gets to you'라는 명사절입니다. 명사절이나 명사구는 단수 취급하므로 단수 동사 'is'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

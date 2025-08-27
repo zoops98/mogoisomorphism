@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "You hear again and again that some of the greatest composers were misunderstood in their own day.\nNot everyone could understand the compositions of Beethoven, Brahms, or Stravinsky in their day.\nThe reason for this initial lack of acceptance is unfamiliarity.\nThe musical forms, or ideas expressed within them, were completely new.\nAnd yet, this is exactly one of the things that makes them so great.\nEffective composers have their own ideas.\nHave you ever seen the classic movie Amadeus?\nThe composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers ― he lived at the time of Mozart and was completely overshadowed by him.\nNow, Salieri wasn't a bad composer; in fact, he was a very good one.\nBut he wasn't one of the world's great composers because his work wasn't original.\nWhat he wrote sounded just like what everyone else was composing at the time.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare the music of Mozart and Salieri"
+        },
+        {
+          "number": "②",
+          "text": "to explain the reason for the unpopularity of classical music"
+        },
+        {
+          "number": "③",
+          "text": "to define what makes a musical composer truly great"
+        },
+        {
+          "number": "④",
+          "text": "to recommend watching the classic movie Amadeus"
+        },
+        {
+          "number": "⑤",
+          "text": "to criticize composers who lack technical skill"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 위대한 작곡가들이 당대에 오해받았던 이유가 새로움과 낯설음 때문이라고 설명하며, 바로 그 독창성이 위대함의 핵심이라고 주장합니다. 살리에리를 예로 들어, 그가 훌륭한 작곡가였음에도 불구하고 독창성이 부족하여 위대한 작곡가가 되지 못했다고 설명합니다. 따라서 글의 주된 목적은 진정으로 위대한 작곡가를 만드는 것이 무엇인지(즉, 독창성)를 정의하고 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "You hear again and again that some of the greatest composers were misunderstood in their own day.\nNot everyone could understand the compositions of Beethoven, Brahms, or Stravinsky in their day.\nThe reason for this initial lack of acceptance is unfamiliarity.\nThe musical forms, or ideas expressed within them, were completely new.\nAnd yet, this is exactly one of the things that makes them so great.\nEffective composers have their own ideas.\nHave you ever seen the classic movie Amadeus?\nThe composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers ― he lived at the time of Mozart and was completely overshadowed by him.\nNow, Salieri wasn't a bad composer; in fact, he was a very good one.\nBut he wasn't one of the world's great composers because his work wasn't original.\nWhat he wrote sounded just like what everyone else was composing at the time.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Originality: The True Mark of a Great Composer"
+        },
+        {
+          "number": "②",
+          "text": "Amadeus: A Story of Rivalry and Genius"
+        },
+        {
+          "number": "③",
+          "text": "Why We Misunderstand Great Art"
+        },
+        {
+          "number": "④",
+          "text": "Salieri: A Good, But Not Great, Composer"
+        },
+        {
+          "number": "⑤",
+          "text": "The Unchanging Forms of Classical Music"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 위대한 작곡가를 만드는 결정적인 요소가 기술적 숙련도가 아니라 '독창성(Originality)'이라는 것입니다. 위대한 작곡가들은 새로움 때문에 오해받았고, 살리에리는 독창성이 없어 위대하지 못했다는 내용이 이를 뒷받침합니다. 따라서 '독창성: 위대한 작곡가의 진정한 징표'라는 제목이 글 전체의 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "You hear again and again that some of the greatest composers were misunderstood in their own day.\nNot everyone could understand the compositions of Beethoven, Brahms, or Stravinsky in their day.\nThe reason for this initial lack of acceptance is unfamiliarity.\nThe musical forms, or ideas expressed within them, were completely new.\nAnd yet, this is exactly one of the things that makes them so great.\nEffective composers have their own ideas.\nHave you ever seen the classic movie Amadeus?\nThe composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers ― he lived at the time of Mozart and was completely overshadowed by him.\nNow, Salieri wasn't a bad composer; in fact, he was a very good one.\nBut he wasn't one of the world's great composers because his work wasn't original.\nWhat he wrote sounded just like what everyone else was composing at the time.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The greatness of a composer is determined by their originality, not by their initial popularity or acceptance."
+        },
+        {
+          "number": "②",
+          "text": "Antonio Salieri failed as a composer because he was completely overshadowed by the genius of Mozart."
+        },
+        {
+          "number": "③",
+          "text": "Most audiences are unable to appreciate new musical forms because they lack sufficient musical education."
+        },
+        {
+          "number": "④",
+          "text": "To be considered a good composer, one must create music that sounds like other popular works."
+        },
+        {
+          "number": "⑤",
+          "text": "The movie Amadeus accurately portrays the historical relationship between the composers Mozart and Salieri."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 위대한 작곡가들이 처음에는 낯설고 새로운 음악 때문에 대중에게 받아들여지지 않았지만, 바로 그 독창성이 위대함의 근원이라고 설명합니다. 살리에리의 예를 통해, 기술적으로 뛰어나도 독창성이 없으면 위대해질 수 없다고 말합니다. 따라서 '작곡가의 위대함은 초기 인기나 수용 여부가 아닌 독창성에 의해 결정된다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "You hear again and again that some of the greatest composers were misunderstood in their own day. The reason for this initial lack of acceptance is unfamiliarity. The musical forms were completely new. And yet, this is exactly what makes them so great. Effective composers have their own ideas. Have you ever seen the classic movie Amadeus? The composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers ― he lived at the time of Mozart and was completely overshadowed by him. ( ① ) But he wasn't one of the world's great composers because his work wasn't original. ( ② ) What he wrote sounded just like what everyone else was composing at the time. ( ③ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Now, Salieri wasn't a bad composer; in fact, he was a very good one.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 살리에리가 나쁜 작곡가가 아니라 사실은 매우 훌륭했다는 점을 명확히 합니다. ①의 앞 문장에서 살리에리가 '위대하지 않은(Nongreat)' 작곡가로 묘사되는데, 바로 뒤에 그의 실력은 좋았다는 부연 설명을 덧붙여야 '위대하지 않은' 이유가 실력 부족이 아님을 분명히 할 수 있습니다. 그 뒤에 '그러나 그의 작품이 독창적이지 않았기 때문에 위대한 작곡가는 아니었다'는 설명이 이어지는 것이 논리적으로 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "You hear again and again that some of the greatest composers were misunderstood in their own day. Not everyone could understand the compositions of Beethoven, Brahms, or Stravinsky in their day.",
+      "question_blocks": {
+        "A": "Effective composers have their own ideas. Have you ever seen the classic movie Amadeus? The composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers.",
+        "B": "The reason for this initial lack of acceptance is unfamiliarity. The musical forms, or ideas expressed within them, were completely new. And yet, this is exactly one of the things that makes them so great.",
+        "C": "Now, Salieri wasn't a bad composer; in fact, he was a very good one. But he wasn't one of the world's great composers because his work wasn't original. What he wrote sounded just like what everyone else was composing at the time."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 위대한 작곡가들이 당대에 오해받았다는 사실을 제시합니다. (B)에서 그 이유가 바로 '낯설음'과 '새로움' 때문이며, 이것이 위대함의 한 요소라고 설명합니다. (A)에서 이 '새로움'을 '자신만의 아이디어'로 연결하고, 그 반대 사례로 영화 '아마데우스'의 살리에리를 소개합니다. (C)에서 살리에리가 훌륭했지만 독창성이 부족하여 위대하지는 않았다고 구체적으로 설명하며 글의 논지를 강화합니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Now, Salieri wasn't a bad composer; in fact, he was a very good one.\nBut he wasn't one of the world's great composers because ____________________.\nWhat he wrote sounded just like what everyone else was composing at the time.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "he copied Mozart's work directly"
+        },
+        {
+          "number": "②",
+          "text": "the audience was not ready for his ideas"
+        },
+        {
+          "number": "③",
+          "text": "his work wasn't original"
+        },
+        {
+          "number": "④",
+          "text": "he was too focused on teaching"
+        },
+        {
+          "number": "⑤",
+          "text": "his musical forms were too complex"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 살리에리가 '위대한' 작곡가가 아니었던 이유를 설명합니다. 바로 다음 문장에서 '그가 쓴 것은 그 당시 다른 모든 사람들이 작곡하던 것과 똑같이 들렸다'고 부연 설명하고 있습니다. 이는 그의 작품에 독창성이 없었음을 의미하므로, 빈칸에는 'his work wasn't original'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Some of the greatest composers were ①<u>misunderstood</u> in their own day.\nThe reason for this initial lack of acceptance is ②<u>unfamiliarity</u>.\nThe musical forms, or ideas expressed within them, were completely ③<u>new</u>.\nAnd yet, this is exactly one of the things that makes them so great.\nThe composer Antonio Salieri is depicted as one of the most famous Nongreat composers ― he was completely ④<u>overshadowed</u> by Mozart.\nNow, Salieri was a very good composer.\nBut he wasn't one of the world's great composers because his work was completely ⑤<u>innovative</u>.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 살리에리가 위대하지 않았던 이유가 그의 작품이 독창적이지 않고(not original) 당시 다른 사람들의 작품과 비슷했기 때문이라고 설명합니다. '혁신적인'을 의미하는 'innovative'는 '독창적인'과 유사한 의미이므로, 그의 작품이 혁신적이었다고 말하는 것은 글의 전체 논리와 정면으로 배치됩니다. 이 자리에는 'unoriginal'과 같은 단어가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Some of the greatest composers were (A)<u>misunderstood</u> in their own day.\nThe reason for this initial lack of (B)<u>acceptance</u> is unfamiliarity.\nThe musical forms, or ideas expressed within them, were completely new.\nThe composer Antonio Salieri is (C)<u>depicted</u> as one of the most famous Nongreat composers ― he lived at the time of Mozart and was completely (D)<u>overshadowed</u> by him.\nBut he wasn't one of the world's great composers because his work wasn't (E)<u>original</u>.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) misunderstood: interpreted something in the wrong way"
+        },
+        {
+          "number": "②",
+          "text": "(B) acceptance: the act of agreeing with and approving of something"
+        },
+        {
+          "number": "③",
+          "text": "(C) depicted: described someone or something in a piece of work"
+        },
+        {
+          "number": "④",
+          "text": "(D) overshadowed: made to seem more important or successful than others"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) original: existing at the beginning of a period or process"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'overshadowed'는 '(빛을 잃게 만들어) 가리다, 무색하게 만들다'라는 의미로, 살리에리가 모차르트 때문에 덜 중요해 보였다는 뜻입니다. 제시된 영영 풀이('made to seem more important or successful than others' - 다른 사람들보다 더 중요하거나 성공적으로 보이게 만들다)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Some of the greatest composers were misunderstood in their own day.\nThe reason for this initial lack of acceptance is (A)[unfamiliarity / similarity].\nThe musical forms, or ideas expressed within them, were completely new.\nAnd yet, this is exactly one of the things that makes them so great.\nAntonio Salieri is depicted as one of the most famous Nongreat composers ― he was completely (B)[overshadowed / highlighted] by Mozart.\nNow, Salieri wasn't a bad composer; in fact, he was a very good one.\nBut he wasn't one of the world's great composers because his work wasn't (C)[original / conventional].",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "unfamiliarity - overshadowed - original"
+        },
+        {
+          "number": "②",
+          "text": "unfamiliarity - highlighted - conventional"
+        },
+        {
+          "number": "③",
+          "text": "similarity - overshadowed - original"
+        },
+        {
+          "number": "④",
+          "text": "similarity - highlighted - conventional"
+        },
+        {
+          "number": "⑤",
+          "text": "unfamiliarity - overshadowed - conventional"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 위대한 작곡가들의 음악이 처음 받아들여지지 않은 이유는 '유사성(similarity)'이 아니라 '낯설음(unfamiliarity)' 때문이었습니다. (B) 살리에리는 모차르트에 의해 '강조된(highlighted)' 것이 아니라 그의 빛에 '가려졌습니다(overshadowed)'. (C) 그가 위대하지 않았던 이유는 그의 작품이 '관습적인(conventional)' 것이 아니라 '독창적이지(original)' 않았기 때문입니다. (not original의 의미)"
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "The composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers ― he lived at the time of Mozart and was completely overshadowed by him. ① Now, Salieri wasn't a bad composer; in fact, he was a very good one. ② He held important positions, including that of the Austrian imperial court composer. ③ But he wasn't one of the world's great composers because his work wasn't original. ④ What he wrote sounded just like what everyone else was composing at the time. ⑤ This lack of originality is what separates the good from the truly great in creative fields.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 살리에리가 '왜' 위대하지 않았는지, 즉 '독창성 부족'이라는 내적 요인에 초점을 맞추어 설명하고 있습니다. 그러나 ②번 문장은 그가 오스트리아 황실 궁정 작곡가와 같은 중요한 '직책'을 맡았다는 외적 사실을 언급하고 있습니다. 이는 그의 작품의 본질에 대한 논의에서 벗어나며, 그가 '훌륭했지만 위대하지는 않았다'는 논리의 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "You hear again and again that some of the greatest composers were misunderstood in their own day. The reason for this initial lack of acceptance is unfamiliarity. The musical forms, or ideas ①[expressing / expressed] within them, were completely new. And yet, this is exactly one of the things that makes them so great. Effective composers have their own ideas. The composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous Nongreat composers — he was completely ②[overshadowed / overshadowing] by Mozart. Now, Salieri wasn't a bad composer. But he wasn't one of the world's great composers because his work wasn't original. What he wrote sounded just like ③[that / what] everyone else was composing at the time.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "expressed",
+          "explanation": "앞의 명사 'ideas'를 수식하는 분사 자리입니다. '아이디어'는 작품 안에서 '표현되는' 것이므로 수동의 의미를 가진 과거분사 'expressed'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "overshadowed",
+          "explanation": "살리에리가 모차르트의 빛에 '가려진' 것이므로, 수동태(be + p.p.)를 이루는 과거분사 'overshadowed'가 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "what",
+          "explanation": "전치사 'like'의 목적어 역할을 하는 명사절이 와야 합니다. '그 당시 다른 모든 사람들이 작곡하고 있던 것'이라는 의미로, 선행사를 포함하는 관계대명사 'what'이 이끄는 절이 오는 것이 자연스럽습니다."
+        }
+      ]
+    }
+  ]
+}

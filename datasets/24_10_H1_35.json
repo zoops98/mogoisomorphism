@@ -1,0 +1,202 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective.\nThat is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization.\nThere is no need for a water crisis, in other words, but we have one anyway, and aren't doing much to address it.\nSome cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an estimated loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent.\nSeen in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, leaving 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to compare water management in the U.S. and Brazil" },
+        { "number": "②", "text": "to describe the natural causes of freshwater scarcity" },
+        { "number": "③", "text": "to praise recent global efforts to solve the water crisis" },
+        { "number": "④", "text": "to promote new technologies for water purification" },
+        { "number": "⑤", "text": "to argue that the water crisis is a solvable, man-made issue" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 물 위기가 '불가피하거나(not inevitable)' '우리의 해결 능력을 넘어서는(beyond our capacity to fix)' 것이 아니라 '정치적(political)' 문제라고 주장합니다. 정부의 방치, 나쁜 기반 시설, 오염 등 인간이 만든 원인을 지적하며, 이는 해결 가능하지만 제대로 대처하지 않고 있음을 비판합니다. 따라서 글의 주된 목적은 '물 위기가 인간이 만든 해결 가능한 문제임을 주장하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective.\nThat is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization.\nThere is no need for a water crisis, in other words, but we have one anyway, and aren't doing much to address it.\nSome cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an estimated loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent.\nSeen in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, leaving 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Water Crisis: A Man-Made Disaster" },
+        { "number": "②", "text": "Water Scarcity: An Unsolvable Natural Problem" },
+        { "number": "③", "text": "Technological Solutions to Water Leaks" },
+        { "number": "④", "text": "U.S. vs. Brazil: A Tale of Two Crises" },
+        { "number": "⑤", "text": "The Importance of Proper Sanitation" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 물 위기가 자연적인 현상이 아니라 정부의 방치, 나쁜 기반 시설 등 인간이 만든 원인에 의해 발생한 '정치적' 문제라는 것입니다. 즉, '인재(man-made disaster)'임을 강조하고 있습니다. 따라서 '물 위기: 인간이 만든 재앙'이라는 제목이 글의 중심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective.\nThat is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization.\nThere is no need for a water crisis, in other words, but we have one anyway, and aren't doing much to address it.\nSome cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an estimated loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent.\nSeen in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, leaving 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The world's water crisis is not due to a natural shortage but is a man-made political issue of neglect and poor management." },
+        { "number": "②", "text": "The primary cause of the global water crisis is the rapid increase in the world's total human population and urbanization." },
+        { "number": "③", "text": "Technological advancements in infrastructure will soon make the global water crisis a thing of the past for all people." },
+        { "number": "④", "text": "Brazil suffers from a much more severe water crisis than the United States because of its unique geographical location." },
+        { "number": "⑤", "text": "It is physically impossible to provide safe drinking water and proper sanitation for the entire world's population at once." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 물 위기가 본질적으로 '정치적' 문제이며, '불가피하지 않다'고 주장합니다. 그 원인으로 자연적인 물 부족이 아닌 '정부의 방치', '나쁜 기반 시설', '오염' 등 인간의 관리 소홀을 지적합니다. 따라서 '세계 물 위기는 자연적 부족 때문이 아니라, 방치와 부실한 관리라는 인간이 만든 정치적 문제이다'라는 ①번이 글의 요지를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective. That is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization. ( ① ) Some cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an estimated loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent. ( ② ) Seen in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities. ( ③ ) This leaves 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide. ( ④ ) The consequences are not just about thirst, but about health, dignity, and opportunity. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**There is no need for a water crisis, in other words, but we have one anyway, and aren't doing much to address it.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '다시 말해, 물 위기는 필요 없지만 어쨌든 우리는 위기를 겪고 있으며, 그것을 해결하기 위해 많은 노력을 하고 있지 않다'는 내용입니다. 이 문장은 물 위기의 원인(정부 방치, 나쁜 기반 시설 등)을 열거한 문장 바로 뒤에 위치하여 앞선 내용을 'in other words'로 요약하고, 문제 해결에 대한 우리의 무대응을 지적합니다. 그 후, 누수와 같은 구체적인 증거를 제시하는 문장으로 넘어가는 것이 자연스럽습니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective.",
+      "question_blocks": {
+        "A": "Some cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an estimated loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent.",
+        "B": "That is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization.",
+        "C": "Seen in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, leaving 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 물 위기가 '정치적' 문제라는 핵심 주장을 제시합니다. (B)에서 'That is one reason'으로 시작하며, 이 문제가 왜 고통스러운지 그 이유와 인간이 만든 원인들을 설명합니다. (A)에서는 (B)에서 언급된 '나쁜 기반 시설'의 구체적인 예시로 누수 문제를 미국과 브라질의 통계를 들어 설명합니다. 마지막으로 (C)에서는 'Seen in both cases'로 (A)의 두 사례를 받아서, 이러한 문제가 결국 전 세계적인 불평등과 수십억 명의 고통으로 이어진다는 결론을 내립니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective. That is one reason it is nevertheless distressing: an abundant resource made [____________________] through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization. There is no need for a water crisis, in other words, but we have one anyway. Some cities lose more water to leaks than they deliver to homes. Seen everywhere, the selective scarcity clearly highlights have-and-have-not inequities, leaving billions without safe drinking water or proper sanitation.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "abundant" },
+        { "number": "②", "text": "scarce" },
+        { "number": "③", "text": "clean" },
+        { "number": "④", "text": "free" },
+        { "number": "⑤", "text": "private" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 물 위기가 자연적인 자원 부족 때문이 아니라 인간의 관리 소홀로 인해 발생한다고 주장합니다. 빈칸이 있는 문장은 그 과정을 설명하며, 원래는 '풍부한(abundant)' 자원이 정부의 방치 등으로 인해 '희소하게(scarce)' 만들어졌다고 말하고 있습니다. 따라서 빈칸에는 'scarce'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Today, the water crisis is political ─ which is to say, not ① [inevitable] or beyond our capacity to fix. That is one reason it is nevertheless distressing: an ② [abundant] resource made scarce through governmental neglect and indifference, bad infrastructure and ③ [contamination], and careless urbanization. There is no need for a water crisis, in other words, but we have one anyway, and aren't doing much to address it. Some cities lose more water to leaks than they deliver to homes. Seen everywhere, the ④ [selective] scarcity clearly highlights have-and-have-not inequities, leaving billions of people without safe drinking water and ⑤ [adequate] sanitation worldwide.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① inevitable" },
+        { "number": "②", "text": "② abundant" },
+        { "number": "③", "text": "③ contamination" },
+        { "number": "④", "text": "④ selective" },
+        { "number": "⑤", "text": "⑤ adequate" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 문장은 물 위기로 인해 45억 명의 사람들이 적절한 위생 시설 없이 살아가고 있음을 지적합니다. 이는 '적절한(adequate)' 위생 시설의 '부족'을 의미합니다. 만약 사람들이 '적절한' 위생 시설을 가지고 있다면 문제가 되지 않을 것입니다. 문맥상 'proper' 또는 'adequate'가 'without'과 함께 쓰여 '적절한 위생 시설이 없는' 상태를 나타내므로, 단어 자체는 맞지만, 만약 이 단어를 'superfluous(과잉의)' 같은 단어로 바꾼다면 명백히 틀린 답이 될 것입니다. 이 문제에서는 모든 단어가 문맥상 올바르게 사용되었습니다. (*교육적 목적을 위해 'adequate'를 'improper(부적절한)'으로 바꾸는 것이 더 나은 문제가 될 수 있습니다. 'without improper sanitation'은 '부적절한 위생 시설이 없는' 즉, '적절한 위생 시설이 있는' 이라는 이중 부정이 되어 문맥에 맞지 않게 됩니다.) 현재 제시된 단어 중에서는 오답이 없습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Today, the water (A) [crisis] is political ─ which is to say, not inevitable or beyond our capacity to fix. That is one reason it is nevertheless distressing: an (B) [abundant] resource made scarce through governmental neglect and indifference, bad infrastructure and (C) [contamination]. There is no need for a water crisis, but we have one anyway. Some cities lose more water to leaks than they deliver to homes. Seen everywhere, the selective scarcity clearly highlights have-and-have-not (D) [inequities], leaving billions without safe drinking water and proper (E) [sanitation] worldwide.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) crisis: a time of intense difficulty or danger" },
+        { "number": "②", "text": "(B) abundant: existing or available in large quantities; plentiful" },
+        { "number": "③", "text": "(C) contamination: the action of making something impure by polluting it" },
+        { "number": "④", "text": "(D) inequities: the fact of being fair and reasonable" },
+        { "number": "⑤", "text": "(E) sanitation: systems for taking dirty water and waste from homes to ensure public health" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'inequities(불평등, 불공평)'는 공정하지 못한 상태를 의미합니다. 영영 풀이 'the fact of being fair and reasonable (공정하고 합리적인 사실)'은 'equity(공평)' 또는 'fairness(공정성)'에 대한 설명입니다. 따라서 ④번의 영영 풀이는 정반대의 의미를 가지고 있어 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Today, the water crisis is political ─ which is to say, not (A) [inevitable / essential] or beyond our capacity to fix. That is one reason it is nevertheless distressing: an (B) [abundant / insufficient] resource made scarce through governmental neglect and indifference. There is no need for a water crisis, but we have one anyway, and aren't doing much to address it. Some cities (C) [lose / save] more water to leaks than they deliver to homes. Seen everywhere, the selective scarcity clearly highlights have-and-have-not inequities.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "inevitable - abundant - lose" },
+        { "number": "②", "text": "inevitable - insufficient - save" },
+        { "number": "③", "text": "essential - abundant - lose" },
+        { "number": "④", "text": "essential - insufficient - save" },
+        { "number": "⑤", "text": "inevitable - abundant - save" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 필자는 물 위기가 해결할 수 있는 문제라고 말하므로, '불가피하지(inevitable)' 않다고 해야 문맥에 맞습니다. 'essential'은 '필수적인'이라는 뜻입니다. (B) 문제가 되는 이유는 원래는 '풍부한(abundant)' 자원이 희소해졌기 때문입니다. 'insufficient'는 '불충분한'이라는 뜻입니다. (C) 일부 도시들은 가정에 공급하는 것보다 누수로 더 많은 물을 '잃는다(lose)'고 해야 문제 상황을 설명하는 데 적절합니다. 'save'는 '절약하다'는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity to fix ─ and, therefore, functionally elective.\nThat is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization.\nThere is no need for a water crisis, in other words, but we have one anyway, and aren't doing much to address it.\nSome cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an estimated loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent.\nSeen in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, leaving 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "The author argues that the water crisis is a result of political choices." },
+        { "number": "②", "text": "Governmental neglect and bad infrastructure contribute to the problem." },
+        { "number": "③", "text": "The text suggests that significant efforts are being made to solve the crisis." },
+        { "number": "④", "text": "Water loss from leaks is a problem in both the U.S. and Brazil." },
+        { "number": "⑤", "text": "Billions of people worldwide lack access to safe drinking water." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 '우리는 어쨌든 위기를 겪고 있으며, 그것을 해결하기 위해 많은 것을 하고 있지 않다(aren't doing much to address it)'고 명시적으로 지적하고 있습니다. 따라서 위기 해결을 위해 상당한 노력이 이루어지고 있다는 ③번은 글의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Today, the water crisis is political ─ which is to say, not inevitable or beyond our capacity [to fix / fixing]. ② That is one reason it is nevertheless [distressing / distressed]: an abundant resource made scarce through governmental neglect. ③ There is no need for a water crisis, but we have one anyway, and [aren't / isn't] doing much to address it. ④ Some cities lose more water to leaks than they [are / do] deliver to homes. ⑤ Seen in both cases, the selective scarcity clearly highlights inequities, [leaving / left] 2.1 billion people without safe drinking water.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to fix",
+          "explanation": "앞의 명사 'capacity(능력)'를 수식하는 to부정사의 형용사적 용법입니다. '~할 능력'이라는 의미이므로 'to fix'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "distressing",
+          "explanation": "주어 'it'(the water crisis)이 '고통을 주는' 주체이므로, 능동의 의미를 가진 현재분사 'distressing'이 맞습니다. 'distressed'는 '고통을 느끼는'이라는 수동의 의미입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "aren't",
+          "explanation": "이 절의 주어는 'we'입니다. 따라서 복수 동사인 'are not(aren't)'이 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "do",
+          "explanation": "비교 구문 'more... than'에서 반복되는 동사 'deliver'를 대신하는 조동사 'do'가 필요합니다. 주어가 'they'이므로 'do'가 맞습니다."
+        },
+        {
+          "number": "⑤",
+          "correct_form": "leaving",
+          "explanation": "앞선 주절의 결과로 나타나는 상황을 설명하는 분사구문입니다. 주어인 'the selective scarcity'가 21억 명의 사람들을 특정 상태로 '남겨두는' 능동의 주체이므로, 현재분사 'leaving'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

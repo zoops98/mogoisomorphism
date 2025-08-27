@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "An excellent alternative to calming traffic is removing it.\nSome cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle.\nThis motivates people to travel by bike rather than by car, making streets safer for everyone.\nAs bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them.\nNevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks.\nDelivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener.\nA tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each.\nDistributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than drive, to get their groceries.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the inefficiency of delivery trucks"
+        },
+        {
+          "number": "②",
+          "text": "to compare the safety of various transportation methods"
+        },
+        {
+          "number": "③",
+          "text": "to suggest a traffic reduction strategy and explain its benefits"
+        },
+        {
+          "number": "④",
+          "text": "to demand more lanes for motor vehicles in cities"
+        },
+        {
+          "number": "⑤",
+          "text": "to promote the sale of hybrid cars for shopping"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 교통량을 진정시키는 대안으로 자전거와 보행자를 위한 도로망을 확보하여 교통량 자체를 '제거하는' 전략을 제시합니다. 또한, 이 전략이 어떻게 사람들의 이동 방식을 바꾸고 도시를 더 푸르게 만드는지, 심지어 배달 트럭이 어떤 긍정적인 역할을 하는지 설명하고 있습니다. 따라서 글의 목적은 교통량 감축 전략과 그 이점을 제안하고 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "An excellent alternative to calming traffic is removing it.\nSome cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle.\nThis motivates people to travel by bike rather than by car, making streets safer for everyone.\nAs bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them.\nNevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks.\nDelivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener.\nA tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each.\nDistributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than drive, to get their groceries.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Unexpected Green Role of Delivery Trucks"
+        },
+        {
+          "number": "②",
+          "text": "Why Bicycles Are the Future of Urban Transit"
+        },
+        {
+          "number": "③",
+          "text": "Building Greener Cities by Removing Traffic"
+        },
+        {
+          "number": "④",
+          "text": "The Conflict Between Cyclists and Delivery Drivers"
+        },
+        {
+          "number": "⑤",
+          "text": "How Small Neighborhood Stores Can Survive"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 아이디어는 교통량을 '제거하는 것(removing it)'이 도시를 더 안전하고 친환경적으로 만드는 훌륭한 방법이라는 것입니다. 자전거 도로망 확충과 배달 트럭의 효율적인 역할 모두 이 큰 주제를 뒷받침하는 세부 내용입니다. 따라서 '교통량 제거를 통한 더 푸른 도시 건설'이라는 제목이 글 전체를 가장 잘 아우릅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "An excellent alternative to calming traffic is removing it.\nSome cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle.\nThis motivates people to travel by bike rather than by car, making streets safer for everyone.\nAs bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them.\nNevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks.\nDelivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener.\nA tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each.\nDistributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than drive, to get their groceries.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Reducing car traffic by expanding bike lanes, aided by efficient delivery systems, helps make cities greener."
+        },
+        {
+          "number": "②",
+          "text": "The main reason for public animosity towards delivery trucks is their negative impact on street safety."
+        },
+        {
+          "number": "③",
+          "text": "Cities must choose between being friendly to either bicycles or delivery vehicles to be truly green."
+        },
+        {
+          "number": "④",
+          "text": "The most significant benefit of removing traffic is the increased popularity of local neighborhood vendors."
+        },
+        {
+          "number": "⑤",
+          "text": "Hybrid cars are ultimately not an efficient way to transport goods compared to traditional delivery trucks."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 자전거 도로망 확충을 통해 자동차 교통량을 줄이는 것이 도시를 더 푸르게 만드는 효과적인 방법이라고 주장합니다. 또한, 효율적인 배달 시스템(delivery systems)이 이 모델의 필수적인 부분이며, 주민들이 운전 대신 걸어서 쇼핑할 수 있게 하여 친환경적인 효과를 더한다고 설명합니다. 따라서 '효율적인 배달 시스템의 도움을 받아 자전거 도로를 확장하여 자동차 교통량을 줄이는 것이 도시를 더 푸르게 만드는 데 도움이 된다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "An excellent alternative to calming traffic is removing it. Some cities reserve an extensive network of lanes and streets for bikes and pedestrians. This motivates people to travel by bike rather than by car. As bicycles become more popular, planners can convert more automobile lanes. ( ① ) Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks. ( ② ) A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each. ( ③ ) Distributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than drive, to get their groceries. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②의 앞 문장에서는 가장 자전거 친화적인 도시조차도 배달 트럭과 같은 자동차를 위한 차선이 필요하다고 언급합니다. 주어진 문장은 이러한 배달 트럭에 대한 일반적인 반감('animus')을 인정하면서도, 실제로는 도시를 더 푸르게 만드는 데 '필수적인 요소'라는 반전의 주장을 제시합니다. 그리고 ②의 뒷 문장부터는 왜 배달 트럭이 효율적이고 필수적인지에 대한 구체적인 설명이 이어집니다. 따라서, 배달 트럭의 필요성을 언급한 후 그 역할에 대한 본격적인 설명을 시작하기 전인 ②에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "An excellent alternative to calming traffic is removing it. Some cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle.",
+      "question_blocks": {
+        "A": "Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks.",
+        "B": "This motivates people to travel by bike rather than by car, making streets safer for everyone. As bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them.",
+        "C": "Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener. A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 교통량을 제거하는 대안으로 자전거 도로망을 소개합니다. (B)에서 이로 인해 사람들이 자전거를 더 많이 타게 되고, 더 많은 차선을 전환할 수 있다는 긍정적 효과를 설명합니다. (A)에서 'Nevertheless'를 사용하여, 그럼에도 불구하고 택시나 배달 트럭 같은 자동차 차선은 여전히 필요하다는 예외적인 상황을 제시합니다. (C)에서 (A)에서 언급된 차량 중 하나인 '배달 트럭'에 초점을 맞춰, 이들이 반감의 대상이지만 실제로는 친환경 도시에 필수적이라는 반전의 주장을 펼치고 그 이유를 설명합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener.\nA tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each.\nDistributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can ____________________ to get their groceries.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "use a delivery service"
+        },
+        {
+          "number": "②",
+          "text": "order items in bulk"
+        },
+        {
+          "number": "③",
+          "text": "share a hybrid car"
+        },
+        {
+          "number": "④",
+          "text": "walk, rather than drive"
+        },
+        {
+          "number": "⑤",
+          "text": "work from home"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "앞 문장에서 배달 트럭이 동네 상점에 물건을 유통시키면, 상점들이 주택가 가까이에 위치할 수 있다고 설명했습니다. 이는 주민들이 식료품을 사기 위해 '운전하는 대신 걸어갈 수 있게' 하는 결과를 낳습니다. 이는 글 전체의 주제인 자동차 교통량 감소 및 친환경 도시와도 일맥상통합니다. 따라서 빈칸에는 'walk, rather than drive'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "An excellent alternative to calming traffic is removing it. Some cities reserve an extensive network of lanes for bikes and pedestrians.\nThis ①<u>motivates</u> people to travel by bike rather than by car, making streets safer for everyone.\nAs bicycles become more popular, planners can convert more automobile lanes to ②<u>accommodate</u> more of them.\nNevertheless, even the most bikeable cities still ③<u>require</u> motor vehicle lanes.\nDelivery vehicles are frequently a target of animus, but they are actually an ④<u>essential</u> component to making cities greener.\nA tightly packed delivery truck is a far more ⑤<u>inefficient</u> transporter of goods than several hybrids carrying a few shopping bags each.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 배달 트럭의 긍정적인 역할을 설명하면서, 짐을 꽉 채운 배달 트럭이 각자 쇼핑백 몇 개를 싣고 운전하는 여러 대의 하이브리드 자동차보다 '훨씬 더 효율적인(far more efficient)' 운송 수단이라고 주장합니다. 따라서 '비효율적인(inefficient)'이라는 단어는 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Some cities (A)<u>reserve</u> an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle.\nThis motivates people to travel by bike, making streets safer.\nAs bicycles become more popular, planners can (B)<u>convert</u> more automobile lanes to (C)<u>accommodate</u> more of them.\nNevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks.\nDelivery vehicles are frequently a target of (D)<u>animus</u>, but they are actually an (E)<u>essential</u> component to making cities greener.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) reserve: to arrange for a place to be kept for a particular person or purpose"
+        },
+        {
+          "number": "②",
+          "text": "(B) convert: to keep something in its original form or condition"
+        },
+        {
+          "number": "③",
+          "text": "(C) accommodate: to provide enough space for something or someone"
+        },
+        {
+          "number": "④",
+          "text": "(D) animus: a strong feeling of dislike or hatred"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) essential: completely necessary; extremely important"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "'Convert'는 '전환하다, 바꾸다'라는 의미로, 자동차 차선을 자전거를 위해 다른 용도로 바꾼다는 뜻으로 사용되었습니다. 제시된 영영 풀이('to keep something in its original form or condition' - 무언가를 원래의 형태나 상태로 유지하다)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "An excellent alternative to calming traffic is removing it.\nThis motivates people to travel by bike rather than by car, making streets (A)[safer / noisier] for everyone.\nAs bicycles become more popular, planners can convert more automobile lanes to accommodate more of them.\nNevertheless, even the most bikeable cities still (B)[require / prohibit] motor vehicle lanes for taxis, emergency vehicles, and delivery trucks.\nDelivery vehicles are frequently a target of animus, but they are actually an (C)[essential / optional] component to making cities greener.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "safer - require - essential"
+        },
+        {
+          "number": "②",
+          "text": "safer - prohibit - optional"
+        },
+        {
+          "number": "③",
+          "text": "noisier - require - essential"
+        },
+        {
+          "number": "④",
+          "text": "noisier - prohibit - optional"
+        },
+        {
+          "number": "⑤",
+          "text": "safer - require - optional"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 자동차 대신 자전거로 이동하면 거리는 '더 시끄러워지는(noisier)' 것이 아니라 '더 안전해집니다(safer)'. (B) 가장 자전거 친화적인 도시조차도 특정 차량을 위한 차선을 '금지하는(prohibit)' 것이 아니라 여전히 '필요로 합니다(require)'. (C) 배달 트럭은 친환경 도시를 만드는 데 '선택적인(optional)' 요소가 아니라 '필수적인(essential)' 요소라고 주장하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "As bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them. ① Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks. ② The cost of maintaining dedicated bicycle lanes can be a significant part of a city's transportation budget. ③ Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener. ④ A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each. ⑤ This allows residents to walk, rather than drive, to get their groceries.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 자전거 도로망 확충과 배달 트럭의 효율성을 통해 어떻게 도시를 더 친환경적이고 걷기 좋게 만드는지에 대한 '기능적 이점'에 초점을 맞추고 있습니다. 그러나 ②번 문장은 자전거 전용도로 유지에 드는 '비용'에 대해 언급하고 있어, 글의 핵심 주제인 기능적 이점과 논리적 흐름에서 벗어납니다. 이는 재정적 측면에 대한 이야기로, 글의 통일성을 해칩니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "An excellent alternative to calming traffic is ①[removing / remove] it. Some cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle. This motivates people to travel by bike rather than by car, ②[making / made] streets safer for everyone. As bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them. Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener. Distributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than ③[drive / to drive], to get their groceries.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "removing",
+          "explanation": "전치사 'to'의 목적어 역할을 하는 동명사가 와야 하므로 'removing'이 적절합니다. 여기서 'to'는 to부정사가 아닌 전치사입니다 ('~에 대한 대안')."
+        },
+        {
+          "number": "②",
+          "correct_form": "making",
+          "explanation": "주절('This motivates people...')에 대한 부수적인 결과를 나타내는 분사구문이 필요한 자리입니다. 앞선 내용이 능동적으로 거리를 더 안전하게 '만드는' 것이므로 현재분사 'making'이 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "drive",
+          "explanation": "'rather than'으로 연결되는 병렬 구조입니다. 앞선 동사 'walk'와 형태를 맞춰야 하므로 동사원형 'drive'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

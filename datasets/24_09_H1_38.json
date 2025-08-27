@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Biologists distinguish two kinds of similarity.\n\"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree and are in an important sense not \"the same\" organ.\nThe wings of birds and the wings of bees are both used for flight and are similar in some ways because anything used for flight has to be built in those ways, but they arose independently in evolution and have nothing in common beyond their use in flight.\n\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure that indicates their being \"the same\" organ.\nThe wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals.\nAs a result, they share nonfunctional traits like the number of bones and the ways they are connected.\nTo distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most useless properties.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to argue for a new theory of evolution"
+        },
+        {
+          "number": "②",
+          "text": "to describe the evolution of mammalian forelimbs"
+        },
+        {
+          "number": "③",
+          "text": "to explain and differentiate two types of biological similarity"
+        },
+        {
+          "number": "④",
+          "text": "to criticize the focus on nonfunctional traits in biology"
+        },
+        {
+          "number": "⑤",
+          "text": "to list examples of animals with wings"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 생물학에서 사용되는 두 가지 종류의 유사성, 즉 '상사(analogy)'와 '상동(homology)'의 개념을 정의하고, 각각의 예시를 들어 비교하며, 생물학자들이 이 둘을 어떻게 구별하는지 설명하고 있습니다. 따라서 글의 주된 목적은 두 가지 유형의 생물학적 유사성을 설명하고 구별하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Biologists distinguish two kinds of similarity.\n\"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree and are in an important sense not \"the same\" organ.\nThe wings of birds and the wings of bees are both used for flight and are similar in some ways because anything used for flight has to be built in those ways, but they arose independently in evolution and have nothing in common beyond their use in flight.\n\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure that indicates their being \"the same\" organ.\nThe wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals.\nAs a result, they share nonfunctional traits like the number of bones and the ways they are connected.\nTo distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most useless properties.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Analogy vs. Homology: Tracing Evolutionary Paths"
+        },
+        {
+          "number": "②",
+          "text": "The Useless Properties of Animal Organs"
+        },
+        {
+          "number": "③",
+          "text": "How Birds and Bees Learned to Fly"
+        },
+        {
+          "number": "④",
+          "text": "The Common Ancestor of All Mammals"
+        },
+        {
+          "number": "⑤",
+          "text": "The Importance of Function in Evolution"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 '상사(Analogy)'와 '상동(Homology)'이라는 두 가지 생물학적 유사성을 정의하고 비교하는 데 중점을 두고 있습니다. 이 두 개념은 진화의 경로를 추적하는 데 중요한 역할을 합니다. 따라서 '상사 대 상동: 진화 경로 추적하기'라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Biologists distinguish two kinds of similarity.\n\"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree and are in an important sense not \"the same\" organ.\nThe wings of birds and the wings of bees are both used for flight and are similar in some ways because anything used for flight has to be built in those ways, but they arose independently in evolution and have nothing in common beyond their use in flight.\n\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure that indicates their being \"the same\" organ.\nThe wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals.\nAs a result, they share nonfunctional traits like the number of bones and the ways they are connected.\nTo distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most useless properties.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Biologists differentiate between analogy (shared function) and homology (shared ancestry) by examining nonfunctional traits."
+        },
+        {
+          "number": "②",
+          "text": "The most important factor in determining evolutionary relationships is whether two organs share a common function."
+        },
+        {
+          "number": "③",
+          "text": "Analogous traits, such as the wings of birds and bees, prove that both species evolved from a single flying ancestor."
+        },
+        {
+          "number": "④",
+          "text": "The forelimbs of bats and horses are considered analogous because they have been modified for very different functions."
+        },
+        {
+          "number": "⑤",
+          "text": "Useless properties in organs are evolutionary mistakes that provide little information to biologists."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 생물학자들이 두 가지 유사성, 즉 상사(공통 기능)와 상동(공통 조상)을 구별한다는 점을 설명합니다. 그리고 이 둘을 구별하기 위해 공통 조상의 흔적을 보여주는 비기능적 특성(nonfunctional traits)을 살펴본다고 결론짓습니다. 따라서 '생물학자들은 비기능적 특성을 검토하여 상사(공통 기능)와 상동(공통 조상)을 구별한다'는 선택지가 글의 핵심 요지를 가장 정확하게 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Biologists distinguish two kinds of similarity. \"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree. The wings of birds and bees are an example. \"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure. ( ① ) The wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals. ( ② ) To distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most useless properties. ( ③ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**As a result, they share nonfunctional traits like the number of bones and the ways they are connected.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②의 앞 문장은 박쥐의 날개와 말의 앞다리가 기능은 다르지만, 모든 포유류 조상의 앞다리에서 변형된 것이라고 설명합니다. 주어진 문장은 'As a result(그 결과로)'로 시작하며, 바로 그 조상으로부터 물려받았기 때문에 나타나는 구체적인 증거, 즉 '뼈의 수와 연결 방식 같은 비기능적 특성'을 공유한다고 설명합니다. 이는 앞선 주장에 대한 직접적인 근거가 되므로, ②의 위치에 들어가는 것이 가장 논리적입니다. 그 뒤에는 상사와 상동을 구별하는 일반적인 방법론에 대한 설명이 이어집니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Biologists distinguish two kinds of similarity.",
+      "question_blocks": {
+        "A": "The wings of birds and the wings of bees are both used for flight, but they arose independently in evolution and have nothing in common beyond their use in flight.",
+        "B": "\"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree and are in an important sense not \"the same\" organ.",
+        "C": "\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor. For example, the wing of a bat and the front leg of a horse are homologous."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '두 종류의 유사성'이 있음을 소개합니다. (B)에서 그 첫 번째 종류인 '상사(Analogous)' 형질을 정의합니다. (A)에서 (B)에서 정의한 상사 형질의 구체적인 예시로 새의 날개와 벌의 날개를 설명합니다. (C)에서 'in contrast(대조적으로)'를 사용하여 두 번째 종류인 '상동(Homologous)' 형질을 정의하고 그 예시를 제시합니다. 따라서 정의 -> 예시 -> 대조적 정의 -> 예시의 순서인 (B)-(A)-(C)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "\"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree.\nThe wings of birds and the wings of bees are both used for flight but arose independently.\n\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure that indicates their being \"the same\" organ.\nThe wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals.\nAs a result, they share nonfunctional traits like the number of bones and the ways they are connected.\nTo distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on ____________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "their most obvious functions"
+        },
+        {
+          "number": "②",
+          "text": "the external shape and color"
+        },
+        {
+          "number": "③",
+          "text": "their most useless properties"
+        },
+        {
+          "number": "④",
+          "text": "the age of the common ancestor"
+        },
+        {
+          "number": "⑤",
+          "text": "the environment where they live"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 상사와 상동을 구별하는 방법을 설명하고 있습니다. 상사 형질은 기능적 필요 때문에 비슷해 보일 수 있으므로, 생물학자들은 공통 조상의 흔적을 찾기 위해 기능과 무관한 특성에 집중합니다. 본문 앞부분에서 상동 기관이 '비기능적 특성(nonfunctional traits)'을 공유한다고 언급했으며, 마지막 문장은 이를 다시 한번 강조하며 이들이 '가장 쓸모없는 속성(their most useless properties)'에 집중한다고 결론 내리고 있습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "\"Analogous\" traits are ones that have a common function but arose on ①<u>different</u> branches of the evolutionary tree.\nThe wings of birds and bees are used for flight but arose ②<u>independently</u>.\n\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a ③<u>common</u> ancestor.\nThe wing of a bat and the front leg of a horse have very ④<u>different</u> functions, but they are all modifications of the forelimb of an ancestor.\nAs a result, they share ⑤<u>functional</u> traits like the number of bones and the ways they are connected.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "상동 기관이 공통 조상에서 유래했다는 증거는, 기능은 다르더라도 공유하는 구조적 특성입니다. 글쓴이는 뼈의 수나 연결 방식과 같은 이러한 특성들을 '비기능적(nonfunctional)'이라고 명시하고 있습니다. 왜냐하면 이러한 특성들은 현재의 기능과는 무관하게 조상으로부터 물려받은 흔적이기 때문입니다. 따라서 '기능적인(functional)'은 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "\"Analogous\" traits have a common function but (A)<u>arose</u> on different branches of the evolutionary tree.\n\"Homologous\" traits, in contrast, (B)<u>descended from</u> a common ancestor and hence have some common structure.\nThe wing of a bat and the front leg of a horse have very different functions, but they are all (C)<u>modifications</u> of the forelimb of the ancestor of all mammals.\nAs a result, they share (D)<u>nonfunctional</u> traits like the number of bones.\nTo distinguish analogy from homology, biologists look at the overall (E)<u>architecture</u> of the organs.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) arose: to begin to exist or to become known"
+        },
+        {
+          "number": "②",
+          "text": "(B) descended from: to have developed from something that existed in the past"
+        },
+        {
+          "number": "③",
+          "text": "(C) modifications: changes made to something, often to improve it"
+        },
+        {
+          "number": "④",
+          "text": "(D) nonfunctional: serving a practical and useful purpose"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) architecture: the structure of something and the way its parts are put together"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'nonfunctional'은 '비기능적인', 즉 특정 기능과 관련이 없다는 의미로 사용되었습니다. 제시된 영영 풀이('serving a practical and useful purpose' - 실용적이고 유용한 목적에 부합하는)는 'functional'에 대한 설명으로, 'nonfunctional'과는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "\"Analogous\" traits are ones that have a common function but arose on (A)[different / similar] branches of the evolutionary tree.\n\"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a (B)[common / separate] ancestor and hence have some common structure.\nThe wing of a bat and the front leg of a horse are homologous because they share (C)[nonfunctional / essential] traits like the number of bones, despite having different functions.\nTo distinguish analogy from homology, biologists focus on these useless properties.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "different - common - nonfunctional"
+        },
+        {
+          "number": "②",
+          "text": "different - separate - essential"
+        },
+        {
+          "number": "③",
+          "text": "similar - common - nonfunctional"
+        },
+        {
+          "number": "④",
+          "text": "similar - separate - essential"
+        },
+        {
+          "number": "⑤",
+          "text": "different - common - essential"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 상사 형질은 공통 기능은 있지만 진화 계통수의 '비슷한(similar)' 가지가 아니라 '다른(different)' 가지에서 발생합니다. (B) 상동 형질은 '분리된(separate)' 조상이 아니라 '공통(common)' 조상으로부터 유래합니다. (C) 박쥐 날개와 말의 다리가 상동인 이유는 기능은 다르지만, 뼈의 수와 같은 '필수적인(essential)' 특성이 아니라 '비기능적인(nonfunctional)' 특성을 공유하기 때문입니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "The wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals. ① As a result, they share nonfunctional traits like the number of bones and the ways they are connected. ② To distinguish analogy from homology, biologists usually look at the overall architecture of the organs. ③ This method requires a deep understanding of both anatomy and genetics. ④ They also focus on their most useless properties. ⑤ These nonfunctional traits are strong indicators of a shared evolutionary origin.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 상사와 상동을 구별하는 '방법'(전체 구조와 쓸모없는 특성 관찰)과 그 '이유'(공통 조상 추적)에 초점을 맞추고 있습니다. ③번 문장은 이 방법을 실행하는 데 필요한 '연구자의 자질'(해부학 및 유전학에 대한 깊은 이해)에 대해 언급합니다. 이는 방법론 자체에 대한 설명에서 벗어나, 그 방법을 사용하는 사람에 대한 이야기이므로 글의 핵심 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Biologists distinguish two kinds of similarity. \"Analogous\" traits are ones that have a common function but ①[arose / have been arisen] on different branches of the evolutionary tree. The wings of birds and bees are similar because anything used for flight has to be built in those ways, but they arose independently. \"Homologous\" traits, in contrast, descended from a common ancestor and hence have some common structure that indicates their ②[being / are] \"the same\" organ. The wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals. As a result, they share nonfunctional traits like the number of bones and the ways ③[which / they] are connected.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "arose",
+          "explanation": "동사 'arise'(발생하다)는 자동사이므로 수동태로 사용할 수 없습니다. 따라서 과거형 동사인 'arose'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "being",
+          "explanation": "소유격 'their'의 목적어 역할을 하는 동명사가 와야 합니다. 'their being...'은 '~가 ...인 것'이라는 의미의 동명사구입니다. 동사 'are'는 이 자리에 올 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "they",
+          "explanation": "앞의 'the ways'와 동격으로 연결되는 접속사 'and' 뒤에는 완전한 절이 와야 합니다. 따라서 '주어(they) + 동사(are connected)' 형태가 되어야 하므로 'they'가 맞습니다. 'which'는 관계대명사로, 이 문장 구조에는 맞지 않습니다."
+        }
+      ]
+    }
+  ]
+}

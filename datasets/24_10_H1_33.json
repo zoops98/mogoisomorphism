@@ -1,0 +1,199 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "When I worked for a large electronics company that manufactured laser and inkjet printers, I soon discovered why there are often three versions of many consumer goods.\nIf the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income.\nIf the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one.\nBut if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price.\nThe middle item has more features than the least expensive one, and it is less expensive than the fanciest model.\nThey buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize a company's manipulative sales tactics" },
+        { "number": "②", "text": "to advise consumers on how to choose the best product" },
+        { "number": "③", "text": "to explain a marketing strategy involving product versions" },
+        { "number": "④", "text": "to share a personal memory from an old job" },
+        { "number": "⑤", "text": "to analyze the features of laser and inkjet printers" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 필자의 경험을 바탕으로, 제조업체가 한 개, 두 개, 그리고 세 개의 제품 버전을 제공할 때 소비자 행동과 회사 매출이 어떻게 달라지는지를 설명합니다. 특히 세 번째 비싼 모델을 도입하여 중간 가격 모델의 판매를 늘리는 전략을 상세히 기술하고 있습니다. 따라서 이 글의 주된 목적은 '제품 버전을 활용한 마케팅 전략을 설명하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "When I worked for a large electronics company that manufactured laser and inkjet printers, I soon discovered why there are often three versions of many consumer goods.\nIf the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income.\nIf the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one.\nBut if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price.\nThe middle item has more features than the least expensive one, and it is less expensive than the fanciest model.\nThey buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Power of Three: A Sales Trick" },
+        { "number": "②", "text": "How to Avoid Being Manipulated" },
+        { "number": "③", "text": "A Consumer's Guide to Printers" },
+        { "number": "④", "text": "More Features, More Problems" },
+        { "number": "⑤", "text": "The History of Consumer Goods" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 제조업체가 세 가지 버전의 제품을 출시하여 소비자들이 중간 가격의 제품을 선택하도록 유도하는 판매 전략, 즉 '판매 속임수(sales trick)'에 대해 설명하고 있습니다. 이 전략의 핵심은 '세 가지(three)' 옵션의 존재이므로, '셋의 힘: 판매 속임수'라는 제목이 글의 중심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "When I worked for a large electronics company that manufactured laser and inkjet printers, I soon discovered why there are often three versions of many consumer goods.\nIf the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income.\nIf the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one.\nBut if the company introduces a third model with even more features and more expensive than the other two, sales of the a second model go up; many people like the features of the most expensive model, but not the price.\nThe middle item has more features than the least expensive one, and it is less expensive than the fanciest model.\nThey buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Companies boost mid-priced product sales by adding an expensive option that makes the middle one look reasonable." },
+        { "number": "②", "text": "Consumers always make rational decisions by carefully comparing the features and prices of all available product versions." },
+        { "number": "③", "text": "Offering only two versions of a product is the most profitable marketing strategy for any manufacturing company." },
+        { "number": "④", "text": "The most expensive model in a product line is always the one that generates the most sales and total revenue." },
+        { "number": "⑤", "text": "The primary goal of offering multiple product versions is to cater to the diverse needs of all consumers fairly." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 제조업체가 의도적으로 매우 비싼 세 번째 모델을 출시함으로써, 소비자들이 중간 가격의 두 번째 모델을 합리적인 '타협안'으로 여기게 만들어 그 판매량을 늘린다는 것입니다. 소비자들은 더 비싼 제품의 존재에 의해 자신도 모르게 조종당하게 됩니다. 따라서 '기업들은 중간 가격 제품을 합리적으로 보이게 만드는 비싼 옵션을 추가하여 그 판매량을 늘린다'는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income. ( ① ) If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one. ( ② ) The middle item has more features than the least expensive one, and it is less expensive than the fanciest model. ( ③ ) They buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item. ( ④ ) This is often called the decoy effect in marketing. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '하지만'으로 시작하며, 세 번째 모델을 도입했을 때의 결과를 설명합니다(두 번째 모델의 판매량 증가). 이 문장은 두 가지 버전만 있을 때의 문제점(사람들이 싼 것만 삼)을 설명한 문장과, 소비자들이 왜 중간 모델을 선택하는지를 심리적으로 설명하는 문장 사이에 위치해야 합니다. 즉, 2개 버전의 문제점 -> 3개 버전의 해결책 도입 -> 해결책이 작동하는 이유 순서로 글이 전개되는 것이 자연스러우므로 ②번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "When I worked for a large electronics company that manufactured laser and inkjet printers, I soon discovered why there are often three versions of many consumer goods.",
+      "question_blocks": {
+        "A": "If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one.",
+        "B": "If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income.",
+        "C": "But if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; they buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 왜 세 가지 버전이 있는지에 대한 의문을 제기합니다. 논리적 설명은 가장 간단한 경우부터 시작하는 것이 자연스럽습니다. (B)에서 한 가지 버전만 있을 때의 문제점을 설명합니다. (A)에서 두 가지 버전이 있을 때의 문제점을 설명합니다. 마지막으로 (C)에서 'But'을 사용하여 앞선 문제들을 해결하는 세 가지 버전 전략과 그 결과를 설명합니다. 1개 -> 2개 -> 3개로 점진적으로 설명하는 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "When I worked for a large electronics company, I soon discovered why there are often three versions of many consumer goods.\nIf the company offers one version, it loses income. If it offers two versions, people buy the less expensive one.\nBut if the company introduces a third, even more expensive model, sales of the second model go up.\nMany people like the features of the most expensive model, but not the price.\nThe middle item has more features than the least expensive one, and it is less expensive than the fanciest model.\nThey buy the middle item, unaware that they have been [____________________] by the presence of the higher-priced item.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "given a fair choice" },
+        { "number": "②", "text": "truly satisfied" },
+        { "number": "③", "text": "offered the best value" },
+        { "number": "④", "text": "manipulated by the presence" },
+        { "number": "⑤", "text": "confused by the options" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 제조업체가 의도적으로 세 번째 비싼 모델을 추가하여 소비자의 선택에 영향을 미치는 전략을 설명하고 있습니다. 소비자들은 자신들이 합리적인 선택을 했다고 생각하지만, 실제로는 가장 비싼 모델의 존재 때문에 중간 모델을 선택하도록 유도된 것입니다. 이는 일종의 심리적 '조종'에 해당합니다. 따라서 빈칸에는 '더 비싼 제품의 존재에 의해 조종당했다'는 의미의 'manipulated by the presence'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "If the manufacturer makes only one version of its product, the company is ① [losing] some income. If the company offers two versions, people will compare the two models and still buy the ② [less] expensive one. But if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go ③ [up]; many people like the features of the most expensive model, but not the price. The middle item has more features than the least expensive one, and it is less expensive than the fanciest model. They buy the middle item, ④ [unaware] that they have been ⑤ [rewarded] by the presence of the higher-priced item.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① losing" },
+        { "number": "②", "text": "② less" },
+        { "number": "③", "text": "③ up" },
+        { "number": "④", "text": "④ unaware" },
+        { "number": "⑤", "text": "⑤ rewarded" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 문장은 소비자들이 자신도 모르게 제조업체의 전략에 영향을 받는다는 내용을 담고 있습니다. 가장 비싼 제품의 존재는 소비자를 중간 제품으로 유도하는 '미끼' 역할을 하므로, 소비자는 심리적으로 '조종당한(manipulated)' 것입니다. '보상받았다(rewarded)'는 것은 이러한 부정적인 뉘앙스와 정반대되는 의미이므로 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "I soon discovered why there are often three (A) [versions] of many consumer goods.\nIf the manufacturer makes only one version, the company is losing some (B) [income].\nIf the company offers two versions, people will (C) [compare] the two models and still buy the less expensive one.\nBut if the company introduces a third model with even more (D) [features], sales of the second model go up.\nThey buy the middle item, unaware that they have been (E) [manipulated] by the presence of the higher-priced item.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) versions: forms of something that are slightly different from other forms" },
+        { "number": "②", "text": "(B) income: money that is earned from doing work or received from investments" },
+        { "number": "③", "text": "(C) compare: to judge which person or thing is better, more important, or more useful" },
+        { "number": "④", "text": "(D) features: a typical quality or an important part of something" },
+        { "number": "⑤", "text": "(E) manipulated: to be helped to make a clear and informed decision" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'manipulated(조종당한)'는 본문에서 소비자들이 자신도 모르게 불공정하거나 교묘한 방식으로 영향을 받는다는 부정적인 의미로 사용되었습니다. 영영 풀이 'to be helped to make a clear and informed decision (명확하고 정보에 입각한 결정을 내리도록 도움을 받다)'는 긍정적인 의미이므로, 본문의 문맥과 정반대입니다. 따라서 ⑤번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is (A) [losing / earning] some income. If the company offers two versions, people will compare the two models and still buy the (B) [less / more] expensive one. But if the company introduces a third, more expensive model, sales of the second model go up. They buy the middle item, (C) [unaware / aware] that they have been manipulated by the presence of the higher-priced item.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "losing - less - unaware" },
+        { "number": "②", "text": "losing - more - aware" },
+        { "number": "③", "text": "earning - less - unaware" },
+        { "number": "④", "text": "earning - more - aware" },
+        { "number": "⑤", "text": "losing - less - aware" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 더 많은 돈을 쓸 의향이 있는 고객들로부터 추가 수익을 얻지 못하므로 회사는 일부 수입을 '잃고(losing)' 있는 것입니다. 'earning'은 '벌고 있는'이라는 뜻입니다. (B) 두 가지 버전이 있을 때, 사람들은 비교하고 여전히 '덜(less)' 비싼 것을 삽니다. 'more'는 '더'라는 뜻입니다. (C) 소비자들은 자신들이 조종당했다는 사실을 '알지 못한 채(unaware)' 중간 제품을 삽니다. 'aware'는 '알고 있는'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "When I worked for a large electronics company that manufactured laser and inkjet printers, I soon discovered why there are often three versions of many consumer goods.\nIf the manufacturer makes only one version of its product, the company is losing some income.\nIf the company offers two versions, people will compare the two models and still buy the less expensive one.\nBut if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price.\nThe middle item has more features than the least expensive one, and it is less expensive than the fanciest model.\nThey buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "Offering only one product version might lead to loss of potential profit." },
+        { "number": "②", "text": "When two versions are offered, the cheaper model tends to sell better." },
+        { "number": "③", "text": "Introducing a third, high-end model increases sales of that same high-end model." },
+        { "number": "④", "text": "The middle option is attractive as a compromise between the other two." },
+        { "number": "⑤", "text": "Consumers are often unaware of the psychological trick being used." }
+      ],
+      "answer": {
+        {
+          "number": "③",
+          "explanation": "본문은 '세 번째 모델을 도입하면 두 번째 모델의 판매가 올라간다(sales of the second model go up)'고 명시하고 있습니다. 세 번째 최고급 모델은 두 번째 중간 가격 모델의 판매를 촉진하기 위한 '미끼' 역할을 하는 것입니다. 따라서 세 번째 모델 자체의 판매가 증가한다는 ③번은 글의 내용과 일치하지 않습니다."
+        }
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① When I worked for a large electronics company that [manufacturing / manufactured] laser and inkjet printers, I soon discovered why there are often three versions of many consumer goods. ② If the manufacturer makes only one version of its product, people who bought it might have been willing [to spend / spending] more money. ③ If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still [buy / buying] the less expensive one. ④ They buy the middle item, unaware that they have been [manipulated / manipulating] by the presence of the higher-priced item.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "manufactured",
+          "explanation": "관계대명사 'that'이 이끄는 절의 동사 자리입니다. 선행사 'a large electronics company'가 주체이므로 능동태 과거 시제인 'manufactured'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to spend",
+          "explanation": "'be willing to + 동사원형'은 '기꺼이 ~하다'라는 의미의 관용 표현입니다. 따라서 to부정사인 'to spend'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "buy",
+          "explanation": "조동사 'will'에 동사 'compare'와 'buy'가 병렬 구조로 연결되어 있습니다. 따라서 동사원형 'buy'가 와야 합니다."
+        },
+        {
+          "number": "④",
+          "correct_form": "manipulated",
+          "explanation": "'that'이 이끄는 명사절에서 주어 'they'는 '조종하는' 것이 아니라 '조종당하는' 대상입니다. 따라서 수동태인 'have been manipulated'가 되어야 합니다."
+        }
+      ]
+    }
+  ]
+}

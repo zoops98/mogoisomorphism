@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Whales are highly efficient at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree absorbs only 48 pounds of CO2 a year.\nFrom a climate perspective, each whale is the marine equivalent of thousands of trees.\nWhales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon ― leading some scientists to call them the \"engineers of marine ecosystems.\"\nIn 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over $2 million USD.\nThey called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a \"nature-based solution\" to climate change.\nCalls are now being made for a global whale restoration program, to slow down climate change.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to explain the economic principles of the IMF"
+        },
+        {
+          "number": "②",
+          "text": "to compare the carbon absorption of whales and trees"
+        },
+        {
+          "number": "③",
+          "text": "to describe the role of phytoplankton in the ocean"
+        },
+        {
+          "number": "④",
+          "text": "to urge for the restoration of whale populations for climate action"
+        },
+        {
+          "number": "⑤",
+          "text": "to criticize the history of the industrial whaling industry"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 고래가 탄소 저장에 매우 효율적이며, 해양 생태계를 비옥하게 하여 기후에 긍정적인 영향을 미친다는 점을 강조합니다. 또한 IMF의 경제적 가치 평가를 인용하며, 기후 변화를 늦추기 위한 '자연 기반 해법'으로 고래 개체 수 복원 프로그램을 촉구하고 있습니다. 따라서 글의 주된 목적은 기후 변화 대응을 위해 고래 개체 수 복원을 촉구하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Whales are highly efficient at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree absorbs only 48 pounds of CO2 a year.\nFrom a climate perspective, each whale is the marine equivalent of thousands of trees.\nWhales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon ― leading some scientists to call them the \"engineers of marine ecosystems.\"\nIn 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over $2 million USD.\nThey called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a \"nature-based solution\" to climate change.\nCalls are now being made for a global whale restoration program, to slow down climate change.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Hidden Dangers of Ocean Fertilization"
+        },
+        {
+          "number": "②",
+          "text": "Whales: A Powerful, Natural Solution to Climate Change"
+        },
+        {
+          "number": "③",
+          "text": "IMF's New Strategy for Global Economy"
+        },
+        {
+          "number": "④",
+          "text": "Phytoplankton: The Unsung Heroes of the Sea"
+        },
+        {
+          "number": "⑤",
+          "text": "The Surprising Inefficiency of Trees in Carbon Storage"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 고래가 탄소를 저장하고 해양 생태계를 활성화시켜 기후 변화를 늦추는 데 중요한 역할을 한다는 점을 강조합니다. 또한 고래 개체 수 복원을 '자연 기반 해법'으로 제시하고 있습니다. 따라서 '고래: 기후 변화에 대한 강력하고 자연적인 해결책'이라는 제목이 글의 핵심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Whales are highly efficient at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree absorbs only 48 pounds of CO2 a year.\nFrom a climate perspective, each whale is the marine equivalent of thousands of trees.\nWhales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon ― leading some scientists to call them the \"engineers of marine ecosystems.\"\nIn 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over $2 million USD.\nThey called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a \"nature-based solution\" to climate change.\nCalls are now being made for a global whale restoration program, to slow down climate change.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Due to their significant carbon storage abilities, restoring whale populations is a valuable climate change solution."
+        },
+        {
+          "number": "②",
+          "text": "The economic value of whales should be the primary motivation for all global conservation efforts."
+        },
+        {
+          "number": "③",
+          "text": "Phytoplankton populations are more critical for carbon sequestration than whales or trees in the marine ecosystem."
+        },
+        {
+          "number": "④",
+          "text": "The International Monetary Fund has recently shifted its entire focus to promoting nature-based economic solutions."
+        },
+        {
+          "number": "⑤",
+          "text": "The industrial whaling era caused irreversible damage to the ocean's ability to store carbon efficiently."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 고래가 사체와 배설물을 통해 막대한 양의 탄소를 저장하는 능력(significant carbon storage abilities)을 가지고 있으며, 이러한 이유로 고래 개체 수를 복원하는 것이 기후 변화에 대한 가치 있는 해결책(valuable climate change solution)이 될 수 있다고 주장합니다. IMF의 경제적 가치 평가와 복원 프로그램 요구는 이 주장을 뒷받침합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Whales are highly efficient at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree absorbs only 48 pounds of CO2 a year. ( ① ) From a climate perspective, each whale is the marine equivalent of thousands of trees. ( ② ) In 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over $2 million USD. ( ③ ) They called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a \"nature-based solution\" to climate change. ( ④ ) Calls are now being made for a global whale restoration program, to slow down climate change. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Whales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon ― leading some scientists to call them the \"engineers of marine ecosystems.\"**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 앞부분은 고래가 죽어서 탄소를 저장하는 직접적인 방식에 대해 설명하고 있습니다. 주어진 문장은 'also'를 사용하여 고래가 살아있을 때 해양을 비옥하게 함으로써 탄소를 저장하는 추가적인 방식을 소개합니다. 이 두 가지 생태학적 기여를 모두 설명한 후에, IMF가 이 '생태계 서비스'의 가치를 평가했다는 내용으로 넘어가는 것이 자연스럽습니다. 따라서 고래의 첫 번째 기여에 대한 설명이 끝나는 ②에 들어가 두 번째 기여를 설명하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Whales are highly efficient at carbon storage. When they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.",
+      "question_blocks": {
+        "A": "Whales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon.",
+        "B": "For comparison, the average tree absorbs only 48 pounds of CO2 a year. From a climate perspective, each whale is the marine equivalent of thousands of trees.",
+        "C": "In 2019, economists from the IMF estimated the value of the ecosystem services provided by each whale at over $2 million USD and called for a new global program of economic incentives."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 고래가 죽어서 탄소를 저장하는 첫 번째 방법을 제시합니다. (B)에서 이 양을 나무와 비교하여 그 규모의 중요성을 강조합니다. (A)에서 'also'를 사용하여 고래가 살아있을 때 해양을 비옥하게 하는 두 번째 탄소 저장 방법을 추가로 설명합니다. (C)에서 앞서 언급된 두 가지 '생태계 서비스'의 경제적 가치를 평가하고, 이를 바탕으로 한 해결책(경제적 인센티브 프로그램)을 제안하며 글을 발전시킵니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Whales are highly efficient at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree absorbs only 48 pounds of CO2 a year.\nFrom a climate perspective, each whale is the marine equivalent of thousands of trees.\nWhales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon ― leading some scientists to call them the \"engineers of marine ecosystems.\"\nIn 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over $2 million USD.\nThey called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a \"____________________\" to climate change.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "technological barrier"
+        },
+        {
+          "number": "②",
+          "text": "financial risk"
+        },
+        {
+          "number": "③",
+          "text": "political controversy"
+        },
+        {
+          "number": "④",
+          "text": "nature-based solution"
+        },
+        {
+          "number": "⑤",
+          "text": "short-term investment"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 고래 개체 수 복원을 위한 프로그램을 기후 변화에 대한 하나의 예시로 설명하고 있습니다. 고래라는 '자연'의 힘을 이용하여 기후 변화라는 문제를 해결하려는 것이므로, '자연 기반 해법(nature-based solution)'이 문맥상 가장 적절합니다. 이는 글의 전체적인 논조와도 일치합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Whales are highly ①<u>efficient</u> at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree ②<u>absorbs</u> only 48 pounds of CO2 a year.\nFrom a climate perspective, each whale is the marine ③<u>equivalent</u> of thousands of trees.\nWhales also help sequester carbon by ④<u>fertilizing</u> the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations.\nThey called for a new global program of economic incentives to ⑤<u>destroy</u> whale populations to preindustrial whaling levels as one example of a \"nature-based solution\" to climate change.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 맥락은 고래의 가치를 설명하고 기후 변화 해결책으로 그들의 개체 수를 '복원'하자고 촉구하는 것입니다. 따라서 고래 개체 수를 '파괴하다(destroy)'는 것은 글의 전체 흐름과 정반대되는 내용입니다. 이 자리에는 '복원하다(return)' 또는 '회복시키다(restore)'와 같은 단어가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Whales are highly (A)<u>efficient</u> at carbon storage.\nWhen they die, each whale (B)<u>sequesters</u> an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFrom a climate perspective, each whale is the marine (C)<u>equivalent</u> of thousands of trees.\nWhales also help sequester carbon by (D)<u>fertilizing</u> the ocean as they release nutrient-rich waste.\nIn 2019, economists from the IMF estimated the value of the ecosystem services provided by each whale and called for a new global program of economic (E)<u>incentives</u> to return whale populations to preindustrial whaling levels.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) efficient: working well and not wasting time or energy"
+        },
+        {
+          "number": "②",
+          "text": "(B) sequesters: releases something into the environment"
+        },
+        {
+          "number": "③",
+          "text": "(C) equivalent: equal in value, purpose, or amount"
+        },
+        {
+          "number": "④",
+          "text": "(D) fertilizing: adding a substance to soil or land to make it produce more"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) incentives: things that encourage you to do something"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "'Sequesters'는 탄소와 같은 물질을 '격리하여 저장하다'는 의미입니다. 제시된 영영 풀이('releases something into the environment' - 무언가를 환경으로 방출하다)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Whales are highly (A)[efficient / inefficient] at carbon storage.\nWhen they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries.\nFor comparison, the average tree absorbs only 48 pounds of CO2 a year.\nWhales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn (B)[increasing / decreasing] phytoplankton populations, which also sequester carbon.\nCalls are now being made for a global whale (C)[restoration / exploitation] program, to slow down climate change.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "efficient - increasing - restoration"
+        },
+        {
+          "number": "②",
+          "text": "efficient - decreasing - exploitation"
+        },
+        {
+          "number": "③",
+          "text": "inefficient - increasing - restoration"
+        },
+        {
+          "number": "④",
+          "text": "inefficient - decreasing - exploitation"
+        },
+        {
+          "number": "⑤",
+          "text": "efficient - increasing - exploitation"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 고래는 나무 수천 그루와 맞먹는 탄소를 저장하므로 '비효율적인(inefficient)' 것이 아니라 '효율적인(efficient)' 것입니다. (B) 고래의 배설물은 영양이 풍부하여 식물성 플랑크톤 개체 수를 '감소시키는(decreasing)' 것이 아니라 '증가시킵니다(increasing)'. (C) 기후 변화를 늦추기 위해 고래를 '착취(exploitation)'하는 것이 아니라 '복원(restoration)'하는 프로그램이 요구되고 있습니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "From a climate perspective, each whale is the marine equivalent of thousands of trees. ① Whales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations. ② In 2019, economists from the IMF estimated the value of the ecosystem services provided by each whale at over $2 million USD. ③ The history of industrial whaling in the 19th and 20th centuries led to a dramatic decline in the populations of most large whale species. ④ They called for a new global program of economic incentives to return whale populations to preindustrial whaling levels. ⑤ Calls are now being made for a global whale restoration program, to slow down climate change.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 고래의 생태적, 경제적 가치를 설명하고 이를 바탕으로 '미래'의 해결책인 복원 프로그램을 제안하는 데 초점을 맞추고 있습니다. ③번 문장은 '과거'의 산업 포경 역사와 그로 인한 개체 수 감소라는 사실을 언급하고 있어, 글의 핵심 주제인 '고래의 가치와 미래의 해결책'이라는 논리적 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Whales are highly efficient at carbon storage. When they die, each whale sequesters an average of 30 tons of carbon dioxide, ①[taking / taken] that carbon out of the atmosphere for centuries. For comparison, the average tree absorbs only 48 pounds of CO2 a year. From a climate perspective, each whale is the marine equivalent of thousands of trees. Whales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, ②[which / what] also sequester carbon. In 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services ③[providing / provided] by each whale at over $2 million USD.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "taking",
+          "explanation": "주절('each whale sequesters...')에 이어지는 부수적인 결과를 나타내는 분사구문입니다. 고래가 능동적으로 탄소를 대기 밖으로 '꺼내면서' 격리하는 것이므로, 능동의 의미를 가진 현재분사 'taking'이 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "which",
+          "explanation": "선행사 'phytoplankton populations'를 수식하는 주격 관계대명사가 필요한 자리입니다. 선행사를 포함하는 관계대명사 'what'은 이 자리에 올 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "provided",
+          "explanation": "명사 'ecosystem services'를 뒤에서 수식하는 분사 자리입니다. '생태계 서비스'는 고래에 의해 '제공되는' 것이므로, 수동의 의미를 가진 과거분사 'provided'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

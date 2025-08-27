@@ -1,0 +1,286 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence. So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare different leadership styles"
+        },
+        {
+          "number": "②",
+          "text": "to emphasize the role of relatedness in motivation"
+        },
+        {
+          "number": "③",
+          "text": "to provide tips for exercising effectively"
+        },
+        {
+          "number": "④",
+          "text": "to criticize the lack of autonomy in workplaces"
+        },
+        {
+          "number": "⑤",
+          "text": "to explain the concept of internalization"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 부모, 교사, 동료 등 다른 사람들과 관계를 맺고 그들로부터 보살핌과 존중을 받는다고 느낄 때(유대감, relatedness) 동기 부여가 촉진된다는 점을 반복적으로 강조하고 있습니다. 따라서 글의 주된 목적은 동기 부여에서 유대감의 역할을 강조하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence. So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Social Fuel for Motivation"
+        },
+        {
+          "number": "②",
+          "text": "Autonomy: The True Driver of Success"
+        },
+        {
+          "number": "③",
+          "text": "How to Be a Better Coach"
+        },
+        {
+          "number": "④",
+          "text": "The Dangers of Peer Pressure"
+        },
+        {
+          "number": "⑤",
+          "text": "Individual Persistence vs. Teamwork"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 타인과의 연결감, 즉 유대감(relatedness)과 소속감이 동기 부여의 핵심적인 연료가 된다는 것입니다. '동기 부여를 위한 사회적 연료'라는 제목은 이러한 글의 중심 생각을 가장 잘 포착하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence. So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Feeling a strong sense of connection and being valued by others is a fundamental requirement for fostering motivation."
+        },
+        {
+          "number": "②",
+          "text": "Motivation is primarily an individual task that does not require any support or input from other human beings."
+        },
+        {
+          "number": "③",
+          "text": "Exercising with a friend is the single most effective way to guarantee long-term success in any difficult challenge."
+        },
+        {
+          "number": "④",
+          "text": "Only people in positions of power, such as parents and teachers, can truly affect our personal motivation levels."
+        },
+        {
+          "number": "⑤",
+          "text": "Autonomy and competence are far more important for motivation than the basic need for personal or social relatedness."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 권위자나 동료로부터 보살핌과 존중을 받는다고 느끼는 유대감이 동기 부여의 핵심 기반임을 주장합니다. 따라서 '다른 사람들과 강한 유대감을 느끼고 가치 있게 여겨지는 것이 동기 부여를 증진시키는 근본적인 요건이다'라는 문장이 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. ( ① ) Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. ( ② ) ( ③ ) And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence. ( ④ ) So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**If we are trying to motivate others, a caring relationship is a crucial basis from which to begin.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 '타인에게 동기를 부여하려는 경우'에 대한 구체적인 조언입니다. 이 문장은 유대감의 욕구가 충족되면 동기 부여가 촉진된다는 일반적인 원칙을 설명한 문장 바로 뒤에 와서, 그 원칙을 타인에게 적용하는 방법을 설명하는 것이 자연스럽습니다. 또한, 바로 뒤에 '자신에게 동기를 부여하려는 경우'에 대한 내용이 이어지므로, '타인 동기 부여'와 '자기 동기 부여'를 연결하는 ③의 위치가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
+      "question_blocks": {
+        "A": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
+        "B": "And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers.",
+        "C": "If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        { "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 권위자(부모, 교사 등)가 관심을 보일 때 동기가 부여된다는 내용입니다. (B)는 'And it is not just'를 통해 이 범위를 동료에게까지 확장합니다. (A)는 'Thus'를 사용하여 (B)까지의 내용을 '유대감의 욕구(need for relatedness)'라는 개념으로 요약하고 일반화합니다. 마지막으로 (C)는 (A)에서 정립된 원칙을 바탕으로 타인과 자신에게 동기를 부여하는 구체적인 적용 방안을 제시합니다. 따라서 논리적 순서는 (B)-(A)-(C)가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to [____________________] can be crucial to long-term persistence. So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "achieve a sense of competence"
+        },
+        {
+          "number": "②",
+          "text": "focus on our individual goals"
+        },
+        {
+          "number": "③",
+          "text": "enhance a sense of connectedness to others"
+        },
+        {
+          "number": "④",
+          "text": "establish a clear hierarchy"
+        },
+        {
+          "number": "⑤",
+          "text": "avoid difficult decisions"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 스스로에게 동기를 부여하는 방법에 대해 설명하고 있습니다. 글 전체의 핵심 주장이 타인과의 유대감(relatedness, connectedness)이 동기 부여에 중요하다는 것이므로, 자기 동기 부여 역시 이와 관련된 행동을 통해 이루어진다고 보는 것이 자연스럽습니다. 바로 뒤에 이어지는 예시들(친구와 운동하기, 누군가에게 전화하기 등)도 모두 타인과의 연결을 강화하는 행동들입니다. 따라서 빈칸에는 '타인과의 연결감을 향상시키는 것'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as ① [involved] and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel ② [valued] and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are ③ [fueled], provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a ④ [crucial] basis from which to begin. And when we are trying to motivate ourselves, doing things to ⑤ [weaken] a sense of connectedness to others can be crucial to long-term persistence.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 타인과의 연결감이 장기적인 끈기(동기 부여)에 매우 중요하다고 주장합니다. 따라서 스스로에게 동기를 부여할 때는 타인과의 연결감을 '약화시키는(weaken)' 것이 아니라 '향상시키는(enhance)' 행동을 해야 합니다. 'weaken'은 글의 전체적인 논지와 정반대되는 의미이므로 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are (A) [perceived] as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel (B) [valued] and respected by peers and coworkers. Thus, when the need for (C) [relatedness] is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term (D) [persistence]. So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on (E) [challenges].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) perceived: to notice or become aware of something"
+        },
+        {
+          "number": "②",
+          "text": "(B) valued: to be considered important or useful"
+        },
+        {
+          "number": "③",
+          "text": "(C) relatedness: the feeling of being lonely and disconnected from others"
+        },
+        {
+          "number": "④",
+          "text": "(D) persistence: the quality of continuing to do something even though it is difficult"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) challenges: tasks or situations that test someone's abilities"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) relatedness는 '관계성, 유대감'을 의미하며, 타인과 연결되어 있다는 느낌을 말합니다. 제시된 영영 풀이 'the feeling of being lonely and disconnected from others(외롭고 타인과 단절된 느낌)'는 '고립감'이나 '소외감'에 대한 설명으로, 'relatedness'와 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel (A) [happier / unhappier] and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. Thus, when the need for relatedness is (B) [met / missed], motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence. So exercise with a friend, call someone when you have a (C) [difficult / simple] decision to make, and be there as a support for others as they take on challenges.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "happier - met - difficult" },
+        { "number": "②", "text": "happier - missed - difficult" },
+        { "number": "③", "text": "unhappier - met - simple" },
+        { "number": "④", "text": "unhappier - missed - simple" },
+        { "number": "⑤", "text": "happier - met - simple" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 다른 사람들이 관심을 갖고 보살펴준다고 인식될 때, 사람들은 '더 행복하게' 느낀다고 해야 문맥이 자연스럽습니다. (B) 유대감의 욕구가 '충족될' 때 동기가 부여되므로 'met'이 맞습니다. (C) '어려운' 결정을 내려야 할 때 다른 사람에게 전화하라는 것은 지지와 연결의 필요성을 강조하는 예시이므로 'difficult'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel valued and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long-term persistence. So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Feeling cared for by authority figures can increase motivation."
+        },
+        {
+          "number": "②",
+          "text": "Respect from peers is also a factor in feeling motivated."
+        },
+        {
+          "number": "③",
+          "text": "Motivation depends solely on the fulfillment of the need for relatedness."
+        },
+        {
+          "number": "④",
+          "text": "A caring relationship is a good starting point for motivating someone."
+        },
+        {
+          "number": "⑤",
+          "text": "Strengthening social connections is important for self-motivation."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문에서 'when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there'라고 언급했습니다. 이는 유대감의 욕구 충족이 동기 부여에 중요하지만, 자율성과 유능성에 대한 지지 역시 함께 제공되어야 함을 의미합니다. 따라서 동기 부여가 '오직(solely)' 유대감의 욕구 충족에만 달려있다는 ③번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as ① [involved / involving] and caring, people feel happier and more motivated. And it is not just those people with power ─ we need to feel ② [valued / valuing] and respected by peers and coworkers. Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there. If we are trying to motivate others, a caring relationship is a crucial basis from which to begin. And when we are trying to motivate ourselves, ③ [doing / to do] things to enhance a sense of connectedness to others can be crucial to long-term persistence.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "involved",
+          "explanation": "'perceive A as B' 구문에서, A(parents, teachers, etc.)가 '관여되는' 것으로 인식되는 것이므로 수동의 의미를 지닌 과거분사 'involved'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "valued",
+          "explanation": "우리가 다른 사람에 의해 '가치 있게 여겨지는' 것이므로 수동의 의미를 전달하는 과거분사 'valued'가 맞습니다. 'and' 뒤의 'respected'와 병렬 구조를 이룹니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "doing",
+          "explanation": "문장의 주어 역할을 해야 하므로 동명사 'doing'이 적절합니다. 'To do'도 주어로 사용될 수 있지만, 여기서는 일반적인 행위를 나타내는 동명사가 더 자연스럽습니다. 'doing things'가 주어이며, 동사는 'can be'입니다."
+        }
+      ]
+    }
+  ]
+}

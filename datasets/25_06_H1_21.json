@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the reverse direction. As social psychologist David Myers observes, \"If social psychology has taught us anything during the last 25 years, it is that we are likely not only to think ourselves into a way of acting but also to act ourselves into a way of thinking.\"",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the two-way relationship between beliefs and behavior" },
+        { "number": "②", "text": "to criticize the traditional views of social psychology" },
+        { "number": "③", "text": "to suggest effective ways to change people's behavior" },
+        { "number": "④", "text": "to emphasize the importance of consistent actions" },
+        { "number": "⑤", "text": "to introduce the latest findings of a social psychologist" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 먼저 '내적 믿음이 외적 행동을 이끈다'는 일반적인 상식을 설명한 후, '행동이 믿음을 이끌 수도 있다'는 역방향의 관계 또한 존재함을 강조하고 있습니다. 즉, 믿음과 행동 사이의 상호작용, 즉 양방향 관계를 설명하는 것이 이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the reverse direction. As social psychologist David Myers observes, \"If social psychology has taught us anything during the last 25 years, it is that we are likely not only to think ourselves into a way of acting but also to act ourselves into a way of thinking.\"",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Beliefs and Behaviors: A Two-Way Street" },
+        { "number": "②", "text": "Why Our Actions Don't Match Our Thoughts" },
+        { "number": "③", "text": "The Hidden Power of Inner Beliefs" },
+        { "number": "④", "text": "How to Predict Human Behavior Accurately" },
+        { "number": "⑤", "text": "David Myers: A Pioneer in Social Psychology" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 믿음이 행동에 영향을 미치는 것뿐만 아니라, 행동 역시 믿음에 영향을 미친다는 양방향 관계를 핵심 내용으로 다루고 있습니다. 'Two-Way Street(양방향 도로)'라는 표현은 이러한 상호적인 관계를 효과적으로 비유하므로, 글 전체의 내용을 가장 잘 함축하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the reverse direction. As social psychologist David Myers observes, \"If social psychology has taught us anything during the last 25 years, it is that we are likely not only to think ourselves into a way of acting but also to act ourselves into a way of thinking.\"",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The relationship between beliefs and behaviors is bidirectional, with actions often shaping our thoughts and beliefs." },
+        { "number": "②", "text": "People's public actions are almost always a reliable and accurate indicator of their private, internal thoughts." },
+        { "number": "③", "text": "Social psychology has primarily focused on how external social pressures can influence an individual's decision-making process." },
+        { "number": "④", "text": "It is more effective to change one's behavior first rather than trying to change one's internal beliefs." },
+        { "number": "⑤", "text": "The most fundamental aspect of human psychology is the strong desire to maintain consistency in our actions." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 핵심은 믿음이 행동에 영향을 줄 뿐만 아니라(Belief -> Behavior), 행동이 역으로 믿음에 영향을 미치는(Behavior -> Belief) '주목할 만한(remarkable)' 관계가 있다는 것입니다. 이는 믿음과 행동의 관계가 '양방향적(bidirectional)'이며, 행동이 우리의 생각과 믿음을 형성할 수 있음을 의미합니다. 따라서 이 내용이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more remarkable way. ( ① ) As social psychologist David Myers observes, \"If social psychology has taught us anything during the last 25 years, it is that we are likely not only to think ourselves into a way of acting but also to act ourselves into a way of thinking.\" ( ② )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**It turns out that the arrow is as likely to point in the reverse direction.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '화살이 반대 방향을 가리킬 가능성도 마찬가지로 높다는 것이 드러난다'는 의미입니다. 이는 믿음이 행동으로 향하는 전통적인 방향과 반대되는 관계, 즉 행동이 믿음으로 향하는 관계를 암시합니다. 바로 앞 문장에서 '믿음과 행동은 더 주목할 만한 방식으로 관련되어 있다'고 하여 새로운 관점을 제시할 것을 예고했습니다. 그리고 바로 뒤 문장은 David Myers의 인용구를 통해 '행동으로 생각의 방식을 만든다'며 주어진 문장의 '반대 방향'이 무엇인지 구체적으로 설명합니다. 따라서 주어진 문장은 새로운 관점을 제시하는 문장과 그에 대한 구체적인 부연 설명 사이인 ①에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person.",
+      "question_blocks": {
+        "A": "But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the reverse direction.",
+        "B": "If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think.",
+        "C": "As social psychologist David Myers observes, \"If social psychology has taught us anything during the last 25 years, it is that we are likely not only to think ourselves into a way of acting but also to act ourselves into a way of thinking.\""
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '믿음이 행동을 이끈다'는 일반적인 견해와 첫 번째 예시(매력적인 사람)를 제시합니다. (B)는 두 번째 예시(치약 브랜드)를 들고 이 일반적인 견해를 요약하며 마무리합니다. (A)는 'But'이라는 접속사를 사용하여 앞선 내용과 대조되는 '더 주목할 만한' 관계, 즉 역방향의 관계를 소개하며 글의 흐름을 전환합니다. (C)는 (A)에서 제시된 역방향의 관계를 사회 심리학자의 말을 인용하여 구체적으로 설명하고 뒷받침합니다. 따라서 '일반론 마무리(B) -> 새로운 관점 제시(A) -> 부연 설명(C)'의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the reverse direction. As social psychologist David Myers observes, \"If social psychology has taught us anything during the last 25 years, it is that we are likely not only to think ourselves into a way of acting but also to _________________________.\"",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "ignore the opinions of others" },
+        { "number": "②", "text": "behave according to common sense" },
+        { "number": "③", "text": "hide our true inner feelings" },
+        { "number": "④", "text": "act ourselves into a way of thinking" },
+        { "number": "⑤", "text": "seek consistency in our social group" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 사회 심리학자 David Myers의 인용구의 일부입니다. 이 인용구는 'not only A but also B' 구문을 사용하여 믿음과 행동의 양방향 관계를 설명하고 있습니다. A에 해당하는 'think ourselves into a way of acting'(생각을 통해 행동 방식을 만들다)은 '믿음→행동'을 의미합니다. 따라서 B에 해당하는 빈칸에는 이와 대조되는 '행동→믿음'의 관계를 나타내는 말이 와야 합니다. 'act ourselves into a way of thinking'(행동을 통해 생각의 방식을 만들다)이 바로 그 의미를 담고 있으며, 글의 핵심 주제와도 일치합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "It is common sense that people's inner beliefs may ① `drive` their external behavior. If you're attracted to a certain person, you should be more likely to ② `socialize` with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always ③ `predict` our public behavior, but, overall, what we do obviously ④ `contradicts` what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the ⑤ `reverse` direction.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "④번이 포함된 문장은 '우리의 내적 생각이 항상 우리의 공개적 행동을 예측하는 것은 아니지만, 대체로 우리가 하는 일은 명백히 우리가 생각하는 바를 반영한다'는 의미가 되어야 합니다. 'contradicts'(모순된다)는 'reflects'(반영한다)와 반대되는 의미로, '대체로(overall)'라는 표현과 함께 쓰이기에는 문맥상 어색하며 글의 전반적인 논리를 해칩니다. 따라서 'contradicts'는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "It is (A) `common` sense that people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you (B) `favor` a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always (C) `predict` our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more (D) `remarkable` way. It turns out that the arrow is as likely to point in the reverse direction. As social psychologist David Myers (E) `observes`, \"If social psychology has taught us anything during the last 25 years...\"",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) common: happening often or existing in large numbers" },
+        { "number": "②", "text": "(B) favor: to support or prefer one particular possibility" },
+        { "number": "③", "text": "(C) predict: to say that an event or action will happen in the future" },
+        { "number": "④", "text": "(D) remarkable: unusual or special and therefore surprising and worth mentioning" },
+        { "number": "⑤", "text": "(E) observes: to obey a law, rule, or custom" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 (E) `observes`는 심리학자가 '말하다, 논평하다(to make a remark or comment)'라는 의미로 사용되었습니다. 하지만 보기 ⑤의 영영 풀이는 '법, 규칙, 관습을 따르다, 준수하다(to obey a law, rule, or custom)'라는 의미로, 문맥상의 의미와 전혀 다릅니다. 따라서 이 영영 풀이는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "It is common sense that people's inner beliefs may (A) [drive / follow] their external behavior. If you're attracted to a certain person, you should be more likely to socialize with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously (B) [reflects / conceals] what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the (C) [reverse / same] direction.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "drive / reflects / reverse" },
+        { "number": "②", "text": "drive / reflects / same" },
+        { "number": "③", "text": "drive / conceals / reverse" },
+        { "number": "④", "text": "follow / conceals / same" },
+        { "number": "⑤", "text": "follow / reflects / reverse" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) '믿음이 행동을 이끈다'는 의미이므로 'drive'가 적절합니다. 'follow'는 '따르다'이므로 주어와 목적어의 관계가 반대가 됩니다. (B) 전반적으로 행동은 생각을 '반영한다'는 의미이므로 'reflects'가 맞습니다. 'conceals'는 '숨기다'라는 반대 의미입니다. (C) 글의 핵심은 믿음이 행동을 이끄는 것과 '반대(reverse)' 방향, 즉 행동이 믿음을 이끄는 관계도 있다는 것이므로 'reverse'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "It is common sense that people's inner beliefs may drive their external behavior. ① If you're attracted to a certain person, you should be more likely to socialize with that person. ② If you favor a brand of toothpaste, you're more likely to buy it. ③ Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. ④ Social psychology as a formal discipline began in the United States in the early 20th century. ⑤ But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the reverse direction.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 믿음과 행동의 상호 관계에 대한 심리학적 통찰을 설명하는 것이 주제입니다. ①, ②, ③, ⑤번 문장은 모두 이 주제를 중심으로 논리를 전개하고 있습니다. 하지만 ④번 문장 '공식적인 학문으로서 사회 심리학은 20세기 초 미국에서 시작되었다'는 사회 심리학이라는 학문의 역사적 사실을 언급하는 것으로, 글의 핵심 논점인 믿음과 행동의 관계와는 직접적인 관련이 없어 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① It is common sense [that / what] people's inner beliefs may drive their external behavior. If you're attracted to a certain person, you should be more likely ② [to socialize / socializing] with that person. If you favor a brand of toothpaste, you're more likely to buy it. Of course, our internal thoughts don't always predict our public behavior, but, overall, what we do obviously reflects what we think. But beliefs and behaviors are also related in a more remarkable way. It turns out that the arrow is as likely to point in the ③ [reverse / reversely] direction.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "이 문장은 'It'이 가주어, [that/what] 이하의 절이 진주어인 구문입니다. 뒤따르는 절 'people's inner beliefs may drive their external behavior'는 주어, 동사, 목적어를 모두 갖춘 완전한 문장이므로, 명사절을 이끄는 접속사 'that'이 와야 합니다. 'what'은 뒤에 불완전한 절을 이끕니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to socialize",
+          "explanation": "숙어 'be likely to + 동사원형'은 '~할 가능성이 있다', '~하기 쉽다'는 의미를 나타냅니다. 따라서 to부정사인 'to socialize'가 오는 것이 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "reverse",
+          "explanation": "이 자리에는 명사 'direction'을 수식하는 형용사가 필요합니다. 'reverse'는 '반대의'라는 의미의 형용사이고, 'reversely'는 '반대로'라는 의미의 부사입니다. 따라서 형용사인 'reverse'가 적절합니다."
+        }
+      ]
+    }
+  ]
+}

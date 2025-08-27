@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities.\nFor example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where interpersonal communication is necessary.\nAI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects.\nFor example, AI's capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace.\nMoreover, recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains such as writing, coding or customer service.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to warn about the potential dangers of AI in the workplace"
+        },
+        {
+          "number": "②",
+          "text": "to explain how AI can enhance workplace inclusiveness"
+        },
+        {
+          "number": "③",
+          "text": "to compare different types of AI-powered assistive devices"
+        },
+        {
+          "number": "④",
+          "text": "to argue for the replacement of low-skilled workers with AI"
+        },
+        {
+          "number": "⑤",
+          "text": "to analyze the effect of AI on workers' wages and careers"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 AI가 장애가 있는 근로자들을 위한 접근성을 개선하고, 저숙련 근로자들의 역량을 강화하는 등 노동 시장의 소외 계층을 도움으로써 직장의 '포용성(inclusiveness)'을 어떻게 향상시킬 수 있는지 구체적인 예시를 들어 설명하고 있습니다. 따라서 글의 주된 목적은 AI가 직장 포용성을 향상시키는 방식을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities.\nFor example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where interpersonal communication is necessary.\nAI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects.\nFor example, AI's capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace.\nMoreover, recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains such as writing, coding or customer service.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "AI: A Tool for a More Inclusive Workplace"
+        },
+        {
+          "number": "②",
+          "text": "The Rise of AI in Customer Service"
+        },
+        {
+          "number": "③",
+          "text": "Can AI Overcome Language Barriers?"
+        },
+        {
+          "number": "④",
+          "text": "Assistive Devices for People with Disabilities"
+        },
+        {
+          "number": "⑤",
+          "text": "The Economic Impact of AI on Low-Skilled Jobs"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 AI가 장애가 있는 근로자와 저숙련 근로자 등 불리한 위치에 있는 사람들을 도와 직장의 '포용성(inclusiveness)'을 높이는 도구로 사용될 수 있다는 것입니다. 따라서 'AI: 더 포용적인 직장을 위한 도구'라는 제목이 글의 전체 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities.\nFor example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where interpersonal communication is necessary.\nAI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects.\nFor example, AI's capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace.\nMoreover, recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains such as writing, coding or customer service.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Artificial intelligence helps to create a more inclusive work environment for various disadvantaged workers."
+        },
+        {
+          "number": "②",
+          "text": "The most significant contribution of AI is its real-time translation for non-native speaking employees."
+        },
+        {
+          "number": "③",
+          "text": "AI-powered text generators are quickly replacing the need for human workers in writing and coding."
+        },
+        {
+          "number": "④",
+          "text": "Workers with disabilities now have better career prospects than low-skilled workers thanks to new technologies."
+        },
+        {
+          "number": "⑤",
+          "text": "Companies must invest heavily in AI assistive devices to comply with new workplace regulations."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 AI가 장애가 있는 근로자들의 접근성을 높이고, 저숙련 근로자나 비원어민 근로자의 역량을 강화하는 등 노동 시장에서 일반적으로 불리한 위치에 있는 다양한 근로자들을 돕는다고 설명합니다. 이를 통해 직장의 포용성을 개선한다고 말하고 있으므로, 'AI가 다양한 소외 계층 근로자들을 위해 더 포용적인 근무 환경을 만드는 데 도움을 준다'는 선택지가 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities.\nFor example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where interpersonal communication is necessary. ( ① ) For example, AI's capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace. ( ② ) Moreover, recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains such as writing, coding or customer service. ( ③ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**AI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 전반부는 AI가 장애가 있는 근로자를 돕는 사례를 설명합니다. 주어진 문장은 'also'를 사용하여 화제를 전환하며, AI가 '저숙련 근로자'의 역량을 강화할 수 있다는 새로운 내용을 소개합니다. ①의 바로 다음 문장은 비원어민 화자(저숙련 근로자의 한 예)를 위한 AI 번역 기능을 예로 들고 있습니다. 따라서 일반적인 진술인 주어진 문장이 구체적인 예시 앞에 오는 것이 논리적으로 가장 자연스럽습니다. 주어진 문장은 전반부와 후반부를 잇는 다리 역할을 합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace.",
+      "question_blocks": {
+        "A": "For example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues.",
+        "B": "AI can also enhance the capabilities of low-skilled workers. For example, AI's capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace.",
+        "C": "AI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 문장은 AI가 소외 계층 근로자를 도와 직장 내 포용성을 높인다는 글의 중심 생각을 제시합니다. (C)에서 첫 번째 소외 계층인 '장애가 있는 근로자'를 위한 보조 기기에 대해 일반적인 설명을 시작합니다. (A)에서 'For example'을 사용하여 (C)에 대한 구체적인 예시(음성 인식, 실시간 자막)를 제공합니다. (B)에서 'also'를 사용하여 두 번째 소외 계층인 '저숙련 근로자'로 주제를 전환하고, 그에 대한 예시를 제시합니다. 따라서 일반적 주장 -> 첫 번째 그룹(C) -> 첫 번째 그룹의 예시(A) -> 두 번째 그룹(B)의 순서인 (C)-(A)-(B)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve ____________________ in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities.\nFor example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where interpersonal communication is necessary.\nAI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "employee surveillance"
+        },
+        {
+          "number": "②",
+          "text": "management efficiency"
+        },
+        {
+          "number": "③",
+          "text": "inclusiveness"
+        },
+        {
+          "number": "④",
+          "text": "job competition"
+        },
+        {
+          "number": "⑤",
+          "text": "automation speed"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 첫 문장은 글 전체의 주제문입니다. 글의 내용은 AI가 장애가 있는 근로자나 저숙련 근로자와 같이 불리한 위치에 있는 사람들을 돕는 방법을 설명합니다. 이는 모든 구성원을 포용하는 환경을 만드는 것을 의미하므로, '포용성(inclusiveness)'이 빈칸에 들어갈 가장 적절한 단어입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a ①<u>disadvantage</u> in the labour market, AI can improve inclusiveness in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more ②<u>widespread</u>, improving the access to, and the quality of work for people with disabilities.\nFor example, speech recognition solutions can ③<u>facilitate</u> communication with colleagues.\nAI can also ④<u>enhance</u> the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects.\nMoreover, recent developments in AI-powered text generators can instantly ⑤<u>hinder</u> the performance of lower-skilled individuals in domains such as writing or coding.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 전체적인 맥락은 AI가 저숙련 근로자의 역량을 강화하고 성과를 향상시킨다는 것입니다. AI 기반 텍스트 생성기가 작문이나 코딩 같은 분야에서 저숙련자의 성과를 즉시 '향상시킨다(improve)'고 해야 문맥이 자연스럽습니다. '방해하다(hinder)'는 글의 흐름과 정반대되는 의미입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "By improving (A)<u>accessibility</u> of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace.\nAI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more (B)<u>widespread</u>.\nFor example, speech recognition solutions can (C)<u>facilitate</u> communication with colleagues and access to jobs where interpersonal communication is necessary.\nAI can also (D)<u>enhance</u> the capabilities of low-skilled workers, with potentially positive effects on their wages and career (E)<u>prospects</u>.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) accessibility: the quality of being easy to use or obtain"
+        },
+        {
+          "number": "②",
+          "text": "(B) widespread: existing or happening in only a few places"
+        },
+        {
+          "number": "③",
+          "text": "(C) facilitate: to make an action or process easier"
+        },
+        {
+          "number": "④",
+          "text": "(D) enhance: to improve the quality, value, or strength of something"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) prospects: the chances of future success"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "'Widespread'는 '광범위한, 널리 퍼진'이라는 의미입니다. 제시된 영영 풀이('existing or happening in only a few places' - 단지 몇몇 장소에서만 존재하거나 발생하는)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "By improving accessibility of the workplace for workers that are typically at a (A)[disadvantage / benefit] in the labour market, AI can improve inclusiveness.\nAI-powered assistive devices to aid workers with difficulties are becoming more widespread, improving the access to, and the quality of work.\nFor example, live captioning systems for deaf people can (B)[facilitate / obstruct] communication with colleagues.\nAI can also enhance the capabilities of low-skilled workers, with potentially (C)[positive / harmful] effects on their wages and career prospects.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "disadvantage - facilitate - positive"
+        },
+        {
+          "number": "②",
+          "text": "disadvantage - obstruct - harmful"
+        },
+        {
+          "number": "③",
+          "text": "benefit - facilitate - positive"
+        },
+        {
+          "number": "④",
+          "text": "benefit - obstruct - harmful"
+        },
+        {
+          "number": "⑤",
+          "text": "disadvantage - facilitate - harmful"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) AI는 노동 시장에서 '이점(benefit)'이 아닌 '불리한 위치(disadvantage)'에 있는 근로자들을 돕습니다. (B) 실시간 자막 시스템은 동료와의 의사소통을 '방해하는(obstruct)' 것이 아니라 '용이하게(facilitate)' 합니다. (C) AI가 저숙련 근로자의 역량을 강화하는 것은 임금과 경력 전망에 '해로운(harmful)' 영향이 아니라 '긍정적인(positive)' 영향을 미칩니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "AI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread. ① For example, speech recognition solutions can facilitate communication with colleagues. ② AI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages. ③ The cost of developing and implementing these advanced AI systems can be a significant financial burden for small businesses. ④ For example, AI's capacity to translate can improve the performance of non-native speakers. ⑤ Moreover, AI-powered text generators can instantly improve the performance of lower-skilled individuals in writing or coding.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 AI가 직장 내 소외 계층에게 제공하는 '이점'과 '긍정적 효과'에 초점을 맞추고 있습니다. 그러나 ③번 문장은 이러한 AI 시스템을 개발하고 실행하는 데 드는 '비용'이 중소기업에 재정적 부담이 될 수 있다는 부정적인 측면, 즉 '단점'에 대해 이야기하고 있습니다. 이는 글의 전체적인 긍정적 논조와 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "By improving accessibility of the workplace for workers ①[that / what] are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace. AI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, ②[improving / improved] the access to, and the quality of work for people with disabilities. For example, live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where interpersonal communication is necessary. AI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects, and recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains ③[such / so] as writing, coding or customer service.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'workers'를 수식하는 주격 관계대명사가 필요한 자리입니다. 'that' 또는 'who'가 올 수 있습니다. 선행사를 포함하는 관계대명사 'what'은 사용할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "improving",
+          "explanation": "주절('AI-powered assistive devices... are becoming more widespread')에 대한 부수적인 결과를 나타내는 분사구문이 필요한 자리입니다. 보조 기기들이 능동적으로 접근성과 업무의 질을 '개선하는' 것이므로 현재분사 'improving'이 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "such",
+          "explanation": "뒤에 나열된 'writing, coding or customer service'와 같은 예를 들기 위해 사용되는 표현은 'such as'입니다."
+        }
+      ]
+    }
+  ]
+}

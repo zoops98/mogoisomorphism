@@ -1,0 +1,197 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night.\nSo to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers.\nActually, what they saw at first was a flounder.\nIt was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion.\nAn octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature.\nMany more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes.\nAnd while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever's hiding there.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to explain the general hunting habits of all octopuses" },
+        { "number": "②", "text": "to describe the discovery of an octopus with unique abilities" },
+        { "number": "③", "text": "to warn underwater photographers about potential dangers" },
+        { "number": "④", "text": "to compare the intelligence levels of flounders and octopuses" },
+        { "number": "⑤", "text": "to provide a guide for finding rare sea creatures" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 대부분의 문어가 숨어 지내는 것과 달리, 대낮에 넙치나 바다뱀과 같은 다른 생물을 흉내 내는 특별한 능력을 가진 문어가 발견된 사례를 소개하고 있습니다. 그 문어의 특징과 행동을 구체적으로 묘사하고 있으므로, 글의 주된 목적은 '독특한 능력을 가진 문어의 발견을 묘사하기 위함'입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night.\nSo to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers.\nActually, what they saw at first was a flounder.\nIt was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion.\nAn octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature.\nMany more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes.\nAnd while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever's hiding there.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Night Hunters of the Deep Sea" },
+        { "number": "②", "text": "A Photographer's Underwater Surprise" },
+        { "number": "③", "text": "The Mimicking Octopus: Master of Disguise" },
+        { "number": "④", "text": "Communication Between Marine Species" },
+        { "number": "⑤", "text": "The Unique Eyesight of the Octopus" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 내용은 다른 생물(넙치, 바다뱀)을 흉내 내는(mimic) 특별한 문어에 관한 것입니다. 이 문어는 위장(disguise)의 대가로서 자신의 생물학적 자산을 활용합니다. 따라서 '흉내 내는 문어: 위장의 대가'라는 제목이 글의 중심 소재와 특징을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night.\nSo to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers.\nActually, what they saw at first was a flounder.\nIt was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion.\nAn octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature.\nMany more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes.\nAnd while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever's hiding there.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "A specific species of octopus uses its remarkable biological assets to actively mimic other sea creatures for survival." },
+        { "number": "②", "text": "All species of octopus are well known to hunt during the daytime by pretending to be other types of fish." },
+        { "number": "③", "text": "The photographers' discovery was only significant because they managed to get clear photographs of this very rare octopus." },
+        { "number": "④", "text": "The primary defense mechanism of an octopus is its ability to move very quickly and hide inside small holes." },
+        { "number": "⑤", "text": "The main purpose of an octopus's mimicry is to attract its prey by appearing as a harmless sea creature." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 대부분의 문어와 달리, 뛰어난 뇌, 시력, 색과 패턴 변경 능력과 같은 생물학적 자산(biological assets)을 사용하여 넙치나 바다뱀과 같은 다른 생물을 적극적으로 흉내 내는(mimic) 특별한 문어에 대해 설명하고 있습니다. 이는 생존을 위한 행동이므로, '특정 종의 문어는 생존을 위해 자신의 놀라운 생물학적 자산을 사용하여 다른 바다 생물을 적극적으로 흉내 낸다'는 ①번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "So to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers. Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion. ( ① ) Many more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes. ( ② ) And while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever's hiding there. ( ③ ) This unique hunting strategy showcases an incredible level of intelligence. ( ④ ) Researchers are still studying how they choose which animal to mimic. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 문어가 어떻게 자신을 완전히 다른 생물로 바꿀 수 있는지 그 생물학적 능력(큰 뇌, 뛰어난 시력, 색과 패턴 변경 능력)을 설명합니다. 이 문장은 문어가 넙치처럼 보이는 착시 현상을 만들어냈다는 구체적인 관찰 내용 바로 뒤, 그리고 이 종의 다른 모방 사례(바다뱀)를 언급하기 전에 위치하여, 관찰된 현상에 대한 원리를 설명하고 다음 사례로 자연스럽게 넘어가는 다리 역할을 합니다. 따라서 정답은 ①번입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night. So to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers.",
+      "question_blocks": {
+        "A": "An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature.",
+        "B": "Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion.",
+        "C": "Many more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes. And while they mimic, they hunt."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 사진작가들이 문어를 발견하고 놀랐다는 내용입니다. (B)에서 'Actually'로 시작하며 그들이 처음에 본 것이 무엇인지(넙치 착시) 구체적으로 설명합니다. (A)에서는 (B)에서 묘사된 착시 현상이 가능했던 이유, 즉 문어의 생물학적 능력(자산)을 설명합니다. 마지막으로 (C)에서는 그 이후의 추가적인 발견(바다뱀 흉내)과 이들의 사냥 방식에 대해 언급하며 논지를 확장합니다. 따라서 (B)-(A)-(C) 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The best defence most species of octopus have is to stay hidden as much as possible. So to find one in full view in the shallows in daylight was a surprise. Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to [____________________]. An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature. Many more of this species have been found since then, mimicking sea snakes and other animals while they hunt.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "find prey hidden in the sand" },
+        { "number": "②", "text": "communicate with the photographers" },
+        { "number": "③", "text": "create the illusion" },
+        { "number": "④", "text": "absorb more sunlight" },
+        { "number": "⑤", "text": "defend against predators" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸 앞부분에서는 문어가 팔을 접고 눈을 위로 향하게 하고 있었다고 묘사합니다. 이 행동의 목적은 처음에는 넙치처럼 보이게 하는 것이었습니다. 즉, 다른 생물처럼 보이는 '착시 현상'을 만들어내기 위한 행동입니다. 바로 다음 문장에서 이 문어가 자신을 완전히 다른 생물로 바꾸고 있었다고 설명하는 것을 보아, 빈칸에는 '착시 현상을 만들어내기 위해'라는 의미의 'create the illusion'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The best defence most species of octopus have is to stay ① [hidden] as much as possible and do their own hunting at night. So to find one in full view in the shallows in daylight was a ② [surprise] for two Australian underwater photographers. Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms ③ [folded] and its two eyes staring upwards to create the illusion. An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely ④ [similar] creature. And while they mimic, they hunt ─ producing the ⑤ [spectacle] of a flounder suddenly developing an octopodian arm.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "① hidden" },
+        { "number": "②", "text": "② surprise" },
+        { "number": "③", "text": "③ folded" },
+        { "number": "④", "text": "④ similar" },
+        { "number": "⑤", "text": "⑤ spectacle" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 문어는 넙치나 바다뱀과 같이 자신과는 '완전히 다른(completely different)' 생물로 자신을 바꾸고 있었습니다. '비슷한(similar)' 생물로 바꾸었다고 하는 것은 이 문어의 놀라운 변신 능력을 약화시키는 표현이며, 문맥상 어색합니다. 문어는 자신과 비슷한 생물이 아닌, 전혀 다른 생물을 흉내 내고 있습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The best defence most species of octopus have is to stay (A) [hidden] as much as possible. So to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers. It was only when they looked again that they saw a medium-sized octopus, creating an (B) [illusion]. An octopus has a big brain, excellent eyesight and other (C) [assets] to turn itself into a completely different creature. Many more of this species have been found since then, and there are now photographs of octopuses that could be said to be (D) [transforming] into sea snakes. And while they mimic, they hunt ─ producing the (E) [spectacle] of, say, a flounder suddenly developing an octopodian arm.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) hidden: difficult to see or find" },
+        { "number": "②", "text": "(B) illusion: an idea or belief that is not true" },
+        { "number": "③", "text": "(C) assets: valuable qualities or skills that a person or thing has" },
+        { "number": "④", "text": "(D) transforming: to change completely the appearance or character of something" },
+        { "number": "⑤", "text": "(E) spectacle: a formal ceremony or public event" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 본문에서 'spectacle'은 넙치가 갑자기 문어 팔을 내미는 '놀라운 광경, 장관'을 의미합니다. 영영 풀이 'a formal ceremony or public event (공식적인 의식이나 공개 행사)'는 'spectacle'의 다른 의미이며, 본문의 문맥과는 맞지 않습니다. 따라서 ⑤번의 영영 풀이가 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The best defence most species of octopus have is to stay (A) [hidden / visible] as much as possible and do their own hunting at night. So to find one in full view in the shallows in daylight was a surprise. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms (B) [folded / extended] and its two eyes staring upwards to create the illusion. And while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and (C) [grabbing / releasing] whatever's hiding there.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "hidden - folded - grabbing" },
+        { "number": "②", "text": "hidden - extended - releasing" },
+        { "number": "③", "text": "visible - folded - grabbing" },
+        { "number": "④", "text": "visible - extended - releasing" },
+        { "number": "⑤", "text": "hidden - folded - releasing" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 대부분 문어의 최선의 방어는 가능한 한 '숨어(hidden)' 지내는 것입니다. 'visible'은 '보이는'이라는 뜻입니다. (B) 넙치처럼 보이는 착시를 만들기 위해 여덟 개의 팔을 모두 '접고(folded)' 있었습니다. 'extended'는 '뻗은'이라는 뜻입니다. (C) 사냥하는 동안, 구멍 속에 숨어있는 것을 '움켜쥐기(grabbing)' 위해 팔을 내밉니다. 'releasing'은 '풀어주는'이라는 뜻입니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night.\nSo to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers.\nActually, what they saw at first was a flounder.\nIt was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion.\nAn octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature.\nMany more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes.\nAnd while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever's hiding there.",
+      "question": "글에 드러난 흉내 내는 문어에 관한 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "It was first discovered by Australian photographers in shallow water." },
+        { "number": "②", "text": "It can create the illusion of being a flounder by folding its arms." },
+        { "number": "③", "text": "It has been observed mimicking other animals like sea snakes." },
+        { "number": "④", "text": "It only mimics other animals for defense and never hunts while in disguise." },
+        { "number": "⑤", "text": "Its abilities are supported by a large brain and excellent eyesight." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문의 마지막 부분에서 'And while they mimic, they hunt (그리고 그들은 흉내 내는 동안, 사냥한다)'라고 명시되어 있습니다. 따라서 위장한 상태에서는 절대 사냥하지 않고 방어만 한다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① The best defence most species of octopus have [is / are] to stay hidden as much as possible. ② It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms [folded / folding] and its two eyes staring upwards. ③ An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets [to turn / turning] itself into a completely different creature. ④ There are now photographs of octopuses that could be said to be transforming into sea snakes. ⑤ And while they mimic, they hunt ─ producing the spectacle of, say, a flounder suddenly [developing / to develop] an octopodian arm.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "is",
+          "explanation": "이 문장의 주어는 'The best defence'라는 단수 명사이므로, 단수 동사인 'is'가 와야 합니다. 'most species of octopus have'는 주어를 수식하는 관계사절입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "folded",
+          "explanation": "'with + 명사 + 분사' 구문으로, 부대 상황을 나타냅니다. 'its arms'가 '접히는' 대상이므로 수동의 의미를 가진 과거분사 'folded'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to turn",
+          "explanation": "'~하기 위하여'라는 목적을 나타내는 to부정사의 부사적 용법이 필요합니다. 따라서 'to turn'이 어법에 맞습니다."
+        },
+        {
+          "number": "⑤",
+          "correct_form": "developing",
+          "explanation": "전치사 'of'의 목적어인 동명사구 'a flounder suddenly developing...'의 일부입니다. 'a flounder'는 동명사 'developing'의 의미상 주어 역할을 합니다. 따라서 현재분사(또는 동명사) 'developing'이 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

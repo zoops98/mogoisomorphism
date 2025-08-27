@@ -1,0 +1,288 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to advocate for the immediate use of gene editing"
+        },
+        {
+          "number": "②",
+          "text": "to explain the scientific process of correcting mutations"
+        },
+        {
+          "number": "③",
+          "text": "to warn against the potential ethical dangers of gene editing"
+        },
+        {
+          "number": "④",
+          "text": "to compare the costs and benefits of genetic research"
+        },
+        {
+          "number": "⑤",
+          "text": "to celebrate a new breakthrough in medical technology"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 유전자 편집 기술이 질병 치료라는 긍정적 측면에서 시작될 수 있지만, 결국 우월한 유전자로 '업그레이드'하려는 유혹으로 이어져 '미끄러운 경사길'에 들어설 수 있다고 지적합니다. 이는 기술의 잠재적인 윤리적 위험에 대해 경고하는 것이 주된 목적임을 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The End of All Human Diseases"
+        },
+        {
+          "number": "②",
+          "text": "Gene Editing: A Slippery Slope to Perfection?"
+        },
+        {
+          "number": "③",
+          "text": "How to Increase Your Child's Mental Abilities"
+        },
+        {
+          "number": "④",
+          "text": "The Proven Safety of Embryo Modification"
+        },
+        {
+          "number": "⑤",
+          "text": "Human Nature: The Unstoppable Pursuit"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 유전자 편집이 질병 치료에서 시작하여 인간 강화(완벽함 추구)로 이어지는 '미끄러운 경사길(slippery slope)'이 될 수 있다는 윤리적 딜레마를 핵심적으로 다루고 있습니다. 따라서 '유전자 편집: 완벽으로 가는 미끄러운 경사길인가?'라는 제목이 글의 중심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "While gene editing for diseases is tempting, it may lead to the ethically dangerous pursuit of human enhancement."
+        },
+        {
+          "number": "②",
+          "text": "Gene editing technology should be immediately banned because it has been proven to be unsafe and completely ineffective."
+        },
+        {
+          "number": "③",
+          "text": "The primary benefit of gene editing is the ability to change physical characteristics like eye and hair color."
+        },
+        {
+          "number": "④",
+          "text": "It is scientifically impossible to upgrade normal human genes to versions that could be considered genuinely superior."
+        },
+        {
+          "number": "⑤",
+          "text": "The government must fund research to make gene editing for unborn children safer for public health benefits."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 질병 치료를 위한 유전자 편집이 논리적으로 보일지라도, 이는 인간을 '향상'시키려는 윤리적으로 위험한 시도로 이어질 수 있는 '미끄러운 경사길'이 될 수 있다는 것입니다. 따라서 '질병에 대한 유전자 편집은 유혹적이지만, 윤리적으로 위험한 인간 강화 추구로 이어질 수 있다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. ( ① ) ( ② ) Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? ( ③ ) What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? ( ④ ) The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 'Yet'으로 시작하여 앞 내용과 전환을 이루며, 질병 유전자를 '정상' 유전자로 바꾸는 것을 넘어 '우월한' 버전으로 업그레이드하려는 유혹이 생길 것이라고 말합니다. 이는 질병 치료라는 긍정적 논의에서 인간 강화라는 윤리적 문제로 넘어가는 핵심적인 전환점입니다. 바로 뒤에 이어지는 문장들은 이러한 유혹의 구체적인 예시(질병 위험 감소, 능력 향상 등)를 질문 형식으로 제시합니다. 따라서 주어진 문장은 질병 치료에 대한 첫 문장 다음, 그리고 구체적인 윤리적 질문들 앞인 ②에 위치하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
+      "question_blocks": {
+        "A": "Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
+        "B": "The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+        "C": "Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 글은 유전자 편집을 통한 질병 치료의 논리성을 제시합니다. (C)는 'Yet'으로 시작하며, 질병 치료를 넘어 유전자를 '업그레이드'하려는 유혹이 생길 것이라는 문제점을 제기하며 글의 흐름을 전환합니다. (A)는 (C)에서 제기된 유혹의 구체적인 예시들을 질문의 형태로 나열하며 문제를 심화시킵니다. (B)는 이러한 '미끄러운 경사길(slippery slope)'에 대한 최종적인 경고와 함께 글을 마무리합니다. 따라서 논리적 흐름에 맞는 순서는 (C)-(A)-(B)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like [____________________].",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the path we have chosen"
+        },
+        {
+          "number": "②",
+          "text": "how perfect we have become"
+        },
+        {
+          "number": "③",
+          "text": "the diseases we have cured"
+        },
+        {
+          "number": "④",
+          "text": "where we end up"
+        },
+        {
+          "number": "⑤",
+          "text": "why it is so effective"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 포함된 문장은 '미끄러운 경사길'을 따라갔을 때의 결과에 대한 경고입니다. 필자는 완벽을 추구하는 과정이 우리가 원치 않는 결과, 즉 예측할 수 없고 잠재적으로 부정적인 사회적, 윤리적 '종착점'으로 이어질 수 있음을 우려하고 있습니다. 따라서 '우리가 결국 도달하게 될 곳'이라는 의미의 'where we end up'이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Assuming gene editing in humans proves to be safe and ① [effective], it might seem logical, even preferable, to ② [correct] disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to ③ [superior] versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children ④ [beneficial] features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this ⑤ [stable] slope, we may not like where we end up.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "필자는 유전자 편집이 질병 치료에서 인간 강화로 이어지는 과정을 통제하기 어렵고 위험한 '미끄러운 경사길(slippery slope)'에 비유하고 있습니다. '안정적인'이라는 뜻의 'stable'은 이러한 위험성을 나타내는 문맥과 정반대의 의미를 가지므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing (A) [mutations] at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to (B) [transform] an embryo's mutated genes into \"normal\" ones, there will certainly be (C) [temptations] to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children (D) [beneficial] features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The (E) [pursuit] for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) mutations: the way in which the genetic information of a plant or animal changes"
+        },
+        {
+          "number": "②",
+          "text": "(B) transform: to change the character or appearance of something completely"
+        },
+        {
+          "number": "③",
+          "text": "(C) temptations: strong desires to do something, especially something that is wrong or unwise"
+        },
+        {
+          "number": "④",
+          "text": "(D) beneficial: having a helpful or good effect on something or someone"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) pursuit: the act of finally achieving a long-term goal"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) pursuit는 '추구'라는 행위 자체를 의미합니다. 영영 풀이 'the act of finally achieving a long-term goal(장기적인 목표를 마침내 달성하는 행위)'는 '성취(achievement)'나 '달성(attainment)'에 대한 설명에 더 가깝습니다. 'pursuit'의 올바른 영영 풀이는 'the action of trying to achieve or get something'입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the (A) [earliest / latest] possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade (B) [normal / abnormal] genes to superior versions. Should we begin editing genes in unborn children to (C) [lower / raise] their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "earliest - normal - lower" },
+        { "number": "②", "text": "earliest - abnormal - raise" },
+        { "number": "③",
+          "text": "latest - normal - lower"
+        },
+        { "number": "④",
+          "text": "latest - abnormal - raise"
+        },
+        { "number": "⑤",
+          "text": "earliest - normal - raise"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 해로운 유전자가 심각한 문제를 일으키기 전에 교정하는 것이므로, 가능한 '가장 이른' 단계인 'earliest'가 적절합니다. (B) 돌연변이 유전자를 '우월한' 버전으로 업그레이드하기 전에, '정상적인' 유전자를 업그레이드하려는 유혹에 대해 말하고 있으므로 'normal'이 문맥에 맞습니다. (C) 심장병이나 암의 평생 위험을 '낮추기' 위해 유전자를 편집하는 것이므로 'lower'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible to transform an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Correcting harmful mutations in embryos can be seen as a logical idea."
+        },
+        {
+          "number": "②",
+          "text": "The author worries that editing for therapy could lead to editing for enhancement."
+        },
+        {
+          "number": "③",
+          "text": "The passage raises ethical questions about altering traits like strength and eye color."
+        },
+        {
+          "number": "④",
+          "text": "The author is confident that humanity will benefit from the pursuit of perfection."
+        },
+        {
+          "number": "⑤",
+          "text": "The desire for perfection is considered a natural aspect of human character."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 마지막 부분에서 필자는 'if we start down this slippery slope, we may not like where we end up'이라고 말하며, 완벽을 추구하는 과정이 우리가 좋아하지 않을 결과로 이어질 수 있다고 경고합니다. 이는 인류가 완벽 추구로부터 이익을 얻을 것이라고 확신하는 것이 아니라, 그 결과에 대해 깊이 우려하고 있음을 보여줍니다. 따라서 ④번 선택지는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, ① [to correct / correcting] disease-causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems. Yet once it becomes possible ② [to transform / transforming] an embryo's mutated genes into \"normal\" ones, there will certainly be temptations to upgrade normal genes to superior versions. Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer? What about ③ [giving / to give] unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color? The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to correct",
+          "explanation": "이 문장은 'It seems logical to...'의 가주어-진주어 구문입니다. 진주어 역할을 하는 to부정사가 와야 하므로 'to correct'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to transform",
+          "explanation": "이 문장 역시 'it becomes possible to...'의 가주어-진주어 구문입니다. 진주어 역할을 하는 to부정사가 필요하므로 'to transform'이 올바른 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "giving",
+          "explanation": "전치사구 'What about' 뒤에는 명사 또는 동명사가 와야 합니다. 따라서 동명사 'giving'이 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

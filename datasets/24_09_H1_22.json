@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.\nFear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.).\nFor example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future).\nRegardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us (as a species) survive challenges within our environment long ago.\nIf they had not helped us adapt and survive, they would not have evolved with us.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to compare various psychological theories on memory"
+        },
+        {
+          "number": "②",
+          "text": "to explain the evolutionary reasons for human emotions"
+        },
+        {
+          "number": "③",
+          "text": "to argue for the need to control primitive emotions"
+        },
+        {
+          "number": "④",
+          "text": "to describe how to use emotions for social success"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide examples of effective emotional expression"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 감정이 종의 생존에 기여했기 때문에 존재한다고 반복해서 설명하며, 진화론적 관점에서 감정이 생존에 어떤 도움을 주었는지를 상세히 서술하고 있습니다. 따라서 글의 주된 목적은 인간 감정의 존재 이유를 진화론적 관점에서 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.\nFear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.).\nFor example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future).\nRegardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us (as a species) survive challenges within our environment long ago.\nIf they had not helped us adapt and survive, they would not have evolved with us.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Fight or Flight Response Explained"
+        },
+        {
+          "number": "②",
+          "text": "How Memory Is Affected by Emotions"
+        },
+        {
+          "number": "③",
+          "text": "Emotions: Evolved Programs for Survival"
+        },
+        {
+          "number": "④",
+          "text": "The Social Importance of Positive Feelings"
+        },
+        {
+          "number": "⑤",
+          "text": "Are Emotions Still Useful Today?"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 내용은 감정이 유발될 때 우리의 다양한 활동을 지시하는 일종의 '프로그램'이며, 이것이 종의 '생존'을 도왔기 때문에 진화해왔다는 것입니다. 따라서 '감정: 생존을 위한 진화된 프로그램'이라는 제목이 글의 중심 생각을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.\nFear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.).\nFor example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future).\nRegardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us (as a species) survive challenges within our environment long ago.\nIf they had not helped us adapt and survive, they would not have evolved with us.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The emotions we possess today have evolved because they aided our species' adaptation and survival."
+        },
+        {
+          "number": "②",
+          "text": "Fear is considered the most critical emotion as it triggers the primary fight or flight response."
+        },
+        {
+          "number": "③",
+          "text": "Positive emotions are far more important for building social bonds than negative emotions are for avoiding threats."
+        },
+        {
+          "number": "④",
+          "text": "The human brain uses emotions as a complex program to store and retrieve important memories effectively."
+        },
+        {
+          "number": "⑤",
+          "text": "In modern society, our ancient emotional responses can often be a hindrance to rational decision-making."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 처음부터 끝까지 일관되게 감정이 우리 종의 '생존'과 '적응'에 기여했기 때문에 진화해 왔다고 주장합니다. 글의 마지막 문장 'If they had not helped us adapt and survive, they would not have evolved with us.'는 이 요지를 명확하게 요약합니다. 따라서 '오늘날 우리가 가진 감정은 종의 적응과 생존을 도왔기 때문에 진화했다'는 선택지가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.\nFear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others. ( ① ) From an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.). ( ② ) Regardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us (as a species) survive challenges within our environment long ago. ( ③ ) If they had not helped us adapt and survive, they would not have evolved with us. ( ④ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**For example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future).**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 'For example'로 시작하며, '두려움'이라는 감정이 어떻게 우리의 주의, 인식, 행동, 기억 등을 지시하는지에 대한 구체적인 예를 제시합니다. ②의 바로 앞 문장에서는 감정을 유발될 때 우리의 많은 활동을 지시하는 '프로그램'이라고 추상적으로 정의했습니다. 따라서 이 추상적인 개념 바로 뒤인 ②에 구체적인 예시를 제공하는 주어진 문장이 들어가는 것이 가장 논리적인 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.",
+      "question_blocks": {
+        "A": "From an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.).",
+        "B": "Fear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others.",
+        "C": "For example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, and may cause us to remember an experience more acutely. If they had not helped us adapt and survive, they would not have evolved with us."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 감정이 생존에 기여했다는 중심 주장을 제시합니다. (B)에서는 두려움, 분노, 긍정적 감정 등 구체적인 감정들이 어떻게 생존에 도움을 주었는지 예를 들어 이 주장을 뒷받침합니다. (A)에서는 이러한 기능들을 일반화하여 감정을 일종의 '프로그램'으로 개념화합니다. (C)에서는 'For example'을 사용하여 '두려움'이라는 프로그램이 어떻게 작동하는지 상세히 설명하고, 전체 내용을 요약하며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.\nFear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, ____________________ (including attention, perception, memory, movement, expressions, etc.).\nFor example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future).\nIf they had not helped us adapt and survive, they would not have evolved with us.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "suppresses our rational thoughts"
+        },
+        {
+          "number": "②",
+          "text": "reflects our social status"
+        },
+        {
+          "number": "③",
+          "text": "directs many of our activities"
+        },
+        {
+          "number": "④",
+          "text": "is controlled by conscious will"
+        },
+        {
+          "number": "⑤",
+          "text": "hinders our physical reactions"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 감정을 '프로그램'에 비유하고 있으며, 빈칸 뒤에는 그 프로그램이 통제하는 것들로 주의, 인식, 기억, 움직임 등이 괄호 안에 나열되어 있습니다. 이는 모두 '활동(activities)'의 구체적인 예시들입니다. 따라서 감정이라는 프로그램이 '우리의 많은 활동을 지시한다(directs many of our activities)'고 설명하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Our emotions are thought to exist because they have ①<u>contributed</u> to our survival as a species.\nFear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us ②<u>bond</u> with others.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities.\nFor example, fear makes us very attentive, ③<u>narrows</u> our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more ④<u>vaguely</u> (so that we avoid the threat in the future).\nRegardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us ⑤<u>survive</u> challenges.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글에 따르면, 두려움은 우리가 미래에 위협을 피할 수 있도록 경험을 더 '날카롭게, 선명하게(acutely)' 기억하게 만듭니다. '모호하게(vaguely)' 기억하는 것은 생존에 도움이 되지 않으므로, 이는 문맥에 맞지 않는 낱말입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Our emotions are thought to exist because they have (A)<u>contributed</u> to our survival as a species.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when (B)<u>triggered</u>, directs many of our activities (including attention, perception, memory, etc.).\nFor example, fear makes us very attentive, narrows our perceptual focus to (C)<u>threatening</u> stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more (D)<u>acutely</u>.\nIf they had not helped us (E)<u>adapt</u> and survive, they would not have evolved with us.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) contributed: helped to make something happen"
+        },
+        {
+          "number": "②",
+          "text": "(B) triggered: caused an event to start"
+        },
+        {
+          "number": "③",
+          "text": "(C) threatening: expressing a wish to support and help someone"
+        },
+        {
+          "number": "④",
+          "text": "(D) acutely: in a sharp or intense way"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) adapt: to change to be suitable for a new situation"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "'Threatening'은 '위협적인, 협박하는'이라는 의미입니다. 제시된 영영 풀이('expressing a wish to support and help someone' - 누군가를 지지하고 돕고 싶은 소망을 표현하는)는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species.\nFear has helped us (A)[avoid / confront] dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others.\nFrom an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities.\nFor example, fear makes us very (B)[attentive / indifferent], narrows our perceptual focus to threatening stimuli, and will cause us either to face a situation or avoid it.\nIf emotions had not helped us adapt and survive, they would not have (C)[evolved / vanished] with us.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "avoid - attentive - evolved"
+        },
+        {
+          "number": "②",
+          "text": "avoid - indifferent - vanished"
+        },
+        {
+          "number": "③",
+          "text": "confront - attentive - vanished"
+        },
+        {
+          "number": "④",
+          "text": "confront - indifferent - evolved"
+        },
+        {
+          "number": "⑤",
+          "text": "avoid - attentive - vanished"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 두려움은 위험에 '맞서는(confront)' 것이 아니라 '피하도록(avoid)' 도와주었습니다. (B) 두려움은 위협에 '무관심하게(indifferent)' 만드는 것이 아니라 매우 '주의를 기울이게(attentive)' 만듭니다. (C) 감정이 적응과 생존에 도움이 되었기 때문에 우리와 함께 '사라진(vanished)' 것이 아니라 '진화한(evolved)' 것입니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장",
+      "passage": "From an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities. ① For example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, and will cause us either to face a situation or avoid it. ② The specific facial muscles involved in expressing fear are universal across different cultures. ③ This response may cause us to remember an experience more acutely so that we avoid the threat in the future. ④ Regardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us survive. ⑤ If they had not helped us adapt and survive, they would not have evolved with us.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 감정이 생존을 위해 '어떤 기능'을 하는지에 대한 진화론적 설명을 하고 있습니다. ②번 문장은 두려움의 '표정 근육'이 문화적으로 보편적이라는 사실을 언급하는데, 이는 감정의 기능이 아닌 '표현의 보편성'에 대한 내용입니다. 글의 핵심 주제인 '감정의 생존 기능'에서 벗어나므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Our emotions are thought to exist because they have contributed to our survival as a species. Fear has helped us ①[avoid / avoiding] dangers, and expressing anger helps us scare off threats. From an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities. For example, fear ②[makes / making] us very attentive, narrows our perceptual focus, and will cause us to face or avoid a situation. It may also cause us to remember an experience more acutely, so that we avoid the threat in the future. Regardless of the specific ways in which they activate our systems, the specific emotions we possess ③[is / are] thought to exist because they have helped us survive.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "avoid",
+          "explanation": "준사역동사 'help'의 목적격 보어로는 동사원형(avoid)이나 to부정사(to avoid)가 올 수 있습니다. 동명사 'avoiding'은 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "makes",
+          "explanation": "이 문장에서 'narrows'와 'will cause'는 주어 'fear'에 연결되는 동사들과 병렬 구조를 이룹니다. 따라서 3인칭 단수 주어 'fear'에 맞는 동사 'makes'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "are",
+          "explanation": "이 문장의 주어는 'the specific emotions we possess'입니다. 핵심 주어인 'emotions'가 복수이므로, 동사도 복수형인 'are'를 사용해야 합니다."
+        }
+      ]
+    }
+  ]
+}
