@@ -1,0 +1,237 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Steve Jobs used analogy to get people to embrace the new technology. Before computers, people worked in a physical world. We used paper and pens and physical file folders and so on. The idea of working in a virtual world was radically different. Or at least seemed radically different. What Jobs understood was that a physical office was fundamentally similar to a virtual office. To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace. In the pre-computer workplace, when ideas were written on paper it was called . . . a document. When those documents needed to be stored they were put in . . . a folder. And those folders were kept on . . . a desk. Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology easier to understand. The parallels between the physical and virtual workplace now seem obvious.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To criticize the design of early computers."
+        },
+        {
+          "number": "②",
+          "text": "To explain Steve Jobs' strategy of using analogy to introduce new technology."
+        },
+        {
+          "number": "③",
+          "text": "To compare the efficiency of physical and virtual offices."
+        },
+        {
+          "number": "④",
+          "text": "To argue for the importance of physical file folders."
+        },
+        {
+          "number": "⑤",
+          "text": "To list the technical specifications of early personal computers."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 스티브 잡스가 어떻게 '유추(analogy)'라는 전략을 사용하여 사람들이 낯선 가상 세계(컴퓨터)를 쉽게 받아들이게 했는지 설명하고 있습니다. 그는 익숙한 물리적 사무실 환경을 가상 환경에 비유함으로써 새로운 기술을 쉽게 이해시켰습니다. 따라서 글의 주된 목적은 스티브 잡스가 유추를 사용한 전략을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Steve Jobs used analogy to get people to embrace the new technology. Before computers, people worked in a physical world. We used paper and pens and physical file folders and so on. The idea of working in a virtual world was radically different. Or at least seemed radically different. What Jobs understood was that a physical office was fundamentally similar to a virtual office. To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace. In the pre-computer workplace, when ideas were written on paper it was called . . . a document. When those documents needed to be stored they were put in . . . a folder. And those folders were kept on . . . a desk. Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology easier to understand. The parallels between the physical and virtual workplace now seem obvious.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Inefficiency of the Physical Office"
+        },
+        {
+          "number": "②",
+          "text": "Steve Jobs: A Visionary Genius"
+        },
+        {
+          "number": "③",
+          "text": "Building a Bridge to the Virtual World with Analogy"
+        },
+        {
+          "number": "④",
+          "text": "The History of Personal Computers"
+        },
+        {
+          "number": "⑤",
+          "text": "Documents, Folders, and Desktops: A New Language"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 스티브 잡스가 '유추(analogy)'를 사용하여 익숙한 물리적 세계와 낯선 가상 세계 사이에 '다리(bridge)'를 놓아 사람들이 새로운 기술을 쉽게 받아들이게 한 과정을 설명합니다. 따라서 이 제목은 글의 핵심 전략과 그 목적을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Steve Jobs used analogy to get people to embrace the new technology. Before computers, people worked in a physical world. We used paper and pens and physical file folders and so on. The idea of working in a virtual world was radically different. Or at least seemed radically different. What Jobs understood was that a physical office was fundamentally similar to a virtual office. To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace. In the pre-computer workplace, when ideas were written on paper it was called . . . a document. When those documents needed to be stored they were put in . . . a folder. And those folders were kept on . . . a desk. Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology easier to understand. The parallels between the physical and virtual workplace now seem obvious.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The virtual workplace was designed to be fundamentally different from the traditional physical office in every aspect."
+        },
+        {
+          "number": "②",
+          "text": "Steve Jobs used familiar analogies from the physical office to make new computer technology easier to understand."
+        },
+        {
+          "number": "③",
+          "text": "The terms 'document,' 'folder,' and 'desktop' were invented by Steve Jobs without any prior real-world reference."
+        },
+        {
+          "number": "④",
+          "text": "The most important contribution of Steve Jobs was the invention of the physical file folder and desktop system."
+        },
+        {
+          "number": "⑤",
+          "text": "People were initially resistant to new computer technology because it seemed too similar to their old workplace."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 스티브 잡스가 사람들이 컴퓨터라는 새로운 기술을 쉽게 이해하고 받아들일 수 있도록 '문서', '폴더', '데스크톱'과 같이 익숙한 물리적 사무실의 개념을 유추하여 사용했다는 것입니다. 이는 '익숙한 유추를 사용하여 새로운 기술을 이해하기 쉽게 만들었다'는 요지로 귀결됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Before computers, people worked in a physical world. We used paper and pens and physical file folders and so on. The idea of working in a virtual world was radically different. Or at least seemed radically different. ( ① ) To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace. ( ② ) In the pre-computer workplace, when ideas were written on paper it was called . . . a document. ( ③ ) When those documents needed to be stored they were put in . . . a folder. ( ④ ) And those folders were kept on . . . a desk. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**What Jobs understood was that a physical office was fundamentally similar to a virtual office.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 잡스가 물리적 사무실과 가상 사무실이 근본적으로 유사하다는 것을 이해했다는 내용입니다. (①) 앞 문장에서는 가상 세계가 근본적으로 달라 보였다고 문제 상황을 제시합니다. 주어진 문장은 이러한 겉보기와는 다른 잡스의 통찰을 보여줍니다. 그리고 (①) 뒷 문장은 그 통찰을 바탕으로 그가 대중을 설득하기 위해 유추를 사용했다는 해결책을 제시합니다. 따라서 문제 제기(달라 보임)와 해결책(유추 사용) 사이에서 잡스의 핵심적인 이해를 설명하는 이 문장은 (①)에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Steve Jobs used analogy to get people to embrace the new technology. Before computers, people worked in a physical world.",
+      "question_blocks": {
+        "A": "What Jobs understood was that a physical office was fundamentally similar to a virtual office. To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace.",
+        "B": "We used paper and pens and physical file folders and so on. The idea of working in a virtual world was radically different. Or at least seemed radically different.",
+        "C": "In the pre-computer workplace...a document...a folder...a desk. Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology easier to understand."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 잡스가 유추를 사용했고, 컴퓨터 이전에는 물리적 세계에서 일했다는 점을 소개합니다. (B)는 물리적 세계에 대한 부연 설명과 함께, 가상 세계가 근본적으로 달라 보였다는 문제 상황을 제시합니다. (A)는 이러한 문제 상황에 대한 잡스의 통찰(근본적으로는 유사함)과 그에 따른 전략(유추 사용)을 설명합니다. (C)는 그 전략의 구체적인 예시('문서', '폴더', '데스크톱')를 들며, 왜 그 전략이 효과적이었는지를 설명하며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Steve Jobs used ____________________ to get people to embrace the new technology. Before computers, people worked in a physical world. We used paper and pens and physical file folders and so on. The idea of working in a virtual world was radically different. ... To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "celebrity endorsements" },
+        { "number": "②", "text": "financial incentives" },
+        { "number": "③", "text": "complex technical data" },
+        { "number": "④", "text": "aggressive marketing" },
+        { "number": "⑤", "text": "analogy" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글 전체가 스티브 잡스가 새로운 기술을 대중에게 소개하기 위해 사용한 핵심 전략에 대해 설명하고 있습니다. 본문에서 반복적으로 'analogies'라는 단어를 사용하여 그가 익숙한 개념에 빗대어 설명하는 방식을 사용했음을 명확히 하고 있으므로, 빈칸에는 그의 핵심 전략인 '유추(analogy)'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Steve Jobs used analogy to get people to ① [embrace] the new technology. The idea of working in a virtual world was ② [radically] different. What Jobs understood was that a physical office was ③ [fundamentally] similar to a virtual office. To win over the masses, Jobs drew ④ [strong] analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace. Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology ⑤ [harder] to understand.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "스티브 잡스가 '문서', '폴더', '데스크톱'과 같은 익숙한 용어를 사용한 이유는 새로운 기술을 사람들이 더 '쉽게(easier)' 이해하도록 만들기 위함이었습니다. 따라서 기술을 이해하기 '더 어렵게(harder)' 만든다는 것은 글의 핵심 내용과 정반대되므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Steve Jobs used analogy to get people to (A) [embrace] the new technology. The idea of working in a virtual world was (B) [radically] different. What Jobs understood was that a physical office was (C) [fundamentally] similar to a virtual office. To win over the masses, Jobs drew strong (D) [analogies] between the traditional workplace people knew well with the new, unfamiliar virtual workplace. The parallels between the physical and virtual workplace now seem (E) [obvious].",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) embrace: to accept a new idea or change willingly." },
+        { "number": "②", "text": "(B) radically: in a way that is new and different from the usual." },
+        { "number": "③", "text": "(C) fundamentally: relating to the most basic and important parts of something." },
+        { "number": "④", "text": "(D) analogies: comparisons between things that have similar features." },
+        { "number": "⑤", "text": "(E) obvious: happening or existing in a way that is a secret." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) obvious는 '명백한, 분명한(easily perceived or understood)'이라는 의미입니다. '비밀스러운 방식으로 일어나거나 존재하는'이라는 설명은 'secret'이나 'covert'에 가까우며, 'obvious'의 의미와는 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The idea of working in a virtual world was (A) [radically / slightly] different. What Jobs understood was that a physical office was fundamentally (B) [similar / dissimilar] to a virtual office. To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, (C) [unfamiliar / common] virtual workplace.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "radically - similar - unfamiliar" },
+        { "number": "②", "text": "radically - dissimilar - common" },
+        { "number": "③", "text": "slightly - similar - unfamiliar" },
+        { "number": "④", "text": "slightly - dissimilar - common" },
+        { "number": "⑤", "text": "radically - similar - common" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 가상 세계라는 아이디어는 기존의 방식과 '급진적으로(radically)' 달랐습니다. (B) 그러나 잡스는 물리적 사무실이 가상 사무실과 근본적으로 '유사하다(similar)'고 이해했습니다. (C) 그는 전통적인 작업 공간과 새롭고 '낯선(unfamiliar)' 가상 작업 공간 사이에 유추를 사용했습니다. 따라서 정답은 radically - similar - unfamiliar 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well with the new, unfamiliar virtual workplace. ① In the pre-computer workplace, when ideas were written on paper it was called . . . a document. ② When those documents needed to be stored they were put in . . . a folder. ③ The invention of the file folder in the late 19th century greatly improved office organization. ④ And those folders were kept on . . . a desk. ⑤ Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology easier to understand.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 스티브 잡스가 어떻게 물리적 사무실의 개념('문서', '폴더', '데스크톱')을 유추하여 가상 세계를 설명했는지에 초점을 맞추고 있습니다. ③번 문장 '19세기 후반 파일 폴더의 발명은 사무실 조직을 크게 향상시켰다'는 물리적 파일 폴더 자체의 역사에 대한 사실로, 잡스의 '유추 전략'이라는 글의 중심 내용에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "What Jobs understood ① [was / were] that a physical office was fundamentally similar to a virtual office. To win over the masses, Jobs drew strong analogies between the traditional workplace people knew well ② [with / and] the new, unfamiliar virtual workplace. Documents, folders, and desktops are the terms we use in our virtual work because Steve Jobs understood that using familiar terms would make the new technology easier ③ [to understand / understanding].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "was",
+          "explanation": "이 문장의 주어는 'What Jobs understood'라는 관계대명사절입니다. 'what'이 이끄는 절이 주어로 사용될 경우 단수 취급하므로, 단수 동사인 'was'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "and",
+          "explanation": "'A와 B 사이에'라는 의미를 나타내는 관용구는 'between A and B'입니다. 따라서 전치사 'and'를 사용하는 것이 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to understand",
+          "explanation": "'make + 목적어 + 형용사 + to부정사' 구문에서 형용사 'easier'를 수식하여 '~하기에 더 쉬운'이라는 의미를 완성하기 위해 to부정사를 사용합니다. 따라서 'to understand'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

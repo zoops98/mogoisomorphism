@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "심경 변화",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The harsh light made her look even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. At the front desk, he explained her symptoms, his concern growing with every moment. They were quickly led to the doctor, who reassured him and carefully examined his daughter. After the doctor gave her a shot, her fever went down and she seemed more comfortable. As Peter watched her sleep peacefully that night, he felt a wave of calm wash over him.",
+      "question": "다음 글에 드러난 Peter의 심경 변화로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "joyful → regretful" },
+        { "number": "②", "text": "bored → excited" },
+        { "number": "③", "text": "worried → relieved" },
+        { "number": "④", "text": "hopeful → disappointed" },
+        { "number": "⑤", "text": "indifferent → curious" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글의 초반부에서 Peter는 딸의 고열에 대해 'his concern growing with every moment(매 순간 걱정이 커져갔다)'라고 묘사되어 걱정하는(worried) 상태였습니다. 글의 마지막 부분에서는 의사의 처치 후 딸이 평화롭게 잠든 것을 보고 'he felt a wave of calm wash over him(안도감이 그를 덮쳤다)'라고 표현되어 안도하는(relieved) 상태로 바뀌었음을 알 수 있습니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The harsh light made her look even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. At the front desk, he explained her symptoms, his concern growing with every moment. They were quickly led to the doctor, who reassured him and carefully examined his daughter. After the doctor gave her a shot, her fever went down and she seemed more comfortable. As Peter watched her sleep peacefully that night, he felt a wave of calm wash over him.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "A Doctor's Busy Night in the ER" },
+        { "number": "②", "text": "How to Lower a Child's Fever" },
+        { "number": "③", "text": "A Father's Anxious Night and Relief" },
+        { "number": "④", "text": "The Efficiency of Modern Hospitals" },
+        { "number": "⑤", "text": "A Child's Fear of Doctors" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 아픈 딸을 병원에 데려가 걱정하는 아버지의 불안한 마음과, 치료 후 딸이 안정을 되찾자 아버지가 느끼는 안도감을 중심으로 전개됩니다. 따라서 '아버지의 불안한 밤과 안도'가 글의 전체 내용을 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The harsh light made her look even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. At the front desk, he explained her symptoms, his concern growing with every moment. They were quickly led to the doctor, who reassured him and carefully examined his daughter. After the doctor gave her a shot, her fever went down and she seemed more comfortable. As Peter watched her sleep peacefully that night, he felt a wave of calm wash over him.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Hospital environments are often overly bright and can cause distress to young patients who are sick." },
+        { "number": "②", "text": "A father's deep concern for his sick daughter transitions into profound relief after she gets medical care." },
+        { "number": "③", "text": "It is always very important to seek professional medical attention for even a seemingly minor fever." },
+        { "number": "④", "text": "The story primarily emphasizes the critical importance of a quick response from the hospital staff." },
+        { "number": "⑤", "text": "A child's sudden illness can often reveal the hidden strengths within a close family relationship." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 아픈 딸에 대한 아버지의 깊은 걱정이 병원 치료를 통해 딸의 상태가 호전되자 큰 안도감으로 바뀌는 과정입니다. 즉, '아픈 딸에 대한 아버지의 깊은 걱정은 그녀가 치료를 받은 후 깊은 안도감으로 바뀐다'가 이 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The harsh light made her look even more unwell, her face all red and sweaty. ( ① ) Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. ( ② ) They were quickly led to the doctor, who reassured him and carefully examined his daughter. ( ③ ) After the doctor gave her a shot, her fever went down and she seemed more comfortable. ( ④ ) As Peter watched her sleep peacefully that night, he felt a wave of calm wash over him. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**At the front desk, he explained her symptoms, his concern growing with every moment.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 Peter가 접수 데스크에서 딸의 증상을 설명하는 장면입니다. (②)의 앞 문장에서는 딸의 열이 내리지 않았다는 상황이 설명되고, (②)의 뒷 문장에서는 의사에게 안내되었다는 내용이 나옵니다. 따라서 병원에 도착하여 상황을 설명한 후 의사를 만나는 흐름이 자연스러우므로, 주어진 문장은 (②)에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms.",
+      "question_blocks": {
+        "A": "At the front desk, he explained her symptoms, his concern growing with every moment. They were quickly led to the doctor, who reassured him and carefully examined his daughter.",
+        "B": "The harsh light made her look even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts.",
+        "C": "After the doctor gave her a shot, her fever went down and she seemed more comfortable. As Peter watched her sleep peacefully that night, he felt a wave of calm wash over him."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 Peter가 아픈 딸을 안고 병원 로비로 들어서는 장면입니다. (B)에서 병원 조명 아래 딸이 더 아파 보이는 모습과 열이 내리지 않았던 배경 상황을 설명합니다. 그 다음, (A)에서 접수 데스크에 증상을 설명하고 의사에게 안내받는 과정이 이어집니다. 마지막으로 (C)에서 의사의 처치 후 딸의 상태가 호전되고 Peter가 안도감을 느끼는 결말로 마무리됩니다. 따라서 (B)-(A)-(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The harsh light made her look even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. At the front desk, he explained her symptoms, his concern growing with every moment. They were quickly led to the doctor, who reassured him and carefully examined his daughter. After the doctor gave her a shot, her fever went down and she seemed more comfortable. As Peter watched her sleep peacefully that night, he felt ________________ wash over him.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a deep sense of regret" },
+        { "number": "②", "text": "a sudden pang of hunger" },
+        { "number": "③", "text": "an overwhelming exhaustion" },
+        { "number": "④", "text": "a wave of calm" },
+        { "number": "⑤", "text": "a feeling of isolation" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸 앞부분에서 딸이 치료를 받고 열이 내려 편안해졌다고 설명하고 있습니다. 밤에 평화롭게 잠든 딸의 모습을 보았으므로, 걱정으로 가득했던 Peter의 마음에는 '안도감(a wave of calm)'이 밀려왔을 것이라고 추론하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The harsh light made her look even more ① [unwell], her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go ② [down] despite his efforts. At the front desk, he explained her symptoms, his concern ③ [growing] with every moment. They were quickly led to the doctor, who ④ [worried] him and carefully examined his daughter. After the doctor gave her a shot, her fever went down and she seemed more ⑤ [comfortable].",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "걱정하는 Peter를 의사가 진료하는 상황입니다. 의사는 그를 안심시키고 딸을 진찰하는 것이 자연스러운 흐름입니다. 따라서 의사가 그를 '걱정시켰다(worried)'는 것은 문맥에 맞지 않으며, '안심시켰다(reassured)'가 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. The (A) [harsh] light made her look even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his (B) [efforts]. At the front desk, he explained her (C) [symptoms], his concern growing with every moment. They were quickly led to the doctor, who (D) [reassured] him and carefully examined his daughter. After the doctor gave her a shot, her fever went down and she seemed more comfortable. As Peter watched her sleep (E) [peacefully] that night, he felt a wave of calm wash over him.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) harsh: unpleasantly rough or jarring to the senses." },
+        { "number": "②", "text": "(B) efforts: a vigorous or determined attempt." },
+        { "number": "③", "text": "(C) symptoms: a physical or mental feature indicating a condition of disease." },
+        { "number": "④", "text": "(D) reassured: to say or do something to remove the doubts or fears of someone." },
+        { "number": "⑤", "text": "(E) peacefully: in a way that shows anger or violence." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) peacefully는 '평화롭게, 고요하게(in a way that is free from disturbance; tranquil)'라는 의미입니다. 제시된 '분노나 폭력을 보이는 방식으로'라는 영영 풀이는 'violently'나 'aggressively'에 해당하므로 잘못된 설명입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. At the front desk, he explained her symptoms, his concern (A) [growing / shrinking] with every moment. They were quickly led to the doctor, who (B) [reassured / alarmed] him and carefully examined his daughter. After the doctor gave her a shot, her fever (C) [went down / rose] and she seemed more comfortable.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "growing - reassured - went down" },
+        { "number": "②", "text": "growing - alarmed - rose" },
+        { "number": "③", "text": "shrinking - reassured - rose" },
+        { "number": "④", "text": "shrinking - alarmed - went down" },
+        { "number": "⑤", "text": "growing - reassured - rose" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 딸의 상태 때문에 그의 걱정은 '커져갔다(growing)'고 하는 것이 자연스럽습니다. (B) 의사는 걱정하는 보호자를 '안심시켰다(reassured)'고 하는 것이 문맥에 맞습니다. (C) 주사를 맞은 후 딸의 열은 '내려갔다(went down)'고 해야 상태가 호전된 것과 일치합니다. 따라서 정답은 growing - reassured - went down 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. ① The harsh light made her look even more unwell, her face all red and sweaty. ② Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. ③ The hospital was well-known in the city for its advanced surgical equipment. ④ At the front desk, he explained her symptoms, his concern growing with every moment. ⑤ They were quickly led to the doctor, who reassured him and carefully examined his daughter.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 아픈 딸을 데리고 응급 상황에 처한 아버지의 개인적인 경험과 감정 변화에 초점을 맞추고 있습니다. ③번 문장 '그 병원은 첨단 수술 장비로 시내에서 잘 알려져 있었다'는 병원에 대한 일반적인 사실을 설명하는 것으로, 긴박한 상황에 처한 Peter의 이야기라는 중심 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Peter stepped out of the freezing night air and into the brightly lit hospital lobby, holding his three-year-old daughter in his arms. ① The harsh light made her [look / to look] even more unwell, her face all red and sweaty. Her fever had started suddenly, just before dinner, but it wouldn't go down despite his efforts. At the front desk, he explained her symptoms, his concern growing with every moment. ② They were quickly led to the doctor, who reassured him and carefully [examined / examining] his daughter. ③ As Peter watched her [sleep / slept] peacefully that night, he felt a wave of calm wash over him.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "look",
+          "explanation": "사역동사 'make'는 목적어 뒤에 목적격 보어로 동사원형을 사용합니다. 따라서 'made her look'이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "examined",
+          "explanation": "관계대명사 'who'가 이끄는 절에서 'reassured'와 'examined'는 and로 연결된 병렬 구조입니다. 두 동사 모두 주어인 'the doctor'의 행동을 나타내므로 같은 시제와 형태인 'examined'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "sleep",
+          "explanation": "지각동사 'watch'는 목적어 뒤에 목적격 보어로 동사원형이나 현재분사(sleeping)를 사용합니다. 따라서 동사원형인 'sleep'이 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

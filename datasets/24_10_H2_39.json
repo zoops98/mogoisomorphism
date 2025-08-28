@@ -1,0 +1,343 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "제목 추론",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a state of war.\nIn other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\".\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\nIt is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Ideal State: A Moral Community"
+        },
+        {
+          "number": "②",
+          "text": "Human Nature: Naturally Social and Political"
+        },
+        {
+          "number": "③",
+          "text": "The State of Nature as a State of Peace"
+        },
+        {
+          "number": "④",
+          "text": "Hobbes: Society Born from Fear, Not Affection"
+        },
+        {
+          "number": "⑤",
+          "text": "The Importance of Mutual Affection in Politics"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 홉스의 철학을 설명하며, 그가 인간을 자연 상태에서 비사회적이고 이기적인 존재로 보았다고 말합니다. 그리고 이러한 인간들이 사회를 이루는 동기는 '상호 애정(mutual affection)'이 아니라 '상호 공포(mutual fear)'라고 주장합니다. 따라서 '홉스: 애정이 아닌 공포에서 태어난 사회'라는 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "글의 목적",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a state of war.\nIn other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\".\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\nIt is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize Hobbes's view of human nature"
+        },
+        {
+          "number": "②",
+          "text": "to compare different theories of the state of nature"
+        },
+        {
+          "number": "③",
+          "text": "to argue for the establishment of a sovereign power"
+        },
+        {
+          "number": "④",
+          "text": "to define the concept of moral liberty in politics"
+        },
+        {
+          "number": "⑤",
+          "text": "to explain Hobbes's philosophy on the state of nature and the origin of the state"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 철학자 홉스의 사상을 소개하고 있습니다. 홉스가 '자연 상태'를 어떻게 보았는지(전쟁 상태), 그리고 '국가'가 어떻게 탄생하게 되었는지(상호 공포를 통해)에 대해 체계적으로 설명하고 있으므로, 글의 목적은 홉스의 철학을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a state of war.\nIn other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\".\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\nIt is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "In the state of nature, human life is characterized by cooperation, morality, and long-lasting peace."
+        },
+        {
+          "number": "②",
+          "text": "Hobbes argues that the state arises from a mutual fear among selfish individuals, not from natural sociability."
+        },
+        {
+          "number": "③",
+          "text": "The concept of a sovereign power is the only way to guarantee a person's moral liberty."
+        },
+        {
+          "number": "④",
+          "text": "Human beings are fundamentally rational creatures who can act morally regardless of their circumstances."
+        },
+        {
+          "number": "⑤",
+          "text": "Society is a natural phenomenon that brings people together through a shared sense of mutual affection."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 홉스가 인간을 자연적으로 사회적인 존재가 아닌, '이기적인 개인'으로 보았다는 점입니다. 그리고 이러한 개인들이 국가를 형성하는 이유는 자연스러운 사회성이나 상호 애정이 아니라, 서로에 대한 '상호 공포' 때문이라고 주장합니다. 따라서 ②번이 글의 요지를 가장 정확하게 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\n( ① ) It means when people live without a general power to control them all, they are indeed in a state of war.\n( ② ) In other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\".\n( ③ ) Moreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\n( ④ ) It is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This fear is not of a specific object but a general and constant fear of violent death at the hands of others.**",
+      "question_translation": "**이 공포는 특정 대상에 대한 것이 아니라, 타인의 손에 의한 폭력적인 죽음에 대한 일반적이고 지속적인 공포이다.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "주어진 문장은 '이 공포(This fear)'가 구체적으로 무엇인지를 설명합니다. ⑤번 바로 앞 문장은 사람들을 결집시키는 것이 '상호 공포(mutual fear)'라고 언급하며, 그 공포의 원인이 자연 상태의 사람들 사이에 있는 공통된 동기라고 설명합니다. 주어진 문장은 바로 이 '상호 공포'를 받아 그것이 '폭력적인 죽음에 대한 공포'임을 구체화하여 설명하므로, 글의 맨 마지막에 위치하여 논의를 마무리하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature. Hence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.",
+      "question_blocks": {
+        "A": "In other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings are \"antisocial and rational based on their selfishness\".",
+        "B": "Hobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\". It means when people live without a general power to control them all, they are indeed in a state of war.",
+        "C": "Moreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection but rather, mutual fear of men's present and future."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 도덕성이 국가의 등장과 함께 시작된다고 말하며, 이는 자연 상태가 비도덕적임을 암시합니다. (B)는 이 자연 상태를 '고독하고, 가난하며...'라는 유명한 인용구로 묘사하고, 이를 '전쟁 상태'로 정의합니다. (A)는 '다시 말해(In other words)'라며, 자연 상태의 인간이 왜 전쟁 상태에 있는지를 설명합니다(비사회적이고 이기적임). (C)는 '더욱이(Moreover)'라며, 그렇다면 그런 비사회적인 인간들이 어떻게 사회를 이루게 되는지에 대한 답을 제시합니다(상호 공포). 따라서 자연 상태 묘사(B) → 그 속의 인간 본성 설명(A) → 사회 형성의 동기 설명(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a ____________________.\nIn other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\".\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\nIt is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "state of war"
+        },
+        {
+          "number": "②",
+          "text": "condition of peace"
+        },
+        {
+          "number": "③",
+          "text": "moral community"
+        },
+        {
+          "number": "④",
+          "text": "natural society"
+        },
+        {
+          "number": "⑤",
+          "text": "political paradise"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "빈칸은 '모두를 통제할 공통된 권력 없이 사람들이 살 때'의 상태를 정의하는 부분입니다. 바로 앞 문장에서 홉스는 자연 상태에서의 삶을 '고독하고, 가난하며, 험악하고, 잔인하며, 짧다'고 묘사했습니다. 이러한 상태는 평화나 공동체와는 거리가 멉니다. 홉스의 철학에서, 통제 권력이 없는 자연 상태는 만인에 대한 만인의 '전쟁 상태(state of war)'로 정의되므로, 이것이 가장 적절한 답입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "According to Hobbes, man is not a being who can act ① [morally] in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a ② [sovereign] power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to ③ [control] them all, they are indeed in a state of war.\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual ④ [affection] according to Hobbes.\nIt is, rather, mutual ⑤ [trust] of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "morally"
+        },
+        {
+          "number": "②",
+          "text": "sovereign"
+        },
+        {
+          "number": "③",
+          "text": "control"
+        },
+        {
+          "number": "④",
+          "text": "affection"
+        },
+        {
+          "number": "⑤",
+          "text": "trust"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 홉스의 주장을 설명하며, 사람들을 사회로 결집시키는 힘이 '상호 애정(mutual affection)'이 아니라고 말한 뒤, '오히려(rather)' 그것이 무엇인지를 밝히고 있습니다. 글의 마지막 절은 '공포의 원인(the cause of fear)'을 언급하며, 결집의 원동력이 '공포(fear)'임을 명확히 하고 있습니다. 따라서 '신뢰(trust)'는 문맥에 맞지 않으며, '공포(fear)'가 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an (A) [application] begins in a place where a sovereign power, namely the state, (B) [emerges].\nHobbes thus describes the state of nature as a (C) [circumstance] in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a state of war.\nMoreover, since society is not a natural (D) [phenomenon] and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\nIt is, rather, mutual (E) [fear] of men's present and future that assembles them.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) application: the action of putting something into operation"
+        },
+        {
+          "number": "②",
+          "text": "(B) emerges: moves out of or away from something and comes into view"
+        },
+        {
+          "number": "③",
+          "text": "(C) circumstance: a fact or condition connected with an event or action"
+        },
+        {
+          "number": "④",
+          "text": "(D) phenomenon: a planned event designed to attract public attention"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) fear: an unpleasant emotion caused by the belief that someone or something is dangerous"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'phenomenon(현상)'은 'a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question(존재하거나 발생하는 것으로 관찰되는 사실이나 상황, 특히 그 원인이나 설명이 의문시되는 것)'을 의미합니다. 제시된 영영 풀이인 '대중의 관심을 끌기 위해 계획된 행사'는 'event'나 'publicity stunt'에 더 가까운 설명입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "According to Hobbes, man is not a being who can act (A) [morally / immorally] in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a state of (B) [war / peace].\nMoreover, since society is not a natural phenomenon, what will bring them together as a society is not mutual (C) [affection / fear] according to Hobbes. It is, rather, mutual fear.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "morally - war - affection"
+        },
+        {
+          "number": "②",
+          "text": "morally - peace - fear"
+        },
+        {
+          "number": "③",
+          "text": "immorally - war - affection"
+        },
+        {
+          "number": "④",
+          "text": "immorally - peace - fear"
+        },
+        {
+          "number": "⑤",
+          "text": "morally - war - fear"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 홉스에 따르면, 자연 상태의 인간은 생존 본능 때문에 '도덕적으로(morally)' 행동할 수 없는 존재입니다. (B) 모두를 통제하는 권력이 없는 상태는 '전쟁(war)' 상태입니다. (C) 사람들을 결집시키는 것은 상호 '공포(fear)'이지, 상호 '애정(affection)'이 아닙니다. 따라서 빈칸에는 'affection'이 들어가 '상호 애정이 아니다'라는 문맥을 완성해야 합니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature.\nHence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".\nIt means when people live without a general power to control them all, they are indeed in a state of war.\nIn other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\".\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes.\nIt is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+      "question": "홉스(Hobbes)의 사상에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "자연 상태의 인간은 도덕적으로 행동할 수 없는 존재이다."
+        },
+        {
+          "number": "②",
+          "text": "도덕성은 국가라는 주권 권력이 등장하면서부터 적용되기 시작한다."
+        },
+        {
+          "number": "③",
+          "text": "홉스는 자연 상태를 만인에 대한 만인의 전쟁 상태로 보았다."
+        },
+        {
+          "number": "④",
+          "text": "자연 상태에서 인간은 비사회적이고 이기적인 존재이다."
+        },
+        {
+          "number": "⑤",
+          "text": "사람들은 상호 애정이라는 자연적인 힘에 의해 사회를 이룬다."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문은 'since society is not a natural phenomenon... what will bring them together as a society is not mutual affection according to Hobbes(사회는 자연적인 현상이 아니므로... 사람들을 사회로 결집시키는 것은 홉스에 따르면 상호 애정이 아니다)'라고 명시하고 있습니다. 이는 사람들이 상호 애정이 아닌 상호 공포에 의해 사회를 이룬다는 홉스의 핵심 주장입니다. 따라서 ⑤번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Hence, the only place where morality and moral liberty will begin to find an application ① [begins / begin] in a place where a sovereign power, namely the state, emerges.\nHobbes thus describes the state of nature as a circumstance in which man's life ② [is / are] \"solitary, poor, nasty, brutish and short\".\nMoreover, since society is not a natural phenomenon and there is no natural force bringing people together, ③ [what / that] will bring them together as a society is not mutual affection according to Hobbes.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "begins",
+          "explanation": "이 문장의 주어는 'the only place'라는 3인칭 단수 명사입니다. 'where'가 이끄는 관계부사절은 주어를 수식하므로 동사는 주어의 수에 맞춰 단수 동사인 'begins'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "is",
+          "explanation": "'in which'가 이끄는 관계대명사절의 주어는 단수 명사인 'man's life'입니다. 따라서 단수 동사인 'is'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "what",
+          "explanation": "이 문장의 주어는 명사절입니다. 'what'은 선행사를 포함하는 관계대명사로 '~하는 것'이라는 의미의 명사절을 이끌어 주어 역할을 할 수 있습니다. 'that'은 이 위치에서 명사절을 이끌 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

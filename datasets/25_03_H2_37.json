@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain.\nA number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful.\nOne study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress.\nWhy does this matter?\nThis part of the brain helps you remain resilient in the face of stress and is involved in mood regulation.\nIt also helps you to monitor the safety of your environment and store dangerous images in your longterm memory so you can avoid them in the future.\nIt does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems.\nBut chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to recommend various methods for stress relief" },
+        { "number": "②", "text": "to explain how chronic stress damages the brain and its functions" },
+        { "number": "③", "text": "to compare the sympathetic and parasympathetic nervous systems" },
+        { "number": "④", "text": "to introduce a new study on the benefits of cortisol" },
+        { "number": "⑤", "text": "to emphasize the importance of long-term memory in survival" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 스트레스가 뇌 구조, 특히 해마에 어떤 영향을 미치는지를 설명하고 있습니다. 만성 스트레스가 해마를 위축시키고 기능을 혼란시켜, 결국 우리 몸을 지속적인 스트레스 반응 상태에 가둘 수 있다는 과정을 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain.\nA number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful.\nOne study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress.\nWhy does this matter?\nThis part of the brain helps you remain resilient in the face of stress and is involved in mood regulation.\nIt also helps you to monitor the safety of your environment and store dangerous images in your longterm memory so you can avoid them in the future.\nIt does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems.\nBut chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Hippocampus: Your Brain's Safety Monitor" },
+        { "number": "②", "text": "How Stress Shrinks Your Brain and Traps You" },
+        { "number": "③", "text": "Fight, Flight, or Freeze: A Survival Guide" },
+        { "number": "④", "text": "The Surprising Link Between Mood and Memory" },
+        { "number": "⑤", "text": "Cortisol: The Misunderstood Stress Hormone" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 스트레스가 뇌(특히 해마)의 크기를 줄이고(shrinks your brain), 그 결과로 사람이 지속적인 '싸움, 도피, 동결' 상태에 갇히게(traps you) 되는 과정을 핵심적으로 다루고 있습니다. 이 제목은 글의 두 가지 주요 내용을 효과적으로 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain.\nA number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful.\nOne study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress.\nWhy does this matter?\nThis part of the brain helps you remain resilient in the face of stress and is involved in mood regulation.\nIt also helps you to monitor the safety of your environment and store dangerous images in your longterm memory so you can avoid them in the future.\nIt does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems.\nBut chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The nervous system's ability to regulate stress responses is primarily controlled by the size of the hippocampus." },
+        { "number": "②", "text": "Chronic stress can damage the hippocampus, impairing its functions and locking the body into a continuous stress response." },
+        { "number": "③", "text": "Long-term memory of dangerous events is a critical survival mechanism that helps us avoid future threats effectively." },
+        { "number": "④", "text": "A healthy brain structure is essential for maintaining a positive mood and resilience in the face of daily challenges." },
+        { "number": "⑤", "text": "Recent scientific studies have demonstrated a conclusive link between prolonged psychological stress and various physical diseases." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 만성 스트레스(chronic stress)가 해마(hippocampus)를 손상시키고, 이로 인해 스트레스 회복, 기분 조절 등 해마의 기능이 손상되어, 결국 몸이 지속적인 스트레스 반응(continuous stress response)에 갇히게 된다는 것입니다. 이 선택지는 이러한 인과 관계를 가장 정확하게 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. ( ① ) Why does this matter? ( ② ) This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. ( ③ ) It also helps you to monitor the safety of your environment and store dangerous images in your longterm memory so you can avoid them in the future. ( ④ ) It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**A smaller hippocampus, in turn, makes it harder for you to cope with future stressful situations.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "바로 앞 문장에서 '해마가 작아지는 것이 왜 중요한가?(Why does this matter?)'라는 질문을 던집니다. 주어진 문장은 '결과적으로, 작아진 해마는 미래의 스트레스 상황에 대처하는 것을 더 어렵게 만든다'는 내용으로, 이 질문에 대한 직접적인 대답 역할을 합니다. 그 뒤에 이어지는 문장들은 해마가 어떻게 스트레스 대처를 돕는지(회복력, 기분 조절 등) 구체적인 기능들을 나열하며 이 대답을 뒷받침합니다. 따라서 ②의 위치가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful.",
+      "question_blocks": {
+        "A": "This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your longterm memory.",
+        "B": "One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter?",
+        "C": "But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 스트레스가 뇌 구조에 영향을 미친다고 소개합니다. (B)는 그 구체적인 예로 한 연구 결과를 제시하며 '작아진 해마'를 언급하고, '이것이 왜 중요한가?'라는 질문을 던집니다. (A)는 '뇌의 이 부분(This part of the brain)', 즉 해마의 기능들을 나열하며 (B)의 질문에 답합니다. (C)는 '그러나(But)'를 사용하여, 만성 스트레스가 (A)에서 설명된 해마의 기능을 어떻게 손상시키는지 그 메커니즘과 최종 결과를 설명하며 글을 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "It also helps you to monitor the safety of your environment and store dangerous images in your longterm memory so you can avoid them in the future.\nIt does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems.\nBut chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of _______________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "emotional confusion and apathy" },
+        { "number": "②", "text": "fight, flight, or freeze" },
+        { "number": "③", "text": "deep relaxation and sleep" },
+        { "number": "④", "text": "memory formation and recall" },
+        { "number": "⑤", "text": "logical thinking and problem-solving" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 만성 스트레스가 해마를 혼란시켜 코르티솔 신호를 끄지 못하게 만들고, 그 결과로 몸이 지속적인 스트레스 반응 상태에 갇히게 된다고 설명합니다. 심리학에서 급성 스트레스에 대한 반응을 일컫는 용어인 '싸움, 도피, 또는 동결(fight, flight, or freeze)'이 이 상태를 묘사하기 위해 본문에서 직접 사용되었으므로 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "One study demonstrated a link between a ① smaller hippocampus and people who had experienced long-lasting stress.\nWhy does this matter?\nThis part of the brain helps you remain ② resilient in the face of stress and is involved in mood regulation.\nIt also helps you to monitor the safety of your environment and store dangerous images in your longterm memory so you can ③ avoid them in the future.\nIt does all these things as part of its duties of ④ regulating your sympathetic and parasympathetic nervous systems.\nBut chronic stress can ⑤ strengthen the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off.\"",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 전체적인 내용은 만성 스트레스가 해마에 부정적인 영향을 미쳐 크기를 줄이고 기능을 손상시킨다는 것입니다. 따라서 만성 스트레스가 해마를 '강화한다(strengthen)'는 것은 문맥에 맞지 않습니다. 본문에서는 '혼란시킨다(confuse)'고 표현되어 있습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Stress not only affects physical disease but also the very (A) structure of our brains... One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress.\nThis part of the brain helps you remain (B) resilient in the face of stress...\nIt also helps you to (C) monitor the safety of your environment...\nBut (D) chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can (E) trap you in a constant state of fight, flight, or freeze.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) structure: the arrangement of and relations between the parts of something complex" },
+        { "number": "②", "text": "(B) resilient: able to withstand or recover quickly from difficult conditions" },
+        { "number": "③", "text": "(C) monitor: to observe and check the progress or quality of something over a period of time" },
+        { "number": "④", "text": "(D) chronic: persisting for a long time or constantly recurring" },
+        { "number": "⑤", "text": "(E) trap: to set someone free from a bad situation or relationship" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'trap'은 사람을 특정 상태에 '가두다'라는 의미입니다. 제시된 영영 풀이 'to set someone free from a bad situation or relationship(나쁜 상황이나 관계로부터 누군가를 자유롭게 하다)'는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "One study demonstrated a link between a (A) [smaller / larger] hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain (B) [resilient / vulnerable] in the face of stress and is involved in mood regulation. ... But chronic stress can confuse the hippocampus and lead to turning signals for cortisol (C) [\"on\" / \"off\"] instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "smaller - resilient - \"on\"" },
+        { "number": "②", "text": "smaller - vulnerable - \"off\"" },
+        { "number": "③", "text": "larger - resilient - \"off\"" },
+        { "number": "④", "text": "larger - vulnerable - \"on\"" },
+        { "number": "⑤", "text": "smaller - resilient - \"off\"" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 연구는 장기간의 스트레스와 '더 작은(smaller)' 해마 사이의 연관성을 보여주었다. (B) 해마는 스트레스에 직면했을 때 '회복력 있도록(resilient)' 돕는다. (C) 만성 스트레스는 코르티솔 신호를 '끄는(off)' 대신 '켜지게(on)' 만든다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. ② It also helps you to monitor the safety of your environment and store dangerous images in your longterm memory. ③ Long-term memory is divided into explicit and implicit memory, each stored in different brain regions. ④ It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. ⑤ But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off.\"",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '해마(hippocampus)'가 스트레스 반응, 기분 조절, 안전 감시 등에서 수행하는 구체적인 '기능들'을 나열하고 있습니다. ③번 문장은 '장기 기억'을 외현 기억과 내재 기억으로 나누는 일반적인 심리학적 분류를 설명하는데, 이는 해마의 기능이라는 중심 주제에서 벗어난 부가적인 정보이므로 글의 전체적인 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "A number of studies have been done to reveal what happens in healthy people's brains when they ① [go / will go] through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you ② [remain / remaining] resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can ③ [avoid / to avoid] them in the future.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "go",
+          "explanation": "시간을 나타내는 부사절(when, before, after 등)에서는 미래의 일이라도 현재 시제를 사용합니다. 따라서 현재형 동사 'go'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "remain",
+          "explanation": "동사 'help'는 목적어 뒤에 목적격 보어로 동사원형 또는 to부정사를 취할 수 있습니다. (help + 목적어 + (to) 동사원형). 따라서 동사원형 'remain'이 올바른 형태입니다. 동명사 'remaining'은 올 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "avoid",
+          "explanation": "조동사 'can' 다음에는 반드시 동사원형이 와야 합니다. 따라서 'avoid'가 올바른 형태입니다."
+        }
+      ]
+    }
+  ]
+}

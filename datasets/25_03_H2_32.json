@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Great scientists are seldom one-hit wonders.\nNewton is a prime example: beyond the Newtonian mechanics, he developed the theory of gravitation, calculus, laws of motion, and optimization.\nIn fact, well-known scientists are often involved in multiple discoveries, a phenomenon potentially explained by the Matthew effect.\nIndeed, an initial success may offer a scientist legitimacy, improve peer perception, provide knowledge of how to score and win, enhance social status, and attract resources and quality collaborators, each of these payoffs further increasing her odds of scoring another win.\nYet, there is an appealing alternative explanation: Great scientists have multiple hits and consistently succeed in their scientific endeavors simply because they're exceptionally talented.\nTherefore, future success again goes to those who have had success earlier, not because of advantages offered by the previous success, but because the earlier success was indicative of a hidden talent.\nThe Matthew effect posits that success alone increases the future probability of success, raising the question:\nDoes status dictate outcomes, or does it simply reflect an underlying talent or quality?\nIn other words, is there really a Matthew effect after all?",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to celebrate the multiple achievements of Isaac Newton" },
+        { "number": "②", "text": "to argue that talent is more important than resources in science" },
+        { "number": "③", "text": "to question the validity of the Matthew effect in scientific success" },
+        { "number": "④", "text": "to explain how to become a successful 'one-hit wonder' scientist" },
+        { "number": "⑤", "text": "to criticize the unfair distribution of resources in the scientific community" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 위대한 과학자들이 여러 성공을 거두는 이유에 대해 두 가지 설명을 제시합니다. 하나는 '마태 효과(Matthew effect)'이고 다른 하나는 '타고난 재능'입니다. 글은 이 두 설명을 대조하며, 마지막에 '과연 마태 효과가 실제로 있는가?'라고 질문을 던짐으로써 마태 효과의 타당성에 근본적인 의문을 제기하고 있습니다. 따라서 이것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Great scientists are seldom one-hit wonders.\nNewton is a prime example: beyond the Newtonian mechanics, he developed the theory of gravitation, calculus, laws of motion, and optimization.\nIn fact, well-known scientists are often involved in multiple discoveries, a phenomenon potentially explained by the Matthew effect.\nIndeed, an initial success may offer a scientist legitimacy, improve peer perception, provide knowledge of how to score and win, enhance social status, and attract resources and quality collaborators, each of these payoffs further increasing her odds of scoring another win.\nYet, there is an appealing alternative explanation: Great scientists have multiple hits and consistently succeed in their scientific endeavors simply because they're exceptionally talented.\nTherefore, future success again goes to those who have had success earlier, not because of advantages offered by the previous success, but because the earlier success was indicative of a hidden talent.\nThe Matthew effect posits that success alone increases the future probability of success, raising the question:\nDoes status dictate outcomes, or does it simply reflect an underlying talent or quality?\nIn other words, is there really a Matthew effect after all?",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Life and Discoveries of Isaac Newton" },
+        { "number": "②", "text": "Success in Science: A Matter of Status or Talent?" },
+        { "number": "③", "text": "How to Foster Scientific Collaboration" },
+        { "number": "④", "text": "One-Hit Wonders: The Unsung Heroes of Science" },
+        { "number": "⑤", "text": "The Matthew Effect: A Proven Path to Success" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 과학에서의 반복적인 성공이 이전 성공으로 얻은 '지위(status)' 때문인지, 아니면 본래 가지고 있던 '재능(talent)' 때문인지에 대한 논쟁을 제시하는 것입니다. 이 제목은 글의 중심적인 질문을 정확하게 포착하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Great scientists are seldom one-hit wonders.\nNewton is a prime example: beyond the Newtonian mechanics, he developed the theory of gravitation, calculus, laws of motion, and optimization.\nIn fact, well-known scientists are often involved in multiple discoveries, a phenomenon potentially explained by the Matthew effect.\nIndeed, an initial success may offer a scientist legitimacy, improve peer perception, provide knowledge of how to score and win, enhance social status, and attract resources and quality collaborators, each of these payoffs further increasing her odds of scoring another win.\nYet, there is an appealing alternative explanation: Great scientists have multiple hits and consistently succeed in their scientific endeavors simply because they're exceptionally talented.\nTherefore, future success again goes to those who have had success earlier, not because of advantages offered by the previous success, but because the earlier success was indicative of a hidden talent.\nThe Matthew effect posits that success alone increases the future probability of success, raising the question:\nDoes status dictate outcomes, or does it simply reflect an underlying talent or quality?\nIn other words, is there really a Matthew effect after all?",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Great scientists' repeated successes can be explained either by the advantages of initial success or by their underlying talent." },
+        { "number": "②", "text": "The Matthew effect conclusively proves that initial success is the most critical factor for a scientist's long-term career." },
+        { "number": "③", "text": "Exceptional talent is a necessary but insufficient condition for achieving multiple groundbreaking discoveries in the field of science." },
+        { "number": "④", "text": "The scientific community should reform its processes to provide more opportunities for lesser-known but highly talented researchers." },
+        { "number": "⑤", "text": "Isaac Newton's career serves as the ultimate example of how the Matthew effect operates in a real-world scientific context." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 요지는 위대한 과학자들의 반복적인 성공 현상을 설명하는 두 가지 상반된 이론, 즉 첫 성공이 가져다주는 이점(마태 효과) 때문이라는 설명과, 근본적으로 내재된 재능 때문이라는 설명을 제시하고 비교하는 것입니다. 이 선택지는 두 가지 설명을 모두 포괄하여 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Yet, there is an appealing alternative explanation: Great scientists have multiple hits and consistently succeed in their scientific endeavors simply because they're exceptionally talented. ( ① ) Therefore, future success again goes to those who have had success earlier, not because of advantages offered by the previous success, but because the earlier success was indicative of a hidden talent. ( ② ) The Matthew effect posits that success alone increases the future probability of success, raising the question: ( ③ ) Does status dictate outcomes, or does it simply reflect an underlying talent or quality? ( ④ ) In other words, is there really a Matthew effect after all? ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In this view, the rich get richer not because they were lucky at first, but because they were better to begin with.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이 관점에서는, 부자가 더 부자가 되는 것은 처음에 운이 좋았기 때문이 아니라, 애초에 더 나았기 때문이다'라는 내용입니다. 이는 '재능'이 반복적인 성공의 원인이라는 대안적 설명을 '부익부'에 빗대어 명확하게 재진술합니다. 바로 앞 문장에서 '초기 성공은 숨겨진 재능의 징후'라고 설명했으므로, 이 논리를 비유적으로 요약하는 주어진 문장이 ②에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Great scientists are seldom one-hit wonders. Newton is a prime example: beyond the Newtonian mechanics, he developed the theory of gravitation, calculus, laws of motion, and optimization.",
+      "question_blocks": {
+        "A": "Yet, there is an appealing alternative explanation: Great scientists have multiple hits and consistently succeed simply because they're exceptionally talented. Therefore, future success goes to those who had success earlier because the earlier success was indicative of a hidden talent.",
+        "B": "In fact, well-known scientists are often involved in multiple discoveries, a phenomenon potentially explained by the Matthew effect. Indeed, an initial success may offer a scientist legitimacy, improve peer perception, and attract resources.",
+        "C": "The Matthew effect posits that success alone increases the future probability of success, raising the question: Does status dictate outcomes, or does it simply reflect an underlying talent? In other words, is there really a Matthew effect after all?"
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 위대한 과학자들이 여러 발견을 한다는 현상을 소개합니다. (B)는 이 현상에 대한 첫 번째 설명으로 '마태 효과'를 제시하고 그 메커니즘을 설명합니다. (A)는 'Yet(그러나)'으로 시작하며 마태 효과에 대한 '대안적 설명(alternative explanation)'으로 '재능론'을 제시합니다. (C)는 앞서 제시된 두 이론을 바탕으로 '지위가 결과를 좌우하는가, 아니면 재능을 반영할 뿐인가?'라는 핵심 질문을 던지며 글을 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Great scientists have multiple hits and consistently succeed in their scientific endeavors simply because they're exceptionally talented.\nTherefore, future success again goes to those who have had success earlier, not because of advantages offered by the previous success, but because the earlier success was indicative of a hidden talent.\nThe Matthew effect posits that success alone increases the future probability of success, raising the question:\nDoes status dictate outcomes, or does it simply ____________________________________?",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "guarantee a place in history" },
+        { "number": "②", "text": "attract unnecessary scrutiny" },
+        { "number": "③", "text": "require a different set of skills" },
+        { "number": "④", "text": "create opportunities for others" },
+        { "number": "⑤", "text": "reflect an underlying talent or quality" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸은 글의 핵심적인 질문의 일부로, '지위가 결과를 좌우하는가, 아니면 단지 ...할 뿐인가?'라는 대립 구조를 이룹니다. '지위가 결과를 좌우한다'는 것은 마태 효과를 의미하므로, 빈칸에는 그에 대한 대안적 설명, 즉 재능론의 핵심 내용이 들어가야 합니다. 글에서 재능론은 성공이 '내재된 재능이나 자질을 반영한다'고 설명하므로, 이 구절이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Indeed, an initial success may offer a scientist ① legitimacy, improve peer perception, provide knowledge of how to score and win, ② enhance social status, and ③ attract resources and quality collaborators, each of these payoffs further increasing her odds of scoring another win.\nYet, there is an appealing ④ alternative explanation: Great scientists have multiple hits and consistently succeed in their scientific endeavors simply because they're exceptionally talented.\nTherefore, future success again goes to those who have had success earlier, not because of advantages offered by the previous success, but because the earlier success was ⑤ irrelevant to a hidden talent.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "재능 기반 설명에 따르면, 초기 성공은 과학자의 숨겨진 재능을 '보여주는' 또는 '나타내는(indicative of)' 지표입니다. 초기 성공이 숨겨진 재능과 '무관하다(irrelevant to)'고 말하면, 이 설명의 핵심 논리와 모순되므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Newton is a (A) prime example... Indeed, an initial success may offer a scientist (B) legitimacy... each of these (C) payoffs further increasing her odds of scoring another win.\nYet, there is an appealing alternative explanation: Great scientists ... consistently succeed in their scientific (D) endeavors simply because they're exceptionally talented.\nThe Matthew effect (E) posits that success alone increases the future probability of success...",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) prime: of the best possible quality; excellent" },
+        { "number": "②", "text": "(B) legitimacy: the quality of being reasonable and acceptable" },
+        { "number": "③", "text": "(C) payoffs: a benefit or advantage received from an action" },
+        { "number": "④", "text": "(D) endeavors: attempts to achieve a goal" },
+        { "number": "⑤", "text": "(E) posits: to prove something to be definitively false" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 동사 'posits'는 '어떤 주장을 사실이라고 상정하다, 제기하다'라는 의미입니다. 제시된 영영 풀이 'to prove something to be definitively false(무언가가 결정적으로 거짓임을 증명하다)'는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "...each of these payoffs further (A) [increasing / decreasing] her odds of scoring another win. Yet, there is an appealing (B) [alternative / conventional] explanation: Great scientists have multiple hits ... simply because they're exceptionally talented. Therefore, future success again goes to those who have had success earlier, ... because the earlier success was (C) [indicative / dismissive] of a hidden talent.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "increasing - alternative - indicative" },
+        { "number": "②", "text": "increasing - conventional - dismissive" },
+        { "number": "③", "text": "decreasing - alternative - indicative" },
+        { "number": "④", "text": "decreasing - conventional - dismissive" },
+        { "number": "⑤", "text": "increasing - alternative - dismissive" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 마태 효과에 따르면, 초기 성공의 보상들은 또 다른 성공의 가능성을 더욱 '증가시킨다(increasing)'. (B) 그러나 재능론이라는 매력적인 '대안적(alternative)' 설명이 있다. (C) 이 설명에 따르면, 초기 성공은 숨겨진 재능을 '나타내는(indicative)' 지표이다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① In fact, well-known scientists are often involved in multiple discoveries, a phenomenon potentially explained by the Matthew effect. ② Indeed, an initial success may offer a scientist legitimacy, improve peer perception, and attract resources. ③ Many governments have specific programs to fund young scientists who have shown early promise. ④ Yet, there is an appealing alternative explanation: Great scientists have multiple hits simply because they're exceptionally talented. ⑤ Therefore, future success again goes to those who have had success earlier, not because of advantages, but because the success was indicative of talent.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과학계의 반복적인 성공 현상을 설명하는 두 가지 상반된 '이론적 관점'(마태 효과 대 재능론)을 대조하고 있습니다. ③번 문장은 '정부의 구체적인 지원 프로그램'이라는 현실 세계의 정책 사례를 언급하는데, 이는 글의 중심인 추상적인 이론 논쟁의 흐름을 방해하는 무관한 문장입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "...well-known scientists are often involved in multiple discoveries, a phenomenon potentially ① [explained / explaining] by the Matthew effect. ...an initial success may offer a scientist legitimacy..., enhance social status, and attract resources..., each of these payoffs further ② [increasing / to increase] her odds of scoring another win. ...Does status dictate outcomes, or ③ [does it / it does] simply reflect an underlying talent or quality?",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "explained",
+          "explanation": "명사 'phenomenon'을 수식하는 분사 자리입니다. 이 현상은 마태 효과에 의해 '설명되는' 것이므로 수동의 의미를 가진 과거분사 'explained'가 맞습니다. 'a phenomenon which is explained...'의 축약형입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "increasing",
+          "explanation": "앞선 절의 내용에 대한 부가적인 결과를 나타내는 분사구문입니다. 'and each of these payoffs further increases...'와 같은 의미로, 주절의 상황과 동시에 일어나는 결과를 나타내므로 현재분사 'increasing'이 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "does it",
+          "explanation": "'or'를 중심으로 두 개의 의문문이 병렬 구조를 이루고 있습니다. 앞의 의문문이 'Does status...'로 조동사-주어 순서의 도치 구조이므로, 뒤의 의문문도 동일하게 'does it...'의 도치 구조를 따라야 합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "All of the restaurants are using carefully chosen words to evoke vivid mental images of delicious food and rich desserts in order to draw the potential customer to their particular establishment. Just like the restaurants, nature has its own dining establishments. In a fashion similar to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their offerings. In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar and other valuable resources. Instead of using a written language or neon sign, they advertise their offerings just as effectively using the language of smell.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To criticize restaurants' misleading advertising."
+        },
+        {
+          "number": "②",
+          "text": "To explain how flowers attract pollinators using an analogy."
+        },
+        {
+          "number": "③",
+          "text": "To promote new marketing strategies for the food industry."
+        },
+        {
+          "number": "④",
+          "text": "To argue for the conservation of natural habitats."
+        },
+        {
+          "number": "⑤",
+          "text": "To describe the chemical composition of floral scents."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 식당이 단어를 사용해 고객을 유인하는 것처럼, 꽃(자연의 식당)은 후각이라는 언어를 사용해 수분 매개자(손님)를 유인한다는 비유를 통해 꽃의 생태적 전략을 설명하고 있습니다. 따라서 글의 주된 목적은 비유를 사용하여 꽃이 수분 매개자를 유인하는 방법을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "All of the restaurants are using carefully chosen words to evoke vivid mental images of delicious food and rich desserts in order to draw the potential customer to their particular establishment. Just like the restaurants, nature has its own dining establishments. In a fashion similar to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their offerings. In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar and other valuable resources. Instead of using a written language or neon sign, they advertise their offerings just as effectively using the language of smell.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Art of Writing a Restaurant Menu"
+        },
+        {
+          "number": "②",
+          "text": "Nature's Restaurants: Advertising with Scent"
+        },
+        {
+          "number": "③",
+          "text": "Financial Dependence in the Natural World"
+        },
+        {
+          "number": "④",
+          "text": "A World Without Words or Signs"
+        },
+        {
+          "number": "⑤",
+          "text": "The Competition Between Flowers and Restaurants"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 꽃을 '자연의 식당'으로 비유하고, 이 식당들이 '향기'를 이용해 광고하는 방식을 설명합니다. 이 제목은 글의 핵심 비유와 주제를 가장 명확하고 함축적으로 표현하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "All of the restaurants are using carefully chosen words to evoke vivid mental images of delicious food and rich desserts in order to draw the potential customer to their particular establishment. Just like the restaurants, nature has its own dining establishments. In a fashion similar to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their offerings. In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar and other valuable resources. Instead of using a written language or neon sign, they advertise their offerings just as effectively using the language of smell.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Restaurants should learn from the natural world to create more effective and vivid advertising campaigns."
+        },
+        {
+          "number": "②",
+          "text": "Flowers effectively use scent as a primary form of advertising to attract animal visitors for survival."
+        },
+        {
+          "number": "③",
+          "text": "The financial success of a restaurant largely depends on its ability to create appealing written descriptions."
+        },
+        {
+          "number": "④",
+          "text": "Many organisms in the natural world have developed a sophisticated written language to find their food."
+        },
+        {
+          "number": "⑤",
+          "text": "The primary purpose of a flower's existence is to provide a beautiful aesthetic for the natural world."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 핵심 내용은 식당이 광고하는 것과 마찬가지로, 꽃은 생존(수분)을 위해 동물을 유인해야 하며, 이를 위해 네온사인이나 글 대신 '냄새라는 언어'를 효과적인 광고 수단으로 사용한다는 것입니다. 따라서 '꽃은 생존을 위해 동물을 유인하는 광고 수단으로 향기를 효과적으로 사용한다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "In a fashion similar to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their offerings. In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. ( ① ) Instead of using a written language or neon sign, they advertise their offerings just as effectively using the language of smell. ( ② ) This natural marketing is a testament to evolution's ingenuity. ( ③ ) The scent carries far and wide, a beacon for those seeking sustenance. ( ④ ) The relationship is a perfect example of symbiosis. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar and other valuable resources.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 이 글에서 언급하는 '식당'이 '꽃'이고, '손님'이 '유기체'임을 명확히 정의합니다. (①) 앞 문장은 자연계에는 네온사인이나 화려한 단어가 없다고 말합니다. 주어진 문장은 바로 그 자연계의 '식당'이 무엇인지 구체적으로 설명해줍니다. 그리고 (①) 뒷 문장은 '글이나 네온사인 대신에' 그들이 어떻게 광고하는지를 설명하므로, 주어진 문장이 (①)에 들어가 비유의 대상을 명확히 한 후 그들의 광고 방식을 설명하는 것이 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "All of the restaurants are using carefully chosen words to evoke vivid mental images of delicious food and rich desserts in order to draw the potential customer to their particular establishment.",
+      "question_blocks": {
+        "A": "In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar and other valuable resources.",
+        "B": "Just like the restaurants, nature has its own dining establishments. In a fashion similar to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their offerings.",
+        "C": "Instead of using a written language or neon sign, they advertise their offerings just as effectively using the language of smell."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 식당의 광고 방식을 설명합니다. (B)에서 'Just like the restaurants'라는 표현으로 식당과 자연의 식당(꽃) 사이의 유사성을 제시하며 비유를 시작합니다. (A)에서 자연계에는 식당과 같은 광고 수단이 없음을 대조적으로 보여주고, 그 자연의 식당이 바로 꽃임을 명확히 합니다. 마지막으로 (C)에서 자연의 식당이 사용하는 광고 수단, 즉 '냄새라는 언어'를 밝히며 결론을 맺습니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar and other valuable resources. Instead of using a written language or neon sign, they advertise their offerings just as effectively using ____________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a variety of bright colors" },
+        { "number": "②", "text": "the texture of their petals" },
+        { "number": "③", "text": "the language of smell" },
+        { "number": "④", "text": "a complex system of sounds" },
+        { "number": "⑤", "text": "the nutritional value of pollen" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글은 꽃이 식당처럼 광고를 하지만, 글이나 네온사인을 사용하지 않는다고 대조하고 있습니다. 빈칸은 꽃이 사용하는 대안적인 광고 수단을 설명하는 자리이며, 글의 마지막 문장이자 핵심 내용인 '냄새라는 언어(the language of smell)'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "All of the restaurants are using carefully chosen words to ① [evoke] vivid mental images of delicious food... to ② [draw] the potential customer... In a fashion ③ [similar] to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also ④ [attract] potential diners to sample their offerings. In the natural world, there are no neon signs or flashy words... Instead of using a written language or neon sign, they ⑤ [conceal] their offerings just as effectively using the language of smell.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 꽃이 냄새를 이용해 자신의 '제공물(offerings)'을 효과적으로 '광고한다(advertise)'는 내용입니다. 따라서 그들의 제공물을 '숨긴다(conceal)'는 것은 글의 전체적인 맥락과 정반대되는 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "All of the restaurants are using carefully chosen words to (A) [evoke] vivid mental images of delicious food and rich desserts in order to draw the potential customer to their particular (B) [establishment]. ...the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their (C) [offerings]. These restaurants that I am referring to are the world's flowers, and the potential guests are the host of (D) [organisms] that visit flowers to obtain nectar... Instead of using a written language or neon sign, they advertise their offerings just as (E) [effectively] using the language of smell.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) evoke: to bring a feeling, memory, or image into the mind." },
+        { "number": "②", "text": "(B) establishment: a business or other organization." },
+        { "number": "③", "text": "(C) offerings: products or services that are made available." },
+        { "number": "④", "text": "(D) organisms: an individual animal, plant, or single-celled life form." },
+        { "number": "⑤", "text": "(E) effectively: in a way that is planned but does not work well." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) effectively는 '효과적으로, 성공적으로(in a way that is successful and achieves the results that you want)'라는 의미입니다. 제시된 '계획되었지만 잘 작동하지 않는 방식으로'라는 설명은 '비효과적으로(ineffectively)'에 가깝기 때문에 잘못된 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "All of the restaurants are using carefully chosen words to (A) [evoke / erase] vivid mental images... In a fashion similar to the restaurants' financial (B) [dependence / independence] upon drawing in many customers, the restaurateurs of the natural world... must also attract potential diners... Instead of using a written language or neon sign, they advertise their offerings just as (C) [effectively / poorly] using the language of smell.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "evoke - dependence - effectively" },
+        { "number": "②", "text": "evoke - independence - effectively" },
+        { "number": "③", "text": "erase - dependence - effectively" },
+        { "number": "④", "text": "erase - independence - poorly" },
+        { "number": "⑤", "text": "evoke - dependence - poorly" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 식당은 생생한 이미지를 '불러일으키기(evoke)' 위해 단어를 사용합니다. (B) 식당의 재정은 고객을 끄는 것에 '의존(dependence)'합니다. (C) 꽃은 냄새를 사용하여 '효과적으로(effectively)' 광고합니다. 따라서 정답은 evoke - dependence - effectively 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "In a fashion similar to the restaurants' financial dependence upon drawing in many customers, the restaurateurs of the natural world (i.e., flowers) must also attract potential diners to sample their offerings. ① In the natural world, there are no neon signs or flashy words in which to market a potential meal to hungry animals. ② Nectar is a sugar-rich liquid produced by plants in glands called nectaries. ③ These restaurants that I am referring to are the world's flowers, and the potential guests are the host of organisms that visit flowers to obtain nectar. ④ Instead of using a written language or neon sign, they advertise their offerings just as effectively using the language of smell. ⑤ This natural advertising is crucial for the process of pollination.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 꽃이 냄새를 통해 동물을 유인하는 '방식'을 식당의 '광고'에 비유하여 설명하고 있습니다. ②번 문장 '꿀은 꿀샘이라는 분비선에서 식물이 생산하는 당이 풍부한 액체이다'는 꿀(nectar)의 과학적 정의를 설명하는 것으로, '광고 방식'이라는 글의 중심 비유와 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "All of the restaurants are using carefully chosen words to evoke vivid mental images of delicious food and rich desserts in order ① [to draw / drawing] the potential customer to their particular establishment. Just like the restaurants, nature has its own dining establishments. In a fashion similar to the restaurants' financial dependence upon ② [drawing / to draw] in many customers, the restaurateurs of the natural world must also attract potential diners. In the natural world, there are no neon signs or flashy words in ③ [which / that] to market a potential meal to hungry animals.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to draw",
+          "explanation": "'~하기 위하여'라는 목적을 나타내는 'in order to' 구문 다음에는 동사원형이 와야 합니다. 따라서 'to draw'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "drawing",
+          "explanation": "전치사 'upon'의 목적어로는 명사나 동명사가 와야 합니다. 따라서 동명사 형태인 'drawing'이 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "which",
+          "explanation": "이 문장은 'market a meal in the signs or words'라는 의미를 '...in which to market a meal'로 표현한 것입니다. 'in'이라는 전치사의 목적어 역할을 하는 관계대명사가 필요하므로 'which'가 맞습니다. 'in that'은 '~라는 점에서'라는 접속사로 사용되므로 이 문맥에는 어울리지 않습니다."
+        }
+      ]
+    }
+  ]
+}

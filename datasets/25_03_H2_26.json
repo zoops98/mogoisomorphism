@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "내용 불일치",
+      "passage": "Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany.\nHe displayed a marked interest in science at an early age.\nHe studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy.\nIn his late twenties, he went to Austria and classified minerals by their physical attributes.\nThis new classification system of his led to conflicts with many mineralogists who followed the conventional methods.\nIn 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he developed the Mohs Scale of Mineral Hardness.\nMohs ended his remarkable career at the Mining University in Leoben and died at the age of 66 in Italy.",
+      "question": "Friedrich Mohs에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "독일에서 태어나 어린 나이에 과학에 관심을 보였다." },
+        { "number": "②", "text": "광업 아카데미에서 광물학을 공부했다." },
+        { "number": "③", "text": "물리적 특성에 기반한 새로운 광물 분류 체계를 고안했다." },
+        { "number": "④", "text": "그의 새로운 분류법은 동료 광물학자들에게 널리 환영받았다." },
+        { "number": "⑤", "text": "Joanneum에서 교수로 재직할 때 경도계를 개발했다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문 다섯 번째 문장에서 \"This new classification system of his led to conflicts with many mineralogists(그의 이 새로운 분류 체계는 많은 광물학자들과의 갈등으로 이어졌다)\"라고 명시되어 있습니다. 따라서 그의 새로운 분류법이 널리 환영받았다는 내용은 사실과 다릅니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany.\nHe displayed a marked interest in science at an early age.\nHe studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy.\nIn his late twenties, he went to Austria and classified minerals by their physical attributes.\nThis new classification system of his led to conflicts with many mineralogists who followed the conventional methods.\nIn 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he developed the Mohs Scale of Mineral Hardness.\nMohs ended his remarkable career at the Mining University in Leoben and died at the age of 66 in Italy.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The History of German Universities" },
+        { "number": "②", "text": "Friedrich Mohs: A Pioneer in Mineralogy" },
+        { "number": "③", "text": "The Creation of the Mohs Hardness Scale" },
+        { "number": "④", "text": "Conflicts in 19th-Century Science" },
+        { "number": "⑤", "text": "A Journey Through Austrian and Italian Mines" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 프리드리히 모스의 출생, 교육, 업적, 그리고 말년까지 그의 생애 전반을 다루고 있습니다. 특히 광물 분류법과 모스 경도계 개발 등 광물학 분야에서의 선구적인 업적을 중심으로 서술하고 있으므로, '프리드리히 모스: 광물학의 선구자'가 글 전체를 대표하는 제목으로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany.\nHe displayed a marked interest in science at an early age.\nHe studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy.\nIn his late twenties, he went to Austria and classified minerals by their physical attributes.\nThis new classification system of his led to conflicts with many mineralogists who followed the conventional methods.\nIn 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he developed the Mohs Scale of Mineral Hardness.\nMohs ended his remarkable career at the Mining University in Leoben and died at the age of 66 in Italy.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Friedrich Mohs was a German mineralogist who created a new classification system and the famous scale of hardness." },
+        { "number": "②", "text": "The development of the Mohs Scale of Mineral Hardness was the most controversial achievement in the field of mineralogy." },
+        { "number": "③", "text": "Despite facing significant opposition from his peers, Friedrich Mohs eventually convinced them of his new scientific methods." },
+        { "number": "④", "text": "Friedrich Mohs's early education in multiple scientific fields was the key to his successful career as a professor." },
+        { "number": "⑤", "text": "The scientific community in the 19th century was often resistant to new ideas that challenged conventional classification methods." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 독일의 광물학자인 프리드리히 모스의 생애를 요약하고 있습니다. 그의 핵심 업적인 새로운 광물 분류 체계 개발과 모스 경도계 창안을 중심으로 그의 경력을 서술하고 있으므로, 이 선택지가 글의 내용을 가장 잘 요약한 요지라고 할 수 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "He displayed a marked interest in science at an early age. He studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy. ( ① ) In his late twenties, he went to Austria and classified minerals by their physical attributes. ( ② ) This new classification system of his led to conflicts with many mineralogists who followed the conventional methods. ( ③ ) In 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he developed the Mohs Scale of Mineral Hardness. ( ④ ) Mohs ended his remarkable career at the Mining University in Leoben and died at the age of 66 in Italy. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This approach was a departure from the chemical classification that was popular at the time.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이 접근법은 당시에 대중적이었던 화학적 분류법과는 다른 것이었다'는 내용입니다. 바로 앞 문장에서 모스가 '물리적 특성'에 따라 광물을 분류했다고 언급했으므로, 이 접근법이 왜 새롭고 갈등을 유발했는지를 설명하는 주어진 문장이 ②의 위치에 들어가는 것이 가장 자연스럽습니다. 뒤따르는 문장은 이로 인해 '갈등'이 생겼다고 설명하여 논리적 흐름을 완성합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany. He displayed a marked interest in science at an early age.",
+      "question_blocks": {
+        "A": "In his late twenties, he went to Austria and classified minerals by their physical attributes. This new classification system of his led to conflicts with many mineralogists who followed the conventional methods.",
+        "B": "He studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy.",
+        "C": "In 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he developed the Mohs Scale of Mineral Hardness. Mohs ended his remarkable career at the Mining University in Leoben and died at the age of 66 in Italy."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 프리드리히 모스의 생애를 시간 순서대로 서술하고 있습니다. 주어진 글은 그의 출생과 어린 시절을 다룹니다. (B)는 그의 학창 시절, 즉 교육 배경을 설명합니다. (A)는 그의 20대 후반, 즉 초기 경력과 그가 직면했던 갈등을 다룹니다. (C)는 1812년의 주요 업적과 그의 말년 및 죽음을 다루며 글을 마무리합니다. 따라서 시간 순서에 따른 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany. He displayed a marked interest in science at an early age. He studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy. In his late twenties, he went to Austria and classified minerals by their physical attributes. This new classification system of his led to ________________ with many mineralogists who followed the conventional methods. In 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he developed the Mohs Scale of Mineral Hardness.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "successful collaborations" },
+        { "number": "②", "text": "immediate acceptance" },
+        { "number": "③", "text": "popular acclaim" },
+        { "number": "④", "text": "heated debates" },
+        { "number": "⑤", "text": "conflicts" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸이 있는 문장은 모스의 새로운 분류 체계가 어떤 결과를 낳았는지를 설명합니다. 바로 뒤에 '기존의 방법을 따르던 많은 광물학자들'이라는 구절이 나오는 것으로 보아, 새로운 방법이 기존 방법과 충돌했음을 유추할 수 있습니다. 본문은 이 결과를 '갈등(conflicts)'이라고 명시하고 있습니다. '격렬한 토론(heated debates)'도 가능성이 있지만, 본문에 사용된 단어인 'conflicts'가 가장 직접적이고 정확합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany.\nHe displayed a ① marked interest in science at an early age.\nHe studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy.\nIn his late twenties, he went to Austria and ② classified minerals by their physical attributes.\nThis new classification system of his led to conflicts with many mineralogists who followed the ③ conventional methods.\nIn 1812, Mohs was ④ appointed Professor of Mineralogy at the Joanneum...\nMohs ended his ⑤ insignificant career at the Mining University in Leoben and died at the age of 66 in Italy.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글 전체는 모스 경도계와 같은 중요한 업적을 남긴 모스의 생애를 긍정적으로 서술하고 있습니다. 따라서 그의 경력을 '하찮은, 중요하지 않은(insignificant)'이라고 표현하는 것은 문맥에 맞지 않습니다. 본문에서는 '주목할 만한(remarkable)' 경력이라고 표현하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Friedrich Mohs, a well-known (A) mineralogist, was born on January 29, 1773... He (B) classified minerals by their physical (C) attributes. This new classification system of his led to conflicts with many mineralogists who followed the (D) conventional methods. In 1812, Mohs was (E) appointed Professor of Mineralogy at the Joanneum...",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) mineralogist: an expert in the scientific study of minerals" },
+        { "number": "②", "text": "(B) classified: arranged things in categories according to shared qualities" },
+        { "number": "③", "text": "(C) attributes: qualities or features regarded as a characteristic of something" },
+        { "number": "④", "text": "(D) conventional: based on or conforming to what is generally done or believed" },
+        { "number": "⑤", "text": "(E) appointed: to officially ask someone to leave an important job or position" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'appointed'는 교수로 '임명되었다'는 의미입니다. 제시된 영영 풀이 'to officially ask someone to leave an important job or position(공식적으로 누군가에게 중요한 직책을 떠나라고 요청하다)'는 해고하거나 사임을 요구하는 것으로, '임명하다'와는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "He displayed a marked interest in science at an (A) [early / late] age. ... In his late twenties, he went to Austria and classified minerals by their physical attributes. This new classification system of his led to (B) [conflicts / agreements] with many mineralogists who followed the conventional methods. In 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, where he (C) [developed / abandoned] the Mohs Scale of Mineral Hardness.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "early - conflicts - developed" },
+        { "number": "②", "text": "early - agreements - developed" },
+        { "number": "③", "text": "late - conflicts - abandoned" },
+        { "number": "④", "text": "late - agreements - abandoned" },
+        { "number": "⑤", "text": "early - conflicts - abandoned" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 모스는 '어린(early)' 나이에 과학에 두드러진 관심을 보였다. (B) 그의 새로운 분류 체계는 기존의 방법을 따르던 광물학자들과 '갈등(conflicts)'을 빚었다. (C) 그는 Joanneum에서 모스 경도계를 '개발했다(developed)'."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Friedrich Mohs, a well-known mineralogist, was born on January 29, 1773, in Gernrode, Germany. ② He studied chemistry, mathematics, and physics at the University of Halle and also studied mineralogy at the Mining Academy. ③ The Mining Academy in Freiberg was one of the oldest institutions of its kind in the world. ④ In his late twenties, he went to Austria and classified minerals by their physical attributes. ⑤ This new classification system of his led to conflicts with many mineralogists who followed the conventional methods.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 프리드리히 모스라는 인물의 생애와 업적을 시간 순서에 따라 서술하는 전기문입니다. ③번 문장은 그가 다녔던 광업 아카데미에 대한 부가적인 사실을 설명하고 있을 뿐, 모스 개인의 삶이나 경력에 대한 정보가 아니므로 전체적인 전기적 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① He displayed a marked interest in science at [so / an] early age. ② This new classification system of his led to conflicts with many mineralogists who [followed / were followed] the conventional methods. ③ In 1812, Mohs was appointed Professor of Mineralogy at the Joanneum, [where / which] he developed the Mohs Scale of Mineral Hardness.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "an",
+          "explanation": "'at an early age'는 '어린 나이에'라는 의미의 고정된 관용 표현입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "followed",
+          "explanation": "관계대명사 'who'는 'mineralogists'를 가리키며, 이 광물학자들이 기존의 방법을 '따랐다'는 능동의 의미이므로 능동태 동사 'followed'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "where",
+          "explanation": "선행사 'the Joanneum'은 장소를 나타냅니다. 뒷 문장 'he developed the Mohs Scale...'은 완전한 문장이므로, 장소를 수식하는 관계부사 'where'가 오는 것이 적절합니다. 'where'는 'and there' 또는 'at which'의 의미입니다."
+        }
+      ]
+    }
+  ]
+}

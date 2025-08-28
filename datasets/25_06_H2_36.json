@@ -1,0 +1,237 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To compare the merits of oral and literate cultures."
+        },
+        {
+          "number": "②",
+          "text": "To praise the four great inventions of ancient China."
+        },
+        {
+          "number": "③",
+          "text": "To explain the historical evolution of writing materials."
+        },
+        {
+          "number": "④",
+          "text": "To argue for the superiority of the modern book format."
+        },
+        {
+          "number": "⑤",
+          "text": "To describe the ancient process of making paper."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 구전 문화에서 문자 문화로의 전환이 적절한 필기 재료의 부재로 지연되었음을 설명하며 시작합니다. 그리고 돌, 점토, 나무와 같은 초기 재료의 단점을 나열한 후, 종이의 발명과 코덱스(책) 형태의 도입이 어떻게 이 문제를 해결했는지를 역사적 순서에 따라 설명하고 있습니다. 따라서 글의 주된 목적은 필기 재료의 역사적 발전을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Four Great Inventions of China"
+        },
+        {
+          "number": "②",
+          "text": "From Stone to Paper: The Victory of a Softer Material"
+        },
+        {
+          "number": "③",
+          "text": "The Slow Decline of Oral Culture"
+        },
+        {
+          "number": "④",
+          "text": "How the Ancient Romans Invented the Book"
+        },
+        {
+          "number": "⑤",
+          "text": "The Future of the Written Word"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 돌이나 나무 같은 딱딱한 재료에서 시작된 필기 재료가 부드러운 재료인 종이로 발전하고, 마침내 책의 형태로 완성되어 문자 기록의 수호자가 된 과정을 이야기합니다. '돌에서 종이로: 더 부드러운 재료의 승리'라는 제목은 이러한 역사적 흐름과 글의 마지막 문장('remarkable materials story')의 감탄을 잘 포착하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The ancient Romans were solely responsible for developing the materials necessary for a modern literate culture."
+        },
+        {
+          "number": "②",
+          "text": "The invention of paper and the book format was crucial for overcoming the limitations of earlier writing materials."
+        },
+        {
+          "number": "③",
+          "text": "Oral cultures were ultimately more effective at transmitting complex knowledge than early literate cultures were."
+        },
+        {
+          "number": "④",
+          "text": "Stone and clay tablets, despite their many flaws, remained the most dominant form of written media for centuries."
+        },
+        {
+          "number": "⑤",
+          "text": "The transition to a literate culture was a very quick process once the printing press was finally invented."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 돌, 점토, 나무 등 초기 필기 재료의 한계 때문에 문자 문화로의 전환이 지체되었다고 설명합니다. 이후 종이의 발명과 로마인들의 코덱스(책) 형식 도입이 이러한 문제들을 해결하고 잠재력을 최대한 발휘하게 했다고 말합니다. 따라서 '종이의 발명과 책 형식은 초기 필기 재료의 한계를 극복하는 데 결정적이었다'가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. ( ① ) Wood suffers from splitting and is susceptible to decay. ( ② ) Wall paintings are static and space is limited. ( ③ ) The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. ( ④ ) That was two thousand years ago, and it is still a dominant form of the written word. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 돌과 점토판의 단점을 설명합니다. (①) 앞 문장은 적합한 필기 재료가 '부족(lack)'했다는 일반적인 문제점을 제기합니다. 주어진 문장은 그 문제에 대한 첫 번째 구체적인 예시를 제공합니다. 그 뒤를 이어 (①) 다음 문장에서 나무의 단점을, 그 다음 문장에서 벽화의 단점을 차례로 나열하고 있으므로, 예시의 시작인 (①)에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material.",
+      "question_blocks": {
+        "A": "The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential.",
+        "B": "Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited.",
+        "C": "That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 적합한 필기 재료의 부재라는 문제점을 제시합니다. (B)는 돌, 점토, 나무, 벽화 등 부적합했던 초기 재료들의 구체적인 문제점들을 나열합니다. (A)는 종이의 발명과 책 형태의 도입이 '이러한 문제들(these problems)'을 해결했다고 설명하며 문제 해결 과정을 보여줍니다. 마지막으로 (C)는 책의 오랜 역사와 중요성을 강조하며 글을 마무리합니다. 따라서 문제 제시 → 구체적 문제점 나열 → 해결책 제시 → 의의 설명의 순서인 (B)-(A)-(C)가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by ____________________. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the complexity of the alphabet" },
+        { "number": "②", "text": "a general resistance to change" },
+        { "number": "③", "text": "the high cost of formal education" },
+        { "number": "④", "text": "the lack of suitable writing material" },
+        { "number": "⑤", "text": "the dominance of oral traditions" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 구전 문화에서 문자 문화로의 전환이 지체된 원인을 묻고 있습니다. 빈칸 바로 뒤 문장들에서 돌, 점토, 나무 등 초기 필기 재료들의 단점들이 구체적으로 나열되고 있습니다. 이는 모두 '적합한 필기 재료의 부족(the lack of suitable writing material)'이라는 문제에 대한 예시이므로, 이것이 빈칸에 들어갈 가장 적절한 말입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The transition from an oral culture... to a literate one... was ① [held back] for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were ② [prone] to fracture and were bulky. Wood suffers from splitting and is ③ [susceptible] to decay. The invention of paper solved these problems, but it wasn't until the Romans replaced the scroll with the codex... that the material reached its full ④ [potential]. That was two thousand years ago, and it is still a ⑤ [temporary] form of the written word.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 책(codex) 형태가 2천 년 전에 등장한 이후 '여전히(still)' 문자 기록의 '지배적인(dominant)' 형태라고 설명하고 있습니다. 따라서 '일시적인(temporary)'이라는 단어는 오랜 기간 동안 지속되어 온 지배적 형태라는 설명과 모순되므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The (A) [transition] from an oral culture... to a literate one... was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were (B) [prone] to fracture and were bulky and heavy to transport. The invention of paper... solved these problems, but it wasn't until the Romans replaced the scroll with the (C) [codex] ... that the material reached its full (D) [potential]. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a (E) [remarkable] materials story.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) transition: the process of changing from one state to another." },
+        { "number": "②", "text": "(B) prone: likely to suffer from something undesirable." },
+        { "number": "③", "text": "(C) codex: an ancient manuscript text in book form." },
+        { "number": "④", "text": "(D) potential: qualities or abilities that may be developed and lead to future success." },
+        { "number": "⑤", "text": "(E) remarkable: of very low quality or standard." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) remarkable은 '놀라운, 주목할 만한(worthy of attention; striking)'이라는 의미입니다. '매우 낮은 품질이나 수준의'라는 설명은 'poor'나 'inferior'에 해당하며, 'remarkable'의 의미와는 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The transition from an oral culture... to a literate one... was held back for centuries by the (A) [lack / abundance] of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were (B) [bulky / portable] and heavy to transport. ...it wasn't until the Romans (C) [replaced / preserved] the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "lack - bulky - replaced" },
+        { "number": "②", "text": "lack - portable - preserved" },
+        { "number": "③", "text": "abundance - bulky - replaced" },
+        { "number": "④", "text": "abundance - portable - preserved" },
+        { "number": "⑤", "text": "lack - bulky - preserved" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 문자 문화로의 전환은 적합한 필기 재료의 '부족(lack)' 때문에 지체되었습니다. (B) 돌과 점토판은 '부피가 크고(bulky)' 무거웠습니다. (C) 로마인들이 두루마리(scroll)를 코덱스(책)로 '대체했을(replaced)' 때 비로소 그 잠재력이 발휘되었습니다. 따라서 정답은 lack - bulky - replaced 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. ① Wall paintings are static and space is limited. ② The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems. ③ The other three great inventions are the compass, gunpowder, and printing. ④ It wasn't until the Romans replaced the scroll with the codex... that the material reached its full potential. ⑤ That was two thousand years ago, and it is still a dominant form of the written word.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '필기 재료'의 발달 과정에 초점을 맞추고 있습니다. ③번 문장 '다른 세 가지 위대한 발명품은 나침반, 화약, 그리고 인쇄술이다'는 종이와 함께 언급된 중국의 4대 발명품을 나열하는 것으로, 필기 재료의 역사라는 핵심 주제에서 벗어나는 부가 정보이므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The transition from an oral culture... to a literate one, ① [basing / based] on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy ② [to transport / transporting]. That paper, a much softer material than either stone or wood, won out as the guardian of the written word ③ [is / being] a remarkable materials story.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "based",
+          "explanation": "앞에 있는 명사 'one'(= a literate culture)을 수식하는 과거분사가 와야 합니다. 'a literate one which was based on...'에서 'which was'가 생략된 형태로, '기반을 둔'이라는 수동의 의미이므로 'based'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to transport",
+          "explanation": "형용사 'bulky and heavy'를 수식하여 '~하기에'라는 의미를 더하는 to부정사의 부사적 용법입니다. 따라서 'to transport'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "is",
+          "explanation": "이 문장의 주어는 'That paper, a much softer material than either stone or wood, won out as the guardian of the written word'라는 명사절입니다. 이 명사절 전체를 주어로 받는 본동사가 필요하므로, 동사 'is'가 와야 합니다. 'being'은 동명사나 분사로, 문장의 본동사 역할을 할 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

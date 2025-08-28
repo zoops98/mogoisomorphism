@@ -1,0 +1,343 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\nShe remained an active voice for human rights and democracy until her death in 2009.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to analyze the economic history of South Africa"
+        },
+        {
+          "number": "②",
+          "text": "to compare different political parties in South Africa"
+        },
+        {
+          "number": "③",
+          "text": "to provide information about the life of an activist"
+        },
+        {
+          "number": "④",
+          "text": "to criticize the new constitution of South Africa"
+        },
+        {
+          "number": "⑤",
+          "text": "to promote a specific university program"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 Helen Suzman의 출생, 경력, 정치 활동, 은퇴 후의 삶 등 그녀의 전 생애에 걸친 업적을 서술하고 있습니다. 따라서 이 글의 주된 목적은 아파르트헤이트에 맞서 싸운 한 활동가(an activist)의 삶에 대한 정보를 제공하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\nShe remained an active voice for human rights and democracy until her death in 2009.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The History of the Progressive Party"
+        },
+        {
+          "number": "②",
+          "text": "A Lifelong Struggle Against Apartheid"
+        },
+        {
+          "number": "③",
+          "text": "Economic History and Its Political Impact"
+        },
+        {
+          "number": "④",
+          "text": "The Drafting of a New Constitution"
+        },
+        {
+          "number": "⑤",
+          "text": "A Profile of a University Lecturer"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Helen Suzman이 의회에서 36년간 '지칠 줄 모르고 싸웠고(tirelessly fought)', 은퇴 후에도 '계속해서 옹호했으며(continued to advocate)', 죽을 때까지 '활동적인 목소리로 남았다(remained an active voice)'고 서술합니다. 이는 그녀의 삶이 '아파르트헤이트에 맞선 평생의 투쟁'이었음을 보여주므로, ②번이 가장 적절한 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\nShe remained an active voice for human rights and democracy until her death in 2009.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The United Party failed because its moderate stance on apartheid did not satisfy its members."
+        },
+        {
+          "number": "②",
+          "text": "Helen Suzman dedicated her entire political career and life to fighting against racial injustice in South Africa."
+        },
+        {
+          "number": "③",
+          "text": "The new constitution of South Africa was primarily influenced by retired politicians like Helen Suzman."
+        },
+        {
+          "number": "④",
+          "text": "Many Jewish immigrants in South Africa became prominent figures in the anti-apartheid political movement."
+        },
+        {
+          "number": "⑤",
+          "text": "Working as a university lecturer is an effective pathway to entering a career in politics."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Helen Suzman이 의회에서의 36년간의 활동뿐만 아니라 은퇴 후에도 죽을 때까지 남아프리카의 인종차별 정책인 아파르트헤이트에 맞서 싸우고 인권과 민주주의를 옹호하는 데 평생을 바쳤음을 보여줍니다. 따라서 'Helen Suzman은 남아프리카의 인종적 불의에 맞서 싸우는 데 그녀의 전 정치 경력과 삶을 바쳤다'는 ②번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\n( ① ) In 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\n( ② ) Suzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\n( ③ ) Even after her retirement in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\n( ④ ) She remained an active voice for human rights and democracy until her death in 2009.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**For thirteen years, from 1961 to 1974, she was the sole Member of Parliament opposing the apartheid government.**",
+      "question_translation": "**1961년부터 1974년까지 13년 동안, 그녀는 아파르트헤이트 정부에 반대하는 유일한 국회의원이었다.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 그녀가 13년 동안 의회에서 유일한 반대파 의원이었다는 구체적인 사실을 언급합니다. ③번 앞 문장은 그녀가 의회에서 36년 동안 지칠 줄 모르고 싸웠다는 일반적인 서술을 하고 있습니다. 주어진 문장은 이 '지칠 줄 모르는 싸움'이 얼마나 외롭고 힘든 것이었는지를 구체적인 기간과 상황(유일한 의원)을 들어 부연 설명해 줍니다. 따라서 일반적인 서술 뒤에 구체적인 예시가 오는 것이 자연스러우므로 ③번이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa. Suzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.",
+      "question_blocks": {
+        "A": "Suzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.",
+        "B": "While working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations. In 1953, she joined the United Party and was elected to Parliament.",
+        "C": "but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 Helen Suzman의 출생 배경을 소개합니다. (B)는 그녀의 초기 경력과 정계 입문을 시간 순서에 따라 설명합니다(대학 강사 → 통일당 가입 및 의회 진출). (C)는 통일당에 가입한 이후의 사건으로, 당의 노선 변경으로 인해 탈당하고 진보당을 창당한 과정을 설명합니다. (A)는 이러한 정치적 기반 위에서 그녀가 의회에서 36년 동안 활동한 내용을 요약하며 마무리합니다. 따라서 시간적, 논리적 순서에 따라 (B)-(C)-(A)가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more ____________________ on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\nShe remained an active voice for human rights and democracy until her death in 2009.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "aggressive strategy"
+        },
+        {
+          "number": "②",
+          "text": "moderate stance"
+        },
+        {
+          "number": "③",
+          "text": "radical approach"
+        },
+        {
+          "number": "④",
+          "text": "popular opinion"
+        },
+        {
+          "number": "⑤",
+          "text": "confrontational policy"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸은 Suzman과 진보적인 동료들이 통일당을 떠난 이유를 설명하는 부분입니다. 그들이 더 '진보적인(progressive)' 정당을 새로 만들었다는 점에서, 기존 정당의 입장이 그들의 기대에 미치지 못했음을 알 수 있습니다. 아파르트헤이트에 대해 '더 온건한 입장(more moderate stance)'을 취했기 때문에 강경한 반대 입장을 가진 그들이 떠났다고 보는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish ① [immigrant] parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more ② [moderate] stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, ③ [exposing] the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she continued to ④ [advocate] for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\nShe remained an ⑤ [inactive] voice for human rights and democracy until her death in 2009.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "immigrant"
+        },
+        {
+          "number": "②",
+          "text": "moderate"
+        },
+        {
+          "number": "③",
+          "text": "exposing"
+        },
+        {
+          "number": "④",
+          "text": "advocate"
+        },
+        {
+          "number": "⑤",
+          "text": "inactive"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 전체적인 내용은 Helen Suzman이 평생에 걸쳐 인권과 민주주의를 위해 지칠 줄 모르고 활동했다는 것입니다. 따라서 그녀가 죽을 때까지 '활동적인(active)' 목소리로 남았다고 하는 것이 자연스럽습니다. '비활동적인(inactive)'은 그녀의 삶의 궤적과 정반대되는 단어입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Helen Suzman was an (A) [activist] against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more moderate (B) [stance] on apartheid, Suzman and other (C) [progressive] members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her (D) [retirement] in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new (E) [constitution] after the end of apartheid.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) activist: a person who campaigns to bring about political or social change"
+        },
+        {
+          "number": "②",
+          "text": "(B) stance: the attitude of a person or organization towards something"
+        },
+        {
+          "number": "③",
+          "text": "(C) progressive: wanting to prevent political and social reform and change"
+        },
+        {
+          "number": "④",
+          "text": "(D) retirement: the action or fact of leaving one's job and ceasing to work"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) constitution: the set of basic laws and principles that a country is governed by"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'progressive(진보적인)'는 'favoring or implementing social reform or new, liberal ideas(사회 개혁이나 새롭고 자유로운 사상을 선호하거나 실행하는)'을 의미합니다. 제시된 영영 풀이인 '정치적, 사회적 개혁과 변화를 막고 싶어 하는'은 'conservative(보수적인)'에 대한 설명으로, 'progressive'와는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more (A) [moderate / radical] stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, (B) [exposing / concealing] the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she (C) [continued / ceased] to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "moderate - exposing - continued"
+        },
+        {
+          "number": "②",
+          "text": "moderate - concealing - ceased"
+        },
+        {
+          "number": "③",
+          "text": "radical - exposing - continued"
+        },
+        {
+          "number": "④",
+          "text": "radical - concealing - ceased"
+        },
+        {
+          "number": "⑤",
+          "text": "moderate - exposing - ceased"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 진보적인(progressive) 성향의 Suzman이 당을 떠난 이유는 당이 아파르트헤이트에 대해 '온건한(moderate)' 입장을 취했기 때문입니다. (B) 그녀는 정부의 학대를 '폭로하며(exposing)' 아파르트헤이트에 맞서 싸웠습니다. (C) 은퇴 후에도 그녀는 활동을 '계속했습니다(continued)'."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nSuzman was born to Jewish immigrant parents in Germiston in the Union of South Africa in 1917.\nWhile working as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and was elected to Parliament, but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and challenging its laws for a total of 36 years in Parliament.\nEven after her retirement in 1989, she continued to advocate for a multi-racial democracy in the Republic of South Africa and influenced the drafting of the country's new constitution after the end of apartheid.\nShe remained an active voice for human rights and democracy until her death in 2009.",
+      "question": "Helen Suzman에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "그녀의 부모는 유대인 이민자였다."
+        },
+        {
+          "number": "②",
+          "text": "대학에서 경제사 강사로 일한 경력이 있다."
+        },
+        {
+          "number": "③",
+          "text": "1959년에 진보적인 동료들과 함께 진보당을 창당했다."
+        },
+        {
+          "number": "④",
+          "text": "의회에서 총 36년간 아파르트헤이트에 맞서 싸웠다."
+        },
+        {
+          "number": "⑤",
+          "text": "1989년에 은퇴한 후 정치 활동을 완전히 중단했다."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문은 'Even after her retirement in 1989, she continued to advocate for a multi-racial democracy...'라고 명시하고 있습니다. 이는 그녀가 1989년에 의회에서 은퇴한 후에도 정치적, 사회적 활동을 완전히 중단한 것이 아니라 계속했음을 의미합니다. 따라서 ⑤번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Helen Suzman was an activist against apartheid, a racist political and social system in the Republic of South Africa.\nWhile ① [working / worked] as a lecturer on economic history at Witwatersrand University, she joined the South African Institute of Race Relations.\nIn 1953, she joined the United Party and ② [was elected / elected] to Parliament, but when the United Party adopted a more moderate stance on apartheid, Suzman and other progressive members left it and formed the Progressive Party in 1959.\nSuzman tirelessly fought against apartheid, exposing the government's abuses and ③ [challenging / challenged] its laws for a total of 36 years in Parliament.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "working",
+          "explanation": "접속사 While 뒤에 주어 'she'와 be동사 'was'가 생략된 분사구문입니다. 그녀가 능동적으로 강사로 일한 것이므로 현재분사 'working'이 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "was elected",
+          "explanation": "and에 의해 동사 'joined'와 병렬 구조를 이루고 있습니다. 주어인 'she'가 의회에 '선출된' 것이므로 수동태 'was elected'가 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "challenging",
+          "explanation": "'exposing the government's abuses'와 병렬 구조를 이루어, Suzman이 어떻게 싸웠는지를 설명하는 분사구문입니다. and로 연결되어 있으므로 앞의 분사 형태와 동일한 'challenging'이 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

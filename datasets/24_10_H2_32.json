@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nTranslators always draw on more than one source text.\nEven when the scene of translation consists of just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations.\nAnd then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to praise Alexander Pope's translation of the Iliad"
+        },
+        {
+          "number": "②",
+          "text": "to argue that translation is a collaborative, not a solitary, process"
+        },
+        {
+          "number": "③",
+          "text": "to list the essential resources for a professional translator"
+        },
+        {
+          "number": "④",
+          "text": "to criticize the pressure that readers put on translators"
+        },
+        {
+          "number": "⑤",
+          "text": "to explain the differences between oral and written translation"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 번역이 번역가 혼자만의 작업이 아니라, 다양한 자료(주석, 다른 번역본, 사전)와 다른 사람들(독자 공동체)과의 대화 속에서 이루어지는 과정임을 알렉산더 포프의 예를 들어 설명합니다. 마지막 문장에서 '모든 번역은 군중 번역(a crowd translation)이다'라고 결론 내리며, 번역이 고독한 과정이 아닌 협력적 과정임을 주장하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nTranslators always draw on more than one source text.\nEven when the scene of translation consists of just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations.\nAnd then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Solitary Toil of a Translator"
+        },
+        {
+          "number": "②",
+          "text": "Alexander Pope: A Master of Greek"
+        },
+        {
+          "number": "③",
+          "text": "Meeting Reader Expectations: A Translator's Goal"
+        },
+        {
+          "number": "④",
+          "text": "How Dictionaries Changed Translation History"
+        },
+        {
+          "number": "⑤",
+          "text": "The Unseen Crowd in Every Translation"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 핵심 주장은 번역이 결코 혼자 하는 작업이 아니며, 수많은 자료와 독자들의 기대로부터 영향을 받는다는 것입니다. 글의 결론인 '군중 번역(crowd translation)'이라는 표현은 이러한 '보이지 않는 군중(The Unseen Crowd)'이 모든 번역 작업에 존재함을 시사하므로, ⑤번이 글의 내용을 가장 잘 함축하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nTranslators always draw on more than one source text.\nEven when the scene of translation consists of just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations.\nAnd then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Alexander Pope was unable to translate Homer's Iliad without help from many different sources."
+        },
+        {
+          "number": "②",
+          "text": "Translation is a collective process influenced by numerous texts and community expectations, not an individual act."
+        },
+        {
+          "number": "③",
+          "text": "A translator's primary responsibility is to meet all the various expectations of their target audience."
+        },
+        {
+          "number": "④",
+          "text": "The quality of a translation largely depends on the number of source texts the translator uses."
+        },
+        {
+          "number": "⑤",
+          "text": "Linguistic knowledge for translation arises mainly from conversations rather than from written academic texts."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 번역이 두 가지 의미에서 '군중 번역'이라고 주장합니다. 첫째는 다양한 텍스트와 자료에 의존한다는 점이고, 둘째는 독자 공동체의 기대에 영향을 받는다는 점입니다. 따라서 '번역은 개인의 행위가 아니라, 수많은 텍스트와 공동체의 기대에 영향을 받는 집단적 과정이다'라는 ②번 선택지가 글의 핵심 요지를 가장 정확하게 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\n( ① ) He had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\n( ② ) Even when the scene of translation consists of just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations.\n( ③ ) And then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for.\n( ④ ) In both these senses every translation is a crowd translation.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Translators always draw on more than one source text.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '번역가들은 항상 하나 이상의 원문 자료를 활용한다'는 일반적인 진술입니다. ②번 앞 문장은 알렉산더 포프가 주석, 여러 번역본, 사전 등 다양한 자료를 사용했다는 구체적인 예시를 보여줍니다. 주어진 문장은 이 예시를 일반화하여 모든 번역가에게 적용되는 규칙으로 만듭니다. 그리고 ②번 뒷 문장은 '비록 ~일 때조차도(Even when...)'라며 이 일반적 규칙을 더욱 강화하는 논리를 펴므로, 주어진 문장은 예시와 심화 설명 사이에 위치하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work. And all translators arrive at their interpretations in dialogue with other people.",
+      "question_blocks": {
+        "A": "He had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.",
+        "B": "The English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.",
+        "C": "Even when the scene of translation consists of just one person with a pen... that person's linguistic knowledge arises from lots of other texts and other conversations. And then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 번역이 다른 사람들과의 대화 속에서 이루어진다는 일반론을 제시합니다. (B)는 이에 대한 구체적인 예시로 알렉산더 포프를 소개하며, 그가 '혼자가 아니었다'고 말합니다. (A)는 (B)에 이어 포프가 혼자가 아니었던 이유, 즉 그가 사용했던 다양한 자료들을 구체적으로 열거합니다. (C)는 '비록 ~일 때조차도(Even when...)'라며 논의를 다시 일반화하여, 겉보기엔 혼자인 번역가조차도 수많은 텍스트와 독자의 기대에 영향을 받는다는 점을 설명하며 주어진 글의 내용을 다시 한번 확인시켜 줍니다. 따라서 예시 도입(B) → 예시 상세 설명(A) → 일반화 및 결론(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nTranslators always draw on more than one source text.\nEven when the scene of translation consists of just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from __________________________.\nAnd then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a single authoritative dictionary"
+        },
+        {
+          "number": "②",
+          "text": "an innate talent for languages"
+        },
+        {
+          "number": "③",
+          "text": "lots of other texts and other conversations"
+        },
+        {
+          "number": "④",
+          "text": "the direct instruction of a mentor"
+        },
+        {
+          "number": "⑤",
+          "text": "a deep understanding of a single culture"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸은 겉보기에 혼자 일하는 번역가의 언어적 지식이 어디서 오는지를 설명하는 부분입니다. 글의 전체적인 맥락은 번역이 결코 고립된 행위가 아니며 다양한 원천에 기반한다는 것입니다. 알렉산더 포프가 여러 자료를 참고한 예시와 같이, 혼자인 번역가조차도 그의 지식은 '수많은 다른 텍스트들과 다른 대화들'에서 비롯된다고 하는 것이 글의 주장과 일치합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "All translators feel some ① [pressure] from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in ② [dialogue] with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his ③ [own].\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nTranslators always draw on more than one source text.\nEven when the scene of translation consists of just one person, that person's linguistic knowledge ④ [arises] from lots of other texts and other conversations.\nAnd then his or her idea of the translation's purpose will be ⑤ [unaffected] by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "pressure"
+        },
+        {
+          "number": "②",
+          "text": "dialogue"
+        },
+        {
+          "number": "③",
+          "text": "own"
+        },
+        {
+          "number": "④",
+          "text": "arises"
+        },
+        {
+          "number": "⑤",
+          "text": "unaffected"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 번역의 목적에 대한 번역가의 생각이 '그 번역을 접할 사람(들)의 기대에 의해 영향을 받을 것'이라고 명시적으로 서술합니다. 따라서 번역가의 생각이 독자의 기대에 '영향을 받지 않는다(unaffected)'는 것은 글의 핵심 주장과 정면으로 배치됩니다. 'influenced'가 문맥상 올바른 단어입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "All translators feel some pressure from the (A) [community] of readers for whom they are doing their work.\nAnd all translators arrive at their (B) [interpretations] in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek (C) [commentaries] to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nEven when the scene of translation (D) [consists of] just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating (E) [orally] for another, that person's linguistic knowledge arises from lots of other texts and other conversations.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) community: a group of people having a particular characteristic in common"
+        },
+        {
+          "number": "②",
+          "text": "(B) interpretations: the action of explaining the meaning of something"
+        },
+        {
+          "number": "③",
+          "text": "(C) commentaries: a set of explanatory or critical notes on a text"
+        },
+        {
+          "number": "④",
+          "text": "(D) consists of: to be separate or different from something"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) orally: by word of mouth; in a spoken rather than written form"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'consists of'는 '~으로 구성되다'라는 의미로, 'to be composed or made up of'를 뜻합니다. 제시된 영영 풀이인 '무언가와 분리되거나 다르다'는 'to be separate or different from'에 대한 설명으로, 'consists of'의 의미와는 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in (A) [dialogue / conflict] with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French.\nTranslators always draw on (B) [more / less] than one source text.\nAnd then his or her idea of the translation's purpose will be (C) [influenced / independent] by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "dialogue - more - influenced"
+        },
+        {
+          "number": "②",
+          "text": "dialogue - less - independent"
+        },
+        {
+          "number": "③",
+          "text": "conflict - more - influenced"
+        },
+        {
+          "number": "④",
+          "text": "conflict - less - independent"
+        },
+        {
+          "number": "⑤",
+          "text": "dialogue - more - independent"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 모든 번역가는 다른 사람들과의 '대화(dialogue)' 속에서 해석에 도달합니다. (B) 번역가들은 항상 하나 '이상의(more)' 원문 자료를 활용합니다. (C) 번역의 목적에 대한 생각은 독자의 기대에 의해 '영향을 받습니다(influenced)'."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "All translators feel some pressure from the community of readers for whom they are doing their work.\nAnd all translators arrive at their interpretations in dialogue with other people.\nThe English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own.\nHe had Greek commentaries to refer to, and translations that had already been done in English, Latin, and French ─ and of course he had dictionaries.\nTranslators always draw on more than one source text.\nEven when the scene of translation consists of just one person with a pen, paper, and the book that is being translated, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations.\nAnd then his or her idea of the translation's purpose will be influenced by the expectations of the person or people it is for.\nIn both these senses every translation is a crowd translation.",
+      "question": "번역에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "모든 번역가는 독자 공동체로부터 어느 정도의 압박을 느낀다."
+        },
+        {
+          "number": "②",
+          "text": "알렉산더 포프는 일리아드 번역 시 다양한 자료를 참고했다."
+        },
+        {
+          "number": "③",
+          "text": "혼자서 구두로 번역하는 경우에도 번역가의 지식은 여러 출처에서 비롯된다."
+        },
+        {
+          "number": "④",
+          "text": "번역가의 언어적 지식은 주로 다른 문헌에서만 비롯된다."
+        },
+        {
+          "number": "⑤",
+          "text": "번역가의 목적 의식은 독자의 기대에 의해 영향을 받는다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 번역가의 언어적 지식이 '수많은 다른 텍스트들과 다른 대화들(lots of other texts and other conversations)'에서 비롯된다고 명시하고 있습니다. 이는 지식의 출처가 문헌뿐만 아니라 대화도 포함함을 의미합니다. 따라서 지식이 '주로 다른 문헌에서만' 비롯된다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "All translators feel some pressure from the community of readers for ① [whom / which] they are doing their work.\nHe had Greek commentaries to refer to, and translations that ② [had / have] already been done in English, Latin, and French ─ and of course he had dictionaries.\nEven when the scene of translation consists of just one person with a pen, paper, and the book that is being ③ [translating / translated], or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "whom",
+          "explanation": "전치사 for의 목적어 역할을 하며, 선행사인 'readers'(사람)를 수식하는 목적격 관계대명사가 필요합니다. 따라서 'whom'이 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "had",
+          "explanation": "주절의 시제(set about translating)가 과거(18세기 초)이고, 번역본들이 그보다 더 이전에 완료된 것을 나타내므로 과거완료(대과거) 시제인 'had been done'이 되어야 합니다. 따라서 'had'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "translated",
+          "explanation": "'the book'은 '번역하는' 주체가 아니라 '번역되는' 대상입니다. 따라서 수동의 의미를 나타내는 과거분사 'translated'가 와서 수동 진행형(is being p.p.)을 만들어야 합니다."
+        }
+      ]
+    }
+  ]
+}

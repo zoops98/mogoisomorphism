@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.\nBy promoting identification across divisions of class, gender, and race, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made possible the American Civil War.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to argue that literature is the best tool for social change"
+        },
+        {
+          "number": "②",
+          "text": "to introduce the history and impact of *Uncle Tom's Cabin*"
+        },
+        {
+          "number": "③",
+          "text": "to explain the contrary views on literature's effect on social action"
+        },
+        {
+          "number": "④",
+          "text": "to criticize Plato for banning poets from his republic"
+        },
+        {
+          "number": "⑤",
+          "text": "to promote solitary reading as a way to engage with the world"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 첫 문장은 '우리는 문학과 행동의 관계에 대해 상반된 주장들을 마주한다(We encounter contrary claims about the relation of literature to action)'고 명시하고 있습니다. 글의 나머지 부분은 문학이 사회적 행동을 억제한다는 주장과, 반대로 사회 변화를 촉진한다는 주장을 각각 설명하고 있습니다. 따라서 글의 주된 목적은 이 두 가지 상반된 견해를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.\nBy promoting identification across divisions of class, gender, and race, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made possible the American Civil War.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Literature: A Tool for Passivity or a Weapon for Change?"
+        },
+        {
+          "number": "②",
+          "text": "Why Plato Feared the Power of Poets"
+        },
+        {
+          "number": "③",
+          "text": "*Uncle Tom's Cabin*: The Book That Started a War"
+        },
+        {
+          "number": "④",
+          "text": "The Benefits of Solitary Reading and Reflection"
+        },
+        {
+          "number": "⑤",
+          "text": "Questioning Authority in Modern Literature"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 문학이 한편으로는 사회 참여를 막고 '수동성(passivity)'을 조장하는 도구가 될 수 있고, 다른 한편으로는 권위에 의문을 제기하고 사회 '변화(change)'를 이끄는 무기가 될 수 있다는 두 가지 상반된 측면을 모두 다루고 있습니다. '수동성을 위한 도구인가, 변화를 위한 무기인가?'라는 질문 형식의 제목은 이 글의 핵심적인 대립 구도를 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.\nBy promoting identification across divisions of class, gender, and race, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made possible the American Civil War.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Historically, literature has primarily been a dangerous force that encourages rebellion against the established social order."
+        },
+        {
+          "number": "②",
+          "text": "The most significant impact of literature is its ability to create a strong sense of fellowship."
+        },
+        {
+          "number": "③",
+          "text": "Literature possesses a contradictory power, capable of fostering both passive acceptance and active social struggle."
+        },
+        {
+          "number": "④",
+          "text": "Great works of literature like *Uncle Tom's Cabin* are the main drivers of major historical events."
+        },
+        {
+          "number": "⑤",
+          "text": "Ancient philosophers like Plato correctly understood that poets and novelists could only do harm to society."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 문학의 양면성을 제시합니다. 한편으로는 현실에 대한 '수동적 수용(passive acceptance)'을 조장할 수 있고, 다른 한편으로는 불의에 대한 감각을 일깨워 '적극적인 사회적 투쟁(active social struggle)'을 가능하게 할 수 있다고 설명합니다. 이처럼 문학이 지닌 '모순적인 힘(contradictory power)'을 정확하게 요약한 ③번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\n( ① ) At best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\n( ② ) Plato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.\n( ③ ) By promoting identification across divisions of class, gender, and race, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible.\n( ④ ) Historically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made possible the American Civil War.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 'But on the other hand(하지만 다른 한편으로)'로 시작하여 앞선 내용과 반대되는 주장을 제시합니다. ②번 앞까지의 내용은 문학이 사회 참여를 막고 수동성을 조장한다는 첫 번째 주장을 설명하고 있습니다. 주어진 문장은 이와는 반대로 문학이 '위험하다(dangerous)'고 여겨지며 권위에 대한 의문을 조장한다는 두 번째 주장을 시작하는 역할을 합니다. 바로 뒤따르는 문장은 플라톤의 예시를 들어 이 '위험성'을 뒷받침하므로, ②번이 두 상반된 주장을 연결하는 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "We encounter contrary claims about the relation of literature to action. Theorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.",
+      "question_blocks": {
+        "A": "Plato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.",
+        "B": "At best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.",
+        "C": "But on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 문학이 사회적 활동을 '방해한다(counters)'는 첫 번째 주장을 제시합니다. (B)는 이 주장에 대해 최선의 경우와 최악의 경우를 설명하며 부연합니다. (C)는 'But on the other hand(하지만 다른 한편으로)'를 통해 문학이 '위험하다(dangerous)'는 상반된 두 번째 주장을 도입합니다. (A)는 (C)에서 제기된 주장을 뒷받침하는 구체적인 예시(플라톤, 소설)를 제공합니다. 따라서 첫 번째 주장 부연(B) → 두 번째 주장 도입(C) → 두 번째 주장 예시(A)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.\nBy promoting identification across divisions of class, gender, and race, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of injustice that makes ____________________.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made possible the American Civil War.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "social harmony possible"
+        },
+        {
+          "number": "②",
+          "text": "progressive struggles possible"
+        },
+        {
+          "number": "③",
+          "text": "solitary reflection easier"
+        },
+        {
+          "number": "④",
+          "text": "political detachment necessary"
+        },
+        {
+          "number": "⑤",
+          "text": "historical analysis difficult"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸이 있는 문장은 'but'을 통해 책의 상반된 두 가지 효과를 설명하고 있습니다. 앞부분은 책이 '투쟁을 단념시키는 동료애를 증진시킬 수 있다'고 말합니다. 따라서 뒷부분은 그와 반대되는 내용, 즉 투쟁을 유발하는 효과에 대해 설명해야 합니다. 책이 '날카로운 불의감(a keen sense of injustice)'을 만들어낸다고 했으므로, 이는 '진보적인 투쟁을 가능하게 한다'는 내용으로 이어지는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Theorists have maintained that literature encourages solitary reading and reflection and thus ① [counters] the social and political activities that might produce social change.\nAt best it encourages detachment, and at worst ② [passivity] and acceptance of what is.\nBut on the other hand, literature has historically been seen as ③ [dangerous]: it promotes the questioning of authority.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people ④ [dissatisfied] with their lives.\nBy promoting identification across divisions of class, gender, and race, books may promote a fellowship that ⑤ [encourages] struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "counters"
+        },
+        {
+          "number": "②",
+          "text": "passivity"
+        },
+        {
+          "number": "③",
+          "text": "dangerous"
+        },
+        {
+          "number": "④",
+          "text": "dissatisfied"
+        },
+        {
+          "number": "⑤",
+          "text": "encourages"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 문장은 책의 상반된 두 가지 효과를 설명합니다. 'but' 뒤의 내용이 '투쟁을 가능하게 한다'이므로, 앞부분은 투쟁을 억제하는 효과에 대해 설명해야 합니다. 책이 계급, 성별, 인종을 넘어선 동질감을 촉진하여 형성된 '동료애(fellowship)'는 사회적 '투쟁을 단념시키거나(discourages)' 억제하는 역할을 할 수 있습니다. 투쟁을 '장려한다(encourages)'는 것은 뒷부분의 내용과 모순되지 않으므로, 문맥상 어색합니다. (원문: discourages struggle)"
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and (A) [reflection] as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages (B) [detachment] or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of (C) [authority] and social arrangements.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people (D) [dissatisfied] with their lives and eager for something new.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin helped create a (E) [revulsion] against slavery that made possible the American Civil War.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) reflection: long, careful, and serious thought"
+        },
+        {
+          "number": "②",
+          "text": "(B) detachment: a feeling of being emotionally involved with someone"
+        },
+        {
+          "number": "③",
+          "text": "(C) authority: the power or right to give orders and make people obey"
+        },
+        {
+          "number": "④",
+          "text": "(D) dissatisfied: not pleased or happy with something"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) revulsion: a strong feeling of disgust or hatred"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) 'detachment(무관심, 초연함)'는 'the state of being objective or aloof', 즉 감정적으로 관여하지 않고 객관적인 상태를 의미합니다. 제시된 영영 풀이인 '누군가와 감정적으로 연루된 느낌'은 'attachment'나 'involvement'에 대한 설명이며, 'detachment'와는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Theorists have maintained that literature encourages solitary reading and reflection and thus (A) [counters / promotes] the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.\nPlato banned poets from his ideal republic because they could only do (B) [harm / good], and novels have long been credited with making people dissatisfied with their lives and eager for something new.\nBy promoting identification across divisions, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of (C) [injustice / harmony] that makes progressive struggles possible.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "counters - harm - injustice"
+        },
+        {
+          "number": "②",
+          "text": "counters - good - harmony"
+        },
+        {
+          "number": "③",
+          "text": "promotes - harm - injustice"
+        },
+        {
+          "number": "④",
+          "text": "promotes - good - harmony"
+        },
+        {
+          "number": "⑤",
+          "text": "counters - harm - harmony"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 문학이 사회 활동을 '방해한다(counters)'는 것이 첫 번째 이론의 주장입니다. (B) 플라톤은 시인들이 '해(harm)'를 끼칠 수 있다고 보아 추방했습니다. (C) 진보적인 투쟁은 '불의(injustice)'에 대한 날카로운 감각으로부터 비롯됩니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "We encounter contrary claims about the relation of literature to action.\nTheorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of what is.\nBut on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with making people dissatisfied with their lives and eager for something new.\nBy promoting identification across divisions of class, gender, and race, books may promote a fellowship that discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made possible the American Civil War.",
+      "question": "문학과 행동의 관계에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "문학이 사회 변화를 이끄는 정치 활동을 방해할 수 있다는 견해가 있다."
+        },
+        {
+          "number": "②",
+          "text": "문학은 최악의 경우 현실에 대한 수동성과 순응을 조장할 수 있다."
+        },
+        {
+          "number": "③",
+          "text": "역사적으로 문학은 권위와 사회 제도에 의문을 제기하는 위험한 것으로 여겨졌다."
+        },
+        {
+          "number": "④",
+          "text": "소설은 사람들이 자신의 삶에 만족하고 현재에 안주하게 만드는 경향이 있다."
+        },
+        {
+          "number": "⑤",
+          "text": "『톰 아저씨의 오두막』은 노예제에 대한 반감을 조성하는 데 기여했다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'novels have long been credited with making people dissatisfied with their lives and eager for something new'라고 명시하고 있습니다. 이는 소설이 사람들을 자신의 삶에 '불만족하게(dissatisfied)' 만들고 새로운 것을 '갈망하게(eager)' 만든다는 의미이므로, 만족하고 안주하게 한다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Theorists have maintained that literature encourages solitary reading and reflection as the way to engage with the world and thus counters the social and political activities that might produce social change.\nAt best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of ① [what / that] is.\nPlato banned poets from his ideal republic because they could only do harm, and novels have long been credited with ② [making / to make] people dissatisfied with their lives and eager for something new.\nHistorically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery that made ③ [possible / possibly] the American Civil War.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "what",
+          "explanation": "전치사 'of'의 목적어 역할을 하는 명사절이 필요합니다. 'what'은 선행사를 포함하는 관계대명사로, '~하는 것'이라는 의미의 명사절을 이끌 수 있습니다. 'what is'는 '현재 있는 그대로의 것, 현실'을 의미합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "making",
+          "explanation": "'be credited with ~' 구문에서 'with'는 전치사입니다. 전치사의 목적어로는 동명사가 와야 하므로 'making'이 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "possible",
+          "explanation": "이 문장은 'made the American Civil War possible'의 5형식 구문에서 목적어(the American Civil War)가 길어서 목적격보어(possible)와 도치된 형태입니다. 목적격보어 자리에는 형용사가 와야 하므로 'possible'이 적절합니다."
+        }
+      ]
+    }
+  ]
+}

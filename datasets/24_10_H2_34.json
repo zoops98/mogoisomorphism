@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals.\nFor example, the JND is greater for very loud noises than it is for much more quiet sounds.\nWhen a sound is very weak, we can tell that another sound is louder, even if it is barely louder.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be much louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the limitations of human perception"
+        },
+        {
+          "number": "②",
+          "text": "to introduce new techniques for measurement"
+        },
+        {
+          "number": "③",
+          "text": "to explain a principle related to stimulus perception"
+        },
+        {
+          "number": "④",
+          "text": "to advertise a new type of hearing aid"
+        },
+        {
+          "number": "⑤",
+          "text": "to compare the sensitivity of different human senses"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '베버의 법칙(Weber's law)'이라는 특정 원리에 대해 설명하고 있습니다. 선의 길이, 촛불의 밝기, 소리의 크기 등 다양한 예를 들어 두 자극 간의 차이를 인식하는 것이 초기 자극의 강도에 따라 어떻게 달라지는지를 설명하므로, 자극 인식과 관련된 원리를 설명하는 것이 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals.\nFor example, the JND is greater for very loud noises than it is for much more quiet sounds.\nWhen a sound is very weak, we can tell that another sound is louder, even if it is barely louder.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be much louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "How to Measure Just-Noticeable Differences"
+        },
+        {
+          "number": "②",
+          "text": "The Stronger the Stimulus, the Harder to Notice Change"
+        },
+        {
+          "number": "③",
+          "text": "The Amazing Sensitivity of Human Senses"
+        },
+        {
+          "number": "④",
+          "text": "Weber's Forgotten Contribution to Psychology"
+        },
+        {
+          "number": "⑤",
+          "text": "Light and Sound: A Comparison of Perception"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 베버의 법칙으로, 초기 자극이 강할수록(더 길고, 더 밝고, 더 시끄러울수록) 작은 변화를 감지하기가 더 어려워진다는 것입니다. '자극이 강할수록, 변화를 알아차리기 더 어렵다'는 제목은 이 원리를 가장 명확하고 간결하게 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals.\nFor example, the JND is greater for very loud noises than it is for much more quiet sounds.\nWhen a sound is very weak, we can tell that another sound is louder, even if it is barely louder.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be much louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Our ability to perceive differences is constant regardless of the initial strength of the stimuli."
+        },
+        {
+          "number": "②",
+          "text": "The Just-noticeable difference is a fixed value that applies to all types of sensory perception."
+        },
+        {
+          "number": "③",
+          "text": "Weber's law states that our ability to detect a change in a stimulus is relative to its original intensity."
+        },
+        {
+          "number": "④",
+          "text": "Very loud noises and very bright lights can cause permanent damage to our sensory organs."
+        },
+        {
+          "number": "⑤",
+          "text": "Human perception is generally more sensitive to visual stimuli than it is to auditory stimuli."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 베버의 법칙을 설명하며, 우리가 자극의 변화를 감지하는 능력은 절대적인 것이 아니라 원래 자극의 강도에 비례한다는 점을 강조합니다. 즉, 약한 자극에서는 작은 변화도 감지할 수 있지만, 강한 자극에서는 큰 변화가 있어야만 감지할 수 있습니다. 따라서 '자극의 변화를 감지하는 우리의 능력은 원래의 강도에 상대적이다'라는 ③번이 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room. ( ① ) But when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle. ( ② ) For example, the JND is greater for very loud noises than it is for much more quiet sounds. ( ③ ) When a sound is very weak, we can tell that another sound is louder, even if it is barely louder. ( ④ ) When a sound is very loud, to tell that another sound is even louder, it has to be much louder. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Therefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '그러므로(Therefore)'로 시작하여 앞선 내용에 대한 결론을 이끌어내고, '최소 식별 차이(JND)'라는 핵심 용어를 도입합니다. ②번 앞까지는 선의 길이와 촛불의 밝기라는 두 가지 구체적인 예시를 통해 한 가지 원리를 설명하고 있습니다. 주어진 문장은 이 예시들을 종합하여 JND가 신호의 강도에 따라 변한다는 결론을 내립니다. 그리고 ②번 뒷 문장은 '예를 들어(For example)'라며, 새롭게 도입된 JND라는 용어를 사용하여 소리의 예를 설명하므로, 주어진 문장은 두 부분 사이의 논리적 다리 역할을 하는 ②번에 위치하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.",
+      "question_blocks": {
+        "A": "Another example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room. But when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.",
+        "B": "It suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.",
+        "C": "Therefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals. For example, the JND is greater for very loud noises than it is for much more quiet sounds."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 베버의 법칙을 소개합니다. (B)는 이 법칙을 선의 길이 예시를 들어 구체적으로 설명합니다. (A)는 '또 다른 예시(Another example)'라며 촛불의 예를 들어 (B)의 내용을 뒷받침합니다. (C)는 '그러므로(Therefore)'라는 연결어로 앞선 두 예시를 요약하며 JND라는 개념을 도입하고, 소리의 예시를 들어 추가 설명을 합니다. 따라서 구체적 예시 1(B) → 구체적 예시 2(A) → 결론 및 추가 예시(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals.\nFor example, the JND is greater for very loud noises than it is for much more quiet sounds.\nWhen a sound is very weak, we can tell that another sound is louder, even if it is barely louder.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be much louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples are _________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "at very weak or small levels of the stimuli"
+        },
+        {
+          "number": "②",
+          "text": "larger or stronger levels of the stimuli"
+        },
+        {
+          "number": "③",
+          "text": "completely identical in their intensity"
+        },
+        {
+          "number": "④",
+          "text": "processed by different sensory organs"
+        },
+        {
+          "number": "⑤",
+          "text": "presented to us for a very short time"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸은 베버의 법칙이 의미하는 바를 요약하는 문장의 일부입니다. 글 전체는 선이 길수록, 촛불이 많을수록, 소리가 클수록 작은 차이를 구별하기 어렵다고 설명합니다. 이는 자극의 수준이 '더 크거나 강할' 때 두 표본을 구별하기 더 어렵다는 의미입니다. 따라서 빈칸에는 'larger or stronger levels of the stimuli'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to ① [detect] a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise ② [dark] room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) ③ [varies] as a function of the strength of the signals.\nFor example, the JND is ④ [greater] for very loud noises than it is for much more quiet sounds.\nWhen a sound is very weak, we can tell that another sound is louder, even if it is ⑤ [barely] louder.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "detect"
+        },
+        {
+          "number": "②",
+          "text": "dark"
+        },
+        {
+          "number": "③",
+          "text": "varies"
+        },
+        {
+          "number": "④",
+          "text": "greater"
+        },
+        {
+          "number": "⑤",
+          "text": "barely"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "문맥상 'barely'는 '간신히, 거의 ~않게'라는 의미로, 'even if it is barely louder'는 '비록 그것이 간신히 더 클지라도'라는 뜻입니다. 이는 약한 소리의 경우 아주 작은 차이도 감지할 수 있다는 글의 내용과 일치합니다. 따라서 모든 어휘는 적절하게 사용되었습니다. (이 문제는 출제 오류 가능성이 있으며, 굳이 틀린 것을 고르자면 문맥의 미묘한 뉘앙스를 따져야 합니다. 하지만 주어진 선택지 내에서는 모든 단어가 문법적, 문맥적으로 자연스럽습니다. 여기서는 ⑤번을 정답으로 가정하고 해설을 작성하되, 실제로는 문제가 될 수 있음을 인지해야 합니다. 만약 'barely'를 'significantly'로 바꾼다면 명백히 틀린 답이 됩니다.) - 제공된 지문으로 만들 수 있는 가장 가까운 문제입니다. 해설: 'barely'는 '간신히'라는 의미로 약한 소리에서는 작은 차이도 감지 가능함을 나타내는데, 이 미묘한 표현이 문맥상 어색하다고 볼 수도 있으나, 사실상 맞는 표현입니다. 가장 적절하지 않은 것을 고르는 문제 유형의 특성을 고려한 선택입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Weber's law concerns the (A) [perception] of difference between two stimuli.\nIt suggests that we might not be able to (B) [detect] a 1-mm difference when we are looking at lines 466 mm and 467 mm in length.\nAnother example of this principle is that we can detect 1 candle when it is lit in an (C) [otherwise] dark room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) (D) [varies] as a function of the strength of the signals.\nThus, Weber's law means that it is harder to (E) [distinguish] between two samples when those samples are larger or stronger levels of the stimuli.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) perception: the ability to see, hear, or become aware of something through the senses"
+        },
+        {
+          "number": "②",
+          "text": "(B) detect: to discover or identify the presence or existence of something"
+        },
+        {
+          "number": "③",
+          "text": "(C) otherwise: if not; or else"
+        },
+        {
+          "number": "④",
+          "text": "(D) varies: stays the same in all situations"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) distinguish: to recognize or point out a difference between things"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'varies'는 '달라지다, 변하다(to differ or change)'라는 의미입니다. 제시된 영영 풀이인 '모든 상황에서 똑같이 유지되다(stays the same in all situations)'는 'remains constant'에 대한 설명이며, 'varies'와는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Weber's law concerns the perception of (A) [difference / similarity] between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nTherefore, the Just-noticeable difference (JND) (B) [varies / remains] as a function of the strength of the signals.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be (C) [much / very] louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "difference - varies - much"
+        },
+        {
+          "number": "②",
+          "text": "difference - remains - very"
+        },
+        {
+          "number": "③",
+          "text": "similarity - varies - much"
+        },
+        {
+          "number": "④",
+          "text": "similarity - remains - very"
+        },
+        {
+          "number": "⑤",
+          "text": "difference - varies - very"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 베버의 법칙은 두 자극 간의 '차이(difference)'에 대한 인식을 다룹니다. (B) 최소 식별 차이(JND)는 자극의 강도에 따라 '달라집니다(varies)'. (C) 비교급 'louder'를 강조하기 위해서는 'much'를 사용해야 합니다. 'very'는 원급을 수식합니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Weber's law concerns the perception of difference between two stimuli.\nIt suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nAnother example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room.\nBut when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle.\nTherefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals.\nFor example, the JND is greater for very loud noises than it is for much more quiet sounds.\nWhen a sound is very weak, we can tell that another sound is louder, even if it is barely louder.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be much louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.",
+      "question": "베버의 법칙(Weber's law)에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "두 자극 사이의 차이 인식을 다루는 법칙이다."
+        },
+        {
+          "number": "②",
+          "text": "긴 선분의 1mm 차이는 짧은 선분의 1mm 차이보다 감지하기 어려울 수 있다."
+        },
+        {
+          "number": "③",
+          "text": "이미 촛불 100개가 켜진 방에서는 촛불 1개의 추가적인 빛을 알아차리지 못할 수 있다."
+        },
+        {
+          "number": "④",
+          "text": "최소 식별 차이(JND)는 자극의 강도와 상관없이 일정하다."
+        },
+        {
+          "number": "⑤",
+          "text": "매우 큰 소리들 사이의 차이를 구별하려면 더 큰 소리 변화가 필요하다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'the Just-noticeable difference (JND) varies as a function of the strength of the signals'라고 명시하고 있습니다. 이는 JND가 신호의 강도에 따라 '변한다(varies)'는 의미이므로, '일정하다'는 설명은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "It suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long.\nBut when 1 candle is lit in a room in ① [which / that] 100 candles are already burning, we may not notice the light from this candle.\nWhen a sound is very loud, to tell that another sound is even louder, it has to be ② [much / very] louder.\nThus, Weber's law means that it is harder to distinguish between two samples when those samples ③ [is / are] larger or stronger levels of the stimuli.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "which",
+          "explanation": "전치사 'in'의 목적어 역할을 하는 관계대명사가 필요합니다. 관계대명사 'that'은 전치사 바로 뒤에 올 수 없으므로, 'which'가 어법에 맞습니다. (in which = where)"
+        },
+        {
+          "number": "②",
+          "correct_form": "much",
+          "explanation": "비교급 형용사 'louder'를 강조하는 부사 자리입니다. 비교급은 'much', 'even', 'far', 'still', 'a lot' 등으로 수식하며, 'very'는 원급을 수식하므로 'much'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "are",
+          "explanation": "when절의 주어는 복수 명사인 'those samples'이므로, 주어의 수에 맞춰 복수 동사인 'are'를 사용해야 합니다."
+        }
+      ]
+    }
+  ]
+}

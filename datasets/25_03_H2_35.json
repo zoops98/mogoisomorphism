@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Dictionaries are relatively good resources for anyone interested in finding out what a word means.\nUsing one set of words to define another word is called a lexical definition.\nBut it's important to understand the limits of dictionary definitions.\nMore often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal.\nIn other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know.\nEven the most obscure words in a dictionary, say, for example, \"pulchritudinous\" or \"kalokagathia,\" must be defined using words that the reader already knows and understands.\nOtherwise, the dictionary isn't very helpful.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to encourage readers to use dictionaries more frequently" },
+        { "number": "②", "text": "to explain the process of how dictionaries are created" },
+        { "number": "③", "text": "to define the term \"lexical definition\" with examples" },
+        { "number": "④", "text": "to highlight the inherent limitations of dictionary definitions" },
+        { "number": "⑤", "text": "to compare the usefulness of different types of dictionaries" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 사전이 유용한 자료이지만, 그 정의를 이해하기 위해서는 독자가 이미 상당한 수준의 언어 능력을 갖추고 있어야 한다는 '사전적 정의의 한계(limits of dictionary definitions)'를 이해하는 것이 중요하다고 주장합니다. 따라서 사전의 내재적 한계를 강조하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Dictionaries are relatively good resources for anyone interested in finding out what a word means.\nUsing one set of words to define another word is called a lexical definition.\nBut it's important to understand the limits of dictionary definitions.\nMore often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal.\nIn other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know.\nEven the most obscure words in a dictionary, say, for example, \"pulchritudinous\" or \"kalokagathia,\" must be defined using words that the reader already knows and understands.\nOtherwise, the dictionary isn't very helpful.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Dictionary: Your Best Friend for Learning" },
+        { "number": "②", "text": "What Makes a Good Dictionary Definition?" },
+        { "number": "③", "text": "The Catch-22 of Using a Dictionary" },
+        { "number": "④", "text": "From \"Pulchritudinous\" to Plain English" },
+        { "number": "⑤", "text": "Lexical Definitions: A Linguistic Approach" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 사전의 본질적인 딜레마를 설명합니다. 즉, 모르는 단어를 찾아보기 위해 사전을 사용하지만, 그 정의를 이해하려면 이미 그 정의에 사용된 단어들을 알고 있어야 한다는 역설적인 상황입니다. 이러한 딜레마를 'Catch-22(진퇴양난의 상황)'라는 표현으로 재치있게 나타낸 제목이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Dictionaries are relatively good resources for anyone interested in finding out what a word means.\nUsing one set of words to define another word is called a lexical definition.\nBut it's important to understand the limits of dictionary definitions.\nMore often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal.\nIn other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know.\nEven the most obscure words in a dictionary, say, for example, \"pulchritudinous\" or \"kalokagathia,\" must be defined using words that the reader already knows and understands.\nOtherwise, the dictionary isn't very helpful.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Dictionaries are most useful as a cross-referencing tool for learners who already possess a solid vocabulary." },
+        { "number": "②", "text": "The effectiveness of a dictionary is limited because its definitions require a pre-existing understanding of the language." },
+        { "number": "③", "text": "Lexical definitions form the basis of all dictionaries, defining even the most obscure words with simpler terms." },
+        { "number": "④", "text": "To truly understand a new word, one must look beyond the dictionary and see its use in real-world contexts." },
+        { "number": "⑤", "text": "The primary function of a dictionary is to translate unfamiliar words into words that are already known to the user." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 사전의 유용성이 그 정의를 이해하기 위해 사용자가 이미 언어에 대한 상당한 이해를 가지고 있어야 한다는 점 때문에 제한된다는 것입니다. 즉, 사전의 효과는 사용자의 기존 언어 지식에 의존한다는 내재적 한계가 있다는 것이 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "But it's important to understand the limits of dictionary definitions. More often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal. ( ① ) In other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know. ( ② ) Even the most obscure words in a dictionary, say, for example, \"pulchritudinous\" or \"kalokagathia,\" must be defined using words that the reader already knows and understands. ( ③ ) Otherwise, the dictionary isn't very helpful. ( ④ ) This circularity is a fundamental aspect of language itself. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Without this foundation, the definition itself becomes another set of words to look up.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '이러한 기초 없이는, 정의 자체가 찾아봐야 할 또 다른 단어 뭉치가 된다'는 의미입니다. 바로 앞 문장에서 독자들이 '꽤 탄탄한 언어 이해(a fairly robust understanding)'를 갖추고 있어야 한다고 말했습니다. 주어진 문장은 이 '탄탄한 이해'라는 '기초(foundation)'가 없을 때 발생하는 문제를 구체적으로 설명하므로, ①의 위치에 들어가 앞 문장과 뒷 문장('In other words...')을 논리적으로 연결하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Dictionaries are relatively good resources for anyone interested in finding out what a word means. Using one set of words to define another word is called a lexical definition.",
+      "question_blocks": {
+        "A": "In other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know.",
+        "B": "But it's important to understand the limits of dictionary definitions. More often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal.",
+        "C": "Even the most obscure words in a dictionary, say, for example, \"pulchritudinous\" or \"kalokagathia,\" must be defined using words that the reader already knows and understands. Otherwise, the dictionary isn't very helpful."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 사전을 긍정적으로 소개하고 '어휘적 정의'를 설명합니다. (B)는 'But'으로 시작하며 글의 흐름을 전환시켜 사전의 '한계'라는 핵심 주제를 도입합니다. (A)는 'In other words'로 (B)에서 제시된 한계를 '상호 참조 또는 번역기'라는 말로 바꾸어 설명합니다. (C)는 'Even'으로 시작하며 (A)와 (B)의 주장을 희귀한 단어의 예를 들어 심화시키고, 'Otherwise'로 결론을 내립니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "But it's important to understand the limits of dictionary definitions.\nMore often than not, a definition in a dictionary requires readers to have _________________________ of the language already at their disposal.\nIn other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a specific academic purpose" },
+        { "number": "②", "text": "an interest in word origins" },
+        { "number": "③", "text": "a complete mastery" },
+        { "number": "④", "text": "a fairly robust understanding" },
+        { "number": "⑤", "text": "a private tutor for guidance" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 사전의 한계를 설명하는 핵심 부분입니다. 글의 논리에 따르면, 사전 정의를 이해하기 위해서는 독자가 이미 언어에 대한 지식을 가지고 있어야 합니다. 글에서는 이를 '꽤 탄탄한 이해(a fairly robust understanding)'라고 표현하고 있으며, 바로 뒤 문장에서 이 개념을 다시 설명하고 있습니다. 따라서 이 구절이 빈칸에 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "But it's important to understand the ① limits of dictionary definitions.\nMore often than not, a definition in a dictionary requires readers to have a fairly ② robust understanding of the language already at their disposal.\nIn other words, a dictionary ③ functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know.\nEven the most ④ obscure words in a dictionary... must be defined using words that the reader already ⑤ doubts and understands.\nOtherwise, the dictionary isn't very helpful.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 핵심 논지는 사전이 유용하려면 정의에 사용된 단어들을 독자가 '이미 알고(knows)' 있어야 한다는 것입니다. 독자가 이미 '의심하고(doubts)' 있는 단어를 사용해서 정의한다면 그 정의는 전혀 도움이 되지 않을 것입니다. 따라서 'doubts'는 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Dictionaries are relatively good (A) resources for anyone interested in finding out what a word means.\nUsing one set of words to define another word is called a (B) lexical definition.\n...a definition in a dictionary requires readers to have a fairly (C) robust understanding of the language already at their (D) disposal.\nEven the most (E) obscure words in a dictionary ... must be defined using words that the reader already knows and understands.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) resources: a stock or supply of materials that can be drawn on by a person" },
+        { "number": "②", "text": "(B) lexical: relating to the words or vocabulary of a language" },
+        { "number": "③", "text": "(C) robust: strong and healthy; vigorous" },
+        { "number": "④", "text": "(D) disposal: the action or process of getting rid of something" },
+        { "number": "⑤", "text": "(E) obscure: not discovered or known about; uncertain" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'at their disposal'은 '그들이 마음대로 사용할 수 있는'이라는 의미의 관용구입니다. 제시된 영영 풀이 'the action or process of getting rid of something(무언가를 없애는 행위나 과정)'은 '처분, 처리'라는 뜻의 'disposal'의 일반적인 의미로, 관용구의 의미와는 전혀 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "But it's important to understand the (A) [limits / benefits] of dictionary definitions. More often than not, a definition in a dictionary requires readers to have a fairly (B) [robust / limited] understanding of the language already at their disposal. ... Even the most obscure words in a dictionary... must be defined using words that the reader already (C) [knows / learns] and understands.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "limits - robust - knows" },
+        { "number": "②", "text": "limits - limited - learns" },
+        { "number": "③", "text": "benefits - robust - knows" },
+        { "number": "④", "text": "benefits - limited - learns" },
+        { "number": "⑤", "text": "limits - robust - learns" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 이 글은 사전의 '한계(limits)'를 이해하는 것이 중요하다고 주장한다. (B) 사전 정의는 독자가 이미 '탄탄한(robust)' 언어 이해를 갖추고 있을 것을 요구한다. (C) 정의는 독자가 이미 '알고 있는(knows)' 단어를 사용하여 이루어져야 한다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① More often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal. ② In other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words that one doesn't yet know. ③ The first modern English dictionary was compiled by Samuel Johnson in the 18th century. ④ Even the most obscure words in a dictionary must be defined using words that the reader already knows and understands. ⑤ Otherwise, the dictionary isn't very helpful.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 사전이 작동하는 방식과 그에 따른 '기능적 한계'라는 일반적인 원리에 대해 논리적으로 설명하고 있습니다. ③번 문장은 최초의 현대 영어 사전에 대한 '역사적 사실'을 언급하는 것으로, 글의 중심 논점인 사전의 기능적 한계 설명과는 직접적인 관련이 없어 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① [Using / Used] one set of words to define another word is called a lexical definition. But it's important to understand the limits of dictionary definitions. More often than not, a definition in a dictionary requires readers to have a fairly robust understanding of the language already at their disposal. In other words, a dictionary functions in many cases as a cross-reference or translator between words one knows and words ② [that / what] one doesn't yet know. Otherwise, the dictionary isn't very ③ [helpful / helpfully].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "Using",
+          "explanation": "문장의 주어는 '다른 단어를 정의하기 위해 한 단어 뭉치를 사용하는 것'이라는 행위를 나타내므로, 동명사(gerund) 'Using'이 주어 역할을 해야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "that",
+          "explanation": "선행사 'words'를 수식하는 목적격 관계대명사가 필요한 자리입니다. 선행사가 있으므로, 관계대명사 'that' 또는 'which'가 와야 합니다. 선행사를 포함하는 관계대명사 'what'은 올 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "helpful",
+          "explanation": "2형식 동사인 'is' 뒤에는 주어(the dictionary)의 상태를 설명하는 주격 보어가 와야 합니다. 따라서 형용사인 'helpful'이 적절합니다. 부사 'helpfully'는 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "제목 추론",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined.\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main exception to this rule are nomadic desert species.\nThese can initiate their breeding cycle within days of rain.\nIt's for making the most of the sudden breeding opportunity.\nAlso, different species divide the breeding season up in different ways.\nMost seabirds raise a single brood.\nIn warm regions, however, songbirds may raise several families in a few months.\nIn an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Secrets of Bird Flight"
+        },
+        {
+          "number": "②",
+          "text": "A Race Against Time: Raising Young Birds"
+        },
+        {
+          "number": "③",
+          "text": "Timing is Everything: The Rhythms of Bird Breeding"
+        },
+        {
+          "number": "④",
+          "text": "Desert Birds: Survivors in a Harsh Land"
+        },
+        {
+          "number": "⑤",
+          "text": "How Day Length Affects All Living Things"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 새의 번식기가 지역(적도, 온대/극지방)과 환경 요인(일조량, 비)에 따라 어떻게 정해지는지, 그리고 그 목적이 먹이가 가장 풍부할 때와 맞추기 위함이라는 점을 설명합니다. 이는 번식에 있어 '타이밍'이 핵심적인 요소임을 보여주므로, '타이밍이 전부다: 새 번식의 리듬'이라는 제목이 글의 전체 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "글의 목적",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined.\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main exception to this rule are nomadic desert species.\nThese can initiate their breeding cycle within days of rain.\nIt's for making the most of the sudden breeding opportunity.\nAlso, different species divide the breeding season up in different ways.\nMost seabirds raise a single brood.\nIn warm regions, however, songbirds may raise several families in a few months.\nIn an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to warn about the dangers of climate change for birds"
+        },
+        {
+          "number": "②",
+          "text": "to explain the factors and variations in bird breeding seasons"
+        },
+        {
+          "number": "③",
+          "text": "to compare the reproductive systems of different animals"
+        },
+        {
+          "number": "④",
+          "text": "to argue for the conservation of nomadic desert birds"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide a guide for bird watching enthusiasts"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 새의 번식기가 지역, 일조량, 강수량과 같은 '요인들'에 의해 어떻게 결정되는지 설명하고, 바닷새와 명금류의 예시를 통해 종에 따른 '다양성'을 보여주고 있습니다. 따라서 글의 목적은 새 번식기의 여러 요인과 다양성을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined.\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main exception to this rule are nomadic desert species.\nThese can initiate their breeding cycle within days of rain.\nIt's for making the most of the sudden breeding opportunity.\nAlso, different species divide the breeding season up in different ways.\nMost seabirds raise a single brood.\nIn an warm regions, however, songbirds may raise several families in a few months.\nIn an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Most species of birds around the world tend to raise only a single brood of their young."
+        },
+        {
+          "number": "②",
+          "text": "The breeding seasons of most birds are determined by environmental factors to ensure food availability."
+        },
+        {
+          "number": "③",
+          "text": "Nomadic desert species have the most advanced reproductive systems among all types of birds."
+        },
+        {
+          "number": "④",
+          "text": "Birds in temperate and polar regions have evolved to shrink their bodies to survive the winter."
+        },
+        {
+          "number": "⑤",
+          "text": "House Sparrows are a remarkable example of a bird that can breed throughout the year."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 대부분의 새(특히 적도 이외 지역)의 번식기가 먹이 공급이 최고조에 달하는 시기와 일치하도록 일조량 변화와 같은 '환경적 요인'에 의해 결정된다는 것입니다. 이는 새끼의 생존율을 높이기 위한 전략입니다. 따라서 ②번이 글의 요지를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined.\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.\n( ① ) This is because their reproductive system shrinks, which helps flying birds save weight.\n( ② ) The main exception to this rule are nomadic desert species.\n( ③ ) These can initiate their breeding cycle within days of rain.\n( ④ ) Most seabirds raise a single brood.\n( ⑤ ) In warm regions, however, songbirds may raise several families in a few months.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Also, different species divide the breeding season up in different ways.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 문장은 '또한, 다른 종들은 번식기를 다른 방식으로 나눈다'는 내용으로, 새로운 화제를 도입하고 있습니다. ④번 앞까지의 내용은 번식기를 결정하는 일반적인 규칙(일조량)과 그 예외(사막새)에 대해 설명하고 있습니다. 주어진 문장은 이러한 일반론에서 벗어나, 번식기 동안 종들이 어떻게 다르게 행동하는지에 대한 논의로 전환하는 역할을 합니다. 뒤따르는 문장들은 바닷새와 명금류의 예를 들어 이 '다른 방식'을 구체적으로 설명하므로, ④번이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Near the equator, many species of bird breed all year round. But in temperate and polar regions, the breeding seasons of birds are often sharply defined.",
+      "question_blocks": {
+        "A": "The main exception to this rule are nomadic desert species. These can initiate their breeding cycle within days of rain.",
+        "B": "They are triggered mainly by changes in day length. If all goes well, the outcome is that birds raise their young when the food supply is at its peak.",
+        "C": "Most birds are not simply reluctant to breed at other times but they are also physically incapable of doing so. This is because their reproductive system shrinks, which helps flying birds save weight."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 온대/극지방의 번식기가 뚜렷하게 정의된다고 언급합니다. (B)는 이 번식기가 '일조량 변화'에 의해 유발되며, 그 목적이 먹이 공급이 최고조일 때 새끼를 기르기 위함이라고 설명하며 자연스럽게 이어집니다. (C)는 대부분의 새들이 다른 시기에는 번식을 '물리적으로 할 수 없는' 이유(생식계 수축)를 설명하며 (B)의 내용을 심화합니다. (A)는 이러한 일반적인 규칙('this rule')의 주요 '예외'로 사막새를 소개하며 논의를 확장합니다. 따라서 (B)-(C)-(A) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined.\nThey are triggered mainly by ____________________.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main exception to this rule are nomadic desert species.\nThese can initiate their breeding cycle within days of rain.\nIt's for making the most of the sudden breeding opportunity.\nAlso, different species divide the breeding season up in different ways.\nMost seabirds raise a single brood.\nIn an warm regions, however, songbirds may raise several families in a few months.\nIn an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the arrival of rain"
+        },
+        {
+          "number": "②",
+          "text": "the availability of nesting sites"
+        },
+        {
+          "number": "③",
+          "text": "the migration of predators"
+        },
+        {
+          "number": "④",
+          "text": "changes in day length"
+        },
+        {
+          "number": "⑤",
+          "text": "a sudden drop in temperature"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 온대 및 극지방 새들의 번식기가 시작되는 주된 요인을 묻고 있습니다. 빈칸 바로 앞 문장은 이 지역의 번식기가 '뚜렷하게 정의된다(sharply defined)'고 했으며, 글의 뒷부분에서는 사막새의 예외(비)를 언급하기 전에 일반적인 규칙을 설명하고 있습니다. 본문에서 'They are triggered mainly by changes in day length.'라고 명시적으로 언급되어 있으므로, '일조량의 변화'가 정답입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often ① [sharply] defined.\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its ② [peak].\nMost birds are not simply reluctant to breed at other times but they are also physically ③ [incapable] of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main exception to this rule are ④ [nomadic] desert species.\nThese can initiate their breeding cycle within days of rain.\nAlso, different species divide the breeding season up in different ways.\nMost seabirds raise a single brood.\nIn an exceptionally good year, however, a pair of House Sparrows can raise ⑤ [separate] broods through a marathon reproductive effort.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "sharply"
+        },
+        {
+          "number": "②",
+          "text": "peak"
+        },
+        {
+          "number": "③",
+          "text": "incapable"
+        },
+        {
+          "number": "④",
+          "text": "nomadic"
+        },
+        {
+          "number": "⑤",
+          "text": "separate"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "집참새(House Sparrow)는 특별히 좋은 해에 '마라톤 같은 번식 노력'을 통해 여러 번 새끼를 낳는다고 했습니다. 'separate(분리된, 별개의)'는 이러한 연속적인 과정을 설명하기에 부적절하며, 'successive(연속적인)'가 문맥상 더 자연스럽습니다. 'separate broods'는 여러 무리의 새끼를 의미할 수는 있지만, 'successive broods'가 마라톤 같은 노력이라는 표현과 더 잘 어울립니다. (원문 'successive'를 수정한 문제)"
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in (A) [temperate] and polar regions, the breeding seasons of birds are often sharply defined.\nThey are (B) [triggered] mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply (C) [reluctant] to breed at other times but they are also physically incapable of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main (D) [exception] to this rule are nomadic desert species.\nThese can initiate their breeding cycle within days of rain.\nIn warm regions, however, songbirds may raise (E) [several] families in a few months.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) temperate: relating to a region characterized by mild temperatures"
+        },
+        {
+          "number": "②",
+          "text": "(B) triggered: caused an event or situation to happen or exist"
+        },
+        {
+          "number": "③",
+          "text": "(C) reluctant: very enthusiastic and eager to do something"
+        },
+        {
+          "number": "④",
+          "text": "(D) exception: a person or thing that is not included in a general statement"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) several: more than two but not many"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'reluctant'는 '꺼리는, 마지못해 하는'이라는 의미로, 'unwilling and hesitant'를 뜻합니다. 제시된 영영 풀이인 '매우 열정적이고 무언가를 하고 싶어 하는'은 'eager' 또는 'enthusiastic'에 대한 설명이며, 'reluctant'와는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply (A) [defined / varied].\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its (B) [peak / minimum].\nMost birds are not simply reluctant to breed at other times but they are also physically (C) [incapable / capable] of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "defined - peak - incapable"
+        },
+        {
+          "number": "②",
+          "text": "defined - minimum - capable"
+        },
+        {
+          "number": "③",
+          "text": "varied - peak - incapable"
+        },
+        {
+          "number": "④",
+          "text": "varied - minimum - capable"
+        },
+        {
+          "number": "⑤",
+          "text": "defined - peak - capable"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 온대/극지방의 번식기는 '뚜렷하게 정의됩니다(defined)'. (B) 먹이 공급이 '최고조(peak)'에 달했을 때 새끼를 기릅니다. (C) 대부분의 새들은 번식기가 아닐 때는 물리적으로 번식이 '불가능합니다(incapable)'."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined.\nThey are triggered mainly by changes in day length.\nIf all goes well, the outcome is that birds raise their young when the food supply is at its peak.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.\nThis is because their reproductive system shrinks, which helps flying birds save weight.\nThe main exception to this rule are nomadic desert species.\nThese can initiate their breeding cycle within days of rain.\nIt's for making the most of the sudden breeding opportunity.\nAlso, different species divide the breeding season up in different ways.\nMost seabirds raise a single brood.\nIn warm regions, however, songbirds may raise several families in a few months.\nIn an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.",
+      "question": "새의 번식기에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "적도 근처의 많은 새들은 연중 내내 번식한다."
+        },
+        {
+          "number": "②",
+          "text": "온대 및 극지방 새들의 번식은 주로 일조량 변화에 의해 유발된다."
+        },
+        {
+          "number": "③",
+          "text": "대부분의 새들은 번식기가 아닐 때 생식계가 수축한다."
+        },
+        {
+          "number": "④",
+          "text": "사막에 사는 유목성 조류는 일조량 변화에 따라 번식을 시작한다."
+        },
+        {
+          "number": "⑤",
+          "text": "대부분의 바닷새는 한 번에 한 무리의 새끼만 기른다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 사막에 사는 유목성 조류가 일반적인 규칙의 '주요 예외(main exception)'이며, 이들은 '비가 온 지 며칠 내에 번식 주기를 시작할 수 있다(can initiate their breeding cycle within days of rain)'고 설명합니다. 이는 그들이 일조량이 아닌 비에 의해 번식을 시작함을 의미합니다. 따라서 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Near the equator, many species of bird breed all year round.\nBut in temperate and polar regions, the breeding seasons of birds are often sharply defined. They ① [are triggered / trigger] mainly by changes in day length.\nMost birds are not simply reluctant to breed at other times but they are also physically incapable of ② [doing / do] so.\nThis is because their reproductive system shrinks, which helps flying birds ③ [save / to saving] weight.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "are triggered",
+          "explanation": "주어 'They'(the breeding seasons)는 '유발되는' 대상이므로 수동태 'are triggered'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "doing",
+          "explanation": "전치사 'of'의 목적어 자리이므로 동명사 'doing'이 와야 합니다. 'incapable of ~ing'는 '~할 수 없다'는 의미의 숙어입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "save",
+          "explanation": "준사역동사 'help'는 목적격 보어로 동사원형 또는 to부정사를 취합니다. 따라서 동사원형 'save'가 적절합니다."
+        }
+      ]
+    }
+  ]
+}

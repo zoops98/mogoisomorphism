@@ -1,0 +1,252 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Turtle hatchlings have, it seems, evolved to crawl toward the light. For millions of years this was a highly rational and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles back home to the sea. The problems started when humans began building beachfront homes and sparkling hotels on the other side of the beach. Now after hatching, turtles heading for the brightest nearby lights were being guided straight into traffic. Are self-destructive sea turtles naturally irrational? Yes, in the modern world. But there's a deeper truth. Turtles are basing their decisions on simple cues that were perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being blinded by modern lights.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To criticize beachfront development."
+        },
+        {
+          "number": "②",
+          "text": "To describe the life cycle of sea turtles."
+        },
+        {
+          "number": "③",
+          "text": "To explain how an evolved behavior became self-destructive."
+        },
+        {
+          "number": "④",
+          "text": "To argue for the immediate conservation of sea turtles."
+        },
+        {
+          "number": "⑤",
+          "text": "To compare the intelligence of turtles and humans."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 바다거북 새끼의 사례를 들어, 과거에는 생존에 유리했던 진화된 행동(빛을 향해 기어가는 것)이 인간이 만든 환경 변화(해변의 인공 불빛)로 인해 어떻게 자기 파괴적인 행동으로 변했는지를 설명하고 있습니다. 따라서 글의 주된 목적은 진화된 행동이 어떻게 자기 파괴적이 되었는지 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Turtle hatchlings have, it seems, evolved to crawl toward the light. For millions of years this was a highly rational and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles back home to the sea. The problems started when humans began building beachfront homes and sparkling hotels on the other side of the beach. Now after hatching, turtles heading for the brightest nearby lights were being guided straight into traffic. Are self-destructive sea turtles naturally irrational? Yes, in the modern world. But there's a deeper truth. Turtles are basing their decisions on simple cues that were perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being blinded by modern lights.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Dangers of Modern Lights"
+        },
+        {
+          "number": "②",
+          "text": "An Ancient Instinct Gone Wrong"
+        },
+        {
+          "number": "③",
+          "text": "Why Turtles Love the Moonlight"
+        },
+        {
+          "number": "④",
+          "text": "Rational Decisions in the Animal Kingdom"
+        },
+        {
+          "number": "⑤",
+          "text": "Beachfront Homes: A Threat to Wildlife"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 바다거북의 오래된 본능(빛을 따라가는 것)이 과거에는 생존에 필수적이었지만 현대에 와서는 '잘못되어(gone wrong)' 그들을 위험으로 이끌고 있다는 점을 핵심적으로 다루고 있습니다. 따라서 이 제목이 글의 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Turtle hatchlings have, it seems, evolved to crawl toward the light. For millions of years this was a highly rational and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles back home to the sea. The problems started when humans began building beachfront homes and sparkling hotels on the other side of the beach. Now after hatching, turtles heading for the brightest nearby lights were being guided straight into traffic. Are self-destructive sea turtles naturally irrational? Yes, in the modern world. But there's a deeper truth. Turtles are basing their decisions on simple cues that were perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being blinded by modern lights.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The primary cause of sea turtle decline is the increasing amount of traffic near coastal beach areas."
+        },
+        {
+          "number": "②",
+          "text": "An evolved instinct that was once beneficial for sea turtles has become harmful due to artificial lights."
+        },
+        {
+          "number": "③",
+          "text": "Humans must take immediate and drastic action to demolish all buildings constructed along the world's coastlines."
+        },
+        {
+          "number": "④",
+          "text": "Sea turtles are inherently irrational creatures that have always made decisions that are not based on logic."
+        },
+        {
+          "number": "⑤",
+          "text": "The reflection of the moon on the ocean's surface is no longer bright enough to guide the sea turtles."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 한때 바다거북에게 생존 전략이었던 빛을 쫓는 진화된 본능이, 현대의 인공 불빛 때문에 오히려 그들을 위험에 빠뜨리는 해로운 것이 되었다는 것입니다. 이는 환경 변화로 인해 유익했던 본능이 해롭게 변했다는 요지로 귀결됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "For millions of years this was a highly rational and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles back home to the sea. ( ① ) The problems started when humans began building beachfront homes and sparkling hotels on the other side of the beach. ( ② ) Are self-destructive sea turtles naturally irrational? ( ③ ) Yes, in the modern world. But there's a deeper truth. ( ④ ) Turtles are basing their decisions on simple cues that were perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being blinded by modern lights. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Now after hatching, turtles heading for the brightest nearby lights were being guided straight into traffic.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 부화한 거북이들이 이제 가장 밝은 불빛을 따라가다 차도로 향하게 된다는 구체적인 결과를 설명합니다. (②) 앞 문장은 인간이 해변에 집과 호텔을 짓기 시작하면서 문제가 시작되었다고 원인을 제시합니다. 주어진 문장은 그 문제의 직접적인 결과를 보여주며, (②) 뒷 문장은 이 자기 파괴적 행동에 대한 질문을 던집니다. 따라서 원인 제시(건물 건설)와 결과에 대한 질문 사이에 구체적인 결과를 설명하는 주어진 문장이 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Turtle hatchlings have, it seems, evolved to crawl toward the light.",
+      "question_blocks": {
+        "A": "The problems started when humans began building beachfront homes and sparkling hotels on the other side of the beach. Now after hatching, turtles heading for the brightest nearby lights were being guided straight into traffic.",
+        "B": "For millions of years this was a highly rational and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles back home to the sea.",
+        "C": "Are self-destructive sea turtles naturally irrational? Yes, in the modern world. But there's a deeper truth. Turtles are basing their decisions on simple cues that were perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being blinded by modern lights."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 바다거북이 빛을 향해 기어가도록 진화했다는 사실을 제시합니다. (B)에서 이것이 과거에는 왜 합리적인 생존 전략이었는지를 설명합니다. (A)에서는 인간의 건물 때문에 현대에 와서 문제가 발생했으며, 그 결과 거북이들이 위험에 처하게 되었다고 상황의 변화를 설명합니다. 마지막으로 (C)에서는 이러한 행동이 비합리적인지에 대한 질문을 던지고, 과거에는 합리적이었던 의사결정 방식이 현대의 빛에 의해 무력화되었다는 더 깊은 진실을 밝히며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Turtles are basing their decisions on simple cues that were perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being ____________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "strengthened by a lack of predators"
+        },
+        {
+          "number": "②",
+          "text": "studied by many marine biologists"
+        },
+        {
+          "number": "③",
+          "text": "blinded by modern lights"
+        },
+        {
+          "number": "④",
+          "text": "slowly adapting to new threats"
+        },
+        {
+          "number": "⑤",
+          "text": "no longer relevant to their survival"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과거에는 합리적이었던 거북의 의사결정 방식이 현대에 와서는 문제가 되었다고 설명합니다. 그 원인은 인간이 만든 '현대의 불빛' 때문입니다. 따라서 그들의 진화된 의사결정 체계가 '현대의 불빛에 의해 눈이 멀게 되었다'는 표현이 문맥상 가장 적절하며, 글의 핵심 내용을 함축합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "For millions of years this was a highly ① [rational] and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles back home to the sea. The ② [problems] started when humans began building beachfront homes. Now after hatching, turtles heading for the brightest nearby lights were being ③ [guided] straight into traffic. Are self-destructive sea turtles naturally irrational? Yes, in the modern world. But there's a deeper truth. Turtles are basing their decisions on simple cues that were perfectly ④ [irrational] for their ancestors; these days, however, their evolved decision‐making mechanisms are being ⑤ [blinded] by modern lights.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 거북이들이 사용하는 단순한 신호(빛)가 그들의 '조상들에게는 완벽하게 합리적이었다(perfectly rational for their ancestors)'고 설명합니다. 현대에 와서야 이 행동이 비합리적인 결과를 낳게 된 것입니다. 따라서 조상들에게 '비합리적이었다(irrational)'고 하는 것은 글의 논리와 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Turtle (A) [hatchlings] have, it seems, evolved to crawl toward the light. For millions of years this was a highly (B) [rational] and effective strategy because the light on a dark beach represented the (C) [reflection] of the moon and stars on the water's surface. ...turtles heading for the brightest nearby lights were being (D) [guided] straight into traffic. ...Turtles are basing their decisions on simple (E) [cues] that were perfectly rational for their ancestors.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) hatchlings: young animals that have recently come out of their eggs." },
+        { "number": "②", "text": "(B) rational: based on or in accordance with reason or logic." },
+        { "number": "③", "text": "(C) reflection: the sending back of light from a surface." },
+        { "number": "④", "text": "(D) guided: shown the way to a particular place." },
+        { "number": "⑤", "text": "(E) cues: the final destinations or goals of a journey." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) cues는 행동을 유발하는 '신호'나 '단서(signals or prompts for an action)'를 의미합니다. '여정의 최종 목적지나 목표'라는 설명은 'destinations'나 'goals'에 해당하며, 'cues'의 의미와는 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "For millions of years this was a highly (A) [rational / random] and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Following the lights led baby turtles (B) [back / away from] home to the sea. The problems started when humans began building beachfront homes and sparkling hotels. Now after hatching, turtles heading for the brightest nearby lights were being guided straight (C) [into / out of] traffic.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "rational - back - into" },
+        { "number": "②", "text": "rational - away from - out of" },
+        { "number": "③", "text": "random - back - into" },
+        { "number": "④", "text": "random - away from - out of" },
+        { "number": "⑤", "text": "rational - back - out of" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 과거에 빛을 따라가는 것은 생존에 유리했으므로 '합리적인(rational)' 전략이었습니다. (B) 이 전략은 거북이들을 바다라는 집으로 '돌아가게(back)' 이끌었습니다. (C) 그러나 현대에는 인공 불빛 때문에 차도로 '들어가게(into)' 이끌립니다. 따라서 정답은 rational - back - into 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Following the lights led baby turtles back home to the sea. ① The problems started when humans began building beachfront homes and sparkling hotels on the other side of the beach. ② Sea turtles can hold their breath for several hours depending on the level of activity. ③ Now after hatching, turtles heading for the brightest nearby lights were being guided straight into traffic. ④ Are self-destructive sea turtles naturally irrational? ⑤ Yes, in the modern world. But there's a deeper truth.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 바다거북의 '빛을 따라가는 행동'이 현대에 와서 어떻게 문제가 되었는지를 중심으로 논리를 전개하고 있습니다. ②번 문장 '바다거북은 활동 수준에 따라 몇 시간 동안 숨을 참을 수 있다'는 거북의 호흡 능력에 대한 일반적인 생물학적 사실로, 빛을 따라가는 행동이라는 핵심 주제와 관련이 없어 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Turtle hatchlings have, it seems, evolved ① [to crawl / crawling] toward the light. For millions of years this was a highly rational and effective strategy because the light on a dark beach represented the reflection of the moon and stars on the water's surface. Are self-destructive sea turtles naturally ② [irrational / irrationally]? Yes, in the modern world. But there's a deeper truth. Turtles are basing their decisions on simple cues that ③ [was / were] perfectly rational for their ancestors; these days, however, their evolved decision‐making mechanisms are being blinded by modern lights.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to crawl",
+          "explanation": "'~하도록 진화하다'라는 의미를 나타낼 때 동사 'evolve' 다음에는 to부정사가 와서 그 결과나 목적을 설명합니다. 따라서 'to crawl'이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "irrational",
+          "explanation": "be동사 'Are'의 보어 역할을 해야 하므로 형용사인 'irrational'이 와야 합니다. 부사 'irrationally'는 동사를 수식할 수 있지만, 여기서는 주어 'sea turtles'의 상태를 설명해야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "were",
+          "explanation": "관계대명사 'that'이 가리키는 선행사는 복수 명사인 'simple cues'입니다. 따라서 동사도 복수형인 'were'를 사용해야 합니다."
+        }
+      ]
+    }
+  ]
+}

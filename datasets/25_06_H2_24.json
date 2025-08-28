@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Of central importance for understanding the development of handedness is the answer to the question of when in development it is actually determined whether a child will be left-handed or right-handed. It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this assumption is incorrect. In fact, scientific studies show that left‐handedness is established in many children long before elementary school ─ interestingly, even before birth in most people. In such studies, the hand and arm movements of unborn children in the womb are recorded using ultrasound images. Using this technique, it was shown that a clear preference for the movement of the right arm exists as early as 10 weeks after fertilization. In this study, ultrasound images of 72 unborn children 10 weeks after fertilization were evaluated and 85% showed more movements of the right arm than the left. This number is already very close to the approximately 89.4% right-handers among adults.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To argue for the development of better ultrasound technology."
+        },
+        {
+          "number": "②",
+          "text": "To explain the social difficulties faced by left-handed people."
+        },
+        {
+          "number": "③",
+          "text": "To inform about when human handedness is actually determined."
+        },
+        {
+          "number": "④",
+          "text": "To suggest new methods for teaching writing in schools."
+        },
+        {
+          "number": "⑤",
+          "text": "To compare the brain structures of left-handers and right-handers."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 주로 '사람의 주로 쓰는 손이 언제 결정되는가'라는 질문에 답하고 있습니다. 과거의 통념을 반박하고, 초음파 연구 결과를 근거로 주로 쓰는 손이 태어나기 훨씬 전, 즉 임신 초기에 결정된다는 과학적 사실을 알리는 데 초점을 맞추고 있습니다. 따라서 글의 주된 목적은 주로 쓰는 손이 결정되는 시점에 대한 정보를 제공하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Of central importance for understanding the development of handedness is the answer to the question of when in development it is actually determined whether a child will be left-handed or right-handed. It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this assumption is incorrect. In fact, scientific studies show that left‐handedness is established in many children long before elementary school ─ interestingly, even before birth in most people. In such studies, the hand and arm movements of unborn children in the womb are recorded using ultrasound images. Using this technique, it was shown that a clear preference for the movement of the right arm exists as early as 10 weeks after fertilization. In this study, ultrasound images of 72 unborn children 10 weeks after fertilization were evaluated and 85% showed more movements of the right arm than the left. This number is already very close to the approximately 89.4% right-handers among adults.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Handedness: A Skill Learned in School?"
+        },
+        {
+          "number": "②",
+          "text": "Ultrasound: A Window into the Womb"
+        },
+        {
+          "number": "③",
+          "text": "Born This Way: Handedness Is Determined Before Birth"
+        },
+        {
+          "number": "④",
+          "text": "The Small Percentage of Left-Handers"
+        },
+        {
+          "number": "⑤",
+          "text": "The Importance of Early Childhood Education"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 주로 쓰는 손이 초등학교에서 학습되는 것이 아니라, 태어나기 전 자궁 안에서 이미 결정된다는 과학적 발견을 핵심 내용으로 다루고 있습니다. 따라서 '이렇게 태어난다: 주로 쓰는 손은 태어나기 전에 결정된다'라는 제목이 글의 주제를 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Of central importance for understanding the development of handedness is the answer to the question of when in development it is actually determined whether a child will be left-handed or right-handed. It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this assumption is incorrect. In fact, scientific studies show that left‐handedness is established in many children long before elementary school ─ interestingly, even before birth in most people. In such studies, the hand and arm movements of unborn children in the womb are recorded using ultrasound images. Using this technique, it was shown that a clear preference for the movement of the right arm exists as early as 10 weeks after fertilization. In this study, ultrasound images of 72 unborn children 10 weeks after fertilization were evaluated and 85% showed more movements of the right arm than the left. This number is already very close to the approximately 89.4% right-handers among adults.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Writing practice in elementary school is the most crucial factor in determining a child's final handedness."
+        },
+        {
+          "number": "②",
+          "text": "Scientific evidence strongly suggests that a person's handedness is established long before birth, not during school years."
+        },
+        {
+          "number": "③",
+          "text": "The percentage of left-handed people has been steadily increasing over the last few decades due to genetics."
+        },
+        {
+          "number": "④",
+          "text": "More research is needed to reliably determine the exact moment when handedness is established in the womb."
+        },
+        {
+          "number": "⑤",
+          "text": "Ultrasound technology is primarily used to monitor the physical health of unborn children, not their behaviors."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '주로 쓰는 손은 초등학교에서 결정된다'는 기존의 생각을 'this assumption is incorrect'라며 반박하고, 초음파 연구 결과를 통해 '출생 전(before birth)'에 이미 결정된다는 것을 보여줍니다. 따라서 '과학적 증거는 주로 쓰는 손이 학령기가 아닌, 출생 훨씬 이전에 결정됨을 강력히 시사한다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. ( ① ) However, this assumption is incorrect. ( ② ) In such studies, the hand and arm movements of unborn children in the womb are recorded using ultrasound images. ( ③ ) Using this technique, it was shown that a clear preference for the movement of the right arm exists as early as 10 weeks after fertilization. ( ④ ) In this study, ultrasound images of 72 unborn children 10 weeks after fertilization were evaluated and 85% showed more movements of the right arm than the left. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In fact, scientific studies show that left‐handedness is established in many children long before elementary school ─ interestingly, even before birth in most people.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 과학적 연구 결과, 주로 쓰는 손이 출생 전에 결정된다는 새로운 사실을 제시합니다. (②) 앞 문장에서 기존의 통념이 '틀렸다(incorrect)'고 말한 뒤, 주어진 문장이 그 이유와 새로운 사실을 구체적으로 설명합니다. 그리고 (②) 뒷 문장은 '그러한 연구(In such studies)'에서 사용된 방법을 설명하므로, 주어진 문장이 (②)에 들어가 새로운 사실을 제시하고 그에 대한 연구 방법을 뒤따르게 하는 것이 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Of central importance for understanding the development of handedness is the answer to the question of when in development it is actually determined whether a child will be left-handed or right-handed.",
+      "question_blocks": {
+        "A": "In fact, scientific studies show that left‐handedness is established in many children long before elementary school ─ interestingly, even before birth in most people.",
+        "B": "It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this assumption is incorrect.",
+        "C": "In such studies, the hand and arm movements of unborn children in the womb are recorded using ultrasound images. Using this technique, it was shown that a clear preference for the movement of the right arm exists as early as 10 weeks after fertilization."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '주로 쓰는 손이 언제 결정되는가'라는 핵심 질문을 던집니다. (B)에서 이에 대한 과거의 통념(초등학교 시절)을 소개하고 그것이 틀렸다고 반박합니다. (A)에서 '사실은(In fact)'이라며 새로운 답(출생 전)을 제시합니다. (C)에서 '그러한 연구에서(In such studies)'라며 (A)의 주장을 뒷받침하는 구체적인 연구 방법과 결과를 설명합니다. 따라서 (B)-(A)-(C)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this assumption is incorrect. In fact, scientific studies show that handedness is established in many children long before elementary school ─ interestingly, even ____________________ in most people. In such studies, the hand and arm movements of unborn children in the womb are recorded using ultrasound images.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "after their first birthday"
+        },
+        {
+          "number": "②",
+          "text": "through genetic testing"
+        },
+        {
+          "number": "③",
+          "text": "before birth"
+        },
+        {
+          "number": "④",
+          "text": "by observing their parents"
+        },
+        {
+          "number": "⑤",
+          "text": "at the moment of fertilization"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글은 주로 쓰는 손이 결정되는 시점이 초등학교보다 훨씬 이르다고 말하고 있습니다. 빈칸 바로 뒤에 나오는 문장에서 '자궁 안 태아의 손과 팔 움직임'을 초음파로 기록했다고 설명하므로, 주로 쓰는 손이 '출생 전(before birth)'에 결정된다는 내용이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Of ① [central] importance for understanding the development of handedness is the answer to the question of when it is actually determined. It was long thought that handedness could only be ② [reliably] determined in elementary school. However, this assumption is ③ [incorrect]. In fact, scientific studies show that handedness is ④ [established] in many children long before elementary school. In a study, ultrasound images of 72 unborn children were evaluated and 85% showed more movements of the right arm than the left. This number is already very ⑤ [different] from the approximately 89.4% right-handers among adults.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 태아 연구에서 나온 오른팔 움직임 선호 비율(85%)이 성인 오른손잡이 비율(약 89.4%)과 매우 '가깝다(close)'는 점을 근거로 주장을 뒷받침하고 있습니다. 이 숫자가 '다르다(different)'고 하면 연구 결과가 글의 주장을 약화시키게 되므로 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Of central importance for understanding the development of handedness is the answer to the question of when in development it is actually (A) [determined] whether a child will be left-handed or right-handed. It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this (B) [assumption] is incorrect. Using a special technique, it was shown that a clear (C) [preference] for the movement of the right arm exists as early as 10 weeks after fertilization. In this study, ultrasound images of 72 unborn children 10 weeks after fertilization were (D) [evaluated] and 85% showed more movements of the right arm than the left. This number is already very close to the (E) [approximately] 89.4% right-handers among adults.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) determined: to discover a fact as a result of research or investigation."
+        },
+        {
+          "number": "②",
+          "text": "(B) assumption: something that you accept as true without question or proof."
+        },
+        {
+          "number": "③",
+          "text": "(C) preference: the fact that you like something or someone more than another thing or person."
+        },
+        {
+          "number": "④",
+          "text": "(D) evaluated: to change or cause to change in form, nature, or appearance."
+        },
+        {
+          "number": "⑤",
+          "text": "(E) approximately: close to a particular number or time but not exactly that number or time."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) evaluate는 '평가하다(to form an idea of the amount, number, or value of; assess)'라는 의미입니다. 제시된 '형태, 성질, 또는 외양을 바꾸거나 바꾸게 하다'는 '변형시키다(transform)' 또는 '바꾸다(change)'에 해당하는 설명이므로 잘못된 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "It was long thought that handedness could only be (A) [reliably / unreliably] determined in elementary school, when a child learns to write. However, this assumption is (B) [correct / incorrect]. In fact, scientific studies show that left‐handedness is established in many children long before elementary school. Using a special technique, it was shown that a clear (C) [preference / avoidance] for the movement of the right arm exists as early as 10 weeks after fertilization.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "reliably - correct - preference"
+        },
+        {
+          "number": "②",
+          "text": "reliably - incorrect - preference"
+        },
+        {
+          "number": "③",
+          "text": "unreliably - correct - avoidance"
+        },
+        {
+          "number": "④",
+          "text": "unreliably - incorrect - preference"
+        },
+        {
+          "number": "⑤",
+          "text": "reliably - incorrect - avoidance"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(A) 과거에는 초등학교에서야 '신뢰할 수 있게(reliably)' 결정될 수 있다고 생각했습니다. (B) 그러나 이 가정은 '틀렸다(incorrect)'고 글에서 명시하고 있습니다. (C) 연구 결과, 수정 10주차에 이미 오른팔 움직임에 대한 뚜렷한 '선호(preference)'가 나타났습니다. 따라서 정답은 reliably - incorrect - preference 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "It was long thought that handedness could only be reliably determined in elementary school, when a child learns to write. However, this assumption is incorrect. ① In fact, scientific studies show that handedness is established in many children long before elementary school. ② In such studies, the hand and arm movements of unborn children are recorded using ultrasound images. ③ Many parents feel a strong emotional bond when they see their unborn child for the first time on an ultrasound screen. ④ Using this technique, it was shown that a clear preference for the movement of the right arm exists as early as 10 weeks after fertilization. ⑤ This number is already very close to the percentage of right-handers among adults.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 초음파 기술을 '주로 쓰는 손이 결정되는 시점'을 밝히기 위한 과학적 연구 도구로 설명하고 있습니다. ③번 문장 '많은 부모는 초음파 화면에서 처음으로 태아를 볼 때 강한 정서적 유대감을 느낀다'는 초음파의 감성적 측면에 대한 내용으로, 과학적 증거를 제시하는 글의 논리적 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Of central importance for understanding the development of handedness is the answer to the question of when in development it is actually determined ① [whether / that] a child will be left-handed or right-handed. It was long thought that handedness could only be reliably determined in elementary school. However, this assumption is incorrect. In fact, scientific studies show that left‐handedness is established in many children long before elementary school. In such studies, the hand and arm movements of unborn children in the womb ② [are recorded / recording] using ultrasound images. Using this technique, it was shown that a clear preference for the movement of the right arm exists as ③ [early / earlier] as 10 weeks after fertilization.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "whether",
+          "explanation": "A 또는 B라는 선택적 상황을 이끄는 명사절 접속사가 필요하므로, '...인지 아닌지'라는 의미의 'whether'가 적절합니다. 'that'은 확정적인 사실을 이끕니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "are recorded",
+          "explanation": "주어인 'the hand and arm movements'는 기록되는 대상이므로, 수동태인 'are recorded'가 어법에 맞습니다. 'recording'은 능동의 의미를 가집니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "early",
+          "explanation": "'as ~ as' 원급 비교 구문에서는 형용사나 부사의 원급 형태를 사용해야 합니다. 따라서 비교급 'earlier'가 아닌 원급 'early'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

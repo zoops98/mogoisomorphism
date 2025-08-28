@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "There are reasons why science is not fully trusted and why healthy skepticism and critical thinking are essential.\nIn spite of professional standards, claims of objectivity, and the peer review process, the conduct of science can be biased.\nAll experts are not the same, nor do they submit their work to the same scrutiny.\nKnowing the source of funding can be important in evaluating scientific claims.\nFor example, the Harvard researchers who made claims in the late 1960s about the problems with dietary fat, leading the nation away from perceiving sugar as one of the main causes in health problems, were funded in part by the sugar industry.\nThe authors did not reveal their funding source to the New England Journal of Medicine, where their influential article appeared.\nTheir article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar, now widely implicated as a source of the rise in obesity and diabetes.\nStories such as this one fuel suspicion ─ but also lead to further safeguards in the scientific process.\nFunding disclosures, although not required five decades ago, have since been made compulsory.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to promote the health benefits of a low-sugar diet" },
+        { "number": "②", "text": "to criticize the peer review process in scientific journals" },
+        { "number": "③", "text": "to argue for the necessity of skepticism towards science due to potential bias" },
+        { "number": "④", "text": "to praise the Harvard researchers for their influential work" },
+        { "number": "⑤", "text": "to list the new compulsory standards in scientific research" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과학이 연구비 지원과 같은 외부 요인에 의해 편향될 수 있음을 구체적인 사례를 들어 보여주고, 이 때문에 과학을 완전히 신뢰해서는 안 되며 '건전한 회의주의와 비판적 사고가 필수적'이라고 주장하고 있습니다. 따라서 잠재적 편향성 때문에 과학에 대한 회의주의가 필요함을 주장하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "There are reasons why science is not fully trusted and why healthy skepticism and critical thinking are essential.\nIn spite of professional standards, claims of objectivity, and the peer review process, the conduct of science can be biased.\nAll experts are not the same, nor do they submit their work to the same scrutiny.\nKnowing the source of funding can be important in evaluating scientific claims.\nFor example, the Harvard researchers who made claims in the late 1960s about the problems with dietary fat, leading the nation away from perceiving sugar as one of the main causes in health problems, were funded in part by the sugar industry.\nThe authors did not reveal their funding source to the New England Journal of Medicine, where their influential article appeared.\nTheir article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar, now widely implicated as a source of the rise in obesity and diabetes.\nStories such as this one fuel suspicion ─ but also lead to further safeguards in the scientific process.\nFunding disclosures, although not required five decades ago, have since been made compulsory.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Sugar Industry's Hidden Agenda" },
+        { "number": "②", "text": "Why Science Needs a Dose of Skepticism" },
+        { "number": "③", "text": "The Rise of Obesity and Diabetes in America" },
+        { "number": "④", "text": "How to Evaluate Scientific Claims" },
+        { "number": "⑤", "text": "A History of the New England Journal of Medicine" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 과학이 편향될 수 있는 사례를 제시하며, 이로 인해 과학에 대한 건전한 회의주의(skepticism)가 왜 필수적인지를 설명하고 있습니다. '왜 과학에 회의주의가 필요한가'라는 제목은 이러한 글의 핵심 주제를 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "There are reasons why science is not fully trusted and why healthy skepticism and critical thinking are essential.\nIn spite of professional standards, claims of objectivity, and the peer review process, the conduct of science can be biased.\nAll experts are not the same, nor do they submit their work to the same scrutiny.\nKnowing the source of funding can be important in evaluating scientific claims.\nFor example, the Harvard researchers who made claims in the late 1960s about the problems with dietary fat, leading the nation away from perceiving sugar as one of the main causes in health problems, were funded in part by the sugar industry.\nThe authors did not reveal their funding source to the New England Journal of Medicine, where their influential article appeared.\nTheir article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar, now widely implicated as a source of the rise in obesity and diabetes.\nStories such as this one fuel suspicion ─ but also lead to further safeguards in the scientific process.\nFunding disclosures, although not required five decades ago, have since been made compulsory.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Scientific research can be influenced by biased funding, which highlights the need for critical evaluation and protective safeguards." },
+        { "number": "②", "text": "The sugar industry successfully manipulated public opinion about dietary health for more than five decades through strategic funding." },
+        { "number": "③", "text": "The most significant factor contributing to the rise of obesity and diabetes is the increased consumption of processed sugar." },
+        { "number": "④", "text": "Stricter professional standards and peer review processes are the only effective ways to prevent bias in scientific studies." },
+        { "number": "⑤", "text": "Public suspicion of science is often fueled by isolated incidents that do not represent the entire scientific community." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 과학 연구가 편향된 연구비 지원 등에 의해 영향을 받을 수 있으며, 바로 이 점이 비판적 평가와 연구비 출처 공개와 같은 보호 장치의 필요성을 부각시킨다는 것입니다. 하버드 연구 사례는 이러한 주장을 뒷받침하는 구체적인 예시입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "For example, the Harvard researchers who made claims in the late 1960s about the problems with dietary fat... were funded in part by the sugar industry. ( ① ) The authors did not reveal their funding source to the New England Journal of Medicine, where their influential article appeared. ( ② ) Their article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar, now widely implicated as a source of the rise in obesity and diabetes. ( ③ ) Stories such as this one fuel suspicion ─ but also lead to further safeguards in the scientific process. ( ④ ) Funding disclosures, although not required five decades ago, have since been made compulsory. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This lack of transparency allowed their biased findings to be presented as objective science.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이러한 투명성 부족'이 편향된 연구 결과가 객관적인 과학으로 제시되도록 허용했다는 내용입니다. 바로 앞 문장에서 저자들이 연구비 출처를 '밝히지 않았다(did not reveal)'고 언급했으므로, 이 투명성 부족이 어떤 결과를 낳았는지를 설명하는 주어진 문장이 ②에 들어가는 것이 가장 논리적입니다. 그 뒤에 이 논문이 사회에 미친 장기적인 영향이 서술됩니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "There are reasons why science is not fully trusted and why healthy skepticism and critical thinking are essential. In spite of professional standards, claims of objectivity, and the peer review process, the conduct of science can be biased.",
+      "question_blocks": {
+        "A": "For example, the Harvard researchers who made claims in the late 1960s about the problems with dietary fat, leading the nation away from perceiving sugar as a main cause in health problems, were funded in part by the sugar industry. The authors did not reveal their funding source.",
+        "B": "Stories such as this one fuel suspicion ─ but also lead to further safeguards in the scientific process. Funding disclosures, for instance, have since been made compulsory.",
+        "C": "Their article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar, now widely implicated as a source of the rise in obesity and diabetes."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 글은 과학이 편향될 수 있다는 일반적인 주장을 합니다. (A)는 'For example'을 통해 이 주장에 대한 구체적인 사례(하버드 연구)를 제시합니다. (C)는 대명사 'Their'를 사용하여 (A)에서 언급된 연구 논문이 미친 장기적인 영향을 설명합니다. (B)는 'Stories such as this one'이라는 표현으로 앞서 언급된 사례와 같은 이야기들의 일반적인 결과(의심과 안전장치 마련)를 요약하며 글을 마무리합니다. 따라서 (A)-(C)-(B)가 가장 자연스러운 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The authors did not reveal their funding source to the New England Journal of Medicine, where their influential article appeared.\nTheir article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar, now widely implicated as a source of the rise in obesity and diabetes.\nStories such as this one fuel suspicion ─ but also lead to further ___________________ in the scientific process.\nFunding disclosures, although not required five decades ago, have since been made compulsory.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "public debates" },
+        { "number": "②", "text": "ethical dilemmas" },
+        { "number": "③", "text": "innovative discoveries" },
+        { "number": "④", "text": "safeguards" },
+        { "number": "⑤", "text": "funding opportunities" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 하버드 연구와 같은 이야기들이 의심을 불러일으킬 뿐만 아니라, 과학 과정에 더 많은 '무엇'인가로 이어진다고 말합니다. 바로 다음 문장에서 그 예시로 '연구비 출처 공개(Funding disclosures)'가 의무화되었다고 설명하는데, 이는 과학의 편향성을 막기 위한 '안전장치(safeguards)'에 해당합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "There are reasons why science is not fully trusted and why healthy ① skepticism and critical thinking are essential.\n...the conduct of science can be ② biased.\n...The authors did not ③ reveal their funding source... Their article shaped a generation of changes in eating patterns that appears to have ④ fostered higher use of sugar... Stories such as this one fuel suspicion ─ but also lead to further safeguards in the scientific process.\nFunding disclosures, although not required five decades ago, have since been made ⑤ optional.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 과거에는 연구비 출처 공개가 요구되지 않았지만, 이제는 '의무화'되었다고 설명하며 과학계의 자정 노력을 보여줍니다. 따라서 '선택적인'이라는 의미의 'optional'은 문맥에 맞지 않으며, '의무적인'이라는 의미의 'compulsory'가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "All experts are not the same, nor do they submit their work to the same (A) scrutiny.\nKnowing the source of funding can be important in (B) evaluating scientific claims.\n...higher use of sugar, now widely (C) implicated as a source of the rise in obesity and diabetes.\nStories such as this one fuel (D) suspicion ─ but also lead to further safeguards in the scientific process.\nFunding disclosures, although not required five decades ago, have since been made (E) compulsory.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) scrutiny: critical observation or examination" },
+        { "number": "②", "text": "(B) evaluating: forming an idea of the value of something; assessing" },
+        { "number": "③", "text": "(C) implicated: shown to be involved in or a cause of something bad" },
+        { "number": "④", "text": "(D) suspicion: a feeling or belief that someone has done something wrong" },
+        { "number": "⑤", "text": "(E) compulsory: highly recommended but not required by a law or a rule" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'compulsory'는 '의무적인'이라는 뜻으로, 법이나 규칙에 의해 반드시 해야 함을 의미합니다. 제시된 영영 풀이 'highly recommended but not required(강력히 추천되지만 의무는 아닌)'는 'optional(선택적인)'에 가까운 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "In spite of professional standards, claims of objectivity, and the peer review process, the conduct of science can be (A) [biased / objective]. ... The authors did not (B) [reveal / conceal] their funding source to the New England Journal of Medicine, where their influential article appeared. ... Stories such as this one fuel (C) [suspicion / trust] ─ but also lead to further safeguards in the scientific process.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "biased - reveal - suspicion" },
+        { "number": "②", "text": "biased - conceal - trust" },
+        { "number": "③", "text": "objective - reveal - trust" },
+        { "number": "④", "text": "objective - conceal - suspicion" },
+        { "number": "⑤", "text": "biased - conceal - suspicion" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 과학의 수행은 객관성 주장에도 불구하고 '편향될(biased)' 수 있다. (B) 하버드 연구의 저자들은 연구비 출처를 '밝히지(reveal)' 않았다. (C) 이런 이야기들은 과학에 대한 '의심(suspicion)'을 부채질한다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① In spite of professional standards and the peer review process, the conduct of science can be biased. ② All experts are not the same, nor do they submit their work to the same scrutiny. ③ Knowing the source of funding can be important in evaluating scientific claims. ④ The sugar industry, for instance, has a long history of influencing food policy through lobbying and marketing. ⑤ For example, the Harvard researchers who made claims in the late 1960s about dietary fat were funded in part by the sugar industry.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '과학 연구 과정' 내부의 편향성, 특히 연구비 지원이 연구 결과에 미치는 영향에 초점을 맞추고 있습니다. ④번 문장은 설탕 산업의 일반적인 '로비와 마케팅' 활동에 대해 언급하는데, 이는 과학 연구 과정 자체의 편향성이라는 글의 핵심 논점에서 벗어난, 더 넓은 범위의 기업 활동에 대한 이야기이므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "All experts are not the same, nor ① [do they submit / they do submit] their work to the same scrutiny. The authors did not reveal their funding source to the New England Journal of Medicine, ② [where / which] their influential article appeared. Their article shaped a generation of changes in eating patterns that appears to have fostered higher use of sugar. ... Funding disclosures, although not required five decades ago, have since ③ [been made / made] compulsory.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "do they submit",
+          "explanation": "부정 접속사 'nor'가 문장 앞에 올 때, 주어와 동사는 도치되어야 합니다. 따라서 조동사 'do'가 주어 'they' 앞으로 이동한 'do they submit'이 올바른 어법입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "where",
+          "explanation": "선행사 'the New England Journal of Medicine'은 장소를 나타냅니다. 뒷 문장 'their influential article appeared'는 완전한 문장이므로, 장소를 수식하는 관계부사 'where'가 와야 합니다. 'where'는 'in which'의 의미입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "been made",
+          "explanation": "주어 'Funding disclosures'는 '의무적으로 만들어지는' 대상이므로 수동태가 필요합니다. 따라서 현재완료 수동태인 'have been made'가 올바른 형태입니다."
+        }
+      ]
+    }
+  ]
+}

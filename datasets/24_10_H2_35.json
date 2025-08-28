@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by sharing a common resource (e.g., the city or state budget).\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons!\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or degeneration of the common resource's ability to regenerate itself.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to propose a new city budget plan"
+        },
+        {
+          "number": "②",
+          "text": "to encourage the expansion of public resources"
+        },
+        {
+          "number": "③",
+          "text": "to explain the concept of the 'tragedy of the commons'"
+        },
+        {
+          "number": "④",
+          "text": "to criticize individual selfishness in using public goods"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide solutions for traffic jams and overcrowding"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '공유지의 비극(tragedy of the commons)'이라는 개념을 정의하고, 새로운 공공 자원이 생겼을 때 개인의 이익 추구가 어떻게 과밀화와 남용으로 이어져 결국 자원의 붕괴를 초래하는지에 대한 과정을 단계별로 설명하고 있습니다. 따라서 이 글의 주된 목적은 '공유지의 비극'이라는 개념을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by sharing a common resource (e.g., the city or state budget).\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons!\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or degeneration of the common resource's ability to regenerate itself.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "How to Manage a City Budget Effectively"
+        },
+        {
+          "number": "②",
+          "text": "The Importance of Expanding Public Infrastructure"
+        },
+        {
+          "number": "③",
+          "text": "Solving Problems Through Individual Effort"
+        },
+        {
+          "number": "④",
+          "text": "From Shared Good to Collective Ruin: The Commons' Tragedy"
+        },
+        {
+          "number": "⑤",
+          "text": "The Benefits of a New Airport and Mall"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 처음에는 모두에게 이익이 되는 '공유된 선(Shared Good)'이었던 자원이 개인들의 사용 증가로 인해 결국 모두에게 해가 되는 '집단적 파멸(Collective Ruin)'로 이어지는 과정을 설명하고 있습니다. 이것이 바로 '공유지의 비극(The Commons' Tragedy)'의 핵심이므로, 이 제목이 글의 전체 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by sharing a common resource (e.g., the city or state budget).\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons!\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or degeneration of the common resource's ability to regenerate itself.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "New public resources like airports and malls should always be designed with future expansion in mind."
+        },
+        {
+          "number": "②",
+          "text": "The unrestrained individual use of a shared resource ultimately leads to its collective overuse and degeneration."
+        },
+        {
+          "number": "③",
+          "text": "It is impossible for individuals to solve large-scale societal problems without help from the government."
+        },
+        {
+          "number": "④",
+          "text": "The primary cause of resource depletion is the lack of sufficient state and city budget allocation."
+        },
+        {
+          "number": "⑤",
+          "text": "Individual activity and total activity on a new resource will always increase at the same rate."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 개인들이 공유 자원을 제한 없이 사용하기 시작하면, 결국 그 자원은 집단적으로 남용되어 혜택이 줄어들고, 종국에는 자원의 재생 능력이 파괴되는 '붕괴' 또는 '퇴화'에 이르게 된다는 것입니다. 따라서 '공유 자원의 무분별한 개인적 사용은 궁극적으로 집단적 남용과 퇴화로 이어진다'는 ②번이 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by sharing a common resource (e.g., the city or state budget). Soon, at some point, the amount of traffic grows too large for the \"commons\" to support. ( ① ) Traffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons! ( ② ) The total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash. ( ③ ) What makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or degeneration of the common resource's ability to regenerate itself. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**If the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "②번 앞 문장은 과밀과 남용이 모든 사람의 이익을 감소시키는 현상을 '공유지의 비극'이라고 명명합니다. 주어진 문장은 '만약 새로운 자원이 확장될 수 없다면'이라는 조건을 제시하며, 이 문제가 개인이 혼자서는 해결할 수 없는 집단적인 문제로 심화되는 과정을 설명합니다. 이어서 ②번 뒷 문장은 이러한 해결 불가능한 상황이 지속될 때 활동량이 정점을 찍고 '붕괴(crash)'로 이어지는 다음 단계를 묘사합니다. 따라서 주어진 문장은 문제 발생과 붕괴 과정 사이에 위치하여 논리적 흐름을 완성하는 ②번에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Any new resource always opens with people benefiting individually by sharing a common resource. Soon, at some point, the amount of traffic grows too large for the \"commons\" to support.",
+      "question_blocks": {
+        "A": "The total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.",
+        "B": "Traffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons!",
+        "C": "If the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 공유 자원에 사용량이 너무 많아지는 문제의 시작을 설명합니다. (B)는 이 문제의 직접적인 결과(교통 체증, 과밀)를 설명하고 이를 '공유지의 비극'이라고 명명합니다. (C)는 (B)에서 제기된 문제가 해결되지 않을 경우(확장 불가 시), 개인이 해결할 수 없는 집단적 문제가 됨을 설명합니다. (A)는 (C)의 상황이 지속될 때 발생하는 최종 단계, 즉 활동량이 정점을 찍고 '붕괴(crash)'하는 과정을 묘사합니다. 따라서 문제 발생 → 심화 → 최종 붕괴의 순서인 (B)-(C)-(A)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by sharing a common resource (e.g., the city or state budget).\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons!\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or degeneration of the common resource's ability to ____________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "support more users"
+        },
+        {
+          "number": "②",
+          "text": "be expanded quickly"
+        },
+        {
+          "number": "③",
+          "text": "generate profits"
+        },
+        {
+          "number": "④",
+          "text": "be managed by individuals"
+        },
+        {
+          "number": "⑤",
+          "text": "regenerate itself"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸은 '공유지의 비극'이 왜 '비극적인지'를 정의하는 문장의 일부입니다. 필자는 그 비극성이 '붕괴 역학', 즉 공유 자원이 스스로를 '재생하는 능력'의 파괴 또는 퇴화에 있다고 설명합니다. 이는 단순한 불편함을 넘어 자원 자체가 회복 불가능한 손상을 입는 것을 의미하므로, 'regenerate itself'가 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Any new resource always opens with people ① [benefiting] individually by sharing a common resource.\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse ② [lessen] the benefits of the common resource for everyone.\nIf the new resource cannot be ③ [expanded] or provided with additional space, it becomes a problem, and you cannot solve the problem on your own.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to ④ [rise] after a peak, leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction of the common resource's ability to ⑤ [regenerate] itself.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "benefiting"
+        },
+        {
+          "number": "②",
+          "text": "lessen"
+        },
+        {
+          "number": "③",
+          "text": "expanded"
+        },
+        {
+          "number": "④",
+          "text": "rise"
+        },
+        {
+          "number": "⑤",
+          "text": "regenerate"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 문장은 공유 자원의 활동량이 '정점(peak)'에 도달한 후의 상황을 설명합니다. 정점에 도달했다는 것은 그 이후에는 감소세로 돌아선다는 의미이며, 글에서도 '붕괴(crash)로 이어진다'고 명시하고 있습니다. 따라서 활동량이 정점 이후에 '상승한다(rise)'는 것은 문맥에 맞지 않으며, '감소한다(fall)'가 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people (A) [benefiting] individually by sharing a common resource (e.g., the city or state budget).\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse (B) [lessen] the benefits of the common resource for everyone.\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in (C) [isolation] from your fellow drivers or walkers or competing users.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a (D) [peak], leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or (E) [degeneration] of the common resource's ability to regenerate itself.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) benefiting: receiving an advantage or profit; gaining"
+        },
+        {
+          "number": "②",
+          "text": "(B) lessen: to make or become less; diminish"
+        },
+        {
+          "number": "③",
+          "text": "(C) isolation: the condition of being in close contact with others"
+        },
+        {
+          "number": "④",
+          "text": "(D) peak: the point of highest activity, achievement, or intensity"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) degeneration: the process of breaking down or deteriorating"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'isolation'은 '고립, 분리'를 의미하며, 'the condition of being alone or separated from others'를 뜻합니다. 제시된 영영 풀이인 '다른 사람들과 긴밀한 접촉을 하는 상태'는 그와 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Any new resource always opens with people benefiting individually by sharing a common resource.\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse (A) [lessen / maximize] the benefits of the common resource for everyone.\nIf the new resource cannot be expanded, it becomes a problem, and you cannot solve the problem on your own, in (B) [isolation / cooperation] from your fellow users.\nThe total activity on this new resource keeps increasing; but if the dynamic of overuse continues too long, it begins to fall after a peak, leading to a (C) [crash / boom].\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "lessen - isolation - crash"
+        },
+        {
+          "number": "②",
+          "text": "lessen - cooperation - boom"
+        },
+        {
+          "number": "③",
+          "text": "maximize - isolation - crash"
+        },
+        {
+          "number": "④",
+          "text": "maximize - cooperation - boom"
+        },
+        {
+          "number": "⑤",
+          "text": "lessen - isolation - boom"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 과밀과 남용은 공유 자원의 혜택을 '줄입니다(lessen)'. (B) 이 문제는 다른 사용자들과 '고립된(isolation)' 상태에서 혼자 해결할 수 없습니다. (C) 이러한 역학은 결국 자원의 '붕괴(crash)'로 이어집니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by sharing a common resource (e.g., the city or state budget).\nSoon, at some point, the amount of traffic grows too large for the \"commons\" to support.\nTraffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone ─ the tragedy of the commons!\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing users.\nThe total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.\nWhat makes the \"tragedy of commons\" tragic is the crash dynamic ─ the destruction or degeneration of the common resource's ability to regenerate itself.",
+      "question": "'공유지의 비극'에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "새로운 공유 자원은 초기에 개인들에게 이익을 제공한다."
+        },
+        {
+          "number": "②",
+          "text": "과밀과 남용은 결국 모든 사람의 이익을 감소시킨다."
+        },
+        {
+          "number": "③",
+          "text": "자원이 확장되지 않으면 개인이 단독으로 문제를 해결하기 어렵다."
+        },
+        {
+          "number": "④",
+          "text": "총 활동량은 정점에 도달한 후에도 계속해서 증가한다."
+        },
+        {
+          "number": "⑤",
+          "text": "비극의 본질은 자원의 재생 능력이 파괴되는 것이다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'both begin to fall after a peak(둘 다 정점 이후에 감소하기 시작한다)'라고 명시하고 있습니다. 이는 총 활동량과 개인 활동량 모두 정점에 도달한 후에는 감소한다는 의미이므로, 계속해서 증가한다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Any new resource always opens with people benefiting individually by sharing a common resource.\nTraffic jams, overcrowding, and overuse ① [lessen / lessens] the benefits of the common resource for everyone.\nIf the new resource cannot be expanded or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or competing ② [users / use].\nThe total activity on this new resource keeps increasing, and so ③ [does / is] individual activity; but if the dynamic of common use and overuse continues too long, both begin to fall after a peak, leading to a crash.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "lessen",
+          "explanation": "문장의 주어는 'Traffic jams, overcrowding, and overuse'로, 세 개의 명사가 and로 연결된 복수 주어입니다. 따라서 복수 동사인 'lessen'이 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "users",
+          "explanation": "'competing'은 뒤따르는 명사를 수식하는 현재분사 형용사 역할을 합니다. '경쟁하는 사용자들'이라는 의미가 되어야 하므로 명사 'users'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "does",
+          "explanation": "'so + 동사 + 주어' 구문은 '~도 마찬가지이다'라는 의미입니다. 앞 문장의 동사구 'keeps increasing'을 대신 받는 대동사가 필요하며, 일반동사이므로 do 동사를 사용합니다. 주어 'individual activity'가 단수이므로 'does'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

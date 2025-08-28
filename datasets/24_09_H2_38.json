@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "There are deep similarities between viral contagion and behavioral contagion.\nFor example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.\nBut there are also important differences between the two types of contagion.\nOne is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.\nSolar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations.\nIn contrast, we try to avoid others who are visibly ill.\nAnother important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative ― as in the case of smoking ― but sometimes positive, as in the case of solar installations.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "나쁜 습관의 위험성을 경고하기 위해" },
+        { "number": "②", "text": "바이러스성 전염과 행동적 전염을 비교하고 대조하기 위해" },
+        { "number": "③", "text": "태양광 패널 설치의 긍정적 효과를 홍보하기 위해" },
+        { "number": "④", "text": "전염병 확산을 막는 효과적인 방법을 설명하기 위해" },
+        { "number": "⑤", "text": "긍정적인 행동을 확산시키는 사회 캠페인을 제안하기 위해" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 바이러스성 전염과 행동적 전염 사이의 '깊은 유사점(deep similarities)'과 '중요한 차이점(important differences)'을 체계적으로 설명하고 있습니다. 글의 구조 전체가 두 개념을 비교하고 대조하는 데 초점을 맞추고 있으므로 이것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "There are deep similarities between viral contagion and behavioral contagion.\nFor example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.\nBut there are also important differences between the two types of contagion.\nOne is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.\nSolar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations.\nIn contrast, we try to avoid others who are visibly ill.\nAnother important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative ― as in the case of smoking ― but sometimes positive, as in the case of solar installations.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "How Habits Spread Like Viruses" },
+        { "number": "②", "text": "The Power of Visibility in Social Change" },
+        { "number": "③", "text": "Two Types of Contagion: More Different Than Alike?" },
+        { "number": "④", "text": "The Negative Effects of Bad Habits" },
+        { "number": "⑤", "text": "Solar Panels: A Positive Contagion" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 바이러스성 전염과 행동적 전염의 유사점으로 시작하지만, 가시성의 역할과 가치 판단(긍정/부정)이라는 두 가지 '중요한 차이점'에 더 큰 비중을 두고 설명합니다. 따라서 '두 종류의 전염: 비슷한 점보다 다른 점이 더 많은가?'라는 제목이 글의 논지를 가장 잘 반영합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "There are deep similarities between viral contagion and behavioral contagion.\nFor example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.\nBut there are also important differences between the two types of contagion.\nOne is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.\nSolar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations.\nIn contrast, we try to avoid others who are visibly ill.\nAnother important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative ― as in the case of smoking ― but sometimes positive, as in the case of solar installations.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Proximity to others is the only significant factor that influences both viral and behavioral contagion." },
+        { "number": "②", "text": "Viral and behavioral contagion are similar in spread but differ regarding visibility's role and value." },
+        { "number": "③", "text": "Positive behavioral contagions like installing solar panels are becoming increasingly important for modern society." },
+        { "number": "④", "text": "People's tendency to avoid the visibly ill is the most effective way to inhibit disease spread." },
+        { "number": "⑤", "text": "Understanding behavioral contagion is the key to stopping negative habits like smoking and excessive drinking." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 내용은 바이러스성 전염과 행동적 전염이 근접성을 통해 퍼진다는 점에서는 유사하지만, '가시성'이 미치는 영향(촉진 대 억제)과 그 자체의 '가치'(항상 나쁨 대 긍정적이거나 부정적임) 측면에서는 중요한 차이가 있다는 것입니다. 이 선택지가 글의 핵심적인 비교/대조 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "There are deep similarities between viral contagion and behavioral contagion. For example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected... But there are also important differences between the two types of contagion. ( ① ) Solar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations. ( ② ) In contrast, we try to avoid others who are visibly ill. ( ③ ) Another important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative ― as in the case of smoking ― but sometimes positive, as in the case of solar installations. ( ④ ) Therefore, strategies to manage contagion must consider these unique characteristics. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**One is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 두 전염의 첫 번째 차이점으로 '가시성'의 역할을 설명합니다. ①번 앞 문장에서 '중요한 차이점들이 있다'고 언급하며 앞으로 차이점들을 설명할 것을 예고합니다. 주어진 문장은 그 첫 번째(One) 차이점을 구체적으로 제시하고, ①번 뒷 문장부터는 태양광 패널(행동적 전염 촉진)과 아픈 사람(바이러스성 전염 억제)의 예를 들어 이 차이점을 상세히 설명합니다. 따라서 ①의 위치가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "There are deep similarities between viral contagion and behavioral contagion. For example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.",
+      "question_blocks": {
+        "A": "Solar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations. In contrast, we try to avoid others who are visibly ill.",
+        "B": "But there are also important differences between the two types of contagion. One is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.",
+        "C": "Another important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative ― as in the case of smoking ― but sometimes positive, as in the case of solar installations."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 두 전염의 '유사점'을 설명합니다. (B)는 'But'을 통해 '차이점'으로 논지를 전환하며, 그 첫 번째 차이점으로 가시성의 역할을 제시합니다. (A)는 'for instance'와 'In contrast'를 사용해 (B)에서 제시한 첫 번째 차이점에 대한 구체적인 예시들을 제공합니다. (C)는 'Another important difference'라는 표현으로 두 번째 차이점을 제시하며 글을 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Solar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations.\nIn contrast, we try to avoid others who are visibly ill.\nAnother important difference is that whereas ______________________________________________________, as in the case of solar installations.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "viral contagion spreads invisibly, behavioral contagion requires direct observation" },
+        { "number": "②", "text": "viral contagion affects physical health, behavioral contagion affects mental health" },
+        { "number": "③", "text": "viral contagion is a modern problem, behavioral contagion is an ancient one" },
+        { "number": "④", "text": "viral contagion is almost always a bad thing, behavioral contagion is sometimes negative but sometimes positive" },
+        { "number": "⑤", "text": "viral contagion can be stopped with medicine, behavioral contagion can be stopped with education" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 '또 다른 중요한 차이점'을 설명하는 부분입니다. 'whereas(반면에)' 구문은 두 가지를 대조합니다. 빈칸 뒤에는 행동적 전염의 부정적인 예(흡연)와 긍정적인 예(태양광 설치)가 나옵니다. 이는 행동적 전염이 때로는 부정적이고 때로는 긍정적이라는 것을 의미하며, 이와 대조를 이루기 위해서는 바이러스성 전염이 거의 항상 나쁘다는 내용이 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "There are deep ① `similarities` between viral contagion and behavioral contagion. ... But there are also important ② `differences` between the two... One is that visibility promotes behavioral contagion but ③ `accelerates` the spread of infectious diseases. Solar panels that are ④ `visible` from the street... are more likely to stimulate neighboring installations. In contrast, we try to ⑤ `avoid` others who are visibly ill.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "similarities" },
+        { "number": "②", "text": "differences" },
+        { "number": "③", "text": "accelerates" },
+        { "number": "④", "text": "visible" },
+        { "number": "⑤", "text": "avoid" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 가시성이 행동적 전염은 촉진하지만 바이러스성 전염에는 반대 효과를 낸다고 설명합니다. 뒤따르는 예시에서 우리가 눈에 띄게 아픈 사람을 '피하려고(avoid)' 한다고 했으므로, 가시성은 전염병의 확산을 '억제하는(inhibits)' 역할을 합니다. 따라서 '가속화한다(accelerates)'는 단어는 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "...people in close or extended (A) `proximity` to others... there are also important differences between the two types of (B) `contagion`. One is that (C) `visibility` promotes behavioral contagion... Solar panels... are more likely to (D) `stimulate` neighboring installations. In contrast, visibility... (E) `inhibits` the spread of infectious diseases.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) proximity: the state of being near to somebody or something in distance or time" },
+        { "number": "②", "text": "(B) contagion: the spreading of a disease by people touching each other" },
+        { "number": "③", "text": "(C) visibility: the fact of being able to be seen" },
+        { "number": "④", "text": "(D) stimulate: to make a part of the body become more active" },
+        { "number": "⑤", "text": "(E) inhibits: to prevent something from happening or make it happen more slowly" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 (D) stimulate는 '이웃의 설치를 자극하다'라는 의미로, 어떤 행동이나 관심을 '유발하다' 또는 '촉진하다'라는 사회적 맥락에서 사용되었습니다. 제시된 영영 풀이인 '신체의 일부를 더 활성화시키다'는 생리학적인 의미로, 이 문맥과는 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "There are deep (A) [similarities / differences] between viral contagion and behavioral contagion. ... One is that visibility (B) [promotes / inhibits] behavioral contagion but inhibits the spread of infectious diseases. ... behavioral contagion is sometimes negative ... but sometimes (C) [positive / negative], as in the case of solar installations.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "similarities - promotes - positive" },
+        { "number": "②", "text": "similarities - inhibits - negative" },
+        { "number": "③", "text": "similarities - promotes - negative" },
+        { "number": "④", "text": "differences - inhibits - positive" },
+        { "number": "⑤", "text": "differences - promotes - positive" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 글은 두 전염 사이의 '유사점(similarities)'을 먼저 언급하며 시작합니다. (B) 가시성은 행동적 전염을 '촉진하는(promotes)' 반면, 바이러스성 전염은 억제합니다. (C) 태양광 패널 설치는 행동적 전염의 '긍정적인(positive)' 사례로 제시되었습니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "There are deep similarities between viral contagion and behavioral contagion.\nFor example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.\nBut there are also important differences between the two types of contagion.\nOne is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.\nSolar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations.\nIn contrast, we try to avoid others who are visibly ill.\nAnother important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative ― as in the case of smoking ― but sometimes positive, as in the case of solar installations.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "바이러스성 전염과 행동적 전염은 근접성을 통해 전파된다는 공통점이 있다." },
+        { "number": "②", "text": "가시성은 행동적 전염의 확산을 촉진하는 역할을 한다." },
+        { "number": "③", "text": "사람들은 눈에 띄게 아픈 사람들을 피하려는 경향이 있다." },
+        { "number": "④", "text": "바이러스성 전염은 때로는 긍정적이고 때로는 부정적이다." },
+        { "number": "⑤", "text": "태양광 패널 설치는 긍정적인 행동적 전염의 예이다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'whereas viral contagion is almost always a bad thing(반면에 바이러스성 전염은 거의 항상 나쁜 것이다)'라고 명시하고 있습니다. 행동적 전염은 긍정적이거나 부정적일 수 있지만, 바이러스성 전염은 거의 항상 나쁘다고 설명하므로, 선택지 ④는 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "For example, people in close or extended proximity to others ① [infected / infecting] by a virus are themselves more likely to become infected... Solar panels that are visible from the street, for instance, are more likely to stimulate neighboring ② [installations / to install]. Another important difference is that ③ [whereas / during] viral contagion is almost always a bad thing, behavioral contagion is sometimes negative...",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "infected",
+          "explanation": "앞의 명사 'others'를 수식하는 분사입니다. '다른 사람들'이 바이러스에 의해 '감염된' 것이므로 수동의 의미를 나타내는 과거분사 'infected'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "installations",
+          "explanation": "동사 'stimulate(자극하다)'의 목적어가 필요한 자리입니다. 따라서 명사인 'installations(설치)'가 와야 합니다. to부정사는 이 자리에서 목적어 역할을 할 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "whereas",
+          "explanation": "'~인 반면에'라는 의미로 두 개의 대조적인 절을 연결하는 접속사가 필요합니다. 따라서 'whereas'가 맞습니다. 'during'은 '~동안'이라는 의미의 전치사로, 뒤에 절이 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

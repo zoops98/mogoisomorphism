@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The governments of virtually every country on the planet attach great importance to achieving food security and a wide variety of mechanisms have been developed to realize this goal.\nThe first issue governments face in achieving national food security is the problem of insuring that adequate amounts of food are available to the resident population.\nSome governments have set goals of food self-sufficiency, which means most if not all of the food available in a country comes from the domestic farming system.\nHowever, food security does not require food self-sufficiency because countries can import food items not easily produced within the country.\nAgricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world.\nEven countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.\nThe United States, for example, depends on imports for its supply of coffee, tea, bananas and other tropical products.\nIn general, the problem of assuring adequate food supplies is solved by relying on both domestic production and imports.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to argue for the importance of food self-sufficiency for all nations" },
+        { "number": "②", "text": "to explain the concept of food security and how it is typically achieved" },
+        { "number": "③", "text": "to criticize governments that rely too heavily on food imports" },
+        { "number": "④", "text": "to highlight the impact of climate change on global agriculture" },
+        { "number": "⑤", "text": "to promote the consumption of tropical products like coffee and bananas" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '식량 안보(food security)'라는 개념을 정의하고, 그것이 반드시 '식량 자급자족(food self-sufficiency)'을 의미하지는 않음을 설명합니다. 대부분의 국가들이 국내 생산과 수입을 병행하여 식량 안보를 달성한다고 설명하고 있으므로, 식량 안보의 개념과 그 달성 방법을 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The governments of virtually every country on the planet attach great importance to achieving food security and a wide variety of mechanisms have been developed to realize this goal.\nThe first issue governments face in achieving national food security is the problem of insuring that adequate amounts of food are available to the resident population.\nSome governments have set goals of food self-sufficiency, which means most if not all of the food available in a country comes from the domestic farming system.\nHowever, food security does not require food self-sufficiency because countries can import food items not easily produced within the country.\nAgricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world.\nEven countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.\nThe United States, for example, depends on imports for its supply of coffee, tea, bananas and other tropical products.\nIn general, the problem of assuring adequate food supplies is solved by relying on both domestic production and imports.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Rise of the Domestic Farming System" },
+        { "number": "②", "text": "Food Security vs. Food Self-Sufficiency" },
+        { "number": "③", "text": "Why the US Imports Coffee and Tea" },
+        { "number": "④", "text": "The Global Challenge of Food Shortages" },
+        { "number": "⑤", "text": "The Impact of Climate on Agriculture" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 '식량 안보(Food Security)'와 '식량 자급자족(Food Self-Sufficiency)'의 개념을 대조하며, 식량 안보가 반드시 식량 자급자족을 필요로 하지 않는다는 점을 설명하는 것입니다. 따라서 두 개념을 비교 대조하는 이 제목이 글의 주제를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The governments of virtually every country on the planet attach great importance to achieving food security and a wide variety of mechanisms have been developed to realize this goal.\nThe first issue governments face in achieving national food security is the problem of insuring that adequate amounts of food are available to the resident population.\nSome governments have set goals of food self-sufficiency, which means most if not all of the food available in a country comes from the domestic farming system.\nHowever, food security does not require food self-sufficiency because countries can import food items not easily produced within the country.\nAgricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world.\nEven countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.\nThe United States, for example, depends on imports for its supply of coffee, tea, bananas and other tropical products.\nIn general, the problem of assuring adequate food supplies is solved by relying on both domestic production and imports.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Achieving national food security is a primary goal for almost every government in the world today." },
+        { "number": "②", "text": "A nation can achieve food security through a combination of domestic production and imports without being fully self-sufficient." },
+        { "number": "③", "text": "Countries with highly productive agricultural sectors should aim to export their surplus food to nations in need." },
+        { "number": "④", "text": "Climatic and soil conditions are the most significant factors determining a country's ability to produce its own food." },
+        { "number": "⑤", "text": "The United States serves as a prime example of a nation that has successfully achieved complete food self-sufficiency." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 국가가 완전히 자급자족하지 않더라도 국내 생산과 수입의 조합을 통해 식량 안보를 달성할 수 있다는 것입니다. 식량 자급자족은 식량 안보를 위한 하나의 방법일 뿐, 필수 조건은 아니라는 점을 강조하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "However, food security does not require food self-sufficiency because countries can import food items not easily produced within the country. ( ① ) Agricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world. ( ② ) Even countries with extremely productive agricultural sectors are not fully self-sufficient in all food items. ( ③ ) The United States, for example, depends on imports for its supply of coffee, tea, bananas and other tropical products. ( ④ ) In general, the problem of assuring adequate food supplies is solved by relying on both domestic production and imports. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Thus, it is rarely feasible for a single country to produce all the agricultural goods its population desires.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '따라서(Thus), 단일 국가가 인구가 원하는 모든 농산물을 생산하는 것은 거의 실행 불가능하다'는 결론적인 내용입니다. 바로 앞 문장에서 농산물이 전 세계적으로 다양한 기후, 토양 조건에 민감하다고 설명했습니다. 이 사실로부터 논리적인 결론을 이끌어내는 주어진 문장이 ②의 위치에 들어가는 것이 가장 자연스럽습니다. 뒤따르는 문장은 이 결론에 대한 구체적인 예시(미국)를 제공합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The governments of virtually every country on the planet attach great importance to achieving food security... The first issue governments face in achieving national food security is the problem of insuring that adequate amounts of food are available...",
+      "question_blocks": {
+        "A": "However, food security does not require food self-sufficiency because countries can import food items not easily produced within the country.",
+        "B": "Some governments have set goals of food self-sufficiency, which means most if not all of the food available in a country comes from the domestic farming system.",
+        "C": "Agricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world. Even countries with extremely productive agricultural sectors are not fully self-sufficient in all food items."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 식량 안보의 중요성과 과제를 제시합니다. (B)는 이 과제를 해결하기 위한 한 가지 접근법으로 '식량 자급자족'을 소개합니다. (A)는 'However(그러나)'를 사용하여 (B)의 내용에 반론을 제기하며, 식량 안보가 반드시 자급자족을 요구하지는 않는다고 설명하고 '수입'의 개념을 도입합니다. (C)는 왜 수입이 필요한지에 대한 근본적인 이유(농업 조건의 다양성)를 설명하며 (A)의 주장을 뒷받침합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Agricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world.\nEven countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.\nThe United States, for example, depends on imports for its supply of coffee, tea, bananas and other tropical products.\nIn general, the problem of assuring adequate food supplies is solved by relying on both ________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "government subsidies and private investment" },
+        { "number": "②", "text": "food self-sufficiency and national pride" },
+        { "number": "③", "text": "advanced technology and traditional farming" },
+        { "number": "④", "text": "domestic production and imports" },
+        { "number": "⑤", "text": "international aid and local charities" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 식량 안보를 달성하는 방법에 대해 설명하고 있습니다. 글 전반에 걸쳐 국가들이 자국 내에서 생산하는 것(domestic production)과 다른 나라에서 들여오는 것(imports)을 모두 활용한다고 서술합니다. 빈칸이 있는 마지막 문장은 이러한 내용을 종합하는 결론이므로, '국내 생산과 수입'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The first issue governments face in achieving national food security is the problem of insuring that ① adequate amounts of food are available to the resident population.\nSome governments have set goals of food ② self-sufficiency... However, food security does not require food self-sufficiency because countries can ③ import food items not easily produced within the country.\nAgricultural products are, after all, highly ④ sensitive to climatic, soil and other conditions that tend to ⑤ stabilize around the world.\nEven countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 문장은 국가들이 식량을 수입해야 하는 이유를 설명합니다. 그 이유는 농업 생산 조건이 전 세계적으로 '다양하기(vary)' 때문입니다. '안정되다(stabilize)'는 것은 조건이 비슷해지거나 고정된다는 의미이므로, 수입의 필요성을 설명하는 문맥과는 정반대의 의미가 되어 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The governments of virtually every country on the planet (A) attach great importance to achieving food security... The first issue governments face... is the problem of (B) insuring that adequate amounts of food are available... which means most if not all of the food available in a country comes from the (C) domestic farming system.\nAgricultural products are... highly sensitive to... conditions that tend to (D) vary around the world.\nEven countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.",
+      "question": "밑줄 친 (A)~(D)에 대한 영영 풀이가 적절하지 않은 것은? (E)는 adequate 입니다.",
+      "options": [
+        { "number": "①", "text": "(A) attach: to consider something to have a particular quality or importance" },
+        { "number": "②", "text": "(B) insuring: making certain that something will happen or be so" },
+        { "number": "③", "text": "(C) domestic: existing or occurring inside a particular country; not foreign or international" },
+        { "number": "④", "text": "(D) vary: to be different from another thing of the same general class" },
+        { "number": "⑤", "text": "(E) adequate: of the highest possible quality or standard" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'adequate'는 양적으로 '충분한, 적절한'을 의미합니다. 제시된 영영 풀이 'of the highest possible quality or standard(가능한 최고의 품질이나 수준의)'는 '최고의, 최상의'라는 의미로, '충분한'과는 다른 개념이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Some governments have set goals of food (A) [self-sufficiency / dependence]... However, food security does not (B) [require / forbid] food self-sufficiency because countries can import food items not easily produced within the country. Agricultural products are, after all, highly (C) [sensitive / resistant] to climatic, soil and other conditions that tend to vary around the world.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "self-sufficiency - require - sensitive" },
+        { "number": "②", "text": "self-sufficiency - forbid - resistant" },
+        { "number": "③", "text": "dependence - require - sensitive" },
+        { "number": "④", "text": "dependence - forbid - resistant" },
+        { "number": "⑤", "text": "self-sufficiency - require - resistant" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 일부 정부는 국내 생산으로 식량을 충당하는 '자급자족(self-sufficiency)'을 목표로 삼는다. (B) 그러나 식량 안보가 반드시 자급자족을 '요구하는(require)' 것은 아니다. (C) 농산물은 기후나 토양 같은 조건에 매우 '민감하기(sensitive)' 때문이다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Some governments have set goals of food self-sufficiency, which means most food comes from the domestic farming system. ② However, food security does not require food self-sufficiency because countries can import food items not easily produced within the country. ③ International trade agreements often regulate the tariffs and quotas on these imported food items. ④ Agricultural products are, after all, highly sensitive to climatic, soil and other conditions that tend to vary around the world. ⑤ Even countries with extremely productive agricultural sectors are not fully self-sufficient in all food items.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '왜' 국가들이 식량 안보를 위해 수입에 의존하는지(농업 조건의 다양성 때문에) 그 개념적 이유를 설명하고 있습니다. ③번 문장은 수입 식품에 대한 관세나 쿼터를 규제하는 '국제 무역 협정'에 대해 언급하는데, 이는 수입의 구체적인 '방식'이나 '제도'에 대한 내용으로, '왜 수입이 필요한가'라는 글의 핵심 논점에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The first issue governments face... is the problem of insuring ① [that / what] adequate amounts of food are available to the resident population. Some governments have set goals of food self-sufficiency, which means most if not all of the food available in a country ② [comes / come] from the domestic farming system. However, food security does not require food self-sufficiency because countries can import food items not easily ③ [produced / producing] within the country.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "동사 'insuring(보장하는 것)'의 목적어 역할을 하는 명사절을 이끌어야 합니다. 뒷 문장 'adequate amounts of food are available...'이 완전한 문장이므로, 접속사 'that'이 와야 합니다. 'what'은 불완전한 절을 이끕니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "comes",
+          "explanation": "주어는 'most... of the food'입니다. 부분이나 분수를 나타내는 표현(most of, part of 등)이 주어일 경우, of 뒤의 명사에 동사의 수를 일치시킵니다. 'food'는 셀 수 없는 명사이므로 단수 취급하여 단수 동사 'comes'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "produced",
+          "explanation": "앞의 명사 'food items'를 수식하는 분사 자리입니다. 식료품은 '생산되는' 대상이므로 수동의 의미를 가진 과거분사 'produced'가 적절합니다. 'food items which are not easily produced'에서 'which are'가 생략된 형태입니다."
+        }
+      ]
+    }
+  ]
+}

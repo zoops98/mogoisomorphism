@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in which the term is ordinarily used in the kinds of debates to which your claims are pertinent.\nThere will be, however, occasions where it is appropriate, even necessary, to coin special uses through what philosophers call stimulative definition.\nThis would be the case where the current lexicon is not able to make distinctions that you think are philosophically important.\nFor example, we do not have a term in ordinary language that describes a memory that is not necessarily a memory of something the person having it has experienced.\nSuch a thing would occur, for example, if I could somehow share your memories:\nI would have a memory-type experience, but this would not be of something that I had actually experienced.\nTo call this a memory would be misleading.\nFor this reason, philosophers have coined the special term 'quasimemory' to refer to these hypothetical memory-like experiences.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the complexity of philosophical terminology" },
+        { "number": "②", "text": "to explain why and how special terms are sometimes created in philosophy" },
+        { "number": "③", "text": "to explore the neurological basis of memory and experience" },
+        { "number": "④", "text": "to argue that ordinary language is sufficient for all debates" },
+        { "number": "⑤", "text": "to provide a clear definition of the term 'quasimemory'" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 일반적으로 정의는 일상적인 용법을 따라야 하지만, 철학적으로 중요한 구별을 위해 기존 어휘가 불충분할 경우 '규정적 정의(stipulative definition)'를 통해 특별한 용어를 만들어내는 것이 필요하다고 설명합니다. '유사기억(quasimemory)'의 예를 통해 그 이유와 과정을 보여주고 있으므로, 철학에서 특별한 용어가 만들어지는 이유와 방식을 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in which the term is ordinarily used in the kinds of debates to which your claims are pertinent.\nThere will be, however, occasions where it is appropriate, even necessary, to coin special uses through what philosophers call stimulative definition.\nThis would be the case where the current lexicon is not able to make distinctions that you think are philosophically important.\nFor example, we do not have a term in ordinary language that describes a memory that is not necessarily a memory of something the person having it has experienced.\nSuch a thing would occur, for example, if I could somehow share your memories:\nI would have a memory-type experience, but this would not be of something that I had actually experienced.\nTo call this a memory would be misleading.\nFor this reason, philosophers have coined the special term 'quasimemory' to refer to these hypothetical memory-like experiences.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Limits of Ordinary Language" },
+        { "number": "②", "text": "When Ordinary Words Aren't Enough: Coining New Terms" },
+        { "number": "③", "text": "'Quasimemory': A Philosophical Puzzle" },
+        { "number": "④", "text": "How to Win an Argument with Definitions" },
+        { "number": "⑤", "text": "The Connection Between Memory and Experience" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 정의를 내릴 때 일상적인 단어를 사용하는 것이 일반적이지만, 때로는 기존 단어가 중요한 개념적 구별을 담아내기에 '충분하지 않아' 새로운 용어를 '만들어낼' 필요가 있음을 설명합니다. '일상 단어가 충분하지 않을 때: 새 용어 만들기'라는 제목은 이러한 글의 핵심 내용을 가장 잘 포착합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in which the term is ordinarily used in the kinds of debates to which your claims are pertinent.\nThere will be, however, occasions where it is appropriate, even necessary, to coin special uses through what philosophers call stimulative definition.\nThis would be the case where the current lexicon is not able to make distinctions that you think are philosophically important.\nFor example, we do not have a term in ordinary language that describes a memory that is not necessarily a memory of something the person having it has experienced.\nSuch a thing would occur, for example, if I could somehow share your memories:\nI would have a memory-type experience, but this would not be of something that I had actually experienced.\nTo call this a memory would be misleading.\nFor this reason, philosophers have coined the special term 'quasimemory' to refer to these hypothetical memory-like experiences.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "While definitions should generally align with common usage, it is sometimes necessary to create new terms for important distinctions." },
+        { "number": "②", "text": "The term 'quasimemory' was invented by philosophers to describe a type of memory that has not yet been proven to exist." },
+        { "number": "③", "text": "The reliability of a person's memory is questionable if they cannot distinguish it from a memory-like experience of others." },
+        { "number": "④", "text": "Philosophical debates often become confusing because participants use specialized terms that are unfamiliar to the general public." },
+        { "number": "⑤", "text": "Ordinary language is constantly evolving to include new terms for concepts that were previously difficult to describe." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주장은 정의는 일반적으로 통용되는 용법과 일치해야 하지만(일반 원칙), 철학적으로 중요한 구별을 위해 필요할 경우 새로운 용어를 만들어내는 것(예외)이 적절하다는 것입니다. '유사기억'의 사례는 이러한 주장을 뒷받침합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Such a thing would occur, for example, if I could somehow share your memories: I would have a memory-type experience, but this would not be of something that I had actually experienced. ( ① ) To call this a memory would be misleading. ( ② ) For this reason, philosophers have coined the special term 'quasimemory' to refer to these hypothetical memory-like experiences. ( ③ ) This allows for a more precise discussion without the baggage of the common term. ( ④ ) It helps clarify what is being debated. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Here, the ordinary definition is too broad and needs to be refined for the specific philosophical purpose.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '여기서 일반적인 정의는 너무 광범위해서 특정 철학적 목적을 위해 다듬어질 필요가 있다'는 내용입니다. 바로 앞 문장에서 이러한 경험을 '기억'이라고 부르는 것은 오해를 불러일으킬 수 있다('misleading')고 말합니다. 주어진 문장은 왜 그것이 오해를 불러일으키는지에 대한 이유(일반적 정의가 너무 광범위해서)를 설명합니다. 따라서 ②의 위치에 들어가 앞 문장과 뒷 문장('For this reason...')을 논리적으로 연결하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in which the term is ordinarily used in the kinds of debates to which your claims are pertinent.",
+      "question_blocks": {
+        "A": "This would be the case where the current lexicon is not able to make distinctions that you think are philosophically important.",
+        "B": "There will be, however, occasions where it is appropriate, even necessary, to coin special uses through what philosophers call stimulative definition.",
+        "C": "For example, we do not have a term in ordinary language that describes a memory that is not necessarily a memory of something the person having it has experienced."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '일반적으로 정의는 일상 용법을 따라야 한다'는 원칙을 제시합니다. (B)는 'however(그러나)'를 사용하여 이 원칙의 예외, 즉 '규정적 정의'가 필요한 경우가 있음을 소개합니다. (A)는 'This would be the case where...'를 사용하여 (B)에서 언급된 예외가 적용되는 구체적인 조건(기존 어휘로 중요한 구별을 할 수 없는 경우)을 설명합니다. (C)는 'For example'을 통해 (A)에서 설명된 조건의 실제 사례('유사기억')를 제시합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "There will be, however, occasions where it is appropriate, even necessary, to coin special uses through what philosophers call stimulative definition.\nThis would be the case where the current lexicon is not able to _________________________ that you think are philosophically important.\nFor example, we do not have a term in ordinary language that describes a memory that is not necessarily a memory of something the person having it has experienced.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "follow established rules" },
+        { "number": "②", "text": "create popular appeal" },
+        { "number": "③", "text": "avoid complex ideas" },
+        { "number": "④", "text": "satisfy all participants" },
+        { "number": "⑤", "text": "make distinctions" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 새로운 용어를 만들어야 하는 경우를 설명하고 있습니다. 그 경우는 바로 기존 어휘가 철학적으로 중요한 '구별(distinctions)'을 할 수 없을 때입니다. 뒤따르는 '유사기억'의 예시는 '자신이 경험한 것에 대한 기억'과 '경험하지 않은 것에 대한 기억 같은 경험' 사이의 중요한 구별을 하기 위해 새로운 용어가 필요했음을 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "As a general rule, it's better if your definition ① corresponds as closely as possible to the way in which the term is ordinarily used...\nThere will be, however, occasions where it is ② appropriate, even necessary, to coin special uses...\nThis would be the case where the current lexicon is not able to make ③ distinctions that you think are philosophically important.\nFor example, we do not have a term in ordinary language that describes a memory that is not necessarily a memory of something the person having it has ④ experienced.\nTo call this a memory would be ⑤ precise.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글쓴이는 직접 경험하지 않은 기억 같은 경험을 '기억(memory)'이라고 부르는 것이 부적절하다고 말하고 있습니다. 그 이유는 일반적인 '기억'의 개념과 달라 혼동을 주기 때문입니다. 따라서 이것을 '기억'이라고 부르는 것은 '정확한(precise)' 것이 아니라 '오해를 불러일으키는(misleading)' 것입니다. 그러므로 precise는 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in which the term is ordinarily used in the kinds of debates to which your claims are (A) pertinent.\nThere will be, however, occasions where it is appropriate, even necessary, to (B) coin special uses...\nThis would be the case where the current (C) lexicon is not able to make distinctions that you think are philosophically important.\n...To call this a memory would be (D) misleading.\nFor this reason, philosophers have coined the special term 'quasimemory' to refer to these (E) hypothetical memory-like experiences.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) pertinent: relevant or applicable to a particular matter" },
+        { "number": "②", "text": "(B) coin: to invent a new word or phrase" },
+        { "number": "③", "text": "(C) lexicon: the vocabulary of a person, language, or branch of knowledge" },
+        { "number": "④", "text": "(D) misleading: giving the right impression and leading to a correct conclusion" },
+        { "number": "⑤", "text": "(E) hypothetical: based on a suggested idea or theory; not real" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'misleading'은 '오해를 불러일으키는'이라는 의미입니다. 제시된 영영 풀이 'giving the right impression and leading to a correct conclusion(올바른 인상을 주고 정확한 결론으로 이끄는)'는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in which the term is (A) [ordinarily / specially] used... This would be the case where the current lexicon is not (B) [able / unable] to make distinctions that you think are philosophically important. ... Such a thing would occur, for example, if I could somehow share your memories ... To call this a memory would be (C) [misleading / helpful].",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "ordinarily - unable - misleading" },
+        { "number": "②", "text": "ordinarily - able - helpful" },
+        { "number": "③", "text": "specially - unable - misleading" },
+        { "number": "④", "text": "specially - able - helpful" },
+        { "number": "⑤", "text": "ordinarily - unable - helpful" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 일반적인 규칙에 따르면, 정의는 용어가 '일상적으로(ordinarily)' 사용되는 방식과 일치하는 것이 좋다. (B) 그러나 기존 어휘가 중요한 구별을 할 수 '없을(unable)' 때 새로운 용어가 필요하다. (C) 경험하지 않은 것을 '기억'이라고 부르는 것은 '오해를 불러일으킬(misleading)' 수 있다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① There will be, however, occasions where it is appropriate, even necessary, to coin special uses through stipulative definition. ② This would be the case where the current lexicon is not able to make distinctions that you think are philosophically important. ③ For example, we do not have a term that describes a memory of something one has not experienced. ④ Human memory is notoriously unreliable and can often be distorted over time. ⑤ Such a thing would occur if I could somehow share your memories: I would have a memory-type experience, but not of something I had actually experienced.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '언어'의 한계 때문에 철학적으로 중요한 구별을 위해 새로운 '용어'가 필요한 이유를 설명하고 있습니다. ④번 문장은 '인간 기억' 자체의 신뢰성에 대해 이야기하는데, 이는 언어적 정의의 문제가 아니라 심리학적 현상에 대한 내용이므로, 글의 중심 논점인 '정의와 용어'의 문제에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "As a general rule, it's better if your definition corresponds as closely as possible to the way in ① [which / that] the term is ordinarily used... This would be the case ② [where / which] the current lexicon is not able to make distinctions that you think are philosophically important. ... I would have a memory-type experience, but this would not be of something that I ③ [had / have] actually experienced.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "which",
+          "explanation": "전치사 'in' 뒤에는 관계대명사 'that'을 사용할 수 없습니다. 따라서 'in which'가 올바른 형태입니다. 'the way in which'는 '~하는 방식'을 의미합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "where",
+          "explanation": "선행사 'the case'는 추상적인 '경우' 또는 '상황'을 나타내므로, 장소나 상황을 나타내는 관계부사 'where'가 적절합니다. 'in which case'와 같은 의미입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "had",
+          "explanation": "이 문장은 'if I could somehow share your memories'라는 가정법 과거의 조건절에 이어지는 주절의 일부입니다. 주절이 'would have'로 가정법 과거 형태이므로, 종속절에서 언급되는 경험은 실제로 일어나지 않은 과거의 사실에 대한 가정이므로 과거완료 시제 'had actually experienced'를 사용하여 가정법의 시제를 맞추는 것이 자연스럽습니다."
+        }
+      ]
+    }
+  ]
+}

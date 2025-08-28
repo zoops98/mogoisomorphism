@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The word \"migration\" is almost always reported in the popular media and even in scientific literature as a problem or a crisis. For example, migrants are assumed to overcrowd cities, clog up labor markets, and increase poverty. The other questionable assumption is that most migration is involuntary ─ people fleeing natural or man-made disasters. The reality, however, is more complex, and many migrants are simply seeking greater economic opportunity. Of course migration can and does create social and economic problems. But migration can also be a solution for many preexisting problems. For example, out-migration generally redistributes workers from places of labor surplus to areas where there is greater demand or more opportunity. Migration is generally selective of persons who are younger, healthier, more flexible, and more willing to endure hardship in hopes of a better life relative to their prospects in their places of of origin. Most research that examines long‐term outcomes of migration, including remittances and intergenerational mobility, finds positive \"long-term\" effects on places of origin and destination.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To warn about the dangers of involuntary migration."
+        },
+        {
+          "number": "②",
+          "text": "To analyze the causes of natural and man-made disasters."
+        },
+        {
+          "number": "③",
+          "text": "To suggest new policies for managing labor markets."
+        },
+        {
+          "number": "④",
+          "text": "To provide a more balanced and positive perspective on migration."
+        },
+        {
+          "number": "⑤",
+          "text": "To criticize the media for its biased reporting on social issues."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 이주(migration)가 대중 매체에서 문제나 위기로 보도되는 일반적인 통념을 반박합니다. 이주가 문제 해결책이 될 수 있고, 장기적으로 긍정적인 효과가 있다는 등 복잡하고 긍정적인 측면을 제시하며, 이주에 대한 보다 균형 잡힌 시각을 제공하는 것을 목적으로 합니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The word \"migration\" is almost always reported in the popular media and even in scientific literature as a problem or a crisis. For example, migrants are assumed to overcrowd cities, clog up labor markets, and increase poverty. The other questionable assumption is that most migration is involuntary ─ people fleeing natural or man-made disasters. The reality, however, is more complex, and many migrants are simply seeking greater economic opportunity. Of course migration can and does create social and economic problems. But migration can also be a solution for many preexisting problems. For example, out-migration generally redistributes workers from places of labor surplus to areas where there is greater demand or more opportunity. Migration is generally selective of persons who are younger, healthier, more flexible, and more willing to endure hardship in hopes of a better life relative to their prospects in their places of of origin. Most research that examines long‐term outcomes of migration, including remittances and intergenerational mobility, finds positive \"long-term\" effects on places of origin and destination.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Global Migration Crisis"
+        },
+        {
+          "number": "②",
+          "text": "Migration: More of a Solution Than a Problem"
+        },
+        {
+          "number": "③",
+          "text": "Overcrowded Cities: A Result of Migration"
+        },
+        {
+          "number": "④",
+          "text": "The Profile of a Typical Migrant"
+        },
+        {
+          "number": "⑤",
+          "text": "How Remittances Reshape Economies"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 이주가 '문제'나 '위기'로 여겨지는 통념에 반대하며, 오히려 많은 기존 문제들에 대한 '해결책'이 될 수 있고 장기적으로 긍정적인 효과를 가져온다고 주장합니다. 따라서 이 제목이 글의 핵심 주장을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The word \"migration\" is almost always reported in the popular media and even in scientific literature as a problem or a crisis. For example, migrants are assumed to overcrowd cities, clog up labor markets, and increase poverty. The other questionable assumption is that most migration is involuntary ─ people fleeing natural or man-made disasters. The reality, however, is more complex, and many migrants are simply seeking greater economic opportunity. Of course migration can and does create social and economic problems. But migration can also be a solution for many preexisting problems. For example, out-migration generally redistributes workers from places of labor surplus to areas where there is greater demand or more opportunity. Migration is generally selective of persons who are younger, healthier, more flexible, and more willing to endure hardship in hopes of a better life relative to their prospects in their places of of origin. Most research that examines long‐term outcomes of migration, including remittances and intergenerational mobility, finds positive \"long-term\" effects on places of origin and destination.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The popular media accurately portrays the widespread problems and crises that are caused by global migration."
+        },
+        {
+          "number": "②",
+          "text": "Migration is primarily a negative force that creates serious social problems without any long-term benefits."
+        },
+        {
+          "number": "③",
+          "text": "Contrary to popular belief, migration can be an economic solution with positive long-term effects on both regions."
+        },
+        {
+          "number": "④",
+          "text": "Most migrants are forced to leave their homes involuntarily due to unexpected natural or man-made disasters."
+        },
+        {
+          "number": "⑤",
+          "text": "The greatest challenge of migration is the overcrowding of cities and the subsequent dramatic increase in poverty."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 주장은 이주에 대한 일반적인 부정적 통념과 달리, 이주가 노동력 재분배와 같은 경제적 해결책이 될 수 있으며, 장기적으로는 송출국과 유입국 모두에 긍정적인 효과를 가져온다는 것입니다. 이는 '대중적 믿음과 달리, 이주는 양 지역 모두에 긍정적인 장기적 효과를 가진 경제적 해결책이 될 수 있다'는 요지로 요약됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The reality, however, is more complex, and many migrants are simply seeking greater economic opportunity. Of course migration can and does create social and economic problems. ( ① ) For example, out-migration generally redistributes workers from places of labor surplus to areas where there is greater demand or more opportunity. ( ② ) Migration is generally selective of persons who are younger, healthier, more flexible, and more willing to endure hardship in hopes of a better life relative to their prospects in their places of origin. ( ③ ) Most research that examines long‐term outcomes of migration, including remittances and intergenerational mobility, finds positive \"long-term\" effects on places of origin and destination. ( ④ ) These findings challenge the purely negative view of migration. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But migration can also be a solution for many preexisting problems.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '그러나 이주는 많은 기존 문제에 대한 해결책이 될 수도 있다'는 내용입니다. (①) 앞 문장은 '물론 이주는 사회적, 경제적 문제를 일으킬 수 있다'며 이주의 부정적인 측면을 인정합니다. 주어진 문장은 'But'으로 시작하여 앞 내용과 대조를 이루며 이주의 긍정적인 측면, 즉 '해결책'으로서의 역할을 도입합니다. 그리고 (①) 뒷 문장은 '예를 들어'라며 그 해결책의 구체적인 사례를 제시하므로, 주어진 문장은 (①)에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The word \"migration\" is almost always reported in the popular media and even in scientific literature as a problem or a crisis. For example, migrants are assumed to overcrowd cities, clog up labor markets, and increase poverty.",
+      "question_blocks": {
+        "A": "For example, out-migration generally redistributes workers from places of labor surplus to areas where there is greater demand or more opportunity. Migration is generally selective of persons who are younger, healthier, more flexible...",
+        "B": "The other questionable assumption is that most migration is involuntary ─ people fleeing natural or man-made disasters. The reality, however, is more complex, and many migrants are simply seeking greater economic opportunity.",
+        "C": "Of course migration can and does create social and economic problems. But migration can also be a solution for many preexisting problems."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 이주에 대한 첫 번째 부정적 통념을 제시합니다. (B)에서 '다른 의심스러운 가정'이라며 두 번째 통념을 제시하고, '그러나 현실은 더 복잡하다'며 반론을 시작합니다. (C)는 이주의 부정적 측면을 일부 인정하면서도('Of course'), '그러나' 해결책이 될 수 있다고 글의 핵심 주장을 제시하며 전환점 역할을 합니다. 마지막으로 (A)는 '예를 들어'라며 (C)에서 제시된 '해결책'의 구체적인 사례와 이주자의 긍정적 특성을 설명합니다. 따라서 (B)-(C)-(A)의 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The word \"migration\" is almost always reported in the popular media... as a problem or a crisis. ... The other questionable assumption is that most migration is involuntary ─ people fleeing natural or man-made disasters. The reality, however, is more complex, and many migrants are simply ____________________. Of course migration can and does create social and economic problems. But migration can also be a solution for many preexisting problems.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "overcrowding the world's largest cities"
+        },
+        {
+          "number": "②",
+          "text": "seeking greater economic opportunity"
+        },
+        {
+          "number": "③",
+          "text": "creating new social and economic problems"
+        },
+        {
+          "number": "④",
+          "text": "clogging up the local labor markets"
+        },
+        {
+          "number": "⑤",
+          "text": "fleeing from their places of origin"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸은 이주에 대한 통념(비자발적 재난 회피)과 대조되는 '현실'을 설명하는 자리입니다. 글은 이주가 단순히 부정적인 현상이 아니라, 노동력 재분배와 같은 긍정적 측면이 있다고 설명합니다. 이는 이주자들이 더 나은 삶을 찾아 자발적으로 움직이는 경우가 많다는 것을 의미하므로, '더 큰 경제적 기회를 추구하는 것'이 빈칸에 들어갈 가장 적절한 말입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The word \"migration\" is almost always reported in the popular media... as a ① [problem] or a crisis. The other questionable assumption is that most migration is ② [involuntary]. The reality, however, is more ③ [complex], and many migrants are simply seeking greater economic opportunity. For example, out-migration generally redistributes workers from places of labor ④ [surplus] to areas where there is greater demand. Most research that examines long‐term outcomes of migration... finds ⑤ [negative] \"long-term\" effects on places of origin and destination.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 이주에 대한 부정적인 통념을 반박하고 긍정적인 측면을 부각하고 있습니다. 글의 마지막 문장은 연구 결과가 이주의 장기적인 결과를 어떻게 평가하는지 요약하는 부분입니다. 글의 전체적인 논조에 따라, 연구 결과는 '긍정적인(positive)' 장기적 효과를 발견했다고 해야 합니다. 따라서 '부정적인(negative)'은 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The other questionable (A) [assumption] is that most migration is involuntary. ... out-migration generally (B) [redistributes] workers from places of labor (C) [surplus] to areas where there is greater demand. Migration is generally (D) [selective] of persons who are younger, healthier, and more flexible. Most research that examines long‐term outcomes of migration, including (E) [remittances] and intergenerational mobility, finds positive \"long-term\" effects.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) assumption: something that is believed to be true without proof."
+        },
+        {
+          "number": "②",
+          "text": "(B) redistributes: to share or divide something in a new way."
+        },
+        {
+          "number": "③",
+          "text": "(C) surplus: an amount that is more than what is needed."
+        },
+        {
+          "number": "④",
+          "text": "(D) selective: tending to choose things very carefully."
+        },
+        {
+          "number": "⑤",
+          "text": "(E) remittances: official orders to forgive a person for a crime."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) remittances는 '송금액'을 의미하며, 특히 이민자가 고국으로 보내는 돈을 가리킵니다. '범죄에 대해 개인을 용서하는 공식적인 명령'이라는 설명은 '사면(pardon)'에 해당하며, 'remittances'의 의미와는 전혀 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The word \"migration\" is almost always reported... as a (A) [problem / solution]. ... many migrants are simply seeking greater economic opportunity. Of course migration can and does create social and economic problems. But migration can also be a solution for many preexisting problems. For example, out-migration generally redistributes workers from places of labor (B) [surplus / shortage] to areas where there is greater demand. Most research ... finds (C) [positive / negative] \"long-term\" effects on places of origin and destination.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "problem - surplus - positive"
+        },
+        {
+          "number": "②",
+          "text": "problem - shortage - negative"
+        },
+        {
+          "number": "③",
+          "text": "solution - surplus - positive"
+        },
+        {
+          "number": "④",
+          "text": "solution - shortage - negative"
+        },
+        {
+          "number": "⑤",
+          "text": "problem - surplus - negative"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 글의 도입부에서 이주는 대개 '문제(problem)'로 보도된다고 통념을 소개합니다. (B) 이주는 노동력이 '과잉(surplus)'인 곳에서 수요가 있는 곳으로 노동자를 재분배합니다. (C) 글의 주장에 따르면, 대부분의 연구는 이주의 '긍정적인(positive)' 장기 효과를 발견합니다. 따라서 정답은 problem - surplus - positive 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "For example, out-migration generally redistributes workers from places of labor surplus to areas where there is greater demand or more opportunity. ① Migration is generally selective of persons who are younger, healthier, more flexible, and more willing to endure hardship in hopes of a better life. ② Intergenerational mobility refers to the change in social status between different generations within the same family. ③ Most research that examines long‐term outcomes of migration, including remittances and intergenerational mobility, finds positive \"long-term\" effects. ④ These positive outcomes challenge the common narrative that migration is only a crisis. ⑤ The selective nature of migrants often contributes to these positive results.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 이주의 긍정적 측면과 그 원인(이주자의 특성) 및 결과(송금, 세대 간 이동성)에 대해 설명하고 있습니다. ②번 문장 '세대 간 이동성은 같은 가족 내 다른 세대 간의 사회적 지위 변화를 의미한다'는 '세대 간 이동성'이라는 용어 자체를 정의하는 것으로, 이주가 왜 긍정적인지에 대한 논의의 흐름을 끊고 있습니다. 글의 맥락은 이 용어를 정의하는 것이 아니라, 이것이 이주의 긍정적 결과 중 하나임을 언급하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "For example, migrants are assumed ① [to overcrowd / overcrowding] cities, clog up labor markets, and increase poverty. The other questionable assumption is that most migration is involuntary ─ people ② [fleeing / fled] natural or man-made disasters. The reality, however, is more complex, and many migrants are simply seeking greater economic opportunity. Most research that examines long‐term outcomes of migration... ③ [finds / find] positive \"long-term\" effects on places of origin and destination.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to overcrowd",
+          "explanation": "'be assumed to + 동사원형'은 '~한다고 추정되다'라는 의미의 수동태 구문입니다. 따라서 to부정사인 'to overcrowd'가 와야 합니다. 'clog up'과 'increase'도 'to'에 병렬로 연결되어 있습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "fleeing",
+          "explanation": "앞에 있는 명사 'people'을 수식하는 현재분사가 필요합니다. '재난으로부터 달아나는 사람들'이라는 능동의 의미이므로 'fleeing'이 맞습니다. 'who are fleeing'에서 'who are'가 생략된 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "finds",
+          "explanation": "이 문장의 주어는 'Most research'입니다. 'research'는 셀 수 없는 명사로 단수 취급하므로, 단수 동사인 'finds'가 와야 합니다. 'that examines...'는 주어를 수식하는 관계대명사절입니다."
+        }
+      ]
+    }
+  ]
+}

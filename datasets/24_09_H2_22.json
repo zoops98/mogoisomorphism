@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Any new or threatening situation may require us to make decisions and this requires information.\nSo important is communication during a disaster that normal social barriers are often lowered.\nWe will talk to strangers in a way we would never consider normally.\nEven relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.\nThe more important an event to a particular public, the more detailed and urgent the requirement for news becomes.\nWithout an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.\nRumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on.\nFor example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "재난 상황 시 낯선 사람을 경계하라고 경고하기 위해" },
+        { "number": "②", "text": "신뢰할 수 있는 언론 매체의 중요성을 강조하기 위해" },
+        { "number": "③", "text": "위기 상황에서 의사소통 방식이 변하는 양상을 설명하기 위해" },
+        { "number": "④", "text": "직장 내에서 소문을 퍼뜨리는 행위의 위험성을 알리기 위해" },
+        { "number": "⑤", "text": "일상생활에서 사회적 예절을 지키는 것의 필요성을 역설하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 위협적인 상황이 닥쳤을 때 정보에 대한 필요성이 증가하며, 이로 인해 평소의 사회적 장벽이 낮아져 소통 방식이 변하고, 신뢰할 만한 정보원이 없을 경우 소문이 만연하게 되는 현상을 설명하고 있습니다. 따라서 글의 주된 목적은 위기 시의 의사소통 방식 변화를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Any new or threatening situation may require us to make decisions and this requires information.\nSo important is communication during a disaster that normal social barriers are often lowered.\nWe will talk to strangers in a way we would never consider normally.\nEven relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.\nThe more important an event to a particular public, the more detailed and urgent the requirement for news becomes.\nWithout an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.\nRumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on.\nFor example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Rumors: The Unseen Enemy" },
+        { "number": "②", "text": "Why We Talk to Strangers" },
+        { "number": "③", "text": "The Power of Authoritative News" },
+        { "number": "④", "text": "Crisis, Communication, and the Spread of Rumors" },
+        { "number": "⑤", "text": "How to Survive a Natural Disaster" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 제목은 글의 핵심 요소인 '위기(Crisis)' 상황, 그로 인해 변하는 '소통(Communication)' 방식, 그리고 정보 부재 시 발생하는 '소문의 확산(the Spread of Rumors)'이라는 세 가지 주요 개념을 모두 포괄합니다. 따라서 글 전체의 내용을 가장 잘 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Any new or threatening situation may require us to make decisions and this requires information.\nSo important is communication during a disaster that normal social barriers are often lowered.\nWe will talk to strangers in a way we would never consider normally.\nEven relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.\nThe more important an event to a particular public, the more detailed and urgent the requirement for news becomes.\nWithout an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.\nRumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on.\nFor example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "People should always verify information from multiple sources before they decide to pass it on." },
+        { "number": "②", "text": "Crisis situations heighten our need for information, altering communication behaviors and fostering rumors without reliable news." },
+        { "number": "③", "text": "The most dangerous aspect of any disaster is the psychological panic caused by spreading rumors." },
+        { "number": "④", "text": "Modern society relies too heavily on official media channels and has lost its community communication skills." },
+        { "number": "⑤", "text": "Maintaining normal social etiquette during a crisis is essential for preventing widespread chaos and disorder." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 위기 상황이 정보에 대한 필요를 높이고, 이로 인해 사람들의 소통 행위가 변하며(예: 낯선 이와 대화), 신뢰할 만한 뉴스 매체가 없을 경우 소문이 조장된다는 것입니다. 이 선택지는 이러한 인과 관계를 가장 정확하고 포괄적으로 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Any new or threatening situation may require us to make decisions and this requires information. So important is communication during a disaster that normal social barriers are often lowered. We will talk to strangers in a way we would never consider normally. Even relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers. ( ① ) The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. ( ② ) Rumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on. ( ③ ) For example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues. ( ④ ) This illustrates the tendency to share unverified information when a perceived threat exists. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Without an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 권위 있는 정보원이 없을 때 소문이 만연한다는 내용입니다. 이 문장은 앞서 '뉴스에 대한 요구가 더 상세하고 긴급해진다'는 내용과 자연스럽게 연결됩니다. 즉, 정보 요구가 커지는 상황에서 신뢰할 만한 정보가 공급되지 않으면 그 공백을 소문이 채운다는 논리적 흐름을 만듭니다. 그 뒤 문장에서 소문이 '왜' 시작되는지에 대한 설명이 이어지므로, ②가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Any new or threatening situation may require us to make decisions and this requires information. So important is communication during a disaster that normal social barriers are often lowered.",
+      "question_blocks": {
+        "A": "The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. Without an authoritative source of facts, rumours often run riot.",
+        "B": "We will talk to strangers in a way we would never consider normally. Even relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.",
+        "C": "Rumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on. For example, if a worker heard that their employer's business was doing badly... they would pass that information on."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 위기 시 정보의 필요성으로 사회적 장벽이 낮아진다고 언급합니다. (B)는 이에 대한 구체적인 예시(낯선 사람과 대화)를 제시하며 부연 설명합니다. (A)는 논점을 개인 간의 소통에서 대중의 뉴스 요구로 확장하고, 권위 있는 정보원이 없을 때 소문이 발생함을 소개합니다. (C)는 (A)에서 소개된 소문이 발생하는 심리적 원인과 구체적인 예를 들어 글을 마무리합니다. 따라서 (B)-(A)-(C)가 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Without an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.\nRumours start because ___________________________________ and so, although the rumour is unproven, feel they should pass it on.\nFor example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the information seems entertaining" },
+        { "number": "②", "text": "people believe their group to be in danger" },
+        { "number": "③", "text": "official news sources are too slow" },
+        { "number": "④", "text": "they want to intentionally cause chaos" },
+        { "number": "⑤", "text": "the story is confirmed by a friend" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸 뒤에는 검증되지 않았음에도 불구하고 소문을 전달해야 한다고 느낀다는 내용이 이어집니다. 그 이유를 설명하는 자리로, 이어지는 예시(해고 가능성)에서 동료 그룹에 대한 위험을 암시하고 있습니다. 따라서 사람들은 자신의 그룹이 위험에 처해 있다고 믿기 때문에 보호 차원에서 소문을 퍼뜨린다고 추론할 수 있습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "So important is communication during a disaster that normal social barriers are often ① `strengthened`. We will talk to strangers in a way we would never consider normally. Even relatively low grade ② `disruption` of our life ... gives us the permission to break normal etiquette. The more important an event to a particular public, the more ③ `urgent` the requirement for news becomes. Without an authoritative source of facts ... rumours often run riot. Rumours start because people believe their group to be in danger and so, although the rumour is ④ `unproven`, feel they should ⑤ `pass it on`.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "strengthened" },
+        { "number": "②", "text": "disruption" },
+        { "number": "③", "text": "urgent" },
+        { "number": "④", "text": "unproven" },
+        { "number": "⑤", "text": "pass it on" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "재난 상황에서 평소라면 고려하지 않을 방식으로 낯선 사람과 대화하게 된다는 내용이 뒤따르므로, 평소의 사회적 장벽은 '강화되는(strengthened)' 것이 아니라 '낮아지는(lowered)' 것이 문맥상 자연스럽습니다. 'strengthened'는 글의 흐름과 반대되는 단어입니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "Even relatively low grade (A) `disruption` of our life ... gives us the permission to break normal (B) `etiquette` and talk to strangers. ... Without an (C) `authoritative` source of facts ... rumours often run (D) `riot`. ... if a worker heard that ... people were going to be made (E) `redundant`, they would pass that information on.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) disruption: an interruption to the regular way that a system or process works" },
+        { "number": "②", "text": "(B) etiquette: the formal rules for polite behavior in society or in a particular group" },
+        { "number": "③", "text": "(C) authoritative: able to be trusted as being accurate and true; reliable" },
+        { "number": "④", "text": "(D) riot: a violent protest or disturbance by a crowd of people" },
+        { "number": "⑤", "text": "(E) redundant: (of a person) no longer in employment because there is no more work available" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'run riot'은 '걷잡을 수 없이 퍼지다, 만연하다'라는 의미의 관용구입니다. 여기서 'riot'은 실제 '폭동'이나 '난동'을 의미하지 않습니다. 따라서 (D)의 영영 풀이는 관용구의 의미를 반영하지 못한, 단어의 문자적 의미만을 설명하고 있어 부적절합니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "So important is communication during a disaster that normal social barriers are often (A) [lowered / raised]. ... The more important an event to a particular public, the more detailed and (B) [urgent / trivial] the requirement for news becomes. ... Rumours start because people believe their group to be in (C) [danger / safety] and so, although the rumour is unproven, feel they should pass it on.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "lowered - urgent - danger" },
+        { "number": "②", "text": "lowered - trivial - safety" },
+        { "number": "③", "text": "lowered - urgent - safety" },
+        { "number": "④", "text": "raised - trivial - danger" },
+        { "number": "⑤", "text": "raised - urgent - danger" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 위기 상황에서는 정보를 얻기 위해 평소의 사회적 장벽이 '낮아집니다(lowered)'. (B) 사건이 중요할수록 뉴스에 대한 요구는 더욱 '긴급해집니다(urgent)'. (C) 사람들은 자신의 집단이 '위험(danger)'에 처했다고 믿기 때문에 확인되지 않은 소문이라도 전달하려고 합니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "Any new or threatening situation may require us to make decisions and this requires information.\nSo important is communication during a disaster that normal social barriers are often lowered.\nWe will talk to strangers in a way we would never consider normally.\nEven relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.\nThe more important an event to a particular public, the more detailed and urgent the requirement for news becomes.\nWithout an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.\nRumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on.\nFor example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "위협적인 상황은 정보에 기반한 의사 결정을 요구한다." },
+        { "number": "②", "text": "비교적 사소한 혼란 상황에서도 평소의 사회적 규범이 깨질 수 있다." },
+        { "number": "③", "text": "사건의 중요도가 높을수록 뉴스에 대한 대중의 요구는 더 커진다." },
+        { "number": "④", "text": "소문은 그것이 사실이 아님을 알면서도 의도적으로 퍼뜨리는 것이다." },
+        { "number": "⑤", "text": "권위 있는 정보원이 없을 때 소문이 걷잡을 수 없이 퍼지기 쉽다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 소문이 '검증되지 않았음에도 불구하고(although the rumour is unproven)' 자신의 집단이 위험에 처했다고 믿기 때문에 전달된다고 설명합니다. 이는 소문이 거짓임을 알면서 의도적으로 퍼뜨리는 악의적인 행위라기보다는, 불확실한 상황 속에서 위험을 공유하려는 동기에서 비롯됨을 의미합니다. 따라서 '거짓임을 알면서'라는 부분이 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "So important ① [is / does] communication during a disaster that normal social barriers are often lowered. We will talk to strangers in a way we would never consider normally. Even relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and ② [talk / talking] to strangers. The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. Without an authoritative source of facts... rumours often run ③ [riot / riotly].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "is",
+          "explanation": "'So + 형용사/부사'가 문장 맨 앞으로 오면서 주어와 동사가 도치된 구문입니다. 원래 문장인 'Communication is so important that...'에서 'So important'가 앞으로 나가면서 be동사인 'is'가 주어 'communication' 앞으로 이동했습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "talk",
+          "explanation": "등위 접속사 'and'에 의해 'to break'와 병렬 구조를 이루고 있습니다. 'the permission to break... and (to) talk...'의 형태로, to부정사가 병렬로 연결될 때 두 번째 to는 종종 생략됩니다. 따라서 동사원형 'talk'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "riot",
+          "explanation": "'run riot'은 '걷잡을 수 없이 퍼지다' 또는 '만연하다'는 의미를 가진 고정된 관용구(idiom)입니다. 'riotly'는 표준 영어에서 사용되지 않는 단어입니다."
+        }
+      ]
+    }
+  ]
+}

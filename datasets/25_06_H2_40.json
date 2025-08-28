@@ -1,0 +1,267 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The big problem with money created by the government is that those who run the government always face the temptation to create more money and spend it. Whether among ancient kings or modern politicians, this has happened again and again over the centuries, leading to inflation and the many economic and social problems that follow from inflation. For this reason, many countries have preferred using gold, silver, or some other material that is inherently limited in supply, as money. It is a way of depriving governments of the power to expand the money supply to inflationary levels. Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly. When paper money is convertible into gold whenever the individual chooses to do so, then the money is said to be \"backed up\" by gold. This expression is misleading only if we imagine that the value of the gold is somehow transferred to the paper money, when in fact the real point is that the gold simply limits the amount of paper money that can be issued.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To encourage private investment in gold and silver."
+        },
+        {
+          "number": "②",
+          "text": "To criticize the spending habits of modern politicians."
+        },
+        {
+          "number": "③",
+          "text": "To explain the historical use of gold to control the money supply."
+        },
+        {
+          "number": "④",
+          "text": "To describe the process of mining and minting gold."
+        },
+        {
+          "number": "⑤",
+          "text": "To argue for a global return to the gold standard."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 정부가 화폐를 발행할 때 발생하는 인플레이션의 문제점을 지적하고, 이러한 문제를 해결하기 위해 과거부터 금과 같이 공급이 제한된 물질을 화폐로 사용해 온 이유를 설명하고 있습니다. 즉, 금을 이용하여 정부의 통화 공급 팽창 능력을 제한하는 원리를 설명하는 것이 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The big problem with money created by the government is that those who run the government always face the temptation to create more money and spend it. Whether among ancient kings or modern politicians, this has happened again and again over the centuries, leading to inflation and the many economic and social problems that follow from inflation. For this reason, many countries have preferred using gold, silver, or some other material that is inherently limited in supply, as money. It is a way of depriving governments of the power to expand the money supply to inflationary levels. Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly. When paper money is convertible into gold whenever the individual chooses to do so, then the money is said to be \"backed up\" by gold. This expression is misleading only if we imagine that the value of the gold is somehow transferred to the paper money, when in fact the real point is that the gold simply limits the amount of paper money that can be issued.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Dangers of High Inflation"
+        },
+        {
+          "number": "②",
+          "text": "How Governments Create Modern Money"
+        },
+        {
+          "number": "③",
+          "text": "Gold: A Check on Inflationary Temptation"
+        },
+        {
+          "number": "④",
+          "text": "The History and Future of Paper Money"
+        },
+        {
+          "number": "⑤",
+          "text": "Understanding the True Value of Gold"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 정부가 돈을 더 많이 찍어내고 싶은 '유혹(temptation)'과 그로 인한 '인플레이션(inflation)'을 핵심 문제로 제시하고, 이에 대한 '견제 장치(check)'로서 금의 역할을 설명하고 있습니다. 따라서 이 제목은 글의 핵심 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The big problem with money created by the government is that those who run the government always face the temptation to create more money and spend it. Whether among ancient kings or modern politicians, this has happened again and again over the centuries, leading to inflation and the many economic and social problems that follow from inflation. For this reason, many countries have preferred using gold, silver, or some other material that is inherently limited in supply, as money. It is a way of depriving governments of the power to expand the money supply to inflationary levels. Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly. When paper money is convertible into gold whenever the individual chooses to do so, then the money is said to be \"backed up\" by gold. This expression is misleading only if we imagine that the value of the gold is somehow transferred to the paper money, when in fact the real point is that the gold simply limits the amount of paper money that can be issued.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Governments have consistently demonstrated an ability to manage their economies without causing any significant inflation."
+        },
+        {
+          "number": "②",
+          "text": "Using a limited commodity like gold for money prevents governments from causing excessive inflation by printing money."
+        },
+        {
+          "number": "③",
+          "text": "The primary value of paper money comes from the intrinsic value of the gold that is somehow transferred to it."
+        },
+        {
+          "number": "④",
+          "text": "The global supply of gold has been increasing very rapidly in recent years, making it unsuitable as a currency base."
+        },
+        {
+          "number": "⑤",
+          "text": "Inflation is a necessary economic phenomenon that modern politicians have learned to control effectively without any help."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 정부의 화폐 발행 유혹이 인플레이션을 유발하기 때문에, 공급이 제한된 금과 같은 상품을 화폐로 사용하여 정부의 통화 공급 팽창 능력을 박탈하고 인플레이션을 막는다는 것입니다. 이는 '금과 같은 한정된 상품을 화폐로 사용하는 것은 정부가 돈을 찍어내 과도한 인플레이션을 유발하는 것을 막는다'는 요지로 요약됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Whether among ancient kings or modern politicians, this has happened again and again over the centuries, leading to inflation and the many economic and social problems that follow from inflation. ( ① ) For this reason, many countries have preferred using gold, silver, or some other material that is inherently limited in supply, as money. ( ② ) Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly. ( ③ ) When paper money is convertible into gold whenever the individual chooses to do so, then the money is said to be \"backed up\" by gold. ( ④ ) This expression is misleading only if we imagine that the value of the gold is somehow transferred to the paper money, when in fact the real point is that the gold simply limits the amount of paper money that can be issued. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**It is a way of depriving governments of the power to expand the money supply to inflationary levels.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 금과 같은 희소 물질을 화폐로 사용하는 것이 정부로부터 통화 팽창 권한을 박탈하는 방법임을 설명합니다. (②) 앞 문장은 이러한 이유로 많은 나라들이 공급이 제한된 물질을 화폐로 선호했다고 말합니다. 주어진 문장은 그 방법의 구체적인 작동 원리를 설명합니다. 그리고 (②) 뒷 문장은 '이러한 목적(this purpose)'에 금이 이상적이라고 말하는데, 여기서 '목적'은 주어진 문장에서 설명된 '정부의 권한을 박탈하는 것'을 가리킵니다. 따라서 주어진 문장은 (②)에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The big problem with money created by the government is that those who run the government always face the temptation to create more money and spend it. Whether among ancient kings or modern politicians, this has happened again and again over the centuries, leading to inflation and the many economic and social problems that follow from inflation.",
+      "question_blocks": {
+        "A": "Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly.",
+        "B": "For this reason, many countries have preferred using gold, silver, or some other material that is inherently limited in supply, as money. It is a way of depriving governments of the power to expand the money supply to inflationary levels.",
+        "C": "When paper money is convertible into gold whenever the individual chooses to do so, then the money is said to be 'backed up' by gold. This expression is misleading only if we imagine that the value of the gold is somehow transferred to the paper money, when in fact the real point is that the gold simply limits the amount of paper money that can be issued."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 정부의 화폐 발행이 인플레이션을 유발한다는 문제점을 제시합니다. (B)는 '이러한 이유로(For this reason)'라며, 이 문제에 대한 해결책으로 공급이 제한된 금과 같은 물질을 사용했음을 설명합니다. (A)는 왜 특히 '금'이 이러한 목적에 이상적이었는지를 공급의 특성을 들어 부연 설명합니다. 마지막으로 (C)는 금을 기반으로 한 지폐(금본위제)가 실제로 어떻게 작동하는지, 그리고 그 원리에 대한 오해를 바로잡으며 글을 마무리합니다. 따라서 문제 제기 → 해결책 제시 → 해결책의 구체화 → 작동 원리 설명의 순서인 (B)-(A)-(C)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "For this reason, many countries have preferred using gold, silver, or some other material that is inherently limited in supply, as money. It is a way of depriving governments of the power to ____________________. Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "collect taxes from their citizens"
+        },
+        {
+          "number": "②",
+          "text": "engage in international trade"
+        },
+        {
+          "number": "③",
+          "text": "establish a stable political system"
+        },
+        {
+          "number": "④",
+          "text": "invest in public infrastructure"
+        },
+        {
+          "number": "⑤",
+          "text": "expand the money supply to inflationary levels"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 앞부분에서 정부가 돈을 더 많이 만들어 인플레이션을 유발하는 문제점을 지적했습니다. 금과 같은 제한된 물질을 화폐로 사용하는 것은 바로 이 문제를 해결하기 위함입니다. 따라서 빈칸에는 정부로부터 박탈하려는 권한, 즉 '통화 공급을 인플레이션 수준까지 팽창시키는 힘'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The big problem with money created by the government is that those who run the government always face the ① [temptation] to create more money, leading to ② [inflation]. For this reason, many countries have preferred using gold, or some other material that is inherently ③ [limited] in supply, as money. It is a way of ④ [depriving] governments of the power to expand the money supply. When paper money is convertible into gold, the money is said to be \"backed up\" by gold. The real point is that the gold simply ⑤ [increases] the amount of paper money that can be issued.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "금본위제(gold backing)의 핵심 원리는 보유한 금의 양만큼만 지폐를 발행할 수 있도록 하여 통화량 팽창을 억제하는 것입니다. 따라서 금은 발행될 수 있는 지폐의 양을 '제한하는(limits)' 역할을 합니다. 지폐의 양을 '증가시킨다(increases)'는 것은 글의 핵심 논리와 정반대되는 내용이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The big problem... is that those who run the government always face the (A) [temptation] to create more money... leading to (B) [inflation]. For this reason, many countries have preferred using gold... or some other material that is (C) [inherently] limited in supply. It is a way of (D) [depriving] governments of the power to expand the money supply. When paper money is (E) [convertible] into gold..., then the money is said to be \"backed up\" by gold.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) temptation: a strong desire to do something, especially something wrong."
+        },
+        {
+          "number": "②",
+          "text": "(B) inflation: a general, continuous increase in prices."
+        },
+        {
+          "number": "③",
+          "text": "(C) inherently: as a basic or permanent part of someone or something."
+        },
+        {
+          "number": "④",
+          "text": "(D) depriving: providing someone with something that they need or want."
+        },
+        {
+          "number": "⑤",
+          "text": "(E) convertible: able to be changed into a different form."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) depriving은 '박탈하다, 빼앗다(to prevent someone from having something)'라는 의미입니다. '누군가에게 필요하거나 원하는 것을 제공하다'라는 설명은 'providing'이나 'supplying'에 해당하며, 'depriving'의 의미와는 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "...governments always face the (A) [temptation / obligation] to create more money and spend it... leading to inflation. For this reason, many countries have preferred using gold, silver, or some other material that is inherently (B) [limited / abundant] in supply, as money. It is a way of depriving governments of the power to expand the money supply... the real point is that the gold simply (C) [limits / increases] the amount of paper money that can be issued.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "temptation - limited - limits" },
+        { "number": "②", "text": "temptation - abundant - increases" },
+        { "number": "③", "text": "obligation - limited - limits" },
+        { "number": "④", "text": "obligation - abundant - increases" },
+        { "number": "⑤", "text": "temptation - limited - increases" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 정부는 돈을 더 많이 만들고 싶은 '유혹(temptation)'에 직면합니다. (B) 그래서 공급이 본질적으로 '제한된(limited)' 물질을 화폐로 사용했습니다. (C) 금은 발행될 수 있는 지폐의 양을 '제한합니다(limits)'. 따라서 정답은 temptation - limited - limits 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "It is a way of depriving governments of the power to expand the money supply to inflationary levels. ① Gold has long been considered ideal for this purpose, since the supply of gold in the world usually cannot be increased rapidly. ② Gold is also a highly non-reactive metal, which is why it does not rust or tarnish. ③ When paper money is convertible into gold whenever the individual chooses to do so, then the money is said to be 'backed up' by gold. ④ This expression is misleading only if we imagine that the value of the gold is somehow transferred to the paper money. ⑤ In fact the real point is that the gold simply limits the amount of paper money that can be issued.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 금이 화폐로 사용된 '경제적' 이유, 즉 공급의 희소성과 통화량 팽창 억제 능력에 초점을 맞추고 있습니다. ②번 문장 '금은 또한 반응성이 매우 낮은 금속이라 녹슬거나 변색되지 않는다'는 금의 '화학적' 특성에 대한 설명으로, 글의 경제적 논지 전개와는 관련이 없어 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "For this reason, many countries have preferred ① [using / to have used] gold, silver, or some other material that is inherently limited in supply, as money. Gold has long been considered ② [ideal / ideally] for this purpose, since the supply of gold in the world usually cannot be increased rapidly. When paper money is convertible into gold whenever the individual chooses to do so, then the money is said ③ [to be / being] \"backed up\" by gold.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "using",
+          "explanation": "동사 'prefer'는 목적어로 to부정사와 동명사를 모두 취할 수 있습니다. 여기서는 일반적인 선호를 나타내므로 동명사 'using'이 자연스럽게 사용될 수 있습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "ideal",
+          "explanation": "'be considered' 다음에는 주어(Gold)의 상태를 설명하는 보어가 와야 하므로, 형용사인 'ideal'이 맞습니다. 부사 'ideally'는 동사를 수식합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to be",
+          "explanation": "'be said to + 동사원형'은 '~라고들 한다'는 의미의 수동태 구문입니다. 따라서 to부정사인 'to be'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

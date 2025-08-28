@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract.\nGiven your positive impact, we would like to offer an extension of your contract for the next academic year.\nWe believe your continued involvement will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To complain about a teacher's performance."
+        },
+        {
+          "number": "②",
+          "text": "To announce a new Spanish curriculum."
+        },
+        {
+          "number": "③",
+          "text": "To offer a teacher a contract renewal."
+        },
+        {
+          "number": "④",
+          "text": "To request a recommendation for a new instructor."
+        },
+        {
+          "number": "⑤",
+          "text": "To inform students about a change in schedule."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 스페인어 교사인 Ms. Lopez의 헌신에 감사를 표하고, 그녀의 긍정적인 영향을 언급하며 다음 학년도 계약 연장을 제안하고 있습니다. 따라서 글의 주된 목적은 교사에게 계약 갱신을 제안하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract.\nGiven your positive impact, we would like to offer an extension of your contract for the next academic year.\nWe believe your continued involvement will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Importance of Learning Spanish"
+        },
+        {
+          "number": "②",
+          "text": "A Letter of Gratitude and Contract Extension"
+        },
+        {
+          "number": "③",
+          "text": "Challenges in Foreign Language Education"
+        },
+        {
+          "number": "④",
+          "text": "New Academic Year Guidelines"
+        },
+        {
+          "number": "⑤",
+          "text": "Evaluating Student Progress and Confidence"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 교사에 대한 감사 표현('gratitude')으로 시작하여 계약 연장('contract extension')을 제안하는 내용으로 이어집니다. 따라서 '감사와 계약 연장 제안서'가 글의 전체 내용을 가장 잘 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract.\nGiven your positive impact, we would like to offer an extension of your contract for the next academic year.\nWe believe your continued involvement will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The school principal is looking for a new Spanish instructor to replace the current one very soon."
+        },
+        {
+          "number": "②",
+          "text": "The school wants to renew the contract with a highly valued Spanish instructor for another year."
+        },
+        {
+          "number": "③",
+          "text": "Students have shown significant dissatisfaction with the current methods of teaching Spanish in our school."
+        },
+        {
+          "number": "④",
+          "text": "The letter is primarily intended to outline new responsibilities for the upcoming academic school year."
+        },
+        {
+          "number": "⑤",
+          "text": "Ms. Lopez has requested a considerable salary increase as a condition for her contract renewal."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 핵심 내용은 학교 측이 Ms. Lopez의 뛰어난 기여를 높이 평가하며, 그녀와의 계약을 다음 학년도까지 연장하기를 원한다는 것입니다. 이는 '높이 평가받는 스페인어 교사와의 계약 갱신을 원한다'는 요지로 귀결됩니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish. ( ① ) As the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract. ( ② ) We believe your continued involvement will further enhance our students' learning experience and academic achievement. ( ③ ) This decision comes after careful consideration of your excellent performance throughout the year. ( ④ ) We look forward to your response. ( ⑤ )\nSincerely, James Martin Principal",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Given your positive impact, we would like to offer an extension of your contract for the next academic year.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 Ms. Lopez의 긍정적인 영향을 근거로 계약 연장을 제안하는 내용입니다. 이 문장은 (②)의 앞 문장, 즉 '당신의 기여를 돌아보고 계약 갱신을 고려할 때'라는 내용과 자연스럽게 연결됩니다. 그 후, (②)의 뒷 문장에서 계약 연장을 통해 학생들의 학습 경험이 더욱 향상될 것이라는 기대를 표현하므로, 주어진 문장은 (②)에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.",
+      "question_blocks": {
+        "A": "As the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract. Given your positive impact, we would like to offer an extension of your contract for the next academic year.",
+        "B": "With exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish.",
+        "C": "We believe your continued involvement will further enhance our students' learning experience and academic achievement. We look forward to your response.\nSincerely, James Martin Principal"
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 Ms. Lopez의 헌신에 대한 감사를 표합니다. (B)는 '뛰어난 교수 기술'이라는 구체적인 이유를 들어 감사의 내용을 뒷받침합니다. (A)는 학년 말을 맞아 계약 갱신을 고려하게 된 배경과 함께 구체적인 계약 연장 제안을 합니다. (C)는 이 제안이 받아들여졌을 때의 긍정적 미래를 전망하며 글을 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract.\nGiven your positive impact, we would like to offer an extension of your contract for the next academic year.\nWe believe your ____________________ will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "new teaching materials"
+        },
+        {
+          "number": "②",
+          "text": "response to our previous offer"
+        },
+        {
+          "number": "③",
+          "text": "focus on extracurricular activities"
+        },
+        {
+          "number": "④",
+          "text": "continued involvement"
+        },
+        {
+          "number": "⑤",
+          "text": "strict disciplinary policy"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "앞 문장에서 Ms. Lopez에게 계약 연장을 제안했으므로, 빈칸이 포함된 문장은 그녀가 계속해서 학교에 기여하는 상황을 가정하고 있습니다. 따라서 '당신의 지속적인 참여(continued involvement)'가 학생들의 학습 경험과 학업 성취도를 더욱 향상시킬 것이라고 믿는다는 내용이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Dear Ms. Lopez,\nWe want to express our ① [gratitude] for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly ② [improved] our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to reflect on your contributions and consider the ③ [renewal] of your contract.\nGiven your positive impact, we would like to offer an ④ [extension] of your contract for the next academic year.\nWe believe your continued involvement will further ⑤ [diminish] our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 긍정적인 어조로 Ms. Lopez의 기여를 칭찬하고 계약 연장을 제안하고 있습니다. 따라서 그녀의 지속적인 참여가 학생들의 학습 경험을 '감소시키다(diminish)'가 아니라 '향상시키다(enhance)'라고 하는 것이 문맥에 맞습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your (A) [dedication] as a Spanish instructor.\nWith (B) [exceptional] teaching skills, you have significantly improved our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to (C) [reflect] on your contributions and consider the (D) [renewal] of your contract.\nGiven your positive impact, we would like to offer an extension of your contract for the next academic year.\nWe believe your continued involvement will further (E) [enhance] our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) dedication: the quality of being committed to a task or purpose."
+        },
+        {
+          "number": "②",
+          "text": "(B) exceptional: unusual in a positive way; much greater than usual."
+        },
+        {
+          "number": "③",
+          "text": "(C) reflect: to think deeply or carefully about something."
+        },
+        {
+          "number": "④",
+          "text": "(D) renewal: the action of making an agreement continue for a further period of time."
+        },
+        {
+          "number": "⑤",
+          "text": "(E) enhance: to make something seem smaller or less important than it really is."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) enhance는 '가치나 질을 높이다, 향상시키다(to increase or improve the value, quality, or attractiveness of something)'라는 의미입니다. 제시된 '어떤 것을 실제보다 더 작거나 덜 중요하게 보이게 만들다'는 '축소하다(diminish)' 또는 '경시하다(belittle)'에 가까운 의미이므로 잘못된 설명입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Dear Ms. Lopez,\nWe want to express our (A) [gratitude / indifference] for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have significantly (B) [improved / worsened] our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract.\nGiven your positive impact, we would like to offer an (C) [extension / termination] of your contract for the next academic year.\nWe believe your continued involvement will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "gratitude - improved - extension"
+        },
+        {
+          "number": "②",
+          "text": "gratitude - worsened - termination"
+        },
+        {
+          "number": "③",
+          "text": "indifference - improved - extension"
+        },
+        {
+          "number": "④",
+          "text": "indifference - worsened - termination"
+        },
+        {
+          "number": "⑤",
+          "text": "gratitude - improved - termination"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) Ms. Lopez의 헌신에 대해 '감사(gratitude)'를 표하는 것이 자연스럽습니다. '무관심(indifference)'은 문맥에 맞지 않습니다. (B) 뛰어난 교수 기술로 학생들의 발전을 '향상시켰다(improved)'고 하는 것이 논리적입니다. '악화시켰다(worsened)'는 반대 의미입니다. (C) 긍정적인 평가를 바탕으로 계약 '연장(extension)'을 제안하는 것이므로, '종료(termination)'는 문맥에 어긋납니다. 따라서 정답은 gratitude - improved - extension 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor. ① With exceptional teaching skills, you have significantly improved our students' progress and confidence in Spanish. ② As the year is about to end, it is time for us to reflect on your contributions and consider the renewal of your contract. ③ Mandatory training for all new software systems will be held next month for all teaching staff. ④ Given your positive impact, we would like to offer an extension of your contract for the next academic year. ⑤ We believe your continued involvement will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 Ms. Lopez 개인의 성과를 칭찬하고 계약 연장을 제안하는 내용입니다. 그러나 ③번 문장은 모든 교직원을 대상으로 하는 새로운 소프트웨어 시스템 교육에 대한 공지로, Ms. Lopez의 계약 갱신이라는 글의 중심 내용과 직접적인 관련이 없어 전체적인 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Dear Ms. Lopez,\nWe want to express our gratitude for your dedication as a Spanish instructor.\nWith exceptional teaching skills, you have ① [significant / significantly] improved our students' progress and confidence in Spanish.\nAs the year is about to end, it is time for us ② [to reflect / reflecting] on your contributions and consider the renewal of your contract.\n③ [Given / Giving] your positive impact, we would like to offer an extension of your contract for the next academic year.\nWe believe your continued involvement will further enhance our students' learning experience and academic achievement.\nWe look forward to your response.\nSincerely, James Martin Principal",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "significantly",
+          "explanation": "동사 'improved'를 수식하기 위해서는 부사 형태인 'significantly'가 와야 합니다. 형용사 'significant'는 명사를 수식합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to reflect",
+          "explanation": "'it is time for (목적격) to (동사원형)' 구문은 '~가 ...할 시간이다'라는 의미로, to 부정사를 사용하는 것이 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "Given",
+          "explanation": "'Given'은 '~을 고려해 볼 때'라는 의미의 전치사나 분사구문으로 사용됩니다. 'Giving'은 '~을 주면서'라는 능동의 의미이므로, '당신의 긍정적인 영향을 고려해 볼 때'라는 문맥에는 'Given'이 적절합니다."
+        }
+      ]
+    }
+  ]
+}

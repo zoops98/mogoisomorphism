@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The explosion of popular music in the second half of the twentieth century as well as the global circulation and dissemination of music by the creative industries propelled a new understanding of accessbility in relation to music.\nSuddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band.\nThis led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and inclusive attitude to music making.\nWhile ordinary people had always sung and made music, the popular music movement was driven by a spirit of rebellion and freedom.\nThis approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s.\nGroups who had been entirely excluded from music revelled in opportunities to create.\nThis led to a sense of novelty and empowerment in and beyond the music sphere.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the commercialization of the music industry" },
+        { "number": "②", "text": "to compare the musical styles of skiffle and punk" },
+        { "number": "③", "text": "to trace the history of music education for ordinary people" },
+        { "number": "④", "text": "to explain how popular music increased accessibility and empowerment" },
+        { "number": "⑤", "text": "to argue for the importance of virtuosic musical skills" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 20세기 후반 대중음악의 폭발적인 증가가 어떻게 음악에 대한 '접근성(accessibility)'의 새로운 이해를 이끌었는지 설명합니다. 스키플, 펑크와 같은 장르를 예로 들어, 이전에는 음악에서 배제되었던 집단들이 창작의 기회를 얻고 '자율성(empowerment)'을 느끼게 된 과정을 서술하고 있습니다. 따라서 대중음악이 어떻게 접근성과 자율성을 증대시켰는지 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The explosion of popular music in the second half of the twentieth century as well as the global circulation and dissemination of music by the creative industries propelled a new understanding of accessbility in relation to music.\nSuddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band.\nThis led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and inclusive attitude to music making.\nWhile ordinary people had always sung and made music, the popular music movement was driven by a spirit of rebellion and freedom.\nThis approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s.\nGroups who had been entirely excluded from music revelled in opportunities to create.\nThis led to a sense of novelty and empowerment in and beyond the music sphere.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Music for Everyone: The Rise of Pop Accessibility" },
+        { "number": "②", "text": "Skiffle to Punk: A History of Rebellion" },
+        { "number": "③", "text": "The Creative Industries and Global Music" },
+        { "number": "④", "text": "The Decline of Virtuosity in Modern Music" },
+        { "number": "⑤", "text": "How to Start Your First Band" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 주제는 20세기 후반 대중음악의 등장으로 누구나 음악을 만들고 즐길 수 있게 된, 즉 음악의 '접근성(accessibility)'이 크게 향상되었다는 것입니다. '모두를 위한 음악: 대중음악 접근성의 부상'이라는 제목은 이러한 글의 중심 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The explosion of popular music in the second half of the twentieth century as well as the global circulation and dissemination of music by the creative industries propelled a new understanding of accessbility in relation to music.\nSuddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band.\nThis led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and inclusive attitude to music making.\nWhile ordinary people had always sung and made music, the popular music movement was driven by a spirit of rebellion and freedom.\nThis approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s.\nGroups who had been entirely excluded from music revelled in opportunities to create.\nThis led to a sense of novelty and empowerment in and beyond the music sphere.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The popular music movement of the mid-20th century fostered a new, inclusive spirit of accessible music-making for all." },
+        { "number": "②", "text": "The punk movement in the 1970s was the first musical genre to reject the need for virtuosic skills." },
+        { "number": "③", "text": "Creative industries have played a crucial role in distributing diverse musical genres to a worldwide audience since the 1950s." },
+        { "number": "④", "text": "While ordinary people have always made music, the rebellion of the pop era created a lasting sense of novelty." },
+        { "number": "⑤", "text": "The availability of cheap second-hand instruments was the single most important factor in the explosion of popular music." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 20세기 중반의 대중음악 운동이 누구나 음악을 만들 수 있다는 새롭고, 포용적이며, 접근 가능한 정신을 만들어냈다는 점을 핵심적으로 주장하고 있습니다. 반항과 자유의 정신을 바탕으로 이전에는 배제되었던 사람들에게도 창작의 기회를 제공했다는 내용이 이를 뒷받침합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Suddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band. ( ① ) This led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and inclusive attitude to music making. ( ② ) While ordinary people had always sung and made music, the popular music movement was driven by a spirit of rebellion and freedom. ( ③ ) This approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s. ( ④ ) Groups who had been entirely excluded from music revelled in opportunities to create. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Technical skill was no longer seen as a prerequisite for musical expression.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '기술적 기량이 더 이상 음악적 표현의 전제 조건으로 여겨지지 않았다'는 의미입니다. 바로 앞 문장에서 '훨씬 더 편안하고 포용적인 태도'가 나타났다고 언급했는데, 주어진 문장은 이 태도가 구체적으로 무엇을 의미하는지 설명합니다. 즉, 전문적인 기술이 없어도 누구나 음악을 할 수 있게 되었다는 뜻으로, 글의 논리적 흐름상 이 포용적 태도를 설명한 직후인 ②에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The explosion of popular music in the second half of the twentieth century as well as the global circulation and dissemination of music by the creative industries propelled a new understanding of accessbility in relation to music.",
+      "question_blocks": {
+        "A": "This approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s.",
+        "B": "Suddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band. This reflected a much more relaxed and inclusive attitude to music making.",
+        "C": "While ordinary people had always sung and made music, the popular music movement was driven by a spirit of rebellion and freedom. Groups who had been entirely excluded from music revelled in opportunities to create."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 음악 접근성에 대한 새로운 이해가 생겨났다고 소개합니다. (B)는 1950년대에 누구나 밴드를 시작할 수 있게 된 구체적인 상황을 설명하며 '편안하고 포용적인 태도'를 처음 언급합니다. (C)는 이러한 대중음악 운동의 근본적인 동력이 '반항과 자유의 정신'이었음을 밝히고, 이로 인해 배제되었던 집단이 기회를 얻었음을 설명합니다. (A)는 '이러한 접근법(This approach)'이 1970년대 펑크 운동으로 이어졌다고 설명하며, (C)에서 언급된 정신의 구체적인 발전 양상을 보여줍니다. 따라서 (B)-(C)-(A)가 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "This approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s.\nGroups who had been entirely excluded from music revelled in opportunities to create.\nThis led to a sense of novelty and ___________________ in and beyond the music sphere.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "commercial success" },
+        { "number": "②", "text": "technical mastery" },
+        { "number": "③", "text": "cultural isolation" },
+        { "number": "④", "text": "empowerment" },
+        { "number": "⑤", "text": "strict regulation" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸의 앞 문장에서 이전에 음악에서 '완전히 배제되었던' 집단들이 창작의 기회를 즐겼다고 말합니다. 자신들을 표현할 수 없었던 사람들이 스스로 무언가를 창조할 수 있게 된 것은 그들에게 '자율성' 또는 '권한 부여'를 의미합니다. 따라서 문맥상 'empowerment'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Suddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band.\nThis led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and ① inclusive attitude to music making.\nWhile ordinary people had always sung and made music, the popular music movement was driven by a spirit of ② rebellion and freedom.\nThis approach led to the punk movement, whose musicians even made it a condition for their music to be ③ non-virtuosic and accessible to all in the 1970s.\nGroups who had been entirely ④ excluded from music revelled in opportunities to create.\nThis led to a sense of ⑤ monotony and empowerment in and beyond the music sphere.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이전에 배제되었던 집단들이 음악을 창조할 기회를 얻게 된 것은 음악계에 새로운 활력과 다양성을 가져왔을 것입니다. 이는 '새로움, 신선함(novelty)'을 의미하며, '단조로움(monotony)'과는 정반대의 개념입니다. 따라서 monotony는 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The explosion of popular music in the second half of the twentieth century as well as the global circulation and (A) dissemination of music by the creative industries (B) propelled a new understanding of accessbility in relation to music.\n...reflected a much more relaxed and (C) inclusive attitude to music making.\nThis approach led to the punk movement, whose musicians even made it a condition for their music to be (D) non-virtuosic...\nGroups who had been entirely excluded from music (E) revelled in opportunities to create.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) dissemination: the action of spreading something, especially information, widely" },
+        { "number": "②", "text": "(B) propelled: pushed or driven forward" },
+        { "number": "③", "text": "(C) inclusive: including a wide range of people or things" },
+        { "number": "④", "text": "(D) non-virtuosic: not showing great technical skill" },
+        { "number": "⑤", "text": "(E) revelled: to complain about a situation in a sad or annoyed way" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 동사 'revelled in'은 '기회를 만끽했다, 즐겼다'는 긍정적인 의미로 사용되었습니다. 제시된 영영 풀이 'to complain about a situation(상황에 대해 불평하다)'는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "This led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and (A) [inclusive / exclusive] attitude to music making.\nWhile ordinary people had always sung and made music, the popular music movement was driven by a spirit of (B) [rebellion / conformity] and freedom.\nGroups who had been entirely (C) [excluded / welcomed] from music revelled in opportunities to create.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "inclusive - rebellion - excluded" },
+        { "number": "②", "text": "inclusive - conformity - excluded" },
+        { "number": "③", "text": "exclusive - rebellion - welcomed" },
+        { "number": "④", "text": "exclusive - conformity - welcomed" },
+        { "number": "⑤", "text": "inclusive - rebellion - welcomed" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 누구나 밴드를 시작할 수 있게 된 것은 '포용적인(inclusive)' 태도를 반영한다. (B) 대중음악 운동은 기존의 것에 대한 '반항(rebellion)'의 정신에 의해 주도되었다. (C) 이전에는 음악에서 완전히 '배제되었던(excluded)' 집단들이 창작의 기회를 즐겼다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Suddenly, in the 1950s, anyone could pick up spoons, a couple of pans, a second-hand guitar and start a band. ② This led to specific genres such as skiffle, but also, more generally, reflected a much more relaxed and inclusive attitude to music making. ③ Skiffle music typically used a combination of manufactured and homemade instruments such as a washboard. ④ While ordinary people had always sung and made music, the popular music movement was driven by a spirit of rebellion and freedom. ⑤ This approach led to the punk movement, whose musicians even made it a condition for their music to be non-virtuosic and accessible to all.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 대중음악이 어떻게 음악 제작에 대한 '태도'와 '정신'을 바꾸었는지에 대한 사회적 현상을 설명하고 있습니다. ③번 문장은 스키플이라는 특정 장르에서 사용된 악기에 대한 구체적이고 기술적인 정보를 제공하고 있어, 글의 중심 주제인 '접근성과 반항의 정신'이라는 더 넓은 사회적 논점에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The explosion of popular music... ① [propelled / was propelled] a new understanding of accessbility... This approach led to the punk movement, ② [whose / which] musicians even made it a condition for their music to be non-virtuosic and accessible to all in the 1970s. Groups who had been entirely excluded from music ③ [revelled / were revelled] in opportunities to create.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "propelled",
+          "explanation": "문장의 주어인 'The explosion... and dissemination'이 '새로운 이해를 추진했다'는 능동의 의미이므로 능동태 동사 'propelled'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "whose",
+          "explanation": "선행사 'the punk movement'와 뒤따르는 명사 'musicians' 사이의 소유 관계('펑크 운동의 음악가들')를 나타내야 하므로 소유격 관계대명사 'whose'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "revelled",
+          "explanation": "동사 'revel in'은 '~을 만끽하다, 즐기다'라는 뜻의 자동사구로, 여기서는 주어인 'Groups'가 직접 행동의 주체이므로 능동태 'revelled'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

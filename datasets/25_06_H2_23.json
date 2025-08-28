@@ -1,0 +1,267 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in thirteen months ─ where else will you find a monthly interest rate of 10 percent. A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks. Second question: Would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you'll take the $1,000 right away. This is amazing. In both cases, if you hold out for just a month longer, you get $100 more. In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" Not in the second case. The introduction of \"now\" causes us to make inconsistent decisions. Science calls this phenomenon hyperbolic discounting. The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to give up in exchange for it.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To offer practical financial investment advice."
+        },
+        {
+          "number": "②",
+          "text": "To criticize people for making irrational choices."
+        },
+        {
+          "number": "③",
+          "text": "To explain the concept of hyperbolic discounting with examples."
+        },
+        {
+          "number": "④",
+          "text": "To promote the benefits of long-term savings plans."
+        },
+        {
+          "number": "⑤",
+          "text": "To analyze the effects of interest rates on the economy."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 두 가지 대조적인 시나리오를 예시로 들어, 보상이 가까울수록 그 가치를 더 높게 평가하여 비일관적인 결정을 내리는 현상을 설명하고, 이를 '쌍곡형 할인(hyperbolic discounting)'이라는 과학 용어로 정의하고 있습니다. 따라서 글의 주된 목적은 사례를 통해 이 개념을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in thirteen months ─ where else will you find a monthly interest rate of 10 percent. A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks. Second question: Would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you'll take the $1,000 right away. This is amazing. In both cases, if you hold out for just a month longer, you get $100 more. In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" Not in the second case. The introduction of \"now\" causes us to make inconsistent decisions. Science calls this phenomenon hyperbolic discounting. The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to give up in exchange for it.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "How to Calculate Interest Rates Accurately"
+        },
+        {
+          "number": "②",
+          "text": "The Power of \"Now\": Why We Choose Immediate Rewards"
+        },
+        {
+          "number": "③",
+          "text": "A Wise Choice: Always Wait for the Larger Sum"
+        },
+        {
+          "number": "④",
+          "text": "Emotional Decision-Making vs. Rational Thinking"
+        },
+        {
+          "number": "⑤",
+          "text": "The Hidden Risks of Short-Term Investments"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '지금 당장(now)'이라는 요소가 우리의 의사결정에 어떻게 강력한 영향을 미쳐, 더 큰 미래의 보상 대신 즉각적인 보상을 선택하게 만드는지를 핵심적으로 다루고 있습니다. 따라서 이 제목은 글의 주제를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in thirteen months ─ where else will you find a monthly interest rate of 10 percent. A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks. Second question: Would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you'll take the $1,000 right away. This is amazing. In both cases, if you hold out for just a month longer, you get $100 more. In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" Not in the second case. The introduction of \"now\" causes us to make inconsistent decisions. Science calls this phenomenon hyperbolic discounting. The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to give up in exchange for it.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "People consistently make rational financial decisions when they are offered a higher rate of future interest."
+        },
+        {
+          "number": "②",
+          "text": "The perceived value of a reward increases dramatically as it becomes more immediate, leading to inconsistent choices."
+        },
+        {
+          "number": "③",
+          "text": "It is always more beneficial to receive a smaller amount of money now than taking a larger sum later."
+        },
+        {
+          "number": "④",
+          "text": "Scientific phenomena like hyperbolic discounting are much too complex for most ordinary people to understand."
+        },
+        {
+          "number": "⑤",
+          "text": "The emotional interest rate is a stable financial factor that helps individuals in making wise future plans."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 '보상이 가까울수록 우리의 '감정적 이자율'이 높아진다(The closer a reward is, the higher our 'emotional interest rate' rises)'는 것입니다. 이로 인해 사람들은 보상의 시점에 따라 비일관적인 선택을 하게 되며, 즉각적인 보상의 가치를 과대평가하게 됩니다. 따라서 '보상의 인지된 가치는 그것이 더 즉각적일수록 극적으로 증가하여 비일관적인 선택을 이끈다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in thirteen months. [...] Second question: Would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you'll take the $1,000 right away. This is amazing. In both cases, if you hold out for just a month longer, you get $100 more. In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" Not in the second case. ( ① ) Science calls this phenomenon hyperbolic discounting. ( ② ) The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to give up in exchange for it. ( ③ ) This explains why payday loans with high interest rates are so popular. ( ④ ) It's a battle between our rational and emotional brain. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**The introduction of \"now\" causes us to make inconsistent decisions.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 'now'라는 요소가 비일관적인 결정을 유발한다고 설명합니다. (①) 앞 문장은 첫 번째 경우와 달리 두 번째 경우는 그렇지 않다고 말하며 두 사례의 차이점을 부각합니다. 주어진 문장은 그 차이의 원인이 'now'의 도입임을 명확히 밝혀줍니다. 그 뒤에 (①) 다음 문장에서 이 현상을 '쌍곡형 할인'이라고 명명하므로, 원인을 밝히는 주어진 문장은 현상을 명명하기 직전인 (①)에 위치하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in thirteen months ─ where else will you find a monthly interest rate of 10 percent. A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks.",
+      "question_blocks": {
+        "A": "If you think like most people, you'll take the $1,000 right away. This is amazing. In both cases, if you hold out for just a month longer, you get $100 more.",
+        "B": "Second question: Would you prefer $1,000 today cash on the table or $1,100 in a month?",
+        "C": "In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" Not in the second case. The introduction of \"now\" causes us to make inconsistent decisions. Science calls this phenomenon hyperbolic discounting."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 첫 번째 시나리오(미래 대 더 먼 미래)와 그에 대한 합리적인 선택을 제시합니다. (B)에서 '두 번째 질문'이라며 대조적인 두 번째 시나리오(현재 대 미래)를 소개합니다. (A)에서 두 번째 시나리오에 대한 일반적인 비합리적 선택을 설명하고, 두 경우 모두 한 달만 더 기다리면 100달러를 더 받는다는 모순을 지적합니다. 마지막으로 (C)에서 두 사례의 심리적 차이를 분석하고, 이 현상을 '쌍곡형 할인'으로 명명하며 결론을 내립니다. 따라서 (B)-(A)-(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Would you rather receive $1,000 in a year or $1,100 in a year and a month? [...] In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" Not in the second case. The introduction of \"now\" causes us to make inconsistent decisions. Science calls this phenomenon ____________________. The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to give up in exchange for it.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "rational choice theory"
+        },
+        {
+          "number": "②",
+          "text": "the principle of loss aversion"
+        },
+        {
+          "number": "③",
+          "text": "a cognitive bias confirmation"
+        },
+        {
+          "number": "④",
+          "text": "the law of diminishing returns"
+        },
+        {
+          "number": "⑤",
+          "text": "hyperbolic discounting"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸 바로 앞 문장은 'now'의 도입이 비일관적인 결정을 야기한다고 설명하고, 빈칸 뒷 문장은 보상이 가까울수록 감정적 이자율이 높아진다고 부연합니다. 글은 이 현상을 과학계에서 부르는 명칭을 소개하고 있으므로, 본문에서 설명된 현상 자체인 '쌍곡형 할인(hyperbolic discounting)'이 빈칸에 들어갈 가장 적절한 용어입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Most people will opt for the ① [larger] sum in thirteen months... A ② [wise] choice, since the interest will ③ [compensate] you generously for any risks... The introduction of \"now\" causes us to make ④ [inconsistent] decisions. Science calls this phenomenon hyperbolic discounting. The closer a reward is, the ⑤ [lower] our \"emotional interest rate\" rises and the more we are willing to give up in exchange for it.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 보상이 가까워질수록 즉각적인 만족에 대한 갈망이 커진다고 설명합니다. 이는 '감정적 이자율'이 '더 높아지는(higher)' 것을 의미합니다. 감정적 이자율이 '더 낮아진다(lower)'고 하면, 사람들이 미래의 더 큰 보상을 위해 기꺼이 기다릴 것이라는 의미가 되어 글의 전체적인 논지와 모순됩니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Most people will (A) [opt] for the larger sum in thirteen months... A wise choice, since the interest will (B) [compensate] you generously for any risks... The introduction of \"now\" causes us to make (C) [inconsistent] decisions. Science calls this (D) [phenomenon] hyperbolic discounting. The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to (E) [give up] in exchange for it.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) opt: to make a choice from a range of possibilities."
+        },
+        {
+          "number": "②",
+          "text": "(B) compensate: to provide someone with a payment for their loss or suffering."
+        },
+        {
+          "number": "③",
+          "text": "(C) inconsistent: not staying the same in behavior or quality."
+        },
+        {
+          "number": "④",
+          "text": "(D) phenomenon: a fact or an event in nature or society, especially one that is not fully understood."
+        },
+        {
+          "number": "⑤",
+          "text": "(E) give up: to continue to hold or seek something of value."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'give up'은 '포기하다(to stop trying to do or have something)'라는 의미입니다. 제시된 '가치 있는 것을 계속해서 붙들거나 추구하다'는 'pursue'나 'hold on to'에 가까운 의미이므로 완전히 반대되는 잘못된 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Most people will opt for the (A) [larger / smaller] sum in thirteen months ─ where else will you find a monthly interest rate of 10 percent. A wise choice, since the interest will compensate you generously. [...] In both cases, if you hold out for just a month longer, you get $100 more. In the first case, the decision is (B) [simple / difficult] enough. Not in the second case. The introduction of \"now\" causes us to make (C) [consistent / inconsistent] decisions.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "larger - simple - inconsistent" },
+        { "number": "②", "text": "larger - difficult - consistent" },
+        { "number": "③", "text": "smaller - simple - inconsistent" },
+        { "number": "④", "text": "smaller - difficult - consistent" },
+        { "number": "⑤", "text": "larger - simple - consistent" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 첫 번째 시나리오에서 대부분의 사람들은 합리적으로 '더 큰(larger)' 금액을 선택합니다. (B) 이 결정은 이미 12개월을 기다렸기 때문에 '단순(simple)'하게 느껴집니다. (C) 하지만 'now'가 도입된 두 번째 시나리오에서는 사람들이 다른 선택을 하므로, 이는 '비일관적인(inconsistent)' 결정으로 이어집니다. 따라서 정답은 larger - simple - inconsistent 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "If you think like most people, you'll take the $1,000 right away. This is amazing. ① In both cases, if you hold out for just a month longer, you get $100 more. ② In the first case, it's simple enough. You figure: \"I've already waited twelve months; what's one more?\" ③ Banks typically offer much lower annual interest rates for standard savings accounts. ④ Not in the second case. The introduction of \"now\" causes us to make inconsistent decisions. ⑤ Science calls this phenomenon hyperbolic discounting.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 보상의 시점에 따른 개인의 심리적 의사결정 과정을 설명하고 있습니다. ③번 문장 '은행은 보통 일반 예금 계좌에 대해 훨씬 낮은 연이율을 제공한다'는 일반적인 금융 사실을 언급하는 것으로, 개인이 왜 비일관적인 선택을 하는지에 대한 심리학적 설명이라는 글의 중심 내용과 직접적인 관련이 없어 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "A wise choice, since the interest will compensate you generously for any risks you ① [face / are faced] by waiting the extra few weeks. Second question: Would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you'll take the $1,000 right away. This is ② [amazing / amazed]. In both cases, if you hold out for just a month longer, you get $100 more. The closer a reward is, the higher our \"emotional interest rate\" rises and the more we are willing to give up in exchange for ③ [it / them].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "face",
+          "explanation": "주어인 'you'가 위험을 '직면하는' 능동의 주체이므로 능동태 동사 'face'가 맞습니다. 'are faced'는 수동태입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "amazing",
+          "explanation": "주어 'This'는 앞선 상황(사람들이 즉시 1,000달러를 택하는 것)을 가리키며, 이 상황이 놀라움을 '주는' 것이므로 현재분사 'amazing'이 맞습니다. 'amazed'는 감정을 '느끼는' 경우에 사용됩니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "it",
+          "explanation": "대명사 'it'이 가리키는 대상은 문맥상 단수 명사인 'a reward'입니다. 따라서 단수 대명사 'it'을 사용하는 것이 맞습니다. 'them'은 복수 명사를 대신합니다."
+        }
+      ]
+    }
+  ]
+}

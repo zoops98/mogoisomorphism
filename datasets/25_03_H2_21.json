@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden.\nThe garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production.\nTo achieve this, the grower is almost always intervening in the dynamics of the ecosystem; they remove unwanted plants that begin to grow and perhaps spray insecticides and fence off the patch to stop insects and other animals from consuming the vegetables.\nSince maximizing vegetable growth is an inherently unstable state for the ecosystem, the grower is effectively keeping the ball on a slope.\nIf the grower stops intervening, even for a day, the ecosystem, that small patch of ground, will naturally begin to shift to a more stable state.\nVegetables may still grow, but yield will almost certainly be lower as other plants crowd out the vegetables and wildlife consume the produce.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to provide a step-by-step guide for organic gardening" },
+        { "number": "②", "text": "to explain the concept of ecosystem stability using a garden analogy" },
+        { "number": "③", "text": "to warn about the dangers of using chemical insecticides" },
+        { "number": "④", "text": "to argue for the preservation of natural, wild ecosystems" },
+        { "number": "⑤", "text": "to compare the productivity of different farming methods" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '생태계 상태'라는 개념을 설명하기 위해 가정의 텃밭을 비유로 사용하고 있습니다. 인간의 개입으로 유지되는 불안정한 상태(생산량 극대화)와 개입이 없을 때 돌아가는 안정된 상태를 대조하며 생태계의 안정성 개념을 설명하는 것이 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden.\nThe garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production.\nTo achieve this, the grower is almost always intervening in the dynamics of the ecosystem; they remove unwanted plants that begin to grow and perhaps spray insecticides and fence off the patch to stop insects and other animals from consuming the vegetables.\nSince maximizing vegetable growth is an inherently unstable state for the ecosystem, the grower is effectively keeping the ball on a slope.\nIf the grower stops intervening, even for a day, the ecosystem, that small patch of ground, will naturally begin to shift to a more stable state.\nVegetables may still grow, but yield will almost certainly be lower as other plants crowd out the vegetables and wildlife consume the produce.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Garden: An Unstable System Requiring Constant Care" },
+        { "number": "②", "text": "How to Maximize Your Vegetable Yield" },
+        { "number": "③", "text": "Natural Ecosystems vs. Human-Made Gardens" },
+        { "number": "④", "text": "The Hidden Dangers Lurking in Your Garden" },
+        { "number": "⑤", "text": "Why All Ecosystems Eventually Find Stability" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 생산량 극대화를 위해 관리되는 텃밭이 본질적으로 '불안정한(unstable)' 시스템이며, 이를 유지하기 위해 '끊임없는 관리(constant care)' 즉, 지속적인 개입이 필요하다고 설명합니다. 따라서 이 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden.\nThe garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production.\nTo achieve this, the grower is almost always intervening in the dynamics of the ecosystem; they remove unwanted plants that begin to grow and perhaps spray insecticides and fence off the patch to stop insects and other animals from consuming the vegetables.\nSince maximizing vegetable growth is an inherently unstable state for the ecosystem, the grower is effectively keeping the ball on a slope.\nIf the grower stops intervening, even for a day, the ecosystem, that small patch of ground, will naturally begin to shift to a more stable state.\nVegetables may still grow, but yield will almost certainly be lower as other plants crowd out the vegetables and wildlife consume the produce.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "A vegetable garden requires continuous human intervention because maximizing production creates an inherently unstable ecosystem state." },
+        { "number": "②", "text": "The most effective way to manage a garden ecosystem is by using a combination of natural and chemical methods." },
+        { "number": "③", "text": "Without the presence of insects and other wildlife, a garden ecosystem cannot achieve a truly stable natural balance." },
+        { "number": "④", "text": "All ecosystems, whether natural or managed by humans, will eventually revert to their most productive possible state." },
+        { "number": "⑤", "text": "Understanding ecosystem dynamics is essential for any amateur gardener who wishes to achieve successful long-term results." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 생산량 극대화를 목표로 하는 텃밭은 본질적으로 불안정한 생태계 상태를 만들어내며, 바로 그 이유 때문에 지속적인 인간의 개입이 필요하다는 것입니다. 이 선택지는 이러한 인과 관계를 가장 명확하게 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden. The garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production. To achieve this, the grower is almost always intervening... Since maximizing vegetable growth is an inherently unstable state for the ecosystem, the grower is effectively keeping the ball on a slope. ( ① ) If the grower stops intervening, even for a day, the ecosystem, that small patch of ground, will naturally begin to shift to a more stable state. ( ② ) Vegetables may still grow, but yield will almost certainly be lower as other plants crowd out the vegetables and wildlife consume the produce. ( ③ ) This balance between intervention and natural processes is a key challenge in agriculture. ( ④ ) The final outcome depends on the grower's goals. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This natural state is one of greater biodiversity and resilience, even if it is less useful to the gardener.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이 자연적인 상태'의 특징을 설명합니다. 바로 앞 문장에서 경작자가 개입을 멈추면 생태계가 '더 안정적인 상태(a more stable state)'로 변하기 시작한다고 언급했습니다. 주어진 문장은 바로 그 '안정적인 상태'가 무엇인지(더 높은 생물 다양성과 회복탄력성)를 설명하고, 그 다음 문장은 그 상태가 경작자에게 미치는 영향(더 낮은 수확량)을 설명하므로, ②의 위치가 논리적으로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden. The garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production.",
+      "question_blocks": {
+        "A": "Since maximizing vegetable growth is an inherently unstable state for the ecosystem, the grower is effectively keeping the ball on a slope.",
+        "B": "To achieve this, the grower is almost always intervening in the dynamics of the ecosystem; they remove unwanted plants that begin to grow and perhaps spray insecticides and fence off the patch.",
+        "C": "If the grower stops intervening, even for a day, the ecosystem will naturally begin to shift to a more stable state, where yield will almost certainly be lower as other plants and wildlife compete."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 텃밭의 목표가 '생산량 극대화'라고 제시합니다. (B)는 '이것을 달성하기 위해(To achieve this)' 경작자가 하는 '개입(intervening)'의 구체적인 예를 보여줍니다. (A)는 왜 그런 개입이 필요한지에 대한 이유, 즉 생산량 극대화는 '본질적으로 불안정한 상태'이기 때문이라고 설명합니다. (C)는 만약 (B)에서 언급된 '개입을 멈춘다면(If the grower stops intervening)' 어떤 결과(더 안정적인 상태로의 전환과 수확량 감소)가 일어나는지를 설명하며 글을 마무리합니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden. The garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production. To achieve this, the grower is almost always intervening in the dynamics of the ecosystem... Since maximizing vegetable growth is an inherently ____________________ for the ecosystem, the grower is effectively keeping the ball on a slope. If the grower stops intervening... the ecosystem... will naturally begin to shift to a more stable state.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "desirable goal" },
+        { "number": "②", "text": "beneficial process" },
+        { "number": "③", "text": "irreversible change" },
+        { "number": "④", "text": "unstable state" },
+        { "number": "⑤", "text": "natural tendency" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸 뒤에 나오는 '경사로에 공을 올려두는 것(keeping the ball on a slope)'이라는 비유는 끊임없는 노력이 없으면 유지될 수 없는 상태를 의미합니다. 또한 글 전체에서 이 상태는 개입이 중단되면 '더 안정적인 상태'로 변한다고 설명하고 있으므로, 빈칸에는 '불안정한 상태(unstable state)'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden. The garden is a small ecosystem that the grower attempts to keep in a specific state, namely the ① maximization of fruit and vegetable production. To achieve this, the grower is almost always ② intervening in the dynamics of the ecosystem; they remove ③ unwanted plants that begin to grow... Since maximizing vegetable growth is an inherently ④ unstable state for the ecosystem, the grower is effectively keeping the ball on a slope. If the grower stops intervening... yield will almost certainly be ⑤ higher as other plants crowd out the vegetables and wildlife consume the produce.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 흐름에 따르면, 경작자가 개입을 멈추면 다른 식물(잡초)이 채소를 밀어내고(crowd out) 야생동물이 생산물을 먹어치우기(consume the produce) 때문에 수확량(yield)은 거의 확실히 '더 낮아질' 것입니다. 따라서 '더 높은(higher)'은 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The (A) concept of ecosystem states should be familiar to anyone with a home vegetable garden. The garden is a small ecosystem that the grower attempts to keep in a specific state... To achieve this, the grower is almost always (B) intervening in the dynamics of the ecosystem... Since maximizing vegetable growth is an (C) inherently unstable state for the ecosystem... the ecosystem... will naturally begin to (D) shift to a more stable state. Vegetables may still grow, but (E) yield will almost certainly be lower.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) concept: an abstract idea; a general notion" },
+        { "number": "②", "text": "(B) intervening: taking part in something so as to prevent or alter a result" },
+        { "number": "③", "text": "(C) inherently: as an essential and permanent part of something" },
+        { "number": "④", "text": "(D) shift: to move or cause to move from one place or state to another" },
+        { "number": "⑤", "text": "(E) yield: the process of adding nutrients to soil to improve its quality" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 명사 'yield'는 '생산량, 수확량(an amount of something produced)'을 의미합니다. 제시된 영영 풀이인 '토양의 질을 향상시키기 위해 영양분을 추가하는 과정'은 이 문맥에서의 의미와 전혀 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The garden is a small ecosystem that the grower attempts to keep in a specific state... To achieve this, the grower is almost always (A) [intervening / observing] in the dynamics of the ecosystem... Since maximizing vegetable growth is an inherently (B) [unstable / permanent] state for the ecosystem... If the grower stops intervening, even for a day, the ecosystem... will naturally begin to shift to a more stable state. Vegetables may still grow, but yield will almost certainly be (C) [lower / greater] as other plants crowd out the vegetables.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "intervening - unstable - lower" },
+        { "number": "②", "text": "intervening - permanent - lower" },
+        { "number": "③", "text": "observing - unstable - greater" },
+        { "number": "④", "text": "observing - permanent - greater" },
+        { "number": "⑤", "text": "intervening - unstable - greater" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 텃밭을 특정 상태로 유지하기 위해 경작자는 잡초를 뽑는 등 생태계에 적극적으로 '개입한다(intervening)'. (B) 생산량을 극대화한 상태는 지속적인 노력이 필요한 '불안정한(unstable)' 상태이다. (C) 개입을 멈추면 잡초와의 경쟁 등으로 인해 수확량은 '더 낮아진다(lower)'."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① The garden is a small ecosystem that the grower attempts to keep in a specific state, namely the maximization of fruit and vegetable production. ② To achieve this, the grower is almost always intervening in the dynamics of the ecosystem; they remove unwanted plants and perhaps spray insecticides. ③ Many gardeners today prefer organic methods, using natural predators to control pests instead of chemicals. ④ Since maximizing vegetable growth is an inherently unstable state for the ecosystem, the grower is effectively keeping the ball on a slope. ⑤ If the grower stops intervening, the ecosystem will naturally begin to shift to a more stable state.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '인간의 개입'을 통해 '불안정한 생태계'를 유지한다는 개념을 설명하고 있습니다. 글의 초점은 개입의 필요성과 그 결과에 있습니다. ③번 문장은 개입의 한 종류인 '유기농 방식'을 구체적으로 언급하는데, 이는 개입의 필요성이라는 중심 주제에서 벗어난 부차적인 정보이므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The concept of ecosystem states should be familiar to anyone with a home vegetable garden. The garden is a small ecosystem ① [that / what] the grower attempts to keep in a specific state... To achieve this, the grower is almost always intervening in the dynamics of the ecosystem; they remove unwanted plants that begin to grow and perhaps spray insecticides and fence off the patch to stop insects and other animals from ② [consuming / consume] the vegetables. If the grower stops ③ [intervening / to intervene], even for a day, the ecosystem... will naturally begin to shift to a more stable state.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'a small ecosystem'을 수식하는 목적격 관계대명사가 필요한 자리입니다. 관계대명사 'what'은 선행사를 포함하므로 앞에 명사가 올 수 없습니다. 따라서 'that' 또는 'which'가 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "consuming",
+          "explanation": "동사구 'stop A from B'에서 전치사 'from' 뒤에는 동명사(gerund)가 와야 합니다. 따라서 'consuming'이 올바른 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "intervening",
+          "explanation": "동사 'stop' 뒤에 동명사(~ing)가 오면 '~하는 것을 멈추다'라는 의미이고, to부정사가 오면 '~하기 위해 멈추다'라는 의미입니다. 문맥상 '개입하는 것을 멈춘다면'이라는 의미가 되어야 하므로 동명사 'intervening'이 맞습니다."
+        }
+      ]
+    }
+  ]
+}

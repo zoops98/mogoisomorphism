@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning.\nCertainly, such a computation does not generally have as its purpose its own survival and wellbeing.\nIt does not, in general, assign value to the inputs.\nCompare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located.\nThe \"dance\" ― a series of stylized movements on the comb ― shows the bees how far away the food is and in which direction.\nBut this input does not simply program other bees to go out and look for it.\nRather, they evaluate this information, comparing it with their own knowledge of the surroundings.\nSome bees might not bother to make the journey, considering it not worthwhile.\nThe input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "꿀벌의 춤을 모방한 새로운 알고리즘을 제안하기 위해" },
+        { "number": "②", "text": "꿀벌 군집의 복잡한 사회적 행동을 묘사하기 위해" },
+        { "number": "③", "text": "생물학적 정보 처리가 기계적 연산과 어떻게 다른지 설명하기 위해" },
+        { "number": "④", "text": "컴퓨터 알고리즘이 생존 본능을 갖도록 발전해야 함을 주장하기 위해" },
+        { "number": "⑤", "text": "꿀벌의 의사소통 방식의 한계점을 지적하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 의미나 가치 부여 없이 입력을 출력으로 변환하는 컴퓨터 알고리즘과, 생존이라는 목적을 가지고 자신의 상태와 지식에 비추어 정보를 '평가'하는 꿀벌의 정보 처리 방식을 명확히 대조하고 있습니다. 이를 통해 기계적인 연산과 생물학적 정보 처리의 근본적인 차이점을 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning.\nCertainly, such a computation does not generally have as its purpose its own survival and wellbeing.\nIt does not, in general, assign value to the inputs.\nCompare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located.\nThe \"dance\" ― a series of stylized movements on the comb ― shows the bees how far away the food is and in which direction.\nBut this input does not simply program other bees to go out and look for it.\nRather, they evaluate this information, comparing it with their own knowledge of the surroundings.\nSome bees might not bother to make the journey, considering it not worthwhile.\nThe input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Waggle Dance: A Bee's Guide to Nectar" },
+        { "number": "②", "text": "Survival of the Smartest Algorithm" },
+        { "number": "③", "text": "Beyond Input-Output: Information with Meaning" },
+        { "number": "④", "text": "How Computers Can Learn from Nature" },
+        { "number": "⑤", "text": "The Limits of Artificial Intelligence" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 단순한 '입력-출력(Input-Output)' 관계인 컴퓨터 알고리즘과 달리, 꿀벌은 정보를 평가하고 가치를 부여하며 '의미(Meaning)'를 담아 처리한다는 점을 강조합니다. 따라서 이 제목은 글의 핵심적인 대조점을 가장 잘 나타내고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning.\nCertainly, such a computation does not generally have as its purpose its own survival and wellbeing.\nIt does not, in general, assign value to the inputs.\nCompare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located.\nThe \"dance\" ― a series of stylized movements on the comb ― shows the bees how far away the food is and in which direction.\nBut this input does not simply program other bees to go out and look for it.\nRather, they evaluate this information, comparing it with their own knowledge of the surroundings.\nSome bees might not bother to make the journey, considering it not worthwhile.\nThe input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The waggle dance of the honeybee is one of the most complex communication systems found in nature." },
+        { "number": "②", "text": "Computer algorithms can only be considered truly intelligent when they begin to prioritize their own survival." },
+        { "number": "③", "text": "Living organisms process information with meaning and context, unlike algorithms that do not assign value." },
+        { "number": "④", "text": "The primary purpose of all information processing, both biological and computational, is to ensure survival." },
+        { "number": "⑤", "text": "Effective communication relies on a prescriptive system where input leads to a predictable and reliable output." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 주장은 컴퓨터 알고리즘이 가치나 의미 부여 없이 정보를 처리하는 반면, 꿀벌과 같은 살아있는 유기체는 자신의 내부 상태, 역사, 주변 지식과 같은 맥락 속에서 정보의 가치를 평가하며 의미있게 처리한다는 것입니다. 이 선택지가 이러한 핵심 대조를 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "A computational algorithm that takes input data and generates some output... Compare, for example, a computer algorithm with the waggle dance of the honeybee... The \"dance\" ― a series of stylized movements on the comb ― shows the bees how far away the food is and in which direction. ( ① ) Rather, they evaluate this information, comparing it with their own knowledge of the surroundings. ( ② ) Some bees might not bother to make the journey, considering it not worthwhile. ( ③ ) The input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects. ( ④ ) This stands in stark contrast to a simple computational process. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**But this input does not simply program other bees to go out and look for it.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '하지만 이 입력 정보가 다른 벌들을 단순히 프로그래밍하지는 않는다'는 내용입니다. ①번 앞 문장은 꿀벌 춤이 어떤 정보를 전달하는지를 설명합니다. 주어진 문장은 이 정보가 컴퓨터 프로그램처럼 작동하는 것이 아니라고 반박하며, 뒤따르는 '오히려(Rather), 그들은 이 정보를 평가한다'는 문장과 자연스럽게 연결됩니다. 즉, '단순히 프로그래밍 되는 것이 아니라, 오히려 평가한다'는 논리적 흐름이 형성됩니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning. Certainly, such a computation does not generally have as its purpose its own survival and wellbeing.",
+      "question_blocks": {
+        "A": "The 'dance' ― a series of stylized movements on the comb ― shows the bees how far away the food is and in which direction. But this input does not simply program other bees to go out and look for it.",
+        "B": "It does not, in general, assign value to the inputs. Compare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food...",
+        "C": "Rather, they evaluate this information, comparing it with their own knowledge of the surroundings. Some bees might not bother to make the journey, considering it not worthwhile. The input, such as it is, is processed in the light of the organism's own internal states and history..."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 컴퓨터 알고리즘의 특성을 설명합니다. (B)는 'It'으로 이어받아 알고리즘이 가치를 부여하지 않는다는 점을 추가로 설명한 뒤, 대조 사례로 꿀벌의 춤을 소개합니다. (A)는 꿀벌 춤이 어떤 정보를 전달하는지 설명하고, 그것이 단순한 프로그램이 아니라고 지적합니다. (C)는 'Rather'를 통해 단순한 프로그램이 아닌 대신에 꿀벌이 어떻게 정보를 '평가'하는지를 구체적으로 설명하며 글을 마무리합니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Some bees might not bother to make the journey, considering it not worthwhile.\nThe input, such as it is, is processed in the light of the organism's own internal states and history; ______________________________. ",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the process is completely random" },
+        { "number": "②", "text": "only the strongest bees are chosen" },
+        { "number": "③", "text": "the dance is a form of entertainment" },
+        { "number": "④", "text": "it always leads to a successful outcome" },
+        { "number": "⑤", "text": "there is nothing prescriptive about its effects" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸 앞 문장은 꿀벌이 정보를 자신의 내부 상태와 역사에 비추어 처리한다고 설명합니다. 이는 입력 정보가 행동을 일방적으로 지시하지 않음을 의미합니다. 'prescriptive'는 '규범적인, 지시하는'이라는 뜻으로, '그것의 효과에 대해 규범적인 것은 아무것도 없다'는 것은 입력이 출력을 강제하지 않는다는 의미입니다. 이는 꿀벌이 정보를 평가하고 선택적으로 반응한다는 글의 전체적인 논지와 일치합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "A computational algorithm... doesn't really embody any notion of ① `meaning`. ...Compare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee ② `conveys` to others in the hive information... But this input does not simply program other bees to go out and look for it. Rather, they ③ `ignore` this information, comparing it with their own knowledge of the surroundings. Some bees might not bother to make the journey, considering it not ④ `worthwhile`. The input... is processed in the light of the organism's own ⑤ `internal` states and history...",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "meaning" },
+        { "number": "②", "text": "conveys" },
+        { "number": "③", "text": "ignore" },
+        { "number": "④", "text": "worthwhile" },
+        { "number": "⑤", "text": "internal" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 꿀벌이 정보를 단순히 따르는 것이 아니라, 자신의 지식과 비교하며 '평가한다(evaluate)'고 설명합니다. '무시한다(ignore)'는 것은 정보를 활용하지 않는다는 뜻이므로, 자신의 지식과 '비교한다'는 뒷부분의 내용과 모순됩니다. 따라서 ignore는 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "...doesn't really (A) `embody` any notion of meaning. ...a foraging bee (B) `conveys` to others... information... Rather, they (C) `evaluate` this information... considering it not (D) `worthwhile`. ...there is nothing (E) `prescriptive` about its effects.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) embody: to express or represent an idea or a quality" },
+        { "number": "②", "text": "(B) conveys: to make information, ideas, or feelings known to someone" },
+        { "number": "③", "text": "(C) evaluate: to judge or calculate the quality, importance, amount, or value of something" },
+        { "number": "④", "text": "(D) worthwhile: valuable or important enough to justify the time, effort, or cost involved" },
+        { "number": "⑤", "text": "(E) prescriptive: describing in detail how something is, without offering any rules or instructions" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) prescriptive는 '규범적인', '지시하는'이라는 의미로, 무엇을 해야 하는지에 대한 규칙이나 지시를 내리는 것을 뜻합니다. 제시된 영영 풀이인 '규칙이나 지시 없이 있는 그대로를 상세히 묘사하는'은 '기술적인(descriptive)'에 대한 설명으로, prescriptive의 의미와는 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "It does not, in general, (A) [assign / ignore] value to the inputs. ... The \"dance\" ... shows the bees how far away the food is and in which direction. But this input does not simply (B) [program / persuade] other bees to go out and look for it. Rather, they evaluate this information... The input... is processed in the light of the organism's own internal states and history; there is nothing (C) [prescriptive / descriptive] about its effects.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "assign - program - prescriptive" },
+        { "number": "②", "text": "assign - persuade - descriptive" },
+        { "number": "③", "text": "assign - program - descriptive" },
+        { "number": "④", "text": "ignore - persuade - prescriptive" },
+        { "number": "⑤", "text": "ignore - program - prescriptive" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 컴퓨터 알고리즘은 입력값에 가치를 '부여하지(assign)' 않습니다. (B) 꿀벌의 춤은 다른 벌들을 기계적으로 '프로그램하지(program)' 않습니다. (C) 꿀벌들이 정보를 평가하고 선택적으로 반응하므로, 그 효과에 대해 '규범적인(prescriptive)' 것은 없습니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning.\nCertainly, such a computation does not generally have as its purpose its own survival and wellbeing.\nIt does not, in general, assign value to the inputs.\nCompare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located.\nThe \"dance\" ― a series of stylized movements on the comb ― shows the bees how far away the food is and in which direction.\nBut this input does not simply program other bees to go out and look for it.\nRather, they evaluate this information, comparing it with their own knowledge of the surroundings.\nSome bees might not bother to make the journey, considering it not worthwhile.\nThe input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "컴퓨터 알고리즘은 일반적으로 자신의 생존을 목적으로 하지 않는다." },
+        { "number": "②", "text": "꿀벌의 춤은 먹이의 거리와 방향에 대한 정보를 포함한다." },
+        { "number": "③", "text": "꿀벌들은 춤이 전달하는 정보를 기계적으로 따르도록 프로그램된다." },
+        { "number": "④", "text": "꿀벌들은 정보를 자신의 지식에 비추어 평가한다." },
+        { "number": "⑤", "text": "어떤 꿀벌은 여정이 가치 없다고 판단하여 가지 않을 수도 있다." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 'But this input does not simply program other bees to go out and look for it(하지만 이 입력 정보가 다른 벌들을 단순히 그것을 찾으러 나가도록 프로그래밍하지는 않는다)'라고 명시하고 있습니다. 따라서 꿀벌들이 기계적으로 정보를 따른다는 진술은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Compare, for example, a computer algorithm with the waggle dance of the honeybee, by ① [which / that] means a foraging bee conveys to others in the hive information... Some bees might not bother to make the journey, ② [considering / considered] it not worthwhile. The input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about ③ [its / it's] effects.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "which",
+          "explanation": "전치사 'by'의 목적어 역할을 하는 관계대명사가 필요합니다. 'by which means'는 '그 수단을 통해'라는 의미를 나타냅니다. 전치사 뒤에는 관계대명사 'that'을 사용할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "considering",
+          "explanation": "분사구문으로, 주절의 주어인 'Some bees'가 여정을 가치 없다고 '생각하는' 주체이므로 능동의 의미를 지닌 현재분사 'considering'이 맞습니다. 'as they consider'와 같은 의미입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "its",
+          "explanation": "뒤에 오는 명사 'effects'를 수식하는 소유격 대명사가 필요한 자리입니다. 'its'는 '그것의'라는 소유의 의미를 나타냅니다. 'it's'는 'it is'의 축약형이므로 문법적으로 맞지 않습니다."
+        }
+      ]
+    }
+  ]
+}

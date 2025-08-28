@@ -1,0 +1,237 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "In art, there are a number of ways to use perspective to obtain the illusion of depth, including using colors and graduated values of black and white, and accurately drawing the subject by applying the rules of the geometric system of perspective. In order to achieve perspective, you must make a number of observations. The forms or objects that you draw on a flat surface actually have depth and dimension in real life. As you view them and place their shapes and forms on a drawing surface, try to represent that depth to make the objects appear realistic and threedimensional. Objects appear differently when viewed from various positions. Because of this, it's important to establish the viewpoint, and stick with it. When observing a subject, you see depth and three dimensions. When you draw this subject onto a flat surface as it appears to the eye, you are drawing in perspective.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To advertise a new art course."
+        },
+        {
+          "number": "②",
+          "text": "To criticize a specific artistic style."
+        },
+        {
+          "number": "③",
+          "text": "To explain the basic principles of drawing in perspective."
+        },
+        {
+          "number": "④",
+          "text": "To list the names of famous Renaissance artists."
+        },
+        {
+          "number": "⑤",
+          "text": "To compare different geometric systems."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 미술에서 원근법을 사용하여 깊이감을 표현하는 방법, 관찰의 중요성, 고정된 시점 유지의 필요성 등 원근법 드로잉의 기본적인 개념과 원리를 설명하고 있습니다. 따라서 글의 주된 목적은 원근법 드로잉의 기본 원리를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "In art, there are a number of ways to use perspective to obtain the illusion of depth, including using colors and graduated values of black and white, and accurately drawing the subject by applying the rules of the geometric system of perspective. In order to achieve perspective, you must make a number of observations. The forms or objects that you draw on a flat surface actually have depth and dimension in real life. As you view them and place their shapes and forms on a drawing surface, try to represent that depth to make the objects appear realistic and threedimensional. Objects appear differently when viewed from various positions. Because of this, it's important to establish the viewpoint, and stick with it. When observing a subject, you see depth and three dimensions. When you draw this subject onto a flat surface as it appears to the eye, you are drawing in perspective.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The History of Geometric Drawing"
+        },
+        {
+          "number": "②",
+          "text": "Colors vs. Black and White in Art"
+        },
+        {
+          "number": "③",
+          "text": "Why a Fixed Viewpoint Matters"
+        },
+        {
+          "number": "④",
+          "text": "Perspective: Creating Depth on a Flat Surface"
+        },
+        {
+          "number": "⑤",
+          "text": "The Challenge of Realistic Representation"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '원근법(perspective)'을 사용하여 평평한 표면 위에 '깊이의 착시(illusion of depth)'를 만들어내는 방법에 대해 전반적으로 설명하고 있습니다. 이 제목은 글의 핵심 주제인 원근법의 정의와 목적을 가장 포괄적으로 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "In art, there are a number of ways to use perspective to obtain the illusion of depth, including using colors and graduated values of black and white, and accurately drawing the subject by applying the rules of the geometric system of perspective. In order to achieve perspective, you must make a number of observations. The forms or objects that you draw on a flat surface actually have depth and dimension in real life. As you view them and place their shapes and forms on a drawing surface, try to represent that depth to make the objects appear realistic and threedimensional. Objects appear differently when viewed from various positions. Because of this, it's important to establish the viewpoint, and stick with it. When observing a subject, you see depth and three dimensions. When you draw this subject onto a flat surface as it appears to the eye, you are drawing in perspective.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The geometric system of perspective is the only reliable method for creating realistic drawings for students."
+        },
+        {
+          "number": "②",
+          "text": "Drawing in perspective requires observing real-world depth and consistently rendering it from one fixed viewpoint."
+        },
+        {
+          "number": "③",
+          "text": "Artists must constantly change their viewpoint in order to capture the true essence of their subjects."
+        },
+        {
+          "number": "④",
+          "text": "The use of colors is generally more effective than black and white values for showing real depth."
+        },
+        {
+          "number": "⑤",
+          "text": "Realistic drawing is less about observation and more about memorizing the complex rules of art perspective."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 원근법을 표현하기 위해 실제 사물의 깊이를 '관찰'하고, 고정된 '시점'을 유지하며, 관찰한 깊이감을 평면에 '표현'해야 한다고 강조합니다. 따라서 '원근법 드로잉은 실제 깊이를 관찰하고 하나의 고정된 시점에서 그것을 일관되게 표현하는 것을 요구한다'가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The forms or objects that you draw on a flat surface actually have depth and dimension in real life. As you view them and place their shapes and forms on a drawing surface, try to represent that depth to make the objects appear realistic and threedimensional. Objects appear differently when viewed from various positions. ( ① ) When observing a subject, you see depth and three dimensions. ( ② ) When you draw this subject onto a flat surface as it appears to the eye, you are drawing in perspective. ( ③ ) This is the fundamental goal of the technique. ( ④ ) Every line contributes to this effect. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Because of this, it's important to establish the viewpoint, and stick with it.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '이 때문에(Because of this)' 시점을 설정하고 유지하는 것이 중요하다고 말합니다. (①) 바로 앞 문장에서 '사물은 다양한 위치에서 볼 때 다르게 보인다'고 언급하는데, 이것이 바로 '이 때문(this)'에 해당하는 원인입니다. 따라서 (①)에 주어진 문장이 들어가 원인과 결과를 자연스럽게 연결하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "In art, there are a number of ways to use perspective to obtain the illusion of depth, including using colors and graduated values of black and white, and accurately drawing the subject by applying the rules of the geometric system of perspective.",
+      "question_blocks": {
+        "A": "The forms or objects that you draw on a flat surface actually have depth and dimension in real life. As you view them and place their shapes and forms on a drawing surface, try to represent that depth to make the objects appear realistic and threedimensional.",
+        "B": "In order to achieve perspective, you must make a number of observations.",
+        "C": "Objects appear differently when viewed from various positions. Because of this, it's important to establish the viewpoint, and stick with it. When observing a subject, you see depth and three dimensions. When you draw this subject onto a flat surface as it appears to the eye, you are drawing in perspective."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 원근법에 대한 정의를 내립니다. (B)에서 원근법을 구현하기 위한 첫 번째 단계로 '관찰'이 필요함을 제시합니다. (A)에서 '관찰'의 대상을 구체화하고(실제 사물의 깊이와 차원), 관찰한 것을 사실적으로 표현하려는 목표를 설명합니다. (C)에서 관찰의 중요한 원칙인 '고정된 시점'을 도입하고, 글 전체의 내용을 요약하며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "In art, there are a number of ways to use perspective to obtain the ____________________, including using colors and graduated values of black and white, and accurately drawing the subject by applying the rules of the geometric system of perspective. In order to achieve perspective, you must make a number of observations. The forms or objects that you draw on a flat surface actually have depth and dimension in real life.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "perfect color harmony" },
+        { "number": "②", "text": "viewer's immediate attention" },
+        { "number": "③", "text": "abstract emotional expression" },
+        { "number": "④", "text": "historically accurate representation" },
+        { "number": "⑤", "text": "illusion of depth" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 전체적인 내용은 원근법을 사용하여 평평한 표면에 입체감을 표현하는 방법에 관한 것입니다. 빈칸이 포함된 문장은 원근법을 사용하는 목적을 설명하는 자리이며, 글의 나머지 부분에서 계속해서 '깊이(depth)'와 '3차원(three-dimensional)'을 언급하므로 '깊이의 착시(illusion of depth)'가 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "In art, there are a number of ways to use perspective to obtain the ① [illusion] of depth... and ② [accurately] drawing the subject by applying the rules of the geometric system of perspective. The forms or objects that you draw on a ③ [flat] surface actually have depth and dimension in real life. As you view them, try to ④ [represent] that depth to make the objects appear realistic. Objects appear differently when viewed from various positions. Because of this, it's important to establish the viewpoint, and ⑤ [change] it.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 사물이 보는 위치에 따라 다르게 보이기 때문에, 일관된 그림을 그리기 위해 시점을 설정하고 그것을 '고수하는 것(stick with it)'이 중요하다고 강조합니다. 따라서 시점을 '바꾸는 것(change)'은 글의 핵심 주장과 정반대되는 내용이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "In art, there are a number of ways to use (A) [perspective] to obtain the illusion of depth... The forms or objects that you draw on a flat surface actually have depth and (B) [dimension] in real life. As you view them... try to (C) [represent] that depth to make the objects appear realistic and threedimensional. Objects appear differently when viewed from various positions. Because of this, it's important to (D) [establish] the viewpoint, and stick with it. When you draw this subject onto a flat surface as it (E) [appears] to the eye, you are drawing in perspective.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) perspective: a method of creating an illusion of distance on a flat surface." },
+        { "number": "②", "text": "(B) dimension: a measurement of something in a particular direction, such as length or width." },
+        { "number": "③", "text": "(C) represent: to show or describe something or someone in a particular way." },
+        { "number": "④", "text": "(D) establish: to discover or get proof of a fact." },
+        { "number": "⑤", "text": "(E) appears: to seem; to give the impression of being." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) establish는 이 문맥에서 시점을 '설정하다' 또는 '정하다(to set up or create)'라는 의미로 사용되었습니다. '사실의 증거를 발견하거나 얻다'라는 뜻도 있지만, 여기서는 시점을 만드는 행위를 의미하므로 제시된 영영 풀이는 문맥과 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "In art, there are a number of ways to use perspective to obtain the illusion of (A) [depth / surface]... try to represent that depth to make the objects appear (B) [realistic / abstract] and threedimensional. Objects appear differently when viewed from various positions. Because of this, it's important to establish the viewpoint, and (C) [stick with / move from] it.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "depth - realistic - stick with" },
+        { "number": "②", "text": "depth - abstract - move from" },
+        { "number": "③", "text": "surface - realistic - stick with" },
+        { "number": "④", "text": "surface - abstract - move from" },
+        { "number": "⑤", "text": "depth - realistic - move from" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 원근법은 '깊이(depth)'의 착시를 얻기 위해 사용됩니다. (B) 깊이를 표현하면 사물이 '사실적으로(realistic)' 보이게 됩니다. (C) 일관된 그림을 위해 설정한 시점을 '고수해야(stick with)' 합니다. 따라서 정답은 depth - realistic - stick with 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "In order to achieve perspective, you must make a number of observations. ① The forms or objects that you draw on a flat surface actually have depth and dimension in real life. ② As you view them, try to represent that depth to make the objects appear realistic and threedimensional. ③ Many art museums offer drawing classes for beginners interested in these techniques. ④ Objects appear differently when viewed from various positions. ⑤ Because of this, it's important to establish the viewpoint, and stick with it.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 원근법 드로잉의 원리를 단계적으로 설명하는 instructional한 톤을 유지하고 있습니다. ③번 문장 '많은 미술관은 이 기술에 관심 있는 초보자를 위한 드로잉 수업을 제공한다'는 원리 설명과 무관한 외부 정보(수업 안내)이므로, 글의 전체적인 논리적 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "In art, there are a number of ways to use perspective to obtain the illusion of depth, ① [including / included] using colors and graduated values of black and white. In order to achieve perspective, you must make a number of observations. As you view them and place their shapes and forms on a drawing surface, try to represent that depth to make the objects ② [appear / to appear] realistic and threedimensional. Objects appear differently when ③ [viewed / viewing] from various positions.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "including",
+          "explanation": "앞선 내용에 대한 예시를 나열할 때 사용하는 전치사는 'including'입니다. 'included'는 동사의 과거/과거분사형입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "appear",
+          "explanation": "사역동사 'make'는 목적어(the objects) 뒤에 목적격 보어로 동사원형을 사용합니다. 따라서 'appear'가 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "viewed",
+          "explanation": "'when they are viewed'에서 주어와 be동사가 생략된 형태로, 사물(Objects)이 '보여지는' 것이므로 수동의 의미를 가진 과거분사 'viewed'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

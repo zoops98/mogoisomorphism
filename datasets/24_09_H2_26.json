@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.\nAfter graduating, he began teaching as a parttime instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967.\nAfter a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company's records to study animal populations.\nIn 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles.\nIn 1932, he helped establish the Bureau of Animal Population at Oxford.\nIn the same year he became the editor of the new Journal of Animal Ecology.\nThroughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "북극 생태계 보존의 중요성을 주장하기 위해" },
+        { "number": "②", "text": "Charles Elton의 가장 유명한 저서를 서평하기 위해" },
+        { "number": "③", "text": "생태학자 Charles Elton의 생애와 업적을 소개하기 위해" },
+        { "number": "④", "text": "동물 개체 수 연구의 어려움을 설명하기 위해" },
+        { "number": "⑤", "text": "동물 생태학 분야의 새로운 저널을 광고하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 Charles Elton의 출생, 학업, 가르친 경력, 연구 활동, 주요 저서 및 업적 등 그의 일생에 걸친 주요 사실들을 시간 순서에 따라 기술하고 있습니다. 이는 특정 인물의 생애와 업적을 소개하는 전기의 특성과 일치합니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.\nAfter graduating, he began teaching as a parttime instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967.\nAfter a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company's records to study animal populations.\nIn 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles.\nIn 1932, he helped establish the Bureau of Animal Population at Oxford.\nIn the same year he became the editor of the new Journal of Animal Ecology.\nThroughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Secrets of the Arctic Expeditions" },
+        { "number": "②", "text": "Charles Elton: A Pioneer of Modern Ecology" },
+        { "number": "③", "text": "The History of Oxford University" },
+        { "number": "④", "text": "Understanding Food Chains and Cycles" },
+        { "number": "⑤", "text": "The Fur Trade and Animal Populations" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Charles Elton이 먹이 사슬 개념 증명, 관련 기관 설립, 저널 편집 등 현대 생태학 분야에 남긴 중요한 업적들을 조명하고 있습니다. 마지막 문장에서 그가 '현대 생태학을 형성하는 데 중요한 역할을 했다'고 명시하고 있으므로, '현대 생태학의 선구자'라는 제목이 그의 역할을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.\nAfter graduating, he began teaching as a parttime instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967.\nAfter a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company's records to study animal populations.\nIn 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles.\nIn 1932, he helped establish the Bureau of Animal Population at Oxford.\nIn the same year he became the editor of the new Journal of Animal Ecology.\nThroughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Julian Huxley was the most influential figure in Charles Elton's long and distinguished academic career." },
+        { "number": "②", "text": "Charles Elton's work with a fur company provided the primary data for all his ecological theories." },
+        { "number": "③", "text": "Charles Elton made pioneering contributions to modern ecology through his teaching, research, and publications." },
+        { "number": "④", "text": "The establishment of the Bureau of Animal Population was Elton's single most important achievement." },
+        { "number": "⑤", "text": "The Journal of Animal Ecology quickly became the most prestigious academic publication in the world." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 Charles Elton의 다방면에 걸친 업적, 즉 옥스퍼드에서의 오랜 교수 생활, 모피 회사의 기록을 활용한 연구, 'Animal Ecology'와 같은 중요한 저서 출판 등을 종합적으로 언급하며 그가 현대 생태학의 기틀을 다졌다고 설명합니다. 따라서 그의 가르침, 연구, 출판물을 통해 현대 생태학에 선구적인 공헌을 했다는 것이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922. After graduating, he began teaching as a parttime instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967. ( ① ) After a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company's records to study animal populations. ( ② ) In 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles. ( ③ ) In 1932, he helped establish the Bureau of Animal Population at Oxford. ( ④ ) In the same year he became the editor of the new Journal of Animal Ecology. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This practical experience with the company's data was crucial for his later theoretical work.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '회사의 데이터와 관련된 이러한 실제적인 경험'이 그의 '후기 이론 작업'에 결정적이었다고 말합니다. ②번 앞 문장에서 그가 모피 회사의 기록을 조사하여 동물 개체 수를 연구했다는 '실제적인 경험'이 묘사됩니다. 그리고 ②번 뒷 문장에서는 그의 가장 중요한 '이론 작업'의 결과물인 책 'Animal Ecology'에 대해 이야기합니다. 따라서 주어진 문장은 이 둘 사이를 자연스럽게 연결하는 역할을 합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.",
+      "question_blocks": {
+        "A": "In 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles.",
+        "B": "After graduating, he began teaching as a parttime instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967. After a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant...",
+        "C": "In 1932, he helped establish the Bureau of Animal Population at Oxford. In the same year he became the editor of the new Journal of Animal Ecology. Throughout his career, Elton wrote six books and played a major role..."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Charles Elton의 생애를 시간순으로 서술합니다. 주어진 글은 그의 대학 시절(~1922년)을 다룹니다. (B)는 'After graduating(졸업 후)'으로 시작하며 그의 초기 경력(1922년~)을 설명하므로 자연스럽게 이어집니다. (A)는 그의 1927년 업적인 책 출간을 설명합니다. (C)는 그 이후인 1932년의 업적과 그의 경력 전체에 대한 요약으로 글을 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "After a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company's records to study animal populations.\nIn 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated ____________________________.\nIn 1932, he helped establish the Bureau of Animal Population at Oxford.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the effects of climate change on wildlife" },
+        { "number": "②", "text": "the principles of genetic inheritance" },
+        { "number": "③", "text": "the complete history of arctic exploration" },
+        { "number": "④", "text": "the evolution of animal species" },
+        { "number": "⑤", "text": "the nature of food chains and cycles" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "빈칸은 Charles Elton의 첫 번째이자 가장 중요한 책인 'Animal Ecology'에서 그가 증명한 내용을 묻고 있습니다. 본문은 그가 그 책에서 '먹이 사슬과 순환의 본질(the nature of food chains and cycles)'을 증명했다고 명시적으로 밝히고 있습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "After ① `graduating`, he began teaching as a parttime instructor and had a long and ② `insignificant` teaching career at Oxford from 1922 to 1967. After a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological ③ `consultant`... In 1927, he wrote his first and most ④ `important` book, Animal Ecology... Throughout his career, Elton wrote six books and played a major role in ⑤ `shaping` the modern science of ecology.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "graduating" },
+        { "number": "②", "text": "insignificant" },
+        { "number": "③", "text": "consultant" },
+        { "number": "④", "text": "important" },
+        { "number": "⑤", "text": "shaping" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 Charles Elton을 현대 생태학 형성에 '중요한 역할'을 한 인물로 묘사하고 있습니다. 그런 인물이 45년 동안이나 옥스퍼드에서 한 교수 경력을 '하찮은' 또는 '중요하지 않은(insignificant)'이라고 표현하는 것은 전체적인 긍정적 논조와 명백히 모순됩니다. '뛰어난(distinguished)'과 같은 긍정적인 단어가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "After (A) `graduating`, he began teaching... After a series of arctic (B) `expeditions` with Huxley, he worked with a fur-collecting and trading company... as a biological (C) `consultant`... In 1927, he wrote his first and most important book, Animal Ecology, in which he (D) `demonstrated` the nature of food chains and cycles. In 1932, he helped (E) `establish` the Bureau of Animal Population at Oxford.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) graduating: successfully finishing a course at a university or school" },
+        { "number": "②", "text": "(B) expeditions: short and casual trips that people take for pleasure or relaxation" },
+        { "number": "③", "text": "(C) consultant: someone who is paid to give expert advice on a particular subject" },
+        { "number": "④", "text": "(D) demonstrated: showed that something is true by providing facts or proof" },
+        { "number": "⑤", "text": "(E) establish: to start a company or organization that will continue for a long time" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) expeditions(탐험)는, 특히 '북극 탐험'이라는 맥락에서, 탐사나 연구 같은 특별한 목적을 가지고 떠나는 길고 조직적인 여정을 의미합니다. 제시된 영영 풀이인 '즐거움이나 휴식을 위해 떠나는 짧고 가벼운 여행'은 이러한 의미와 전혀 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "After graduating, he began teaching as a (A) [parttime / fulltime] instructor... he worked with a fur-collecting and trading company as a biological consultant, and (B) [examined / ignored] the company's records to study animal populations. ... Throughout his career, Elton wrote six books and played a major role in (C) [shaping / damaging] the modern science of ecology.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "parttime - examined - shaping" },
+        { "number": "②", "text": "parttime - ignored - damaging" },
+        { "number": "③", "text": "parttime - examined - damaging" },
+        { "number": "④", "text": "fulltime - ignored - shaping" },
+        { "number": "⑤", "text": "fulltime - examined - shaping" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 본문에 따르면 그는 '시간제 강사(parttime instructor)'로 교수 생활을 시작했습니다. (B) 동물 개체 수를 연구하기 위해 회사의 기록을 '조사했습니다(examined)'. (C) 글 전체의 논조로 보아 그는 현대 생태학을 '형성하는 데(shaping)' 중요한 역할을 했습니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.\nAfter graduating, he began teaching as a parttime instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967.\nAfter a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company's records to study animal populations.\nIn 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles.\nIn 1932, he helped establish the Bureau of Animal Population at Oxford.\nIn the same year he became the editor of the new Journal of Animal Ecology.\nThroughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.",
+      "question": "Charles Elton에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "옥스퍼드 대학에서 동물학을 공부했다." },
+        { "number": "②", "text": "1922년부터 40년 넘게 옥스퍼드에서 가르쳤다." },
+        { "number": "③", "text": "생물학 자문가로서 모피 회사를 위해 일한 적이 있다." },
+        { "number": "④", "text": "그의 가장 중요한 책은 1932년에 저술되었다." },
+        { "number": "⑤", "text": "Journal of Animal Ecology의 편집자가 되었다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에 따르면 그의 첫 번째이자 가장 중요한 책인 'Animal Ecology'는 1927년에 저술되었습니다('In 1927, he wrote...'). 1932년은 그가 옥스퍼드에 동물 개체 수 연구소를 설립하는 것을 돕고 새로운 저널의 편집자가 된 해입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "After graduating, he began teaching as a parttime instructor and ① [had / having] a long and distinguished teaching career at Oxford from 1922 to 1967. ... In 1927, he wrote his first and most important book, Animal Ecology, in ② [which / that] he demonstrated the nature of food chains and cycles. ... Throughout his career, Elton wrote six books and ③ [played / playing] a major role in shaping the modern science of ecology.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "had",
+          "explanation": "주어 'he'에 대한 동사 'began'과 등위 접속사 'and'로 연결된 병렬 구조입니다. 따라서 같은 시제인 과거 동사 'had'가 와야 합니다. 'having'은 분사 또는 동명사로, 이 자리에서 동사 역할을 할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "which",
+          "explanation": "선행사 'Animal Ecology'를 꾸며주는 관계대명사절입니다. 전치사 'in'의 목적어 역할을 해야 하므로 관계대명사 'which'가 사용되어야 합니다. 관계대명사 'that'은 전치사 바로 뒤에 올 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "played",
+          "explanation": "주어 'Elton'에 대한 동사 'wrote'와 등위 접속사 'and'로 연결된 병렬 구조입니다. 따라서 같은 시제인 과거 동사 'played'가 와야 합니다. 'playing'은 분사 또는 동명사로, 동사 자리에 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

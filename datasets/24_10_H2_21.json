@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "제목 추론",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical impulse, are the result of your personal history.\nThey are part of who you are, as they are part of how your character was formed.\nInstant virtue is therefore impossible.\nPopping a pill cannot make you a better person.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Joy of Receiving a Christmas Present"
+        },
+        {
+          "number": "②",
+          "text": "How to Form Good Emotional Habits"
+        },
+        {
+          "number": "③",
+          "text": "Can a Pill Make You a Virtuous Person?"
+        },
+        {
+          "number": "④",
+          "text": "Generosity: A Philosopher's Perspective"
+        },
+        {
+          "number": "⑤",
+          "text": "Why We Praise People's Character"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '관대함 촉진제'나 '알약'이라는 비유를 사용하여, 미덕이 약물처럼 즉각적으로 얻어질 수 있는지에 대한 질문을 던지고 있습니다. 글의 결론은 '즉각적인 미덕은 불가능하다'이므로, '알약이 당신을 유덕한 사람으로 만들 수 있는가?'라는 제목은 글의 핵심적인 질문과 주제를 가장 잘 포괄합니다."
+      }
+    },
+    {
+      "problem_type": "글의 목적",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical impulse, are the result of your personal history.\nThey are part of who you are, as they are part of how your character was formed.\nInstant virtue is therefore impossible.\nPopping a pill cannot make you a better person.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize a friend for being stingy"
+        },
+        {
+          "number": "②",
+          "text": "to define the true nature of virtue as a stable character trait"
+        },
+        {
+          "number": "③",
+          "text": "to encourage people to give more gifts during Christmas"
+        },
+        {
+          "number": "④",
+          "text": "to explain the chemical effects of a generosity booster"
+        },
+        {
+          "number": "⑤",
+          "text": "to recommend a method for changing one's moral identity"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 일시적인 충동에 의한 행동과 진정한 미덕을 대조하며, 관대함과 같은 미덕은 한 번의 행동이 아니라 개인의 역사와 성격의 일부로 형성된 '안정적인 도덕적 정체성'이라고 설명합니다. 글의 주된 목적은 이처럼 참된 미덕의 본질을 정의하고 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical impulse, are the result of your personal history.\nThey are part of who you are, as they are part of how your character was formed.\nInstant virtue is therefore impossible.\nPopping a pill cannot make you a better person.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "True virtue is a stable characteristic developed through personal history, not a momentary, induced impulse."
+        },
+        {
+          "number": "②",
+          "text": "We should praise all good actions regardless of the motivation or personal history behind them."
+        },
+        {
+          "number": "③",
+          "text": "Philosophers have long debated whether artificial means can be used to improve human moral behavior."
+        },
+        {
+          "number": "④",
+          "text": "A single act of kindness, although praiseworthy, should not be considered satisfying for anyone."
+        },
+        {
+          "number": "⑤",
+          "text": "The most important virtue is generosity because it is a stable part of our moral identity."
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 핵심 내용은 진정한 미덕(virtue)이란 '관대함 촉진제'에 의한 '일시적이고 유도된 충동'이 아니라, '개인의 역사'를 통해 형성된 '안정적인 성격 특성'이라는 것입니다. 따라서 ①번 선택지가 글의 요지를 가장 정확하게 반영합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift. You'd say 'thank you', and mean it. But his change of heart is not entirely satisfying.\n( ① ) According to Zagzebski, an American philosopher, he is not really generous.\n( ② ) When we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\n( ③ ) A person who gives one gift isn't generous.\n( ④ ) Instead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are.\n( ⑤ ) Thus virtues, as opposed to nontypical impulse, are the result of your personal history.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Popping a pill cannot make you a better person.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "주어진 문장은 이 글의 최종 결론입니다. ⑤번 바로 앞 문장은 '따라서 즉각적인 미덕은 불가능하다(Instant virtue is therefore impossible)'는 내용으로, 주어진 문장 앞에 위치해야 할 완벽한 전제입니다. '알약을 먹는 것'은 글의 시작 부분에서 제시된 '관대함 촉진제'의 비유를 다시 사용하여, 즉각적인 미덕이 불가능하다는 주장을 구체적으로 마무리하는 역할을 합니다. 따라서 ⑤번 뒤, 글의 맨 마지막에 오는 것이 가장 논리적입니다. (주어진 지문에서 'Instant virtue is therefore impossible'이 생략되었으므로, 그 문장이 있었을 마지막 자리에 들어갑니다.)"
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster. How would you feel?",
+      "question_blocks": {
+        "A": "Instead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are. Thus virtues, as opposed to nontypical impulse, are the result of your personal history.",
+        "B": "Undoubtedly, there is something praiseworthy about the action. You'd be pleased to receive the gift. You'd say 'thank you', and mean it. But his change of heart is not entirely satisfying.",
+        "C": "According to Zagzebski, an American philosopher, he is not really generous. When we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc. A person who gives one gift isn't generous."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 가상 상황을 제시합니다. (B)는 이 상황에 대한 감정적 반응(기쁘지만 만족스럽지 않음)을 설명하며 자연스럽게 이어집니다. (C)는 (B)의 '만족스럽지 않은' 이유를 철학자의 말을 인용하여 설명하고, '관대함'이라는 개념을 일반적인 미덕으로 확장하여 한 번의 행동으로는 충분치 않음을 지적합니다. 마지막으로 (A)는 (C)에서 제기된 '진정한 관대함이란 무엇인가'에 대한 답을 제시하며, 미덕이 안정적이고 역사적인 특성이라고 정의하며 글을 전개합니다. 따라서 (B)-(C)-(A) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical impulse, are __________________________.\nThey are part of who you are, as they are part of how your character was formed.\nInstant virtue is therefore impossible.\nPopping a pill cannot make you a better person.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the result of your personal history"
+        },
+        {
+          "number": "②",
+          "text": "a sign of a temporary mood swing"
+        },
+        {
+          "number": "③",
+          "text": "an action that deserves praise"
+        },
+        {
+          "number": "④",
+          "text": "a way to make other people happy"
+        },
+        {
+          "number": "⑤",
+          "text": "the effect of a chemical substance"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "빈칸이 있는 문장은 미덕(virtues)이 무엇인지를 정의하는 부분입니다. 글의 흐름상 미덕은 일시적인 충동과 반대되는 개념으로, 안정적이고 깊이 뿌리내린 특성임을 강조하고 있습니다. 빈칸 바로 다음 문장에서 '그것들은 당신의 성격이 어떻게 형성되었는지의 일부'라고 부연 설명하고 있으므로, 미덕이 '당신의 개인적인 역사의 결과'라는 내용이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Imagine that your usually ① [stingy] friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something ② [praiseworthy] about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a ③ [stable] part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to ④ [nontypical] impulse, are the result of your personal history.\nThey are part of who you are, as they are part of how your character was formed.\nInstant virtue is therefore ⑤ [possible].",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "stingy"
+        },
+        {
+          "number": "②",
+          "text": "praiseworthy"
+        },
+        {
+          "number": "③",
+          "text": "stable"
+        },
+        {
+          "number": "④",
+          "text": "nontypical"
+        },
+        {
+          "number": "⑤",
+          "text": "possible"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글 전체의 논지는 미덕이 개인의 역사와 성격을 통해 오랜 시간에 걸쳐 형성되는 것이므로, 즉각적으로 생겨날 수 없다는 것입니다. 따라서 '즉각적인 미덕은 그러므로 가능하다(Instant virtue is therefore possible)'는 문장은 글의 핵심 주장과 정면으로 배치됩니다. 문맥상 '불가능한(impossible)'이 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Imagine that your usually (A) [stingy] friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely (B) [satisfying].\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various (C) [virtues]: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a (D) [stable] part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical (E) [impulse], are the result of your personal history.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) stingy: unwilling to give or spend; not generous"
+        },
+        {
+          "number": "②",
+          "text": "(B) satisfying: giving fulfillment or pleasure because it is what you wanted"
+        },
+        {
+          "number": "③",
+          "text": "(C) virtues: personal qualities that are interesting and unusual"
+        },
+        {
+          "number": "④",
+          "text": "(D) stable: firmly established; not likely to change or fail"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) impulse: a sudden strong and unreflective urge or desire to act"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'virtues'는 '높은 도덕적 기준을 보여주는 행동이나 성품', 즉 '미덕'을 의미합니다. 제시된 영영 풀이인 '흥미롭고 특이한 개인적 자질'은 'quirks'나 'eccentricities'에 가까운 설명이며, 'virtues'의 도덕적 의미를 담고 있지 않습니다. A virtue's correct definition is 'behavior showing high moral standards'."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something (A) [praiseworthy / blameworthy] about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nInstead, generosity is a (B) [stable / fleeting] part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical impulse, are the result of your personal history.\nThey are part of who you are, as they are part of how your character was formed.\n(C) [Instant / Earned] virtue is therefore impossible.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "praiseworthy - stable - Instant"
+        },
+        {
+          "number": "②",
+          "text": "praiseworthy - fleeting - Earned"
+        },
+        {
+          "number": "③",
+          "text": "blameworthy - stable - Instant"
+        },
+        {
+          "number": "④",
+          "text": "blameworthy - fleeting - Earned"
+        },
+        {
+          "number": "⑤",
+          "text": "praiseworthy - stable - Earned"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 친구가 선물을 주는 행동 자체는 '칭찬할 만한(praiseworthy)' 것입니다. '비난할 만한(blameworthy)' 행동은 아닙니다. (B) 진정한 관대함은 '일시적인(fleeting)' 감정이 아니라 '안정적인(stable)' 성격의 일부입니다. (C) 글의 결론은 미덕이 즉각적으로 생길 수 없다는 것이므로, '즉각적인(Instant)' 미덕이 불가능하다고 말하는 것이 자연스럽습니다. '노력으로 얻은(Earned)' 미덕이 불가능하다는 것은 글의 내용과 반대됩니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster.\nHow would you feel?\nUndoubtedly, there is something praiseworthy about the action.\nYou'd be pleased to receive the gift.\nYou'd say 'thank you', and mean it.\nBut his change of heart is not entirely satisfying.\nAccording to Zagzebski, an American philosopher, he is not really generous.\nWhen we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc.\nA person who gives one gift isn't generous.\nInstead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are.\nThus virtues, as opposed to nontypical impulse, are the result of your personal history.\nThey are part of who you are, as they are part of how your character was formed.\nInstant virtue is therefore impossible.\nPopping a pill cannot make you a better person.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "인색한 친구의 선물 주는 행동 자체는 칭찬할 만한 구석이 있다."
+        },
+        {
+          "number": "②",
+          "text": "선물을 받고 나서 진심으로 고맙다고 말할 것이다."
+        },
+        {
+          "number": "③",
+          "text": "Zagzebski에 따르면, 한 번의 행동만으로는 진정으로 관대하다고 할 수 없다."
+        },
+        {
+          "number": "④",
+          "text": "미덕은 비전형적인 충동과 반대되는 개념이다."
+        },
+        {
+          "number": "⑤",
+          "text": "알약을 복용하는 것은 성격을 형성하는 효과적인 방법이다."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 마지막 문장은 'Popping a pill cannot make you a better person.(알약을 먹는 것이 당신을 더 나은 사람으로 만들 수는 없다)'입니다. 이는 알약 복용이 성격 형성에 효과적이지 않으며, 진정한 미덕을 만들 수 없다는 글의 핵심 주장을 명확히 보여줍니다. 따라서 ⑤번은 글의 내용과 정면으로 배치됩니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Imagine that your usually stingy friend delights in ① [buying / to buy] you a Christmas present after taking a generosity booster.\nUndoubtedly, there is something praiseworthy about the action.\nBut his change of heart is not entirely satisfying.\nThus virtues, as opposed to nontypical impulse, ② [is / are] the result of your personal history.\nThey are part of who you are, as they are part of how your character ③ [was formed / formed].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "buying",
+          "explanation": "전치사 'in'의 목적어로는 명사나 동명사가 와야 합니다. 따라서 동명사 'buying'이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "are",
+          "explanation": "문장의 주어는 'as opposed to~' 구문의 수식을 받는 복수 명사 'virtues'입니다. 따라서 주어의 수에 맞춰 복수 동사 'are'를 사용해야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "was formed",
+          "explanation": "주어 'your character'는 '형성하는' 주체가 아니라 '형성되는' 대상이므로, 수동의 의미를 나타내는 수동태 'was formed'가 적절합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications.\nSince my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly request an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to announce the hiring of new interns"
+        },
+        {
+          "number": "②",
+          "text": "to request additional funding for an internship program"
+        },
+        {
+          "number": "③",
+          "text": "to complain about the recently approved budget"
+        },
+        {
+          "number": "④",
+          "text": "to postpone the start date of the internship program"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide details about training materials for interns"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 중반부에서 작성자는 계획보다 3명의 인턴을 더 채용하여 추가 자금이 필요하다고 언급하고, 'I kindly request an additional budget allocation for these expenses.'라고 명시적으로 추가 예산 배정을 요청하고 있습니다. 따라서 글의 목적은 인턴십 프로그램을 위한 추가 예산 요청입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications.\nSince my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly request an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Successful Management of New Interns"
+        },
+        {
+          "number": "②",
+          "text": "Guide to Departmental Budget Planning"
+        },
+        {
+          "number": "③",
+          "text": "Announcement of the Internship Program Schedule"
+        },
+        {
+          "number": "④",
+          "text": "Urgent Request for an Increased Internship Budget"
+        },
+        {
+          "number": "⑤",
+          "text": "Final Report on Intern Recruitment Results"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 인턴십 프로그램 시작 일주일을 앞두고, 예상보다 많은 인턴을 채용하게 되어 기존 예산의 조정이 필요하며, 이에 대한 추가 예산 배정을 '긴급하게(immediate consideration)' 요청하는 내용입니다. 따라서 '인턴십 예산 증액에 대한 긴급 요청'이 글의 전체 내용을 가장 잘 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications.\nSince my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly request an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The department is having difficulties in managing the newly recruited interns for the program."
+        },
+        {
+          "number": "②",
+          "text": "Hiring more interns than originally planned has made it necessary to request more financial support."
+        },
+        {
+          "number": "③",
+          "text": "A flexible budget is essential for successfully handling unexpected modifications within any internship program."
+        },
+        {
+          "number": "④",
+          "text": "Coordinators must promptly inform executive managers about any changes made to their initial plans."
+        },
+        {
+          "number": "⑤",
+          "text": "The internship program cannot begin as scheduled unless the additional funding is approved immediately."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 핵심 내용은 '계획보다 3명의 인턴을 더 채용(hired three more interns than planned)'했고, 그 결과로 그들의 '임금, 훈련 비용, 자재'를 충당하기 위한 '추가 자금(additional funding)'이 필요하다는 것입니다. 따라서 '계획보다 많은 인턴을 채용한 것으로 인해 추가적인 재정 지원을 요청하는 것이 필요해졌다'는 ②번 선택지가 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\n( ① ) As the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications.\n( ② ) I kindly request an additional budget allocation for these expenses.\n( ③ ) Please refer to the attachment for details.\n( ④ ) Thank you for your attention.\n( ⑤ )\nBest regards, Matt Perry",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Since my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 예산 조정이 필요한 구체적인 이유(3명의 인턴 추가 채용과 관련 비용)를 설명합니다. ②번 앞 문장에서 예산 조정이 필요하다고('needs some adjustments') 일반적인 문제를 제기한 후, 주어진 문장이 그 이유를 상세히 설명하는 것이 자연스럽습니다. 그리고 ②번 뒷 문장의 'these expenses'는 주어진 문장에서 언급된 'wages, training costs, and materials'를 가리키므로, 주어진 문장은 ②에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.",
+      "question_blocks": {
+        "A": "I kindly request an additional budget allocation for these expenses. Please refer to the attachment for details.",
+        "B": "As the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications.",
+        "C": "Since my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 문제 제기를 하고 있습니다. (B)에서 예산 조정이 필요하다는 포괄적인 상황을 설명합니다. (C)에서 예산 조정이 필요한 구체적인 이유, 즉 3명의 인턴을 추가로 고용했고 관련 비용이 발생했다는 점을 설명합니다. (A)에서 (C)에 언급된 'wages, training costs, and materials'를 'these expenses'로 받아서, 이에 대한 추가 예산을 공식적으로 요청하며 글을 마무리합니다. 따라서 가장 자연스러운 순서는 (B)-(C)-(A)입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet __________________________.\nSince my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly request an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the deadline for the project"
+        },
+        {
+          "number": "②",
+          "text": "the demands of the new manager"
+        },
+        {
+          "number": "③",
+          "text": "the company's new safety regulations"
+        },
+        {
+          "number": "④",
+          "text": "the emerging modifications"
+        },
+        {
+          "number": "⑤",
+          "text": "the final program evaluation"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 포함된 문장은 예산 조정이 필요한 이유를 설명하기 시작하는 부분입니다. 바로 다음 문장에서 '계획보다 3명의 인턴을 더 채용했다'는 구체적인 변화를 설명하고 있습니다. 이 변화는 '새롭게 생겨난 변경 사항'으로 요약될 수 있습니다. 따라서 빈칸에는 'the emerging modifications(새롭게 생겨난 변경 사항들)'가 들어가는 것이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires ① [immediate] consideration regarding the issue my department has.\nAs the coordinator, it is becoming ② [apparent] to me that the budget, previously approved by your department, needs some ③ [adjustments] in order to meet the emerging modifications.\nSince my department has hired three more interns than planned ④ [initially], the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly ⑤ [deny] an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "immediate"
+        },
+        {
+          "number": "②",
+          "text": "apparent"
+        },
+        {
+          "number": "③",
+          "text": "adjustments"
+        },
+        {
+          "number": "④",
+          "text": "initially"
+        },
+        {
+          "number": "⑤",
+          "text": "deny"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글쓴이는 추가 인턴 채용으로 인해 발생한 비용을 충당하기 위해 추가 예산을 '요청'하는 상황입니다. ⑤번의 'deny'(거절하다)는 이러한 글의 흐름과 정반대되는 의미입니다. 문맥상 'request'(요청하다)가 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate (A) [consideration] regarding the issue my department has.\nAs the (B) [coordinator], it is becoming apparent to me that the budget, previously (C) [approved] by your department, needs some adjustments in order to meet the emerging modifications.\nSince my department has hired three more interns than planned (D) [initially], the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly request an additional budget (E) [allocation] for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) consideration: careful thought or attention given to something"
+        },
+        {
+          "number": "②",
+          "text": "(B) coordinator: a person who organizes people or groups so that they work together properly"
+        },
+        {
+          "number": "③",
+          "text": "(C) approved: officially agreed to or accepted as satisfactory"
+        },
+        {
+          "number": "④",
+          "text": "(D) initially: at the beginning"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) allocation: a formal statement that someone is guilty of a crime"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) 'allocation'은 '할당, 배분'을 의미합니다. 영영 풀이로 제시된 'a formal statement that someone is guilty of a crime'(누군가가 범죄에 대해 유죄라는 공식적인 진술)은 'conviction'(유죄 판결)이나 'accusation'(고발) 등에 대한 설명이며, allocation의 의미와는 전혀 다릅니다. Allocation의 올바른 영영 풀이는 'the action or process of distributing something'입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program (A) [starts / ends].\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some (B) [adjustments / confirmations] in order to meet the emerging modifications.\nSince my department has hired three more interns than planned initially, the most expensive need is for (C) [additional / reduced] funding to cover their wages, training costs, and materials.\nI kindly request an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "starts - adjustments - additional"
+        },
+        {
+          "number": "②",
+          "text": "starts - confirmations - reduced"
+        },
+        {
+          "number": "③",
+          "text": "starts - adjustments - reduced"
+        },
+        {
+          "number": "④",
+          "text": "ends - confirmations - additional"
+        },
+        {
+          "number": "⑤",
+          "text": "ends - adjustments - additional"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 'a week before'라는 표현으로 보아 프로그램이 곧 '시작(starts)'되는 것을 알 수 있습니다. (B) 예상치 못한 변화(modifications)에 맞춰 예산을 '조정(adjustments)'해야 합니다. 'confirmations'(확인)은 어색합니다. (C) 인원을 더 채용했으므로 '추가적인(additional)' 자금이 필요하며, '줄어든(reduced)' 자금은 논리적으로 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Dear Executive Manager Schulz,\nIt is a week before the internship program starts.\nI am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications.\nSince my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.\nI kindly request an additional budget allocation for these expenses.\nPlease refer to the attachment for details.\nThank you for your attention.\nBest regards, Matt Perry",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "이 편지는 인턴십 프로그램이 시작되기 일주일 전에 작성되었다."
+        },
+        {
+          "number": "②",
+          "text": "부서는 계획했던 것보다 3명의 인턴을 더 채용했다."
+        },
+        {
+          "number": "③",
+          "text": "작성자는 추가 예산의 세부 사항을 이메일에 첨부했다."
+        },
+        {
+          "number": "④",
+          "text": "기존 예산은 수신인의 부서로부터 이전에 승인받은 것이었다."
+        },
+        {
+          "number": "⑤",
+          "text": "작성자는 모든 인턴들의 임금을 인상해달라고 요청하고 있다."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 계획보다 '추가로 채용된 3명'의 인턴에 대한 '임금(wages), 훈련 비용, 자재'를 충당하기 위한 추가 예산을 요청하는 것입니다. 이는 기존 인원을 포함한 모든 인턴들의 임금을 '인상'해달라는 것이 아니라, 늘어난 인원에 대한 비용을 충당해달라는 의미입니다. 따라서 ⑤번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "I am writing to bring your attention to a matter ① [that / what] requires immediate consideration regarding the issue my department has.\nAs the coordinator, it is becoming apparent to me that the budget, previously ② [approved / approving] by your department, needs some adjustments in order to meet the emerging modifications.\nSince my department has hired three more interns than ③ [planned / to plan] initially, the most expensive need is for additional funding to cover their wages, training costs, and materials.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'a matter'를 수식하는 관계대명사가 필요합니다. 관계대명사절 안에서 주어 역할을 하므로 주격 관계대명사 'that'이 적절합니다. 'what'은 선행사를 포함하는 관계대명사로, 앞에 선행사가 있을 때 사용할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "approved",
+          "explanation": "분사가 명사 'the budget'을 뒤에서 수식하는 구조입니다. 예산은 '승인되는' 것이므로 수동의 의미를 가지는 과거분사 'approved'가 적절합니다. 'approving'은 능동의 의미를 가집니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "planned",
+          "explanation": "비교 구문 'than' 뒤에 위치하며, 'than what was planned'에서 'what was'가 생략된 형태로 볼 수 있습니다. '계획된' 것이라는 수동의 의미이므로 과거분사 'planned'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

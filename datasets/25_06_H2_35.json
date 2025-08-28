@@ -1,0 +1,282 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more honestly than any other part of our bodies. Why are the feet and legs such accurate reflectors of our sentiments? For millions of years, long before humans spoke, our legs and feet reacted to environmental threats (e.g., hot sand, illtempered lions) instantaneously, without the need for conscious thought. Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat. This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today. In fact, these age-old reactions are still so hardwired in us that when we are presented with something dangerous or even disagreeable, our feet and legs still react as they did in prehistoric times.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To criticize Desmond Morris's theories."
+        },
+        {
+          "number": "②",
+          "text": "To provide tips on controlling body language."
+        },
+        {
+          "number": "③",
+          "text": "To explain the evolutionary reason for the honesty of leg movements."
+        },
+        {
+          "number": "④",
+          "text": "To compare the human limbic brain with that of other animals."
+        },
+        {
+          "number": "⑤",
+          "text": "To list environmental threats faced by early humans."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '왜 발과 다리가 우리의 감정을 정확하게 반영하는가?'라는 질문으로 시작하여, 수백만 년 전부터 생존을 위해 위협에 즉각적으로 반응해야 했던 진화적 배경을 설명합니다. 따라서 이 글의 주된 목적은 다리 움직임의 정직성에 대한 진화론적 이유를 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more honestly than any other part of our bodies. Why are the feet and legs such accurate reflectors of our sentiments? For millions of years, long before humans spoke, our legs and feet reacted to environmental threats (e.g., hot sand, illtempered lions) instantaneously, without the need for conscious thought. Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat. This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today. In fact, these age-old reactions are still so hardwired in us that when we are presented with something dangerous or even disagreeable, our feet and legs still react as they did in prehistoric times.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Power of the Limbic Brain"
+        },
+        {
+          "number": "②",
+          "text": "Desmond Morris: A Pioneer in Zoology"
+        },
+        {
+          "number": "③",
+          "text": "How to Survive in the Wild"
+        },
+        {
+          "number": "④",
+          "text": "Our Feet Don't Lie: An Evolutionary Legacy"
+        },
+        {
+          "number": "⑤",
+          "text": "Conscious Thought vs. Instinctive Reaction"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글의 핵심 내용은 우리의 발이 정직하게 감정을 드러내는 이유가 생존을 위해 뇌에 깊이 각인된 '진화적 유산(evolutionary legacy)' 때문이라는 것입니다. 따라서 '우리의 발은 거짓말을 하지 않는다: 진화적 유산'이라는 제목이 글의 주제를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more honestly than any other part of our bodies. Why are the feet and legs such accurate reflectors of our sentiments? For millions of years, long before humans spoke, our legs and feet reacted to environmental threats (e.g., hot sand, illtempered lions) instantaneously, without the need for conscious thought. Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat. This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today. In fact, these age-old reactions are still so hardwired in us that when we are presented with something dangerous or even disagreeable, our feet and legs still react as they did in prehistoric times.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The human ability to speak has made non-verbal communication from our feet and legs completely obsolete."
+        },
+        {
+          "number": "②",
+          "text": "Our feet and legs honestly reflect our true feelings due to an ancient survival instinct still hardwired in us."
+        },
+        {
+          "number": "③",
+          "text": "Conscious thought is always more important than instinct when reacting to dangerous or disagreeable situations."
+        },
+        {
+          "number": "④",
+          "text": "Desmond Morris's observations about human body language have been largely disproven by modern scientific research."
+        },
+        {
+          "number": "⑤",
+          "text": "The limbic brain's primary function in modern humans is to control complex verbal communication and expression."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 우리의 발과 다리가 정직한 이유는, 위협에 즉각적으로 반응해야 했던 고대의 생존 본능이 오늘날에도 여전히 우리에게 깊이 각인되어 있기 때문이라고 설명합니다. 따라서 '우리의 발과 다리는 우리에게 여전히 깊이 각인된 고대의 생존 본능 때문에 우리의 진정한 감정을 정직하게 반영한다'가 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "For millions of years, long before humans spoke, our legs and feet reacted to environmental threats (e.g., hot sand, illtempered lions) instantaneously, without the need for conscious thought. ( ① ) This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today. ( ② ) In fact, these age-old reactions are still so hardwired in us that when we are presented with something dangerous or even disagreeable, our feet and legs still react as they did in prehistoric times. ( ③ ) This honesty is what makes them reliable indicators of our true state of mind. ( ④ ) It is a direct line to our primal brain. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 변연계 뇌가 발과 다리의 반응(움직임 멈추기, 도망가기, 발로 차기)을 어떻게 조절했는지 설명합니다. (①) 앞 문장은 발과 다리가 의식적인 생각 없이 즉각적으로 반응했다고 말합니다. 주어진 문장은 그 즉각적인 반응의 주체(변연계 뇌)와 구체적인 방식(세 가지 행동)을 설명합니다. (①) 뒤 문장은 '이러한 생존 체계(This survival regimen)'라고 지칭하며 주어진 문장에서 설명된 행동들을 받아주므로, (①)이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more honestly than any other part of our bodies. Why are the feet and legs such accurate reflectors of our sentiments?",
+      "question_blocks": {
+        "A": "This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today.",
+        "B": "For millions of years, long before humans spoke, our legs and feet reacted to environmental threats (e.g., hot sand, illtempered lions) instantaneously, without the need for conscious thought. Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat.",
+        "C": "In fact, these age-old reactions are still so hardwired in us that when we are presented with something dangerous or even disagreeable, our feet and legs still react as they did in prehistoric times."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 왜 발이 정직한지에 대한 질문을 던집니다. (B)는 수백만 년 전의 진화적 배경을 설명하며 그 이유를 제시합니다. (A)는 (B)에서 설명된 반응을 '생존 체계(survival regimen)'라고 지칭하며, 그것이 오늘날까지 이어져 왔음을 말합니다. (C)는 '사실(In fact)'이라는 연결어를 사용하여, (A)에서 언급된 오래된 반응이 현대에도 여전히 우리에게 깊이 각인되어 있음을 강조하며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "For millions of years, long before humans spoke, our legs and feet reacted to environmental threats (e.g., hot sand, illtempered lions) instantaneously, ____________________. Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat. This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "based on social expectations"
+        },
+        {
+          "number": "②",
+          "text": "only when we were alone"
+        },
+        {
+          "number": "③",
+          "text": "without the need for conscious thought"
+        },
+        {
+          "number": "④",
+          "text": "after careful consideration and planning"
+        },
+        {
+          "number": "⑤",
+          "text": "by communicating verbally with others"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 발과 다리의 반응이 생존을 위한 본능적인 것이었음을 강조합니다. 빈칸 바로 뒤 문장에서 변연계 뇌가 필요한 반응을 하도록 만들었다고 설명하는 것으로 보아, 이러한 반응은 이성적이고 의식적인 판단 과정을 거치지 않았음을 알 수 있습니다. 따라서 '의식적인 생각의 필요 없이'가 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more ① [honestly] than any other part of our bodies. Why are the feet and legs such ② [accurate] reflectors of our sentiments? For millions of years, our legs and feet reacted to environmental threats ③ [instantaneously], without the need for conscious thought. Our limbic brains made sure that our feet and legs reacted as needed. This survival regimen, ④ [retained] from our ancestral heritage, has served us well. In fact, these age-old reactions are still so ⑤ [flexible] in us that our feet and legs still react as they did in prehistoric times.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 고대의 반응이 오늘날에도 여전히 우리 안에 깊이 '박혀있다'는 것을 강조합니다. 'hardwired(깊이 각인된, 고정된)'라는 단어가 이를 나타냅니다. '유연하다(flexible)'는 것은 쉽게 변할 수 있다는 의미이므로, 변하지 않고 남아있는 본능적인 반응을 설명하는 문맥에는 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The writer and zoologist Desmond Morris (A) [observed] that our feet communicate exactly what we think and feel more honestly than any other part of our bodies. Why are the feet and legs such accurate reflectors of our (B) [sentiments]? For millions of years, our legs and feet reacted to environmental threats (C) [instantaneously], without the need for conscious thought. This survival (D) [regimen], retained from our ancestral heritage, has served us well. In fact, these age-old reactions are still so (E) [hardwired] in us that they still react as they did in prehistoric times.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) observed: to notice or see something and state it."
+        },
+        {
+          "number": "②",
+          "text": "(B) sentiments: a person's feelings or attitude about something."
+        },
+        {
+          "number": "③",
+          "text": "(C) instantaneously: happening or done in a single moment."
+        },
+        {
+          "number": "④",
+          "text": "(D) regimen: a set of rules about food and exercise or a plan of action."
+        },
+        {
+          "number": "⑤",
+          "text": "(E) hardwired: easy to change or adapt to new situations."
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) hardwired는 '타고난, 깊이 각인된'이라는 의미로, 배우거나 선택하는 것이 아니라서 바꾸기 어려운 특성을 나타냅니다. '새로운 상황에 쉽게 변하거나 적응하는'이라는 설명은 'flexible'이나 'adaptable'에 해당하며, 'hardwired'의 의미와는 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more (A) [honestly / deceitfully] than any other part of our bodies. Why are the feet and legs such accurate reflectors of our sentiments? For millions of years, long before humans spoke, our legs and feet (B) [reacted / ignored] to environmental threats instantaneously, without the need for conscious thought. This survival regimen, (C) [retained / discarded] from our ancestral heritage, has served us well and continues to do so today.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "honestly - reacted - retained"
+        },
+        {
+          "number": "②",
+          "text": "honestly - ignored - discarded"
+        },
+        {
+          "number": "③",
+          "text": "deceitfully - reacted - retained"
+        },
+        {
+          "number": "④",
+          "text": "deceitfully - ignored - discarded"
+        },
+        {
+          "number": "⑤",
+          "text": "honestly - reacted - discarded"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 데즈먼드 모리스는 우리의 발이 다른 신체 부위보다 더 '정직하게(honestly)' 소통한다고 관찰했습니다. (B) 수백만 년 동안 우리의 다리와 발은 위협에 즉각적으로 '반응했습니다(reacted)'. (C) 이 생존 체계는 우리의 조상 유산으로부터 '유지되었습니다(retained)'. 따라서 정답은 honestly - reacted - retained 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "For millions of years, long before humans spoke, our legs and feet reacted to environmental threats instantaneously, without the need for conscious thought. ① Our limbic brains made sure that our feet and legs reacted as needed by either ceasing motion, running away, or kicking at a potential threat. ② The limbic brain is also heavily involved in processing emotions such as fear, anger, and pleasure. ③ This survival regimen, retained from our ancestral heritage, has served us well and continues to do so today. ④ In fact, these age-old reactions are still so hardwired in us that when we are presented with something disagreeable, our feet and legs still react. ⑤ This is why they are considered such accurate reflectors of our sentiments.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 변연계 뇌가 '발과 다리의 즉각적인 생존 반응'을 어떻게 조절하는지에 초점을 맞춰 논리를 전개하고 있습니다. ②번 문장 '변연계 뇌는 또한 두려움, 분노, 즐거움과 같은 감정을 처리하는 데 깊이 관여한다'는 변연계 뇌의 다른 일반적인 기능에 대한 설명으로, 발과 다리의 반응이라는 구체적인 주제에서 벗어나므로 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The writer and zoologist Desmond Morris observed that our feet communicate exactly what we think and feel more ① [honest / honestly] than any other part of our bodies. Why are the feet and legs such accurate reflectors of our sentiments? For millions of years, long before humans spoke, our legs and feet reacted to environmental threats instantaneously, without the need for ② [conscious / consciously] thought. Our limbic brains made sure that our feet and legs reacted as needed by either ③ [ceasing / to cease] motion, running away, or kicking at a potential threat.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "honestly",
+          "explanation": "동사 'communicate'를 수식해야 하므로 부사인 'honestly'가 맞습니다. 형용사 'honest'는 명사를 수식합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "conscious",
+          "explanation": "명사 'thought'를 수식해야 하므로 형용사인 'conscious'가 맞습니다. 부사 'consciously'는 동사를 수식합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "ceasing",
+          "explanation": "전치사 'by'의 목적어로는 동명사가 와야 하며, 'either A, B, or C' 구문에서 A, B, C는 병렬 구조를 이루어야 합니다. 뒤따르는 'running'과 'kicking'이 동명사이므로, 'ceasing'이 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

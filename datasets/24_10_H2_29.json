@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.\nThe two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant.\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice developed no such preference.\nThis suggests that the mice with cancer wanted the morphine.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to report the results of a new cancer drug trial"
+        },
+        {
+          "number": "②",
+          "text": "to criticize the use of animals in scientific research"
+        },
+        {
+          "number": "③",
+          "text": "to explain a method for studying animal preferences"
+        },
+        {
+          "number": "④",
+          "text": "to argue for the use of morphine in pain relief"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide instructions for training lab animals"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '조건부 장소 선호(Conditioned Place Preference)'라는 연구 방법에 대해 정의하고, 그 절차와 결과 해석 방법을 설명한 후, 구체적인 실험 예시를 들어 이해를 돕고 있습니다. 글의 주된 목적은 동물의 선호도를 연구하는 이 특정 방법을 독자에게 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.\nThe two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant.\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice developed no such preference.\nThis suggests that the mice with cancer wanted the morphine.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "How Animals Experience Pain and Pleasure"
+        },
+        {
+          "number": "②",
+          "text": "Morphine: A Double-Edged Sword for Mice"
+        },
+        {
+          "number": "③",
+          "text": "Decoding Animal Desire: The CPP Method"
+        },
+        {
+          "number": "④",
+          "text": "The Ethics of Animal Experimentation"
+        },
+        {
+          "number": "⑤",
+          "text": "Designing the Perfect Animal Enclosure"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '동물이 무엇을 원하는지 알아내는 방법'인 조건부 장소 선호(Conditioned Place Preference, CPP) 방법에 대해 설명하고 있습니다. '동물의 욕구 해독(Decoding Animal Desire)'은 이 방법의 목적을, 'CPP 방법(The CPP Method)'은 글의 핵심 소재를 정확히 나타내므로 가장 적절한 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.\nThe two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant.\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice developed no such preference.\nThis suggests that the mice with cancer wanted the morphine.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Animals can be trained to prefer places that provide them with essential rewards like food."
+        },
+        {
+          "number": "②",
+          "text": "It is important for researchers to make the two testing environments as different as possible."
+        },
+        {
+          "number": "③",
+          "text": "Mice with cancer benefit more from morphine than healthy mice do in lab experiments."
+        },
+        {
+          "number": "④",
+          "text": "Conditioned Place Preference infers an animal's desires by observing its choice of location after conditioning."
+        },
+        {
+          "number": "⑤",
+          "text": "Researchers must measure an animal's behavior both before and after an experiment for valid results."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글의 핵심은 조건부 장소 선호(Conditioned Place Preference)라는 연구 방법입니다. 이 방법은 동물이 특정 장소를 특정 경험과 연관시키는 '조건화(conditioning)' 이후에, 동물의 '장소 선택(choice of location)'을 관찰함으로써 그 동물의 '욕구(desires)'를 추론하는 것입니다. ④번 선택지가 이 요지를 가장 포괄적이고 정확하게 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.\nThe two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there.\n( ① ) The animal's preference for being in one place or another is measured both before and after its experiences in the two places.\n( ② ) If there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\n( ③ ) Conversely, if it now avoids the place the stimulus appeared and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant.\n( ④ ) This suggests that the mice with cancer wanted the morphine.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**For example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice developed no such preference.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 문장은 'For example'로 시작하며, 조건부 장소 선호 방법의 구체적인 예시를 제시합니다. ④번 앞 문장까지는 이 방법의 원리(선호하면 머무르고, 싫어하면 피한다)를 일반적으로 설명하고 있습니다. 주어진 문장은 암에 걸린 쥐와 건강한 쥐를 대상으로 한 모르핀 실험을 통해 이 원리를 구체적으로 보여줍니다. 그리고 ④번 뒷 문장은 'This suggests...'로 시작하여, 바로 앞의 예시(주어진 문장)에 대한 결론을 도출하므로, 주어진 문장은 ④번에 위치하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want. Researchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.",
+      "question_blocks": {
+        "A": "If there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience. Conversely, if it now avoids the place the stimulus appeared, this suggests that it found the stimulus unpleasant.",
+        "B": "The two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there. The animal's preference is measured both before and after its experiences.",
+        "C": "For example, mice with cancer show a preference for the place where they have been given morphine, rather than where they have received saline whereas healthy mice developed no such preference. This suggests that the mice with cancer wanted the morphine."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 CPP의 기본 개념을 소개합니다. (B)는 실험 설계를 더 구체적으로 설명합니다(장소를 다르게 만들고, 전후를 측정). (A)는 (B)에서 언급된 측정 결과를 어떻게 해석하는지에 대한 원칙을 설명합니다(선호와 회피). (C)는 'For example'로 시작하여 (A)에서 설명된 원칙을 모르핀 실험이라는 구체적인 예시를 통해 보여줍니다. 따라서 실험 설계(B) → 결과 해석 원리(A) → 구체적 예시(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.\nThe two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared and starts to prefer the place it did not experience it, then this suggests that it found the stimulus ____________________.\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice developed no such preference.\nThis suggests that the mice with cancer wanted the morphine.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "familiar"
+        },
+        {
+          "number": "②",
+          "text": "exciting"
+        },
+        {
+          "number": "③",
+          "text": "unpleasant"
+        },
+        {
+          "number": "④",
+          "text": "predictable"
+        },
+        {
+          "number": "⑤",
+          "text": "rewarding"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 'Conversely(정반대로)'로 시작하여, 앞선 문장(보상이 있는 곳에 머무는 것은 경험을 좋아했다는 것을 시사한다)과 대조되는 내용을 설명합니다. 동물이 특정 장소를 '피한다(avoids)'고 했으므로, 그곳에서 겪은 자극(stimulus)을 '불쾌하게(unpleasant)' 여겼다고 추론하는 것이 논리적으로 가장 타당합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to ① [associate] one place with an experience such as food or a loud noise and another place with something completely different.\nThe two places are made obviously ② [different] to make it as easy as possible for the animal to associate each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a ③ [shift] in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared, then this suggests that it found the stimulus ④ [unpleasant].\nFor example, mice with cancer show a ⑤ [rejection] for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "associate"
+        },
+        {
+          "number": "②",
+          "text": "different"
+        },
+        {
+          "number": "③",
+          "text": "shift"
+        },
+        {
+          "number": "④",
+          "text": "unpleasant"
+        },
+        {
+          "number": "⑤",
+          "text": "rejection"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "암에 걸린 쥐는 통증을 완화시켜주는 모르핀을 '원했기(wanted)' 때문에, 모르핀이 투여된 장소에 대한 '선호(preference)'를 보였습니다. '거부(rejection)'는 이와 정반대의 의미이므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to (A) [associate] one place with an experience such as food or a loud noise and another place with something completely different.\nThe animal's (B) [preference] for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a (C) [shift] in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\n(D) [Conversely], if it now avoids the place the stimulus appeared, then this suggests that it found the stimulus unpleasant.\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to (E) [relieve] pain, rather than where they have received saline.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) associate: to connect something with something else in one's mind"
+        },
+        {
+          "number": "②",
+          "text": "(B) preference: a greater liking for one alternative over another"
+        },
+        {
+          "number": "③",
+          "text": "(C) shift: a slight change in position, direction, or tendency"
+        },
+        {
+          "number": "④",
+          "text": "(D) conversely: in a way that is similar or corresponds to something else"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) relieve: to make an unpleasant feeling, such as pain, less severe"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'Conversely(정반대로)'는 'in an opposite way'의 의미로, 앞선 진술과 대조되는 내용을 도입할 때 사용됩니다. 제시된 영영 풀이인 '유사하거나 다른 것에 상응하는 방식으로'는 'similarly'나 'correspondingly'에 대한 설명이며, 'conversely'의 의미와는 다릅니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nThe two places are made obviously (A) [different / similar] to make it as easy as possible for the animal to associate each place with what happened to it there.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it (B) [liked / disliked] the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared, then this suggests that it found the stimulus (C) [unpleasant / rewarding].\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "different - liked - unpleasant"
+        },
+        {
+          "number": "②",
+          "text": "different - disliked - rewarding"
+        },
+        {
+          "number": "③",
+          "text": "similar - liked - unpleasant"
+        },
+        {
+          "number": "④",
+          "text": "similar - disliked - rewarding"
+        },
+        {
+          "number": "⑤",
+          "text": "different - liked - rewarding"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 동물이 장소와 경험을 쉽게 연관시키도록 두 장소는 명백히 '다르게(different)' 만들어져야 합니다. (B) 보상이 있는 곳에서 시간을 더 보낸다면, 그 경험을 '좋아했다(liked)'는 것을 시사합니다. (C) 'Conversely(정반대로)' 다음에는, 특정 장소를 피하는 것은 그 자극이 '불쾌했다(unpleasant)'는 것을 시사한다는 내용이 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Conditioned Place Preference is a way of finding out what animals want.\nResearchers train them to associate one place with an experience such as food or a loud noise and another place with something completely different, usually where nothing happens.\nThe two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant.\nFor example, mice with cancer show a preference for the place where they have been given saline, a drug used to relieve pain, rather than where they have received morphine whereas healthy mice developed no such preference.\nThis suggests that the mice with cancer wanted the saline.",
+      "question": "조건부 장소 선호(Conditioned Place Preference)에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "동물이 특정 장소와 특정 경험을 연관시키도록 훈련시킨다."
+        },
+        {
+          "number": "②",
+          "text": "실험에 사용되는 두 장소는 명백하게 다르게 만들어진다."
+        },
+        {
+          "number": "③",
+          "text": "동물이 특정 장소를 피하는 것은 그곳에서의 경험이 불쾌했다는 신호이다."
+        },
+        {
+          "number": "④",
+          "text": "암에 걸린 쥐는 모르핀보다 식염수가 투여된 장소를 선호했다."
+        },
+        {
+          "number": "⑤",
+          "text": "실험 전과 후에 동물의 장소 선호도를 모두 측정한다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문 예시에서, 암에 걸린 쥐는 통증 완화 효과가 있는 '모르핀(morphine)'이 투여된 장소를 '선호(preference)'했습니다. 식염수(saline)는 통제 집단에게 투여된 중립적인 물질입니다. 따라서 ④번은 본문의 예시 내용과 정반대입니다. (주어진 지문의 마지막 두 문장은 이 문제에 맞게 수정되었습니다.)"
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The two places are made obviously different to make it as easy as possible for the animal ① [to associate / associate] each place with what happened to it there.\nThe animal's preference for being in one place or another is measured both before and after its experiences in the two places.\nIf there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it.\nConversely, if it now avoids the place the stimulus appeared and starts to prefer the place ② [which / where] it did not experience it, then this suggests that it found the stimulus unpleasant.\nFor example, mice with cancer show a preference for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice developed no ③ [such / so] preference.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to associate",
+          "explanation": "가목적어-진목적어 구문 'make it + 형용사 + for + 의미상 주어 + to부정사'의 형태입니다. 여기서 'it'이 가목적어이고, to부정사구인 'to associate ~ there'가 진목적어 역할을 하므로 'to associate'가 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "where",
+          "explanation": "관계부사 'where'는 'in the place'의 의미로, 뒤에 완전한 절(it did not experience it)이 옵니다. 관계대명사 'which'를 사용하려면 'in which'가 되어야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "such",
+          "explanation": "'no such + 명사'는 '그러한 ~는 없는'이라는 의미로 사용되는 관용적인 표현입니다. 따라서 'no such preference'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

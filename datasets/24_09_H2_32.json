@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings.\nHaving adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical.\nHe reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.\nHe demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history.\nFor practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.\nIf, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; thus skirts become long again fifty years after being short and a hundred years after being long.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Kroeber의 연구 방법론을 비판하기 위해" },
+        { "number": "②", "text": "서양 야회복의 아름다움을 묘사하기 위해" },
+        { "number": "③", "text": "패션의 주기적 변화에 대한 한 연구를 소개하기 위해" },
+        { "number": "④", "text": "패션이 예측 불가능한 현상임을 주장하기 위해" },
+        { "number": "⑤", "text": "다양한 판화 기법의 차이점을 설명하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 민족학자 Alfred Louis Kroeber가 수행한 서양 여성복에 대한 연구를 상세히 소개하고 있습니다. 그의 연구 방법, 즉 의복의 특징을 수치화하여 분석한 방식과, 그 결과로 발견한 패션의 규칙적이고 정밀한 주기 현상을 설명하는 것이 글의 핵심 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings.\nHaving adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical.\nHe reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.\nHe demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history.\nFor practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.\nIf, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; thus skirts become long again fifty years after being short and a hundred years after being long.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Unpredictable Nature of Fashion Trends" },
+        { "number": "②", "text": "A. L. Kroeber: A Biography of an Ethnologist" },
+        { "number": "③", "text": "The 100-Year Cycle: Decoding Fashion's Rhythm" },
+        { "number": "④", "text": "How Engravings Preserve Fashion History" },
+        { "number": "⑤", "text": "The Evolution of Women's Evening Dress" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 핵심 내용은 Kroeber가 패션이 무작위가 아니라 매우 규칙적인 주기를 따른다는 것을 발견했다는 점입니다. 특히 스커트 길이가 가장 긴 시점과 가장 짧은 시점이 50년 간격으로 반복되어 100년의 완전한 주기를 이룬다는 구체적인 예시를 통해 패션의 '리듬'을 '해독'한 연구임을 보여줍니다. 따라서 이 제목이 글의 주제를 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings.\nHaving adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical.\nHe reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.\nHe demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history.\nFor practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.\nIf, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; thus skirts become long again fifty years after being short and a hundred years after being long.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Alfred Kroeber's study proved that fashion changes in regular, predictable long-term cycles, not randomly." },
+        { "number": "②", "text": "The most important feature in determining fashion cycles is the length of women's skirts." },
+        { "number": "③", "text": "Statistical analysis is a more effective tool for studying culture than intuitive observation is." },
+        { "number": "④", "text": "Western fashion has remained relatively constant over the last three hundred years of its history." },
+        { "number": "⑤", "text": "Short-term annual variations in clothing style are the primary drivers of long-term fashion trends." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 핵심 내용은 Kroeber의 과학적 연구를 통해 패션이 매년의 변덕스러운 변화가 아니라, 역사적 규모에서 나타나는 매우 규칙적이고 예측 가능한 장기적 주기를 따른다는 사실이 입증되었다는 것입니다. 이는 패션이 무작위 현상이 아니라는 점을 강조하는 글의 논지와 정확히 일치합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress... Having adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical. ( ① ) He demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history. ( ② ) For practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years. ( ③ ) If, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; ( ④ ) thus skirts become long again fifty years after being short and a hundred years after being long. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**He reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 Kroeber가 여성복을 스커트 길이, 네크라인 깊이 등 측정 가능한 몇 가지 특징으로 축소했다는 내용입니다. 이는 그의 연구가 어떻게 '정밀하고, 수학적이며, 통계적'일 수 있었는지에 대한 구체적인 방법론을 설명합니다. 따라서 연구의 성격을 규정한 문장 바로 뒤인 ①에 들어가, 연구 결과를 제시하는 문장 앞에 위치하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings.",
+      "question_blocks": {
+        "A": "He reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.",
+        "B": "Having adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical.",
+        "C": "He demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history. For practically 300 years, women's dress was subject to a very precise periodic cycle..."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 Kroeber의 연구를 소개합니다. (B)는 그의 연구 방법론의 첫 단계(판화 크기 조정)와 그 연구의 과학적 성격을 설명하며 자연스럽게 이어집니다. (A)는 방법론의 두 번째 단계(의복을 측정 가능한 특징으로 축소)를 설명합니다. (C)는 이러한 과학적 방법을 통해 '그가 입증한' 연구 결과를 제시하며 글을 전개합니다. 따라서 연구 소개 → 방법론 → 연구 결과 순서인 (B)-(A)-(C)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "He reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.\nHe demonstrated unambiguously that fashion is ________________________________ which is not located at the level of annual variations but on the scale of history.\nFor practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "an entirely random process" },
+        { "number": "②", "text": "a reflection of economic status" },
+        { "number": "③", "text": "a profoundly regular phenomenon" },
+        { "number": "④", "text": "a purely intuitive creation" },
+        { "number": "⑤", "text": "an expression of individuality" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸은 Kroeber가 명백하게 입증한 패션의 본질에 대한 내용입니다. 빈칸 뒤에서 패션이 연간 변이의 수준이 아닌 역사의 규모에서 발생하며, 매우 정밀한 '주기적 순환'에 지배된다고 설명하고 있습니다. 이는 패션이 '매우 규칙적인 현상(a profoundly regular phenomenon)'이라는 것을 뒷받침합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "...a study that was neither intuitive nor ① `approximate`, but precise, mathematical and statistical. He reduced women's clothing to a certain number of features... He demonstrated ② `doubtfully` that fashion is a profoundly ③ `regular` phenomenon which is not located at the level of annual variations but on the scale of history. For practically 300 years, women's dress was ④ `subject` to a very precise periodic cycle: forms reach the ⑤ `furthest` point in their variations every fifty years.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "approximate" },
+        { "number": "②", "text": "doubtfully" },
+        { "number": "③", "text": "regular" },
+        { "number": "④", "text": "subject" },
+        { "number": "⑤", "text": "furthest" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "Kroeber의 연구는 '정밀하고, 수학적이며, 통계적'이라고 묘사되었으므로, 그는 자신의 발견을 확신을 가지고 제시했을 것입니다. 따라서 그가 '의심스럽게(doubtfully)' 입증했다는 것은 문맥에 맞지 않습니다. '명백하게(unambiguously)' 또는 '확실하게(conclusively)'와 같은 단어가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "The well-known American (A) `ethnologist` Alfred Louis Kroeber... using (B) `reproductions` of engravings. ... he was able to (C) `analyse` the constant elements in fashion features... He demonstrated (D) `unambiguously` that fashion is a profoundly regular phenomenon which is not located at the level of annual (E) `variations` but on the scale of history.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) ethnologist: a person who studies different human societies and their cultures" },
+        { "number": "②", "text": "(B) reproductions: copies of something, especially a work of art" },
+        { "number": "③", "text": "(C) analyse: to study something in a systematic and careful way" },
+        { "number": "④", "text": "(D) unambiguously: in a way that is clear and with no possibility of doubt" },
+        { "number": "⑤", "text": "(E) variations: situations in which there are no changes or differences from the usual form" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) variations(변화, 변이)는 평소의 형태나 수준과 달라지는 것을 의미합니다. 제시된 영영 풀이 '변화나 차이가 없는 상황'은 불변성(constancy)이나 균일성(uniformity)을 의미하므로, 'variations'의 뜻과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "...he was able to analyse the (A) [constant / changing] elements in fashion features and to come up with a study that was neither (B) [intuitive / precise] nor approximate, but precise, mathematical and statistical. He demonstrated unambiguously that fashion is a profoundly (C) [regular / random] phenomenon...",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "constant - intuitive - regular" },
+        { "number": "②", "text": "constant - precise - random" },
+        { "number": "③", "text": "constant - intuitive - random" },
+        { "number": "④", "text": "changing - precise - regular" },
+        { "number": "⑤", "text": "changing - intuitive - regular" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) Kroeber는 패션의 특징들 속에서 '불변의(constant)' 요소들을 분석할 수 있었습니다. (B) 그의 연구는 '직관적이거나(intuitive)' 대략적인 것이 아니었습니다. (C) 그는 패션이 매우 '규칙적인(regular)' 현상임을 입증했습니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings.\nHaving adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical.\nHe reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.\nHe demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history.\nFor practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.\nIf, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; thus skirts become long again fifty years after being short and a hundred years after being long.",
+      "question": "Alfred Louis Kroeber의 연구에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "약 300년에 걸친 서양 여성의 야회복을 연구했다." },
+        { "number": "②", "text": "연구는 정밀하고 수학적인 통계에 기반을 두었다." },
+        { "number": "③", "text": "패션의 규칙성이 매년의 변이가 아닌 역사적 규모에서 나타남을 보였다." },
+        { "number": "④", "text": "여성복 형태의 변형은 100년을 주기로 극점에 도달한다고 밝혔다." },
+        { "number": "⑤", "text": "스커트가 가장 길고 나서 50년이 지나면 가장 짧아진다고 설명했다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에 따르면, 여성복의 형태는 '매 50년마다 변형의 가장 먼 지점에 도달한다(forms reach the furthest point in their variations every fifty years)'고 되어 있습니다. 이는 가장 긴 상태에서 가장 짧은 상태로 가는 데 50년이 걸린다는 의미이며, 주기의 반에 해당합니다. 따라서 변형이 극점에 도달하는 것은 50년 주기이며, 완전한 순환 주기는 100년입니다. 100년마다 극점에 도달한다는 진술은 옳지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "...he was able to analyse the constant elements in fashion features and to come up with a study that was ① [neither / either] intuitive nor approximate, but precise, mathematical and statistical. He demonstrated unambiguously that fashion is a profoundly regular phenomenon ② [which / what] is not located at the level of annual variations but on the scale of history. ... a hundred years after ③ [being / are] long.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "neither",
+          "explanation": "'A도 B도 아닌'이라는 의미를 표현하기 위해서는 'neither A nor B' 구문을 사용해야 합니다. 'intuitive'와 'approximate' 둘 다를 부정하고 있으므로 'neither'가 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "which",
+          "explanation": "앞의 명사 'a profoundly regular phenomenon'을 선행사로 받아 수식하는 주격 관계대명사가 필요한 자리입니다. 선행사를 포함하는 관계대명사인 'what'은 올 수 없으며, 'which' 또는 'that'이 가능합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "being",
+          "explanation": "전치사 'after'의 목적어로는 명사 상당어구가 와야 합니다. 따라서 동명사인 'being'이 적절합니다. 이는 'after they were long'이라는 부사절에서 주어와 be동사가 생략된 분사구문으로도 볼 수 있습니다."
+        }
+      ]
+    }
+  ]
+}

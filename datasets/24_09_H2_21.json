@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability.\nOn the contrary, it's creativity, speed, and keenness.\nIn the industrial era, the goal was to minimize variation.\nBut in creative companies today, maximizing variation is more essential.\nIn these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts.\nConsistency and repeatability are more likely to suppress fresh thinking than to bring your company profit.\nA lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle.\nIn these situations, rules and process are no longer the best answer.\nA symphony isn't what you're going for.\nLeave the conductor and the sheet music behind.\nBuild a jazz band instead.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "산업 시대의 경영 방식의 장점을 설명하기 위해" },
+        { "number": "②", "text": "기업의 이익 증대를 위한 구체적 전략을 제시하기 위해" },
+        { "number": "③", "text": "규칙보다 창의성과 유연성을 중시하는 경영을 촉구하기 위해" },
+        { "number": "④", "text": "조직 내 의사소통의 중요성을 강조하기 위해" },
+        { "number": "⑤", "text": "최고의 인재를 유치하는 효과적인 방법을 조언하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 산업 시대의 '오류 방지'와 '일관성' 중심의 경영 방식이 오늘날 정보화 시대에는 더 이상 최선이 아니라고 주장합니다. 대신 '창의성', '속도', '변화의 극대화'를 강조하며, 규칙과 절차(교향악단)를 버리고 유연성과 즉흥성(재즈 밴드)을 갖춘 경영 방식으로 전환할 것을 촉구하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability.\nOn the contrary, it's creativity, speed, and keenness.\nIn the industrial era, the goal was to minimize variation.\nBut in creative companies today, maximizing variation is more essential.\nIn these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts.\nConsistency and repeatability are more likely to suppress fresh thinking than to bring your company profit.\nA lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle.\nIn these situations, rules and process are no longer the best answer.\nA symphony isn't what you're going for.\nLeave the conductor and the sheet music behind.\nBuild a jazz band instead.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Unchanging Value of Consistency" },
+        { "number": "②", "text": "How to Attract and Retain Top Talent" },
+        { "number": "③", "text": "From Symphony to Jazz: A New Business Paradigm" },
+        { "number": "④", "text": "The Hidden Dangers of Making Small Mistakes" },
+        { "number": "⑤", "text": "Maximizing Profit in the Information Age" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 규칙적이고 정형화된 산업 시대의 경영 방식(교향악단)에서 벗어나, 창의적이고 유연하며 즉흥적인 정보화 시대의 경영 방식(재즈 밴드)으로 나아가야 한다는 핵심 메시지를 전달합니다. '교향악단에서 재즈 밴드로'라는 제목은 이러한 글의 중심 비유와 주제를 가장 잘 압축하여 보여줍니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability.\nOn the contrary, it's creativity, speed, and keenness.\nIn the industrial era, the goal was to minimize variation.\nBut in creative companies today, maximizing variation is more essential.\nIn these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts.\nConsistency and repeatability are more likely to suppress fresh thinking than to bring your company profit.\nA lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle.\nIn these situations, rules and process are no longer the best answer.\nA symphony isn't what you're going for.\nLeave the conductor and the sheet music behind.\nBuild a jazz band instead.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "In the information age, companies must prioritize creativity and adaptability over consistency and error prevention." },
+        { "number": "②", "text": "Attracting top talent has become the single most important factor for a company's long-term success." },
+        { "number": "③", "text": "The industrial era's management principles are still highly valuable for ensuring organizational stability and efficiency." },
+        { "number": "④", "text": "A successful organization learns to balance the needs for both strict rules and creative freedom." },
+        { "number": "⑤", "text": "The innovation cycle requires significant investment in new technologies rather than just changing company culture." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "글의 핵심 내용은 오늘날 정보화 시대의 기업 환경에서는 과거 산업 시대처럼 일관성과 오류 방지를 추구하기보다는, 창의성, 속도, 적응성을 우선시해야 한다는 것입니다. 글 전반에 걸쳐 이러한 패러다임의 전환을 강조하고 있으므로, 이 선택지가 글의 요지를 가장 정확하게 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability. On the contrary, it's creativity, speed, and keenness. In the industrial era, the goal was to minimize variation. ( ① ) But in creative companies today, maximizing variation is more essential. ( ② ) Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit. ( ③ ) A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle. ( ④ ) In these situations, rules and process are no longer the best answer. A symphony isn't what you're going for. ( ⑤ ) Leave the conductor and the sheet music behind. Build a jazz band instead.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이러한 상황에서' 가장 큰 위험이 무엇인지를 정의합니다. 여기서 '이러한 상황'이란 바로 앞 문장에서 언급된 '오늘날 창의적인 회사들'의 상황을 가리킵니다. 즉, 변화를 극대화하는 것이 더 중요해진 상황에서, 진짜 위험은 실수가 아니라 인재 유치, 신제품 개발, 빠른 방향 전환 실패 등이라는 점을 설명하는 것이 자연스럽습니다. 따라서 ②가 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability. On the contrary, it's creativity, speed, and keenness.",
+      "question_blocks": {
+        "A": "In these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts.",
+        "B": "In the industrial era, the goal was to minimize variation. But in creative companies today, maximizing variation is more essential.",
+        "C": "Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit. A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 정보화 시대의 새로운 목표(창의성, 속도)를 제시합니다. (B)는 이를 과거 산업 시대의 목표(변화 최소화)와 대조하며 오늘날 창의적 기업에서는 변화 극대화가 더 중요함을 설명합니다. (A)는 (B)에서 언급된 '창의적 기업'의 상황을 받아, 이러한 상황에서 진정한 위험이 무엇인지 정의합니다. (C)는 (A)에서 언급된 '일관성'과 '실수'의 개념을 이어받아, 일관성이 사고를 억제하고 오히려 작은 실수가 혁신에 도움이 된다고 부연 설명합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "In these situations, rules and process are no longer the best answer.\nA symphony isn't what you're going for.\nLeave the conductor and the sheet music behind.\n________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Hire a more talented conductor" },
+        { "number": "②", "text": "Write a new piece of music" },
+        { "number": "③", "text": "Build a jazz band instead" },
+        { "number": "④", "text": "Focus on individual practice" },
+        { "number": "⑤", "text": "Replicate the successful performance" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "앞선 문장들은 규칙과 절차, 지휘자, 악보로 대표되는 '교향악단' 모델을 버리라고 조언합니다. 이는 산업 시대의 경직된 경영 방식을 상징합니다. 빈칸에는 이와 대조되는, 창의성과 유연성, 즉흥성을 상징하는 새로운 모델이 와야 합니다. 즉흥 연주가 특징인 '재즈 밴드'는 이러한 맥락에서 가장 완벽한 대안이자 비유입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "In today's information age ... the objective is no longer error ① `prevention` and replicability. On the contrary, it's creativity, speed, and keenness. In the industrial era, the goal was to ② `minimize` variation. But in creative companies today, maximizing variation is more ③ `essential`. ... Consistency and repeatability are more likely to ④ `promote` fresh thinking than to bring your company profit. A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a ⑤ `critical` part of the innovation cycle.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "prevention" },
+        { "number": "②", "text": "minimize" },
+        { "number": "③", "text": "essential" },
+        { "number": "④", "text": "promote" },
+        { "number": "⑤", "text": "critical" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글의 핵심 주장은 일관성과 반복성이 오늘날의 창의적 환경에서는 오히려 새로운 사고를 방해한다는 것입니다. 따라서 일관성과 반복성은 새로운 사고를 '촉진하는(promote)' 것이 아니라 '억제하는(suppress)' 경향이 있다고 해야 문맥이 자연스럽습니다. 'promote'는 글의 흐름과 정반대되는 단어입니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "...the (A) `objective` is no longer error prevention and replicability. ... In the industrial era, the goal was to minimize (B) `variation`. ... But in creative companies today, maximizing variation is more essential. In these situations, the biggest risk isn't making a mistake or losing (C) `consistency`... Consistency and repeatability are more likely to (D) `suppress` fresh thinking... A lot of little mistakes ... are a (E) `critical` part of the innovation cycle.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) objective: something that you are trying to achieve" },
+        { "number": "②", "text": "(B) variation: a difference between similar things, or a change from the usual amount or level" },
+        { "number": "③", "text": "(C) consistency: the quality of always behaving in a similar way or having the same standards" },
+        { "number": "④", "text": "(D) suppress: to prevent something from being expressed or known" },
+        { "number": "⑤", "text": "(E) critical: expressing disapproval of someone or something and saying what you think is bad about them" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문의 (E) critical은 '혁신 주기의 매우 중요한 부분'이라는 의미로, '대단히 중요한, 결정적인(vitally important or crucial)'의 뜻으로 사용되었습니다. 제시된 영영 풀이 '비판적인, 비난하는'은 critical의 다른 의미이며, 이 문맥과는 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "In today's information age ... the objective is no longer error (A) [prevention / promotion] and replicability. ... In the industrial era, the goal was to (B) [minimize / maximize] variation. ... Consistency and repeatability are more likely to (C) [suppress / support] fresh thinking than to bring your company profit.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "prevention - minimize - suppress" },
+        { "number": "②", "text": "prevention - maximize - support" },
+        { "number": "③", "text": "prevention - minimize - support" },
+        { "number": "④", "text": "promotion - maximize - suppress" },
+        { "number": "⑤", "text": "promotion - minimize - suppress" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 산업 시대의 목표는 오류를 '방지(prevention)'하는 것이었습니다. (B) 산업 시대에는 변수를 '최소화(minimize)'하는 것이 목표였습니다. (C) 오늘날 일관성은 새로운 사고를 '억제(suppress)'할 가능성이 더 높다고 필자는 주장합니다. 이 세 단어의 조합이 글의 대조적인 논리를 가장 잘 완성합니다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability.\nOn the contrary, it's creativity, speed, and keenness.\nIn the industrial era, the goal was to minimize variation.\nBut in creative companies today, maximizing variation is more essential.\nIn these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts.\nConsistency and repeatability are more likely to suppress fresh thinking than to bring your company profit.\nA lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle.\nIn these situations, rules and process are no longer the best answer.\nA symphony isn't what you're going for.\nLeave the conductor and the sheet music behind.\nBuild a jazz band instead.",
+      "question": "다음 글의 내용과 일치하는 것은?",
+      "options": [
+        { "number": "①", "text": "오늘날 창의적인 회사는 변수를 최소화하는 것을 목표로 한다." },
+        { "number": "②", "text": "산업화 시대의 가장 큰 위험은 최고의 인재를 유치하지 못하는 것이었다." },
+        { "number": "③", "text": "일관성과 반복성은 회사의 이익 창출보다 새로운 사고를 억제할 가능성이 더 높다." },
+        { "number": "④", "text": "혁신 과정에서 작은 실수라도 피하는 것이 조직의 빠른 학습에 도움이 된다." },
+        { "number": "⑤", "text": "성공적인 혁신을 위해서는 교향악단처럼 체계적인 규칙과 절차가 필수적이다." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "본문은 'Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit'라고 명시하고 있습니다. 이는 선택지 ③의 내용과 정확히 일치합니다. 나머지 선택지들은 모두 본문의 내용과 반대되거나 언급되지 않은 사실입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "In today's information age... the objective is no longer error prevention and ① [replicability / replicable]. ... But in creative companies today, maximizing variation is more ② [essential / essentially]. ... In these situations, rules and process are no longer the best answer. A symphony isn't what you're going for. Leave the conductor and the sheet music behind. ③ [Build / Building] a jazz band instead.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "replicability",
+          "explanation": "등위 접속사 'and'에 의해 'error prevention'과 병렬 구조를 이루고 있습니다. 'prevention'이 명사이므로, 같은 품사인 명사 'replicability'(복제 가능성)가 와야 합니다. 'replicable'은 형용사이므로 올 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "essential",
+          "explanation": "be동사 'is' 뒤에는 주어(maximizing variation)의 상태를 설명하는 주격 보어가 와야 하므로, 형용사인 'essential'이 맞습니다. 부사인 'essentially'는 보어 역할을 할 수 없습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "Build",
+          "explanation": "앞 문장인 'Leave the conductor and the sheet music behind'와 병렬 구조를 이루는 명령문입니다. 따라서 동사원형인 'Build'가 와서 '~해라'라는 명령의 의미를 전달해야 합니다. 'Building'은 동명사 또는 현재분사로, 명령문으로 쓰일 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

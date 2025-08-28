@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have charted many of the social conflicts in U.S. society: civil rights, women's rights in the home and in the workplace, children's rights, immigration and multiculturalism, as well as evolving conceptions of the family.\nEach of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable than previously.\nOften a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous.\nThey were cut down either through their own stupidity, a brief scolding from others, or both.\nIn this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more pluralistic and tolerant society.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize the oversimplification of social issues in sitcoms" },
+        { "number": "②", "text": "to trace the history of American television programming" },
+        { "number": "③", "text": "to explain how sitcoms have promoted social progress in the U.S." },
+        { "number": "④", "text": "to argue for the inclusion of more diverse characters in modern TV shows" },
+        { "number": "⑤", "text": "to analyze the comedic techniques used in popular sitcoms" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 미국 시트콤이 민권, 여성 인권 등 다양한 사회적 갈등을 유머를 통해 다루고, 편견을 가진 인물을 우스꽝스럽게 만듦으로써 더 진보적인 가치를 대중이 수용하도록 도왔다고 설명합니다. 따라서 시트콤이 어떻게 사회적 진보를 촉진했는지 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have charted many of the social conflicts in U.S. society: civil rights, women's rights in the home and in the workplace, children's rights, immigration and multiculturalism, as well as evolving conceptions of the family.\nEach of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable than previously.\nOften a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous.\nThey were cut down either through their own stupidity, a brief scolding from others, or both.\nIn this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more pluralistic and tolerant society.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Evolution of the American Family on TV" },
+        { "number": "②", "text": "Laughter as a Tool for Social Change" },
+        { "number": "③", "text": "Bigotry and Stupidity: The Classic Sitcom Villain" },
+        { "number": "④", "text": "A History of Social Conflicts in the U.S." },
+        { "number": "⑤", "text": "Why Sitcoms Are No Longer Funny" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 시트콤의 '유머(humour)', 즉 '웃음(Laughter)'이 어떻게 진보적 가치의 수용을 장려하고 더 관용적인 사회를 만드는 데 기여했는지, 즉 '사회 변화를 위한 도구(a Tool for Social Change)'로 작용했는지를 설명하고 있습니다. 따라서 이 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have charted many of the social conflicts in U.S. society: civil rights, women's rights in the home and in the workplace, children's rights, immigration and multiculturalism, as well as evolving conceptions of the family.\nEach of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable than previously.\nOften a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous.\nThey were cut down either through their own stupidity, a brief scolding from others, or both.\nIn this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more pluralistic and tolerant society.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "American sitcoms have effectively used humor to make progressive social values seem more acceptable to the public." },
+        { "number": "②", "text": "The most common character type found in sitcoms is the foolish bigot who resists all forms of change." },
+        { "number": "③", "text": "Over the decades, U.S. sitcoms have accurately reflected the changing structure of the typical American family." },
+        { "number": "④", "text": "By ridiculing those with outdated views, sitcoms risk alienating a significant portion of their television audience." },
+        { "number": "⑤", "text": "The primary goal of a television sitcom is to provide a cost-effective form of entertainment for a mass audience." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 미국 시트콤이 유머를 효과적인 수단으로 사용하여, 민권이나 여성 인권과 같은 진보적인 사회적 가치들을 대중에게 더 수용 가능하게 만들었다는 것입니다. 이 선택지는 이러한 인과 관계를 가장 명확하고 포괄적으로 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Each of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable than previously. ( ① ) Often a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous. ( ② ) They were cut down either through their own stupidity, a brief scolding from others, or both. ( ③ ) In this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more pluralistic and tolerant society. ( ④ ) This model of using comedy for social commentary has been influential worldwide. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**By laughing at this character's outdated views, the audience is implicitly encouraged to reject them as well.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 '이 인물의 구식 견해를 비웃음으로써, 관객 또한 암묵적으로 그것들을 거부하도록 장려된다'는 내용입니다. 이는 편견을 가진 인물이 우스꽝스러워지는 방식(앞 문장)과, 그 결과로 시트콤의 유머가 사회적 수용을 장려하는 수단으로 작용한다는 결론(뒷 문장) 사이의 논리적 연결고리 역할을 합니다. 즉, 유머가 사회에 영향을 미치는 구체적인 메커니즘을 설명하므로 ③의 위치가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have charted many of the social conflicts in U.S. society: civil rights, women's rights in the home and in the workplace, children's rights, immigration and multiculturalism, as well as evolving conceptions of the family.",
+      "question_blocks": {
+        "A": "Often a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous.",
+        "B": "Each of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable than previously.",
+        "C": "They were cut down either through their own stupidity, a brief scolding from others, or both. In this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more pluralistic and tolerant society."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 시트콤이 다룬 다양한 사회적 갈등을 나열합니다. (B)는 '이러한 각각의 문제들(Each of these issues)'이 어떻게 다루어졌는지(유머를 통해) 설명하며 자연스럽게 이어집니다. (A)는 (B)에서 언급된 유머러스한 접근 방식의 구체적인 예시로, 편견을 가진 인물(a bigot)을 등장시키는 방법을 소개합니다. (C)는 대명사 'They'를 사용하여 (A)의 그 인물이 어떻게 우스꽝스러워지는지 부연 설명하고, '이러한 방식으로(In this way)' 글 전체를 요약하며 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have charted many of the social conflicts in U.S. society... Each of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable than previously. Often a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous. They were cut down either through their own stupidity, a brief scolding from others, or both. In this way, the humour of sitcoms acted as a cost-effective means to encourage __________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "conflict among different social groups" },
+        { "number": "②", "text": "resistance to progressive developments" },
+        { "number": "③", "text": "a return to traditional family values" },
+        { "number": "④", "text": "acceptance of a more pluralistic and tolerant society" },
+        { "number": "⑤", "text": "mockery of important political figures" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 시트콤의 유머가 사회적 갈등을 다루고 진보적 가치를 확산시키는 역할을 했다고 설명합니다. 빈칸이 있는 마지막 문장은 이러한 시트콤의 사회적 기능을 요약하는 부분으로, '더 다원적이고 관용적인 사회의 수용'을 장려했다는 내용이 들어가는 것이 글의 전체적인 맥락과 일치합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have charted many of the social conflicts in U.S. society... Each of these issues has been addressed through humour in a way that has helped to make more ① progressive values more ② acceptable than previously. Often a character, usually someone marked as a bigot, ③ resisted one or more of these developments and was then made to appear ④ ridiculous. They were cut down either through their own stupidity, a brief scolding from others, or both. In this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more pluralistic and ⑤ exclusive society.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글에 따르면 시트콤의 유머는 '다원적이고(pluralistic)' 관용적인(tolerant) 사회에 대한 수용을 장려하는 역할을 했습니다. '배타적인'이라는 뜻의 'exclusive'는 '다원적인'이라는 단어와 의미상 반대되므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Since their start in the early 1950s U.S. television sitcoms have (A) charted many of the social conflicts in U.S. society... Each of these issues has been (B) addressed through humour in a way that has helped to make more progressive values more acceptable than previously. Often a character, usually someone marked as a (C) bigot, resisted one or more of these developments and was then made to appear ridiculous. They were cut down either through their own stupidity, a brief (D) scolding from others, or both. In this way, the humour of sitcoms acted as a cost-effective means to encourage acceptance of a more (E) pluralistic and tolerant society.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) charted: showed or recorded the development or progress of something" },
+        { "number": "②", "text": "(B) addressed: thought about and began to deal with an issue or problem" },
+        { "number": "③", "text": "(C) bigot: a person who has strong, unreasonable beliefs and dislikes people who are different" },
+        { "number": "④", "text": "(D) scolding: the act of speaking angrily to someone because you disapprove of their behavior" },
+        { "number": "⑤", "text": "(E) pluralistic: relating to a system in which only one group or principle is accepted" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'pluralistic'은 다양한 집단, 원칙, 신념이 공존하는 '다원적인' 사회를 의미합니다. 제시된 영영 풀이 '오직 하나의 집단이나 원칙만이 수용되는 시스템과 관련된'은 다원주의와 정반대되는 개념을 설명하므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Each of these issues has been addressed through humour in a way that has helped to make more (A) [progressive / conservative] values more acceptable than previously. Often a character, usually someone marked as a bigot, (B) [resisted / supported] one or more of these developments and was then made to appear ridiculous. ... In this way, the humour of sitcoms acted as a cost-effective means to encourage (C) [acceptance / rejection] of a more pluralistic and tolerant society.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "progressive - resisted - acceptance" },
+        { "number": "②", "text": "progressive - supported - rejection" },
+        { "number": "③", "text": "conservative - resisted - acceptance" },
+        { "number": "④", "text": "conservative - supported - rejection" },
+        { "number": "⑤", "text": "progressive - resisted - rejection" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 시트콤은 민권, 여성 인권 등 '진보적인(progressive)' 가치를 더 수용 가능하게 만들었다. (B) 편견을 가진 인물은 이러한 발전에 '저항했다(resisted)'. (C) 이러한 유머는 다원적이고 관용적인 사회에 대한 '수용(acceptance)'을 장려했다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① U.S. television sitcoms have charted many of the social conflicts in U.S. society. ② Each of these issues has been addressed through humour in a way that has helped to make more progressive values more acceptable. ③ The most successful sitcoms often run for many seasons and generate significant revenue from syndication. ④ Often a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to appear ridiculous. ⑤ In this way, the humour of sitcoms acted as a means to encourage acceptance of a more pluralistic and tolerant society.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 시트콤이 '사회적 기능'으로서 유머를 통해 어떻게 진보적 가치를 확산시키는지를 설명하고 있습니다. ③번 문장은 시트콤의 '상업적 성공'과 '수익'에 대해 언급하고 있어, 글의 중심 주제인 사회적 역할 및 기능과는 관련이 없으므로 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Each of these issues has been addressed through humour in a way that ① [has / have] helped to make more progressive values more acceptable than previously. Often a character, usually someone marked as a bigot, resisted one or more of these developments and was then made to ② [appear / appearing] ridiculous. They were cut down either through their own stupidity, a brief ③ [scolding / scolded] from others, or both.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "has",
+          "explanation": "관계대명사 that절의 선행사는 단수 명사인 'a way'입니다. 따라서 주어와 동사의 수 일치에 따라 단수 동사인 'has'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "appear",
+          "explanation": "사역동사 make가 수동태(be made)로 쓰일 경우, 목적격 보어 자리에는 to부정사가 와야 합니다. 여기서는 'to'가 생략된 원형부정사 'appear'가 사용되는 관용적인 표현으로, 'appear'가 맞습니다. (문법적으로 to appear가 원칙이나, appear도 널리 사용됨. 수능 어법에서는 appear/appearing의 대립으로 출제)."
+        },
+        {
+          "number": "③",
+          "correct_form": "scolding",
+          "explanation": "형용사 'brief'의 수식을 받는 명사 자리입니다. '꾸짖음'이라는 의미의 명사(동명사) 'scolding'이 와야 합니다. 'scolded'는 과거분사로 이 자리에 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

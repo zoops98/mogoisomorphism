@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the current methods of teaching mathematics"
+        },
+        {
+          "number": "②",
+          "text": "to explain various mathematical concepts and theories"
+        },
+        {
+          "number": "③",
+          "text": "to emphasize the need to integrate critical thinking into math education"
+        },
+        {
+          "number": "④",
+          "text": "to provide a guide for solving complex societal problems"
+        },
+        {
+          "number": "⑤",
+          "text": "to announce a new interdisciplinary academic program"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 수학적 소양을 '수학이 영향을 미치는 사회 문제에 대해 비판적으로 생각하는 능력'으로 정의하고, 의사 결정 과정에서 수학과 비판적 사고가 필수적이라고 주장합니다. 글의 결론 부분에서 '수학 교육은 비판적 사고 및 의사 결정 과정과 상호작용하며 이루어져야 한다'고 명시적으로 제안하고 있으므로, 글의 주된 목적은 수학 교육에 비판적 사고를 통합할 필요성을 강조하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The History of Mathematical Education"
+        },
+        {
+          "number": "②",
+          "text": "Critical Thinking: A Skill Beyond Mathematics"
+        },
+        {
+          "number": "③",
+          "text": "Solving Societal Issues with Advanced Mathematics"
+        },
+        {
+          "number": "④",
+          "text": "Rethinking Mathematical Literacy: The Role of Critical Thinking"
+        },
+        {
+          "number": "⑤",
+          "text": "How to Make Informed Decisions in Daily Life"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 전통적인 수학 능력뿐만 아니라, 비판적 사고를 사용하여 사회 문제를 이해하고 해결하는 능력을 포함하는 '수학적 소양(Mathematical Literacy)'의 개념을 재정의하고 있습니다. 글 전반에 걸쳐 비판적 사고의 중요성을 강조하므로, '수학적 소양 재고: 비판적 사고의 역할'이 글의 핵심 내용을 가장 잘 요약하는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Students should be encouraged to solve as many mathematical problems as they can possibly handle."
+        },
+        {
+          "number": "②",
+          "text": "Interdisciplinary approaches are only useful for students who major in mathematics and other fields."
+        },
+        {
+          "number": "③",
+          "text": "The primary goal of mathematics education is to teach students how to quantify and measure."
+        },
+        {
+          "number": "④",
+          "text": "Mathematics education must actively incorporate critical thinking to develop true problem-solving skills."
+        },
+        {
+          "number": "⑤",
+          "text": "Qualitative decision-making is a separate skill that has no relation to mathematical literacy."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 핵심 주장은 수학적 소양이 단순히 계산하는 능력을 넘어, 비판적 사고를 통해 실제 문제를 해결하고 정보에 입각한 결정을 내리는 능력이라는 것입니다. 따라서 필자는 '수학 교육이 비판적 사고 및 의사결정 과정과 상호작용하며 이루어져야 한다'고 결론 내립니다. 이는 진정한 문제 해결 능력을 기르기 위해 수학 교육이 비판적 사고를 적극적으로 포함해야 한다는 의미입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\n( ① ) Navigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\n( ② ) Thus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\n( ③ ) They can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Therefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '그러므로(Therefore)'로 시작하여 앞선 내용에 대한 결론을 이끌어냅니다. ②번 앞 문장은 세상을 살아가기 위해 비판적 사고 내에서 다양한 수학적 기술(정량화, 측정, 추론 등)을 사용하는 것을 의미한다고 설명합니다. 주어진 문장은 이를 요약하여, 의사 결정이 수학과 비판적 사고 없이는 불가능하다고 결론짓습니다. 그리고 ②번 뒷 문장은 '따라서(Thus)'라는 연결어로 이 결론에 기반한 교육적 제언을 하고 있으므로, 주어진 문장은 이 두 문장 사이에 위치하는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.",
+      "question_blocks": {
+        "A": "Navigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.",
+        "B": "Dealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.",
+        "C": "Therefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking. Thus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 수학적 소양을 정의합니다. (B)는 주어진 문장에서 언급된 '이러한 복잡한 문제들(such complex problems)'을 다루기 위한 교육적 접근법에 대해 설명하며 자연스럽게 연결됩니다. (A)는 이러한 실제적 문제 해결, 즉 '세상을 살아가는 것(Navigating our world)'에 필요한 구체적인 수학적, 비판적 사고 기술들을 열거하며 (B)의 내용을 구체화합니다. 마지막으로 (C)는 (A)에서 제시된 내용을 바탕으로 '그러므로(Therefore)' 의사 결정에는 수학과 비판적 사고가 필수적이라고 결론 내리고, '따라서(Thus)' 교육적 제언으로 글을 마무리합니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done __________________________ along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "by focusing only on abstract theories"
+        },
+        {
+          "number": "②",
+          "text": "in isolation from other academic subjects"
+        },
+        {
+          "number": "③",
+          "text": "in interaction with critical thinking"
+        },
+        {
+          "number": "④",
+          "text": "with an emphasis on speed and accuracy"
+        },
+        {
+          "number": "⑤",
+          "text": "by memorizing established formulas"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글 전체가 수학적 소양은 비판적 사고와 분리될 수 없음을 지속적으로 주장하고 있습니다. 빈칸 바로 앞 문장에서 의사 결정이 수학과 비판적 사고 없이는 불가능하다고 결론 내린 후, '따라서(Thus)'라는 연결어로 교육의 방향을 제시하고 있습니다. 그러므로 수학 교육은 '비판적 사고와의 상호작용 속에서(in interaction with critical thinking)' 이루어져야 한다는 내용이 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "To be mathematically literate means to be able to think ① [critically] about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires ② [innovative] ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not ③ [possible] without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no ④ [excuse] to not ⑤ [implicitly] support students to develop them.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "critically"
+        },
+        {
+          "number": "②",
+          "text": "innovative"
+        },
+        {
+          "number": "③",
+          "text": "possible"
+        },
+        {
+          "number": "④",
+          "text": "excuse"
+        },
+        {
+          "number": "⑤",
+          "text": "implicitly"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "필자는 수학 교육과정에서 비판적 사고와 의사결정 능력을 기르는 것을 강력하게 주장하며, 이를 지원하지 않을 '변명(excuse)은 없다'고 말합니다. 이는 학생들을 '명시적으로(explicitly)' 지원해야 함을 의미합니다. '암묵적으로, 은연중에(implicitly)' 지원하는 것은 필자의 강력한 주장의 어조와 맞지 않으며, 'explicitly'가 문맥상 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "To be mathematically (A) [literate] means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires (B) [innovative] ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, (C) [conjecture], justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even (D) [qualitatively], is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not (E) [explicitly] support students to develop them.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) literate: having or showing knowledge about a particular subject"
+        },
+        {
+          "number": "②",
+          "text": "(B) innovative: featuring new methods; advanced and original"
+        },
+        {
+          "number": "③",
+          "text": "(C) conjecture: a conclusion reached on the basis of firm evidence"
+        },
+        {
+          "number": "④",
+          "text": "(D) qualitatively: in a way that relates to the nature of something, rather than to its amount"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) explicitly: in a clear and detailed manner, leaving no room for doubt"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'conjecture'는 '추측'을 의미하며, 'an opinion or conclusion formed on the basis of incomplete information(불완전한 정보에 근거하여 형성된 의견이나 결론)'을 뜻합니다. 제시된 영영 풀이인 'firm evidence(확고한 증거)'에 기반한 결론은 'proof(증명)'나 'conclusion(결론)'에 더 가까우며, 'conjecture'의 의미와는 반대됩니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make (A) [informed / arbitrary] decisions about how to solve these problems.\nDealing with such complex problems through (B) [interdisciplinary / separate] approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not (C) [explicitly / vaguely] support students to develop them.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "informed - interdisciplinary - explicitly"
+        },
+        {
+          "number": "②",
+          "text": "informed - separate - vaguely"
+        },
+        {
+          "number": "③",
+          "text": "arbitrary - interdisciplinary - vaguely"
+        },
+        {
+          "number": "④",
+          "text": "arbitrary - separate - explicitly"
+        },
+        {
+          "number": "⑤",
+          "text": "informed - separate - explicitly"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 수학적 소양을 통해 '정보에 입각한(informed)' 결정을 내릴 수 있어야 합니다. '임의의(arbitrary)' 결정은 문맥에 맞지 않습니다. (B) 실제 세계의 복잡한 문제를 다루기 위해서는 여러 학문 분야를 아우르는 '학제간의(interdisciplinary)' 접근이 필요합니다. '분리된(separate)' 접근은 글의 흐름과 반대됩니다. (C) 필자는 이러한 능력을 길러주기 위해 학생들을 '명시적으로(explicitly)' 지원해야 한다고 강력히 주장하고 있습니다. '모호하게(vaguely)'는 어울리지 않습니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.\nNavigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking.\nTherefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.\nThus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process.\nThey can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "수학적 소양은 사회 문제에 대해 정보에 입각한 결정을 내리는 능력과 관련된다."
+        },
+        {
+          "number": "②",
+          "text": "혁신적인 수학 교수법은 실제 세계의 문제를 반영해야 한다."
+        },
+        {
+          "number": "③",
+          "text": "세상을 살아가는 것은 비판적 사고 내에서 수학적 기술을 활용하는 것을 포함한다."
+        },
+        {
+          "number": "④",
+          "text": "정성적인 의사 결정은 수학이나 비판적 사고 없이도 가능하다."
+        },
+        {
+          "number": "⑤",
+          "text": "수학 교육에서 비판적 사고력을 길러주는 것을 피할 변명은 없다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'Therefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.'이라고 명시하고 있습니다. 이는 '정성적인 의사 결정조차도 수학과 비판적 사고 없이는 불가능하다'는 의미입니다. 따라서 ④번 선택지는 본문의 내용과 정면으로 배치됩니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "To be mathematically literate means to be able to think critically about societal issues on which mathematics ① [has / have] bearing so as to make informed decisions about how to solve these problems.\nDealing with such complex problems through interdisciplinary approaches, mirroring real-world problems ② [requires / require] innovative ways of planning and organizing mathematical teaching methods.\nThey can be developed into the mathematical context, so that there is no excuse to not explicitly support students ③ [to develop / developing] them.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "has",
+          "explanation": "관계대명사절의 주어인 'mathematics'는 학문명을 나타내므로 단수 취급합니다. 따라서 단수 동사인 'has'가 와야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "requires",
+          "explanation": "문장의 주어는 동명사구 'Dealing with such complex problems...'입니다. 동명사 주어는 단수 취급하므로 단수 동사인 'requires'가 적절합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to develop",
+          "explanation": "'support + 목적어 + to부정사'는 '목적어가 ~하도록 지원하다'라는 의미로 사용되는 5형식 구문입니다. 따라서 목적격 보어 자리에는 to부정사인 'to develop'이 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

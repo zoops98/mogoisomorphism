@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's impermeable. It won't work. You just won't be able to make a cup of tea. For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other. In our lives too, we cannot survive and thrive in isolation. Leaders need to be careful not to build walls around themselves that prevent people from reaching out to them. As a leader, you need to be able to touch other people. The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "To explain the scientific process of brewing tea." },
+        { "number": "②", "text": "To advertise a new type of porous teabag." },
+        { "number": "③", "text": "To criticize leaders who are overly sociable." },
+        { "number": "④", "text": "To emphasize the importance of interaction for leaders." },
+        { "number": "⑤", "text": "To compare different traditional leadership styles." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 티백이 다공성이어야 차를 우릴 수 있다는 비유를 사용하여, 리더 역시 고립되지 않고 다른 사람들과 소통하고 교류해야 한다는 점을 강조하고 있습니다. 따라서 리더에게 상호작용의 중요성을 강조하는 것이 이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's impermeable. It won't work. You just won't be able to make a cup of tea. For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other. In our lives too, we cannot survive and thrive in isolation. Leaders need to be careful not to build walls around themselves that prevent people from reaching out to them. As a leader, you need to be able to touch other people. The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Art of Making Perfect Tea" },
+        { "number": "②", "text": "Why Isolation Leads to Failure" },
+        { "number": "③", "text": "Be a Porous Leader, Not an Impermeable Bag" },
+        { "number": "④", "text": "The History of the Teabag" },
+        { "number": "⑤", "text": "Teamwork: The Key to Corporate Success" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '불침투성 가방(impermeable bag)'과 '다공성 리더(porous leader)'를 대조하며 핵심 비유를 전달합니다. 글의 주제는 리더가 티백처럼 소통의 통로를 열어두어야 한다는 것이므로, 이 제목이 글의 비유와 핵심 메시지를 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's impermeable. It won't work. You just won't be able to make a cup of tea. For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other. In our lives too, we cannot survive and thrive in isolation. Leaders need to be carefull not to build walls around themselves that prevent people from reaching out to them. As a leader, you need to be able to touch other people. The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The quality of a teabag is far more important than the quality of the tea leaves inside it." },
+        { "number": "②", "text": "Effective leaders must remain accessible and avoid creating barriers that isolate them from other people." },
+        { "number": "③", "text": "All people are naturally designed to work in large groups rather than working alone on their tasks." },
+        { "number": "④", "text": "The most successful individuals in society are those who can survive and thrive in complete isolation." },
+        { "number": "⑤", "text": "A leader's primary responsibility is to ensure that team members have contact only with each other." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 티백이 물과 섞이기 위해 다공성이어야 하는 것처럼, 인간과 특히 리더는 고립되어서는 안 된다고 말합니다. '리더는 사람들이 다가오는 것을 막는 벽을 쌓지 않도록 조심해야 한다'는 문장에서 글의 요지가 명확히 드러납니다. 즉, 효과적인 리더는 소통 가능성을 열어두고 고립을 피해야 한다는 것입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's impermeable. It won't work. You just won't be able to make a cup of tea. ( ① ) For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other. ( ② ) Leaders need to be careful not to build walls around themselves that prevent people from reaching out to them. ( ③ ) As a leader, you need to be able to touch other people. ( ④ ) The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In our lives too, we cannot survive and thrive in isolation.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '우리 삶에서도 마찬가지로, 우리는 고립 속에서 생존하고 번성할 수 없다'는 내용입니다. (②) 앞부분까지는 티백의 비유에 대한 설명이 마무리됩니다. (②) 뒷부분부터는 이 비유를 리더십과 인간관계에 적용하기 시작합니다. 따라서 주어진 문장은 티백 비유에서 인간의 삶으로 주제를 전환하는 다리 역할을 하므로 (②)에 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's impermeable. It won't work.",
+      "question_blocks": {
+        "A": "Leaders need to be careful not to build walls around themselves that prevent people from reaching out to them. As a leader, you need to be able to touch other people.",
+        "B": "You just won't be able to make a cup of tea. For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other.",
+        "C": "In our lives too, we cannot survive and thrive in isolation. The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 불침투성 티백은 쓸모가 없다는 내용입니다. (B)에서 그 이유를 설명하며 다공성과 접촉의 필요성을 언급하며 티백 비유를 완성합니다. 그 다음 (C)에서 'In our lives too'라는 표현으로 비유를 인간의 삶으로 확장시키며 고립될 수 없음을 말합니다. 마지막으로 (A)에서 이 원리를 '리더'라는 특정 대상에게 적용하여 구체화합니다. 따라서 (B)-(C)-(A) 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's impermeable. It won't work. You just won't be able to make a cup of tea. For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other. In our lives too, we cannot survive and thrive in isolation. Leaders need to be careful not to ____________________ that prevent people from reaching out to them. As a leader, you need to be able to touch other people. The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "delegate important tasks to others" },
+        { "number": "②", "text": "share too much personal information" },
+        { "number": "③", "text": "build walls around themselves" },
+        { "number": "④", "text": "lose contact with their old friends" },
+        { "number": "⑤", "text": "focus only on the final outcome" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 고립을 피하고 소통해야 한다는 주제를 다룹니다. 빈칸이 있는 문장은 리더가 사람들이 다가오는 것을 막는 행위를 하지 않도록 조심해야 한다고 말합니다. '자신들 주위에 벽을 쌓는 것(build walls around themselves)'은 고립을 상징하며, 사람들이 다가오는 것을 막는다는 뒷 내용과 완벽하게 일치합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's ① [impermeable]. It won't work. You just won't be able to make a cup of tea. For the teabag to work, it needs to be ② [porous]. You need the tea and the water to come in ③ [contact] with each other. In our lives too, we cannot survive and thrive in isolation. Leaders need to be careful not to build walls around themselves that ④ [prevent] people from reaching out to them. As a leader, you need to be able to touch other people. The tea was meant to mix with the water. Similarly all of us were designed to ⑤ [separate from] other people, with teams, and with society at large.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 전체적인 맥락은 티백이 물과 섞여야 하듯이 사람들도 서로 협력하도록 만들어졌다는 것입니다. 따라서 마지막 문장에서 우리 모두가 다른 사람들로부터 '분리되도록(separate from)' 설계되었다는 것은 글의 주제와 정반대되는 내용입니다. '함께 일하도록(work with)'이 문맥에 맞습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag that's (A) [impermeable]. It won't work. You just won't be able to make a cup of tea. For the teabag to work, it needs to be (B) [porous]. You need the tea and the water to come in contact with each other. In our lives too, we cannot survive and (C) [thrive] in (D) [isolation]. Leaders need to be careful not to build walls around themselves that (E) [prevent] people from reaching out to them. As a leader, you need to be able to touch other people.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) impermeable: not allowing liquid to pass through." },
+        { "number": "②", "text": "(B) porous: having tiny holes that let liquid or air pass through." },
+        { "number": "③", "text": "(C) thrive: to grow, develop, and be successful." },
+        { "number": "④", "text": "(D) isolation: the condition of being alone, especially when this is pleasant." },
+        { "number": "⑤", "text": "(E) prevent: to stop something from happening or someone from doing something." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) isolation은 '고립, 분리'의 상태를 의미하지만, 그것이 '특히 즐거울 때'라는 조건은 단어의 핵심 의미에 포함되지 않습니다. 고립은 긍정적일 수도 부정적일 수도 있습니다. 이 글의 문맥에서는 부정적인 의미로 사용되었습니다. 따라서 영영 풀이가 단어의 의미를 부정확하게 제한하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "For the teabag to work, it needs to be (A) [porous / solid]. You need the tea and the water to come in contact with each other. In our lives too, we cannot survive and thrive in (B) [isolation / community]. Leaders need to be careful not to build walls around themselves that (C) [prevent / encourage] people from reaching out to them.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "porous - isolation - prevent" },
+        { "number": "②", "text": "porous - community - prevent" },
+        { "number": "③", "text": "solid - isolation - encourage" },
+        { "number": "④", "text": "solid - community - prevent" },
+        { "number": "⑤", "text": "porous - isolation - encourage" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 티백이 작동하려면 물이 통과할 수 있도록 '다공성이어야(porous)' 합니다. (B) 글의 주제에 따라 우리는 '고립(isolation)' 속에서는 생존하고 번성할 수 없습니다. (C) 리더는 사람들이 다가오는 것을 '막는(prevent)' 벽을 쌓지 않도록 조심해야 합니다. 따라서 정답은 porous - isolation - prevent 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "For the teabag to work, it needs to be porous. You need the tea and the water to come in contact with each other. ① In our lives too, we cannot survive and thrive in isolation. ② Leaders need to be careful not to build walls around themselves that prevent people from reaching out to them. ③ Different types of tea, such as green, black, and oolong, require different water temperatures. ④ As a leader, you need to be able to touch other people. ⑤ The tea was meant to mix with the water. Similarly all of us were designed to work with other people, with teams, and with society at large.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 티백의 비유를 통해 리더십과 인간관계에서의 소통의 중요성을 설명하고 있습니다. ③번 문장 '녹차, 홍차, 우롱차와 같은 다른 종류의 차는 다른 물 온도를 필요로 한다'는 차를 우리는 구체적인 방법에 대한 사실로, 글의 중심 주제인 비유적 메시지와 관련이 없어 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Imagine you have the best tea in the world and you put it into a bag ① [that / what] is impermeable. It won't work. You just won't be able to make a cup of tea. For the teabag ② [to work / working], it needs to be porous. Leaders need to be careful not ③ [to build / building] walls around themselves that prevent people from reaching out to them. Similarly all of us were designed to work with other people, with teams, and with society at large.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "that",
+          "explanation": "선행사 'a bag'을 수식하는 주격 관계대명사가 필요하므로 'that'이 적절합니다. 'what'은 선행사를 포함하는 관계대명사(~하는 것)이므로 사용할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to work",
+          "explanation": "'for + 목적격 + to부정사' 구문은 to부정사의 의미상 주어를 나타냅니다. '티백이 작동하기 위해서는'이라는 의미이므로 'to work'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to build",
+          "explanation": "'be careful not to do something'은 '~하지 않도록 조심하다'라는 의미의 관용적 표현으로, to부정사를 사용해야 합니다."
+        }
+      ]
+    }
+  ]
+}

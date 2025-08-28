@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "제목 추론",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nParticipants then had to match the figure to a background varying from dark to light red.\nThey had to make the background color match the color of the figures.\nThe researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color influences how we perceive that color.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Psychology of Red: A Special Color"
+        },
+        {
+          "number": "②",
+          "text": "Seeing Red: How Your Brain Colors Your World"
+        },
+        {
+          "number": "③",
+          "text": "How to Conduct a Perception Experiment"
+        },
+        {
+          "number": "④",
+          "text": "The Importance of Background in Visual Art"
+        },
+        {
+          "number": "⑤",
+          "text": "Delk and Fillenbaum's Controversial Study"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 우리의 뇌(인지적 연관성)가 세상을 인식하는 방식, 특히 색상을 보는 방식에 어떻게 영향을 미치는지를 설명합니다. '빨갛게 보기(Seeing Red)'라는 표현은 실험의 핵심 색상인 빨간색을 나타내며, '뇌가 당신의 세상을 어떻게 색칠하는가(How Your Brain Colors Your World)'는 글의 주제인 인지적 요인이 지각에 미치는 영향을 은유적으로 잘 표현합니다."
+      }
+    },
+    {
+      "problem_type": "글의 목적",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nParticipants then had to match the figure to a background varying from dark to light red.\nThey had to make the background color match the color of the figures.\nThe researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color influences how we perceive that color.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize the methodology of a psychological experiment"
+        },
+        {
+          "number": "②",
+          "text": "to provide instructions for a color-matching task"
+        },
+        {
+          "number": "③",
+          "text": "to explain how cognitive factors can influence perception"
+        },
+        {
+          "number": "④",
+          "text": "to introduce the works of Delk and Fillenbaum"
+        },
+        {
+          "number": "⑤",
+          "text": "to report the results of an art competition"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 첫 문장에서 '인지적 요인이 인식되는 세계의 현상학에 영향을 미친다'는 아이디어를 제시하고, Delk와 Fillenbaum의 실험을 구체적인 예시로 들어 이를 뒷받침하고 있습니다. 실험의 결론 역시 인지적 연관성이 색 지각에 영향을 미친다는 것이므로, 글의 주된 목적은 인지적 요인이 지각에 어떻게 영향을 미치는지 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nParticipants then had to match the figure to a background varying from dark to light red.\nThey had to make the background color match the color of the figures.\nThe researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color influences how we perceive that color.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The physical properties of an object are the only factors that determine our perception of it."
+        },
+        {
+          "number": "②",
+          "text": "Objects like apples and hearts are universally perceived as being the most vivid shade of red."
+        },
+        {
+          "number": "③",
+          "text": "Color matching is a subjective task that cannot produce any reliable scientific data for researchers."
+        },
+        {
+          "number": "④",
+          "text": "Our cognitive association of an object with a color influences how we actually perceive that color."
+        },
+        {
+          "number": "⑤",
+          "text": "Psychological experiments often use cardboard figures because they are cheap and easy to make."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 Delk와 Fillenbaum의 실험을 통해, 물리적으로 동일한 색의 물체라도 우리가 그 물체에 대해 가지고 있는 사전 지식(사과는 빨갛다)이 실제 색 지각에 영향을 미친다는 것을 보여줍니다. 글의 마지막 문장에서 '사물과 색깔의 인지적 연관성이 우리가 그 색을 어떻게 인식하는지에 영향을 미친다'고 명시적으로 결론 내리고 있으므로, ④번이 글의 요지로 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\n( ① ) Other objects were presented that are not usually associated with red, such as a mushroom or a bell.\n( ② ) However, all the figures were made out of the same red-orange cardboard.\n( ③ ) Participants then had to match the figure to a background varying from dark to light red.\n( ④ ) The researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This implies that the cognitive association of objects to color influences how we perceive that color.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "주어진 문장은 '이것은 ~을 암시한다(This implies that...)'는 내용으로, 실험의 결과에 대한 해석 및 결론에 해당합니다. ⑤번 앞 문장은 연구자들이 발견한 구체적인 실험 결과(빨간색과 연관된 물체는 배경에 더 많은 빨간색을 필요로 했다)를 제시하고 있습니다. 주어진 문장은 바로 이 '결과'가 무엇을 의미하는지 설명하는 결론 문장이므로, 글의 맨 마지막인 ⑤번에 위치하여 전체 내용을 마무리하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world. Delk and Fillenbaum asked participants to match the color of figures with the color of their background.",
+      "question_blocks": {
+        "A": "Participants then had to match the figure to a background varying from dark to light red. They had to make the background color match the color of the figures.",
+        "B": "Some of the figures depicted objects associated with a particular color, such as an apple or a heart. Other objects were presented that are not usually associated with red, such as a mushroom. However, all the figures were made out of the same red-orange cardboard.",
+        "C": "The researchers found that red-associated objects required more red in the background to be judged a match than did the non-associated objects. This implies that the cognitive association of objects to color influences how we perceive that color."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 연구의 주제와 기본 과제를 소개합니다. (B)는 실험에 사용된 '재료(figures)'를 구체적으로 설명합니다(빨간색 연관 물체 vs. 비연관 물체, 모두 같은 색의 판지). (A)는 참가자들이 수행한 구체적인 '절차(procedure)'를 설명합니다(배경색을 도형색에 맞추기). (C)는 실험의 '결과(results)'와 그 결과가 '암시하는 바(implication)'를 제시하며 결론을 내립니다. 따라서 재료 → 절차 → 결과 및 결론의 과학적 서술 순서인 (B)-(A)-(C)가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nParticipants then had to match the figure to a background varying from dark to light red.\nThey had to make the background color match the color of the figures.\nThe researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color __________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "is a result of the background color"
+        },
+        {
+          "number": "②",
+          "text": "depends on the material of the object"
+        },
+        {
+          "number": "③",
+          "text": "can be easily changed through training"
+        },
+        {
+          "number": "④",
+          "text": "influences how we perceive that color"
+        },
+        {
+          "number": "⑤",
+          "text": "has no real effect on visual perception"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸은 실험 결과가 무엇을 암시하는지를 설명하는 결론 문장의 일부입니다. 실험 결과, 참가자들은 물리적으로 동일한 색임에도 불구하고 '사과'와 같이 빨갛다고 알고 있는 물체를 더 빨갛다고 인식했습니다. 이는 사물과 색깔에 대한 인지적 연관성이 '우리가 그 색을 어떻게 인식하는지에 영향을 미친다'는 것을 의미합니다. 따라서 ④번이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "There is research that supports the idea that cognitive factors ① [influence] the phenomenology of the perceived world.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the ② [same] red-orange cardboard.\nParticipants then had to ③ [match] the figure to a background varying from dark to light red.\nThe researchers found that red-associated objects required ④ [more] red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color ⑤ [corrects] how we perceive that color.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "influence"
+        },
+        {
+          "number": "②",
+          "text": "same"
+        },
+        {
+          "number": "③",
+          "text": "match"
+        },
+        {
+          "number": "④",
+          "text": "more"
+        },
+        {
+          "number": "⑤",
+          "text": "corrects"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 결론은 우리의 사전 지식이나 연상과 같은 인지적 요인이 실제 색 지각에 '영향을 미친다(influences)'는 것입니다. 이는 객관적인 색 지각을 '교정하거나 바로잡는다(corrects)'는 의미가 아니라, 주관적으로 변화시킨다는 의미입니다. 따라서 'corrects'는 문맥에 맞지 않으며, 'influences'가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "There is research that supports the idea that cognitive factors influence the (A) [phenomenology] of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures (B) [depicted] objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a (C) [symbolic] heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nParticipants then had to match the figure to a background (D) [varying] from dark to light red.\nThis implies that the cognitive association of objects to color (E) [influences] how we perceive that color.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) phenomenology: the study of how things seem to the conscious person"
+        },
+        {
+          "number": "②",
+          "text": "(B) depicted: represented by a drawing, painting, or other art form"
+        },
+        {
+          "number": "③",
+          "text": "(C) symbolic: serving as a representation of an abstract idea or quality"
+        },
+        {
+          "number": "④",
+          "text": "(D) varying: remaining the same or unchanged"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) influences: has an effect on the character, development, or behavior of someone or something"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'varying'은 '서로 다른, 변화하는(differing in size, amount, degree, or nature)'이라는 의미입니다. 제시된 영영 풀이인 '똑같이 또는 변하지 않고 남아있는'은 'constant'나 'unchanging'에 대한 설명으로, 'varying'과는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nSome of the figures depicted objects associated with a particular color. These included typically red objects such as an apple, lips, and a symbolic heart.\nHowever, all the figures were made out of the (A) [same / different] red-orange cardboard.\nParticipants then had to match the figure to a background varying from dark to light red.\nThe researchers found that red-associated objects required (B) [more / less] red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color (C) [influences / ignores] how we perceive that color.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "same - more - influences"
+        },
+        {
+          "number": "②",
+          "text": "same - less - ignores"
+        },
+        {
+          "number": "③",
+          "text": "different - more - influences"
+        },
+        {
+          "number": "④",
+          "text": "different - less - ignores"
+        },
+        {
+          "number": "⑤",
+          "text": "same - more - ignores"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 실험의 핵심은 모든 도형이 물리적으로 '같은(same)' 색의 판지로 만들어졌다는 점입니다. (B) 연구 결과, 빨간색과 연관된 물체는 배경에 '더 많은(more)' 빨간색을 필요로 했습니다. (C) 이 결과는 인지적 연관성이 색 지각에 '영향을 미친다(influences)'는 것을 암시합니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world.\nDelk and Fillenbaum asked participants to match the color of figures with the color of their background.\nSome of the figures depicted objects associated with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nParticipants then had to match the figure to a background varying from dark to light red.\nThey had to make the background color match the color of the figures.\nThe researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color influences how we perceive that color.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "실험 참가자들은 도형의 색깔을 배경색과 맞춰야 했다."
+        },
+        {
+          "number": "②",
+          "text": "실험에 사용된 도형들은 모두 물리적으로 동일한 색이었다."
+        },
+        {
+          "number": "③",
+          "text": "일부 도형은 사과처럼 특정 색과 일반적으로 연관된 사물이었다."
+        },
+        {
+          "number": "④",
+          "text": "빨간색과 연관된 사물은 그렇지 않은 사물보다 배경에 더 적은 빨간색을 필요로 했다."
+        },
+        {
+          "number": "⑤",
+          "text": "이 연구는 인지적 연관성이 색 지각에 영향을 미친다는 것을 시사한다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'red-associated objects required more red in the background... than did the objects that are not associated with the color red'라고 명시하고 있습니다. 이는 빨간색과 연관된 사물이 그렇지 않은 사물보다 배경에 '더 많은(more)' 빨간색을 필요로 했다는 의미이므로, '더 적은' 빨간색을 필요로 했다는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Some of the figures depicted objects ① [associated / associating] with a particular color.\nThese included typically red objects such as an apple, lips, and a symbolic heart.\nOther objects were presented that are not usually associated with red, such as a mushroom or a bell.\nHowever, all the figures were made out of the same red-orange cardboard.\nThe researchers found that red-associated objects required more red in the background to be judged a match than ② [did / were] the objects that are not associated with the color red.\nThis implies that the cognitive association of objects to color influences how we perceive ③ [that / what] color.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "associated",
+          "explanation": "앞의 명사 'objects'를 수식하는 분사구입니다. 사물들은 특정 색과 '연관되는' 것이므로 수동의 의미를 지닌 과거분사 'associated'가 적절합니다. (which were associated에서 주격 관계대명사와 be동사가 생략된 형태)"
+        },
+        {
+          "number": "②",
+          "correct_form": "did",
+          "explanation": "비교 구문 'than' 뒤에서 주어(the objects)와 동사가 도치된 형태입니다. 앞선 절의 동사인 'required'를 대신 받는 대동사가 필요한데, 'required'가 일반동사이므로 do동사를 사용해야 합니다. 시제가 과거이므로 'did'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "that",
+          "explanation": "'that'은 뒤따르는 명사 'color'를 수식하는 지시형용사로, '그 색'이라는 의미로 사용되었습니다. 'how we perceive that color'는 '우리가 그 색을 어떻게 인식하는지'로 자연스럽게 해석됩니다. 'what'은 이 문맥에서 어색합니다."
+        }
+      ]
+    }
+  ]
+}

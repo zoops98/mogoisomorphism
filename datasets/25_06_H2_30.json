@@ -1,0 +1,237 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries. Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of stimulating the aggregate supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point. For a $15 trillion economy, that is a loss of $150 billion in potential wealth or economic growth. Conversely, there has never been much concern with oil price decreases following an excess in its supply.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To promote investment in the energy sector."
+        },
+        {
+          "number": "②",
+          "text": "To criticize government intervention in oil markets."
+        },
+        {
+          "number": "③",
+          "text": "To explain the economic effects of oil price changes."
+        },
+        {
+          "number": "④",
+          "text": "To predict future trends in global oil production."
+        },
+        {
+          "number": "⑤",
+          "text": "To argue for a transition to renewable energy sources."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 유가 하락이 생산 비용을 낮춰 경제에 긍정적인 영향을 미치는 반면, 유가 상승은 경제 성장을 저해하는 부정적인 영향을 미친다는 점을 설명하고 있습니다. 따라서 글의 주된 목적은 유가 변동이 경제에 미치는 영향을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries. Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of stimulating the aggregate supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point. For a $15 trillion economy, that is a loss of $150 billion in potential wealth or economic growth. Conversely, there has never been much concern with oil price decreases following an excess in its supply.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The History of Oil Price Fluctuations"
+        },
+        {
+          "number": "②",
+          "text": "Why the Energy Sector Loves High Oil Prices"
+        },
+        {
+          "number": "③",
+          "text": "Oil Prices: A Blessing When Low, A Curse When High"
+        },
+        {
+          "number": "④",
+          "text": "The Relationship Between Oil and the Auto Industry"
+        },
+        {
+          "number": "⑤",
+          "text": "Calculating the Economic Loss from Price Jumps"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 유가가 낮을 때는 경제에 좋은 것(축복)이지만, 높을 때는 나쁜 소식(저주)이라는 대조적인 효과를 명확하게 설명하고 있습니다. 이 제목은 글의 핵심 내용을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries. Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of stimulating the aggregate supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point. For a $15 trillion economy, that is a loss of $150 billion in potential wealth or economic growth. Conversely, there has never been much concern with oil price decreases following an excess in its supply.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The global economy is primarily driven by the profitability and performance of the energy sector alone."
+        },
+        {
+          "number": "②",
+          "text": "Lower oil prices generally benefit the economy by reducing production costs and stimulating overall supply."
+        },
+        {
+          "number": "③",
+          "text": "Historical data shows that the economic impact of oil price increases and decreases is perfectly symmetrical."
+        },
+        {
+          "number": "④",
+          "text": "The automobile and logistics industries are the only sectors of the economy that are affected by oil prices."
+        },
+        {
+          "number": "⑤",
+          "text": "Governments should implement strict price controls on oil to prevent any significant economic fluctuations."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 낮은 유가가 생산 비용을 절감시켜 총공급을 촉진하고 성장을 위한 자극을 제공하여 경제에 이롭다는 점을 명확히 하고 있습니다. 반면 유가 상승은 경제에 해롭다고 설명합니다. 따라서 '낮은 유가는 생산 비용을 줄이고 총공급을 촉진하여 전반적으로 경제에 이익이 된다'가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. ( ① ) A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. ( ② ) For a $15 trillion economy, that is a loss of $150 billion in potential wealth or economic growth. ( ③ ) Conversely, there has never been much concern with oil price decreases following an excess in its supply. ( ④ ) This highlights the asymmetrical impact of oil prices. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 유가 10% 상승 시 GDP가 1%p 둔화된다는 구체적인 연구 결과를 제시합니다. (②) 앞 문장은 역사와 경제 연구가 유가 상승의 부정적 효과라는 개념을 확인시켜준다고 일반적인 진술을 합니다. 주어진 문장은 그 연구의 구체적인 수치를 제공합니다. 그리고 (②) 다음 문장은 주어진 문장의 수치를 바탕으로 15조 달러 경제에서의 손실액을 계산하므로, 주어진 문장은 (②)에 들어가 일반적 진술과 구체적 계산 사이를 연결하는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries.",
+      "question_blocks": {
+        "A": "A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point.",
+        "B": "Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of stimulating the aggregate supply and provides a stimulus for growth.",
+        "C": "Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글은 낮은 유가가 좋은 것이라고 말합니다. (B)에서 그 이유를 구체적으로 설명하며, 기업 비용 감소와 총공급 촉진 효과를 언급합니다. (C)에서는 'Conversely(반대로)'라는 연결어를 사용해 낮은 유가와는 반대되는 상황, 즉 높은 유가는 나쁜 소식이라고 대조적으로 제시합니다. (A)에서 역사적 연구와 구체적인 수치를 들어 (C)의 주장을 뒷받침합니다. 따라서 논리적 흐름은 (B)-(C)-(A)가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries. Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of ____________________ and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "creating uncertainty in the market" },
+        { "number": "②", "text": "increasing consumer prices significantly" },
+        { "number": "③", "text": "reducing the need for skilled labor" },
+        { "number": "④", "text": "stimulating the aggregate supply" },
+        { "number": "⑤", "text": "harming the renewable energy industry" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 포함된 문장은 낮은 유가로 인해 기업의 생산 비용이 감소하는 것의 효과를 설명합니다. 생산 비용의 감소는 기업들이 더 많은 상품과 서비스를 생산하고 공급할 수 있게 하므로, 이는 '총공급을 촉진하는(stimulating the aggregate supply)' 효과로 이어집니다. 이는 또한 뒤따르는 '성장을 위한 자극을 제공한다'는 내용과도 일맥상통합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Low oil prices are a good thing, because it means ① [lower] energy costs of production. Firms directly benefit from the ② [decrease] in their costs. This has the effect of ③ [stimulating] the aggregate supply and provides a stimulus for growth. Conversely, a sudden ④ [rise] in oil prices is never good news. Following an oil price jump, an economy typically sees its output (GDP) slowed. For a $15 trillion economy, that is a ⑤ [gain] of $150 billion in potential wealth.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 문장은 유가 급등으로 인해 GDP 성장이 둔화되는 상황을 설명하고 있습니다. 잠재적 부의 관점에서 이는 '손실(loss)'이지 '이익(gain)'이 아닙니다. 따라서 ⑤번은 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "This has the effect of stimulating the (A) [aggregate] supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a (B) [shrink] in oil production is never good news. A look through the history of oil price (C) [fluctuations] confirms this notion. Following an oil price jump of 10 per cent due to a (D) [contraction] in supply, an economy typically sees its output (GDP) slowed by close to 1 percentage point. For a $15 trillion economy, that is a loss of $150 billion in (E) [potential] wealth or economic growth.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) aggregate: a total amount of something." },
+        { "number": "②", "text": "(B) shrink: to become smaller, or to make something smaller." },
+        { "number": "③", "text": "(C) fluctuations: frequent changes, especially from one thing to another." },
+        { "number": "④", "text": "(D) contraction: a period of economic growth and expansion." },
+        { "number": "⑤", "text": "(E) potential: possible when the necessary conditions exist." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) contraction은 '수축, 축소'를 의미하며, 경제학에서는 경기 위축이나 침체를 의미합니다. '경제 성장과 팽창의 시기'라는 설명은 'expansion'에 해당하므로, 정반대의 의미를 가진 잘못된 풀이입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Low oil prices are a good thing, because it means (A) [lower / higher] energy costs of production. Firms directly benefit from the decrease in their costs of production. This has the effect of (B) [stimulating / depressing] the aggregate supply and provides a stimulus for growth. Conversely, a sudden (C) [rise / fall] in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "lower - stimulating - rise" },
+        { "number": "②", "text": "lower - depressing - rise" },
+        { "number": "③", "text": "higher - stimulating - fall" },
+        { "number": "④", "text": "higher - depressing - fall" },
+        { "number": "⑤", "text": "lower - stimulating - fall" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 낮은 유가는 '더 낮은(lower)' 에너지 비용을 의미합니다. (B) 비용 감소는 총공급을 '촉진하는(stimulating)' 효과가 있습니다. (C) 반대로, 유가의 갑작스러운 '상승(rise)'은 나쁜 소식입니다. 따라서 정답은 lower - stimulating - rise 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "A sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. ① A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. ② Major oil-producing countries often form organizations to coordinate their production levels. ③ Following an oil price jump of 10 per cent... an economy... typically sees its output (GDP) slowed by close to 1 percentage point. ④ For a $15 trillion economy, that is a loss of $150 billion in potential wealth. ⑤ Conversely, there has never been much concern with oil price decreases.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 유가 변동이 경제에 미치는 '효과'에 대해 분석하고 있습니다. ②번 문장 '주요 산유국들은 생산 수준을 조정하기 위해 종종 기구를 형성한다'는 유가 변동의 원인이 될 수 있는 국제 정치/경제적 '행위'에 대한 설명으로, 유가 변동의 '결과'를 분석하는 글의 전체적인 흐름과 다소 거리가 있습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Firms directly benefit from the decrease in their costs of production and provision of services. ① This has the effect of [stimulating / to stimulate] the aggregate supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production ② [is / are] never good news, even though it definitely gives a big boost to the energy sector. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) ③ [slowed / slowing] by close to 1 percentage point.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "stimulating",
+          "explanation": "전치사 'of'의 목적어 자리이므로 명사나 동명사가 와야 합니다. 따라서 동명사 'stimulating'이 어법에 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "is",
+          "explanation": "문장의 주어는 단수 명사인 'a sudden rise'이므로, 단수 동사인 'is'가 와야 합니다. 'in oil prices...'는 주어를 수식하는 전치사구입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "slowed",
+          "explanation": "지각동사 'see'는 목적어(its output)와 목적격 보어를 취합니다. 여기서는 생산량(output)이 '둔화되는' 수동의 관계이므로 과거분사 'slowed'가 맞습니다. 'see + 목적어 + 동사원형/현재분사/과거분사' 구문에서 목적어와 보어의 관계가 수동일 때 과거분사를 씁니다."
+        }
+      ]
+    }
+  ]
+}

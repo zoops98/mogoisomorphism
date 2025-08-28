@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "When we realize we've said something in error and we pause to go back to correct it, we stop gesturing a couple of hundred milliseconds before we stop speaking.\nSuch sequences suggest the startling notion that our hands \"know\" what we're going to say before our conscious minds do, and in fact this is often the case.\nGesture can mentally prime a word so that the right term comes to our lips.\nWhen people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to supply them with the next word, and the next.\nNot being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information, we solve problems less well, and we are less able to explain our thinking.\nFar from tagging along as speech's clumsy companion, gesture represents the leading edge of our thought.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to compare different types of non-verbal communication" },
+        { "number": "②", "text": "to suggest methods for improving public speaking skills" },
+        { "number": "③", "text": "to argue that gesture is fundamental to and facilitates thought and speech" },
+        { "number": "④", "text": "to describe the neurological link between hand movements and the brain" },
+        { "number": "⑤", "text": "to criticize people who use excessive gestures while speaking" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 제스처가 단순히 말을 보조하는 수단이 아니라, 우리의 사고 과정과 언어 구사를 선행하고 촉진하는 근본적인 역할을 한다고 주장합니다. 제스처를 못하게 했을 때 발생하는 여러 부정적인 효과들을 근거로 제시하며, 제스처가 사고의 '선두(leading edge)'에 있다고 결론 내리고 있습니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "When we realize we've said something in error and we pause to go back to correct it, we stop gesturing a couple of hundred milliseconds before we stop speaking.\nSuch sequences suggest the startling notion that our hands \"know\" what we're going to say before our conscious minds do, and in fact this is often the case.\nGesture can mentally prime a word so that the right term comes to our lips.\nWhen people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to supply them with the next word, and the next.\nNot being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information, we solve problems less well, and we are less able to explain our thinking.\nFar from tagging along as speech's clumsy companion, gesture represents the leading edge of our thought.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "When Hands Speak Before the Mouth" },
+        { "number": "②", "text": "The Dangers of Speaking Without Thinking" },
+        { "number": "③", "text": "How to Correct Your Verbal Errors Gracefully" },
+        { "number": "④", "text": "The Universal Language of Gesture" },
+        { "number": "⑤", "text": "Fluent Speech: A Sign of High Intelligence?" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 핵심 내용은 우리가 말을 수정할 때 말을 멈추기 전에 제스처를 먼저 멈춘다는 사실 등을 근거로, 우리의 손(제스처)이 의식적인 마음(입)보다 먼저 우리가 할 말을 '알고 있다'는 놀라운 개념입니다. '입보다 먼저 말하는 손'이라는 제목은 이러한 글의 중심 아이디어를 효과적으로 표현합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "When we realize we've said something in error and we pause to go back to correct it, we stop gesturing a couple of hundred milliseconds before we stop speaking.\nSuch sequences suggest the startling notion that our hands \"know\" what we're going to say before our conscious minds do, and in fact this is often the case.\nGesture can mentally prime a word so that the right term comes to our lips.\nWhen people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to supply them with the next word, and the next.\nNot being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information, we solve problems less well, and we are less able to explain our thinking.\nFar from tagging along as speech's clumsy companion, gesture represents the leading edge of our thought.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The inability to use gestures can significantly impair a person's fluency and overall cognitive performance." },
+        { "number": "②", "text": "Gesture is not merely an accessory to speech but is an integral, leading part of the human thought process." },
+        { "number": "③", "text": "People who use gestures more frequently are often better at solving complex problems and explaining their ideas." },
+        { "number": "④", "text": "The conscious mind often lags behind the subconscious, as evidenced by the timing of gestures and speech corrections." },
+        { "number": "⑤", "text": "Understanding the relationship between gesture and speech is key to developing more effective communication strategies." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 요지는 제스처가 단순히 말의 부속물이 아니라, 인간 사고 과정의 핵심적이고 선도적인 부분이라는 것입니다. 글의 마지막 문장 'Far from tagging along as speech's clumsy companion, gesture represents the leading edge of our thought'에서 이 요지가 명확하게 드러납니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Such sequences suggest the startling notion that our hands \"know\" what we're going to say before our conscious minds do, and in fact this is often the case. ( ① ) Gesture can mentally prime a word so that the right term comes to our lips. ( ② ) When people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to supply them with the next word, and the next. ( ③ ) Not being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information, we solve problems less well, and we are less able to explain our thinking. ( ④ ) Far from tagging along as speech's clumsy companion, gesture represents the leading edge of our thought. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**The hands, in this sense, are not just following the words; they are helping to produce them.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이런 의미에서 손은 단지 말을 따르는 것이 아니라, 말을 생산하는 것을 돕고 있다'는 내용입니다. 바로 앞 문장에서 제스처가 단어를 '정신적으로 준비시킨다(mentally prime)'고 설명했습니다. 주어진 문장은 이 '준비'의 의미를 '생산을 돕는 것'으로 명확히 부연 설명합니다. 이어서 제스처가 막혔을 때 말을 더듬게 되는 이유가 손이 다음 단어를 공급해주지 못하기 때문이라는 뒷 문장과 자연스럽게 연결됩니다. 따라서 ②의 위치가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "When we realize we've said something in error and we pause to go back to correct it, we stop gesturing a couple of hundred milliseconds before we stop speaking.",
+      "question_blocks": {
+        "A": "When people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to supply them with the next word, and the next.",
+        "B": "Such sequences suggest the startling notion that our hands \"know\" what we're going to say before our conscious minds do, and in fact this is often the case. Gesture can mentally prime a word so that the right term comes to our lips.",
+        "C": "Not being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information... Far from tagging along as speech's clumsy companion, gesture represents the leading edge of our thought."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 말을 수정할 때 제스처를 먼저 멈춘다는 구체적인 관찰을 제시합니다. (B)는 '그러한 순서(Such sequences)'가 무엇을 시사하는지 설명하며 제스처가 단어를 '준비시킨다(prime)'는 개념을 도입합니다. (A)는 제스처가 막혔을 때(즉, 준비시키는 기능이 없을 때) 말이 유창하지 않게 되는 현상을 설명하며 (B)의 주장을 뒷받침합니다. (C)는 '다른 해로운 효과들(other deleterious effects)'을 추가로 나열하고, 제스처가 사고의 선두에 있다는 최종 결론을 내립니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "When people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to supply them with the next word, and the next.\nNot being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information, we solve problems less well, and we are less able to explain our thinking.\nFar from tagging along as speech's clumsy companion, gesture represents ________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "a universally understood language" },
+        { "number": "②", "text": "an unconscious expression of emotion" },
+        { "number": "③", "text": "a significant barrier to fluency" },
+        { "number": "④", "text": "the leading edge of our thought" },
+        { "number": "⑤", "text": "a culturally learned behavior" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 글 전체의 결론에 해당합니다. 글은 제스처가 단순히 말을 따라가는 '서투른 동반자'가 아님을 여러 증거를 통해 보여주었습니다. 따라서 그와는 대조적으로 제스처가 사고를 이끄는 역할을 한다는 의미가 와야 합니다. 글의 마지막 구절인 '우리 사고의 선두(the leading edge of our thought)'가 이 결론을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "When we realize we've said something in error and we pause to go back to ① correct it, we stop gesturing a couple of hundred milliseconds before we stop speaking.\nSuch sequences suggest the startling notion that our hands \"know\" what we're going to say before our conscious minds do...\nGesture can mentally ② prime a word so that the right term comes to our lips.\nWhen people are prevented from gesturing, they talk less ③ fluently... Not being able to gesture has other ④ deleterious effects: without gesture to help our mental processes along, we remember less useful information...\nFar from tagging along as speech's clumsy companion, gesture represents the ⑤ trailing edge of our thought.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글의 핵심 주장은 제스처가 사고와 말을 이끄는 역할을 한다는 것입니다. 따라서 제스처는 사고의 '선두(leading edge)'를 대표한다고 해야 문맥에 맞습니다. '뒤처지는 부분(trailing edge)'은 글의 주장과 정반대되는 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "When we realize we've said something in error and we (A) pause to go back to correct it... Such sequences suggest the startling (B) notion that our hands \"know\" what we're going to say before our conscious minds do... Gesture can mentally (C) prime a word so that the right term comes to our lips. When people are prevented from gesturing, they talk less fluently; their speech becomes (D) halting... Not being able to gesture has other (E) deleterious effects...",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) pause: to stop doing something for a short time before you start again" },
+        { "number": "②", "text": "(B) notion: an idea, belief, or understanding of something" },
+        { "number": "③", "text": "(C) prime: to prepare someone or something for a particular situation" },
+        { "number": "④", "text": "(D) halting: slow and stopping often because you are not confident" },
+        { "number": "⑤", "text": "(E) deleterious: having a positive and helpful effect on something" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'deleterious'는 제스처를 사용하지 못할 때 생기는 '해로운, 유해한' 효과를 의미합니다. 제시된 영영 풀이 'having a positive and helpful effect(긍정적이고 도움이 되는 효과를 가지는)'는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "When we realize we've said something in error and we pause to go back to correct it, we stop gesturing a couple of hundred milliseconds (A) [before / after] we stop speaking. ... When people are prevented from gesturing, they talk less (B) [fluently / haltingly]; their speech becomes halting because their hands are no longer able to supply them with the next word... Far from tagging along as speech's clumsy (C) [companion / leader], gesture represents the leading edge of our thought.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "before - fluently - companion" },
+        { "number": "②", "text": "before - haltingly - leader" },
+        { "number": "③", "text": "after - fluently - companion" },
+        { "number": "④", "text": "after - haltingly - leader" },
+        { "number": "⑤", "text": "before - fluently - leader" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 우리는 말을 멈추기 '전에(before)' 제스처를 멈춘다. (B) 제스처가 막히면 사람들은 말을 덜 '유창하게(fluently)' 한다. (참고: haltingly는 '더듬거리며'라는 뜻으로 less와 함께 쓰이면 '덜 더듬거리며'가 되어 반대 의미가 됨) (C) 제스처는 말의 서투른 '동반자(companion)'가 아니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Gesture can mentally prime a word so that the right term comes to our lips. ② When people are prevented from gesturing, they talk less fluently; their speech becomes halting. ③ The specific types of gestures people use often vary significantly across different cultures. ④ This is because their hands are no longer able to supply them with the next word. ⑤ Not being able to gesture has other deleterious effects: without gesture to help our mental processes along, we remember less useful information.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 제스처가 사고와 언어 구사에 미치는 '인지적 기능'에 대해 설명하고 있습니다. 즉, 제스처가 '어떻게' 생각을 돕는지에 초점을 맞춥니다. ③번 문장은 제스처의 '형태'가 문화에 따라 다르다는 '문화적 차이'에 대해 언급하고 있어, 글의 중심 주제인 인지적 기능과 직접적인 관련이 없으므로 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "When we realize we've said something in error and we pause to go back to correct it, we stop gesturing a couple of hundred milliseconds before we ① [stop / will stop] speaking. ... When people are prevented from gesturing, they talk less fluently; their speech becomes halting because their hands are no longer able to ② [supply / supplying] them with the next word, and the next. ... Far from ③ [tagging / to tag] along as speech's clumsy companion, gesture represents the leading edge of our thought.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "stop",
+          "explanation": "시간을 나타내는 부사절(before, after, when 등)에서는 미래의 일이라도 현재 시제를 사용하여 나타냅니다. 따라서 'will stop'이 아닌 'stop'이 올바른 형태입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "supply",
+          "explanation": "'be able to'라는 조동사구 다음에는 동사원형이 와야 합니다. 따라서 'supply'가 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "tagging",
+          "explanation": "'Far from'은 전치사구로, 뒤에는 명사나 동명사가 와야 합니다. 따라서 동명사 형태인 'tagging'이 올바른 어법입니다."
+        }
+      ]
+    }
+  ]
+}

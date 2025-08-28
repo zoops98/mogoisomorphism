@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "The prominence of the social dimension in food writing might suggest that the flavor of food is taking a back seat.\nI suspect that most people view flavor as of secondary importance in social settings where food is served.\nAlthough our social gatherings coalesce around food, the meaning of these gatherings does not seem to depend on flavor.\nFlavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering.\nThese can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be personal and subjective.\nAccording to this conventional wisdom, the ceremonies and rituals around food, the social events that supply food with its meaning, do not depend on the quality of sensations provided by the food.\nTo focus excessively on flavor is to miss the larger significance of these social relations.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize modern food writing for ignoring flavor" },
+        { "number": "②", "text": "to explain the conventional view that flavor is secondary in social food settings" },
+        { "number": "③", "text": "to argue that the flavor of food is the most important part of any social gathering" },
+        { "number": "④", "text": "to provide a historical overview of food-related social rituals" },
+        { "number": "⑤", "text": "to analyze the chemical components that create food flavors" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 음식과 관련된 사회적 환경에서 음식의 '맛' 자체는 사회적 상호작용이나 의식에 비해 부차적인 것으로 여겨진다는 '통념(conventional wisdom)'을 설명하는 데 초점을 맞추고 있습니다. 맛이 어떻게 뒷전으로 밀려나고 배경 역할을 하는지 설명하며, 이러한 일반적인 견해를 소개하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "The prominence of the social dimension in food writing might suggest that the flavor of food is taking a back seat.\nI suspect that most people view flavor as of secondary importance in social settings where food is served.\nAlthough our social gatherings coalesce around food, the meaning of these gatherings does not seem to depend on flavor.\nFlavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering.\nThese can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be personal and subjective.\nAccording to this conventional wisdom, the ceremonies and rituals around food, the social events that supply food with its meaning, do not depend on the quality of sensations provided by the food.\nTo focus excessively on flavor is to miss the larger significance of these social relations.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Flavor: The True Meaning of Food" },
+        { "number": "②", "text": "The Subjective Nature of Taste" },
+        { "number": "③", "text": "Why Social Gatherings Need Better Food" },
+        { "number": "④", "text": "Flavor's Role: A Backdrop to Social Life?" },
+        { "number": "⑤", "text": "The Rise of the Social Dimension in Food Writing" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 사회생활에서 맛의 역할이 주된 것이 아니라, 사회적 상호작용을 위한 '배경(backdrop)'에 불과하다는 일반적인 견해를 탐구하고 있습니다. '맛의 역할: 사회생활의 배경일 뿐인가?'라는 제목은 이러한 글의 핵심적인 질문과 논점을 효과적으로 제시합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "The prominence of the social dimension in food writing might suggest that the flavor of food is taking a back seat.\nI suspect that most people view flavor as of secondary importance in social settings where food is served.\nAlthough our social gatherings coalesce around food, the meaning of these gatherings does not seem to depend on flavor.\nFlavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering.\nThese can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be personal and subjective.\nAccording to this conventional wisdom, the ceremonies and rituals around food, the social events that supply food with its meaning, do not depend on the quality of sensations provided by the food.\nTo focus excessively on flavor is to miss the larger significance of these social relations.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "In most social situations involving food, the shared experience and rituals are considered more significant than the actual flavor." },
+        { "number": "②", "text": "Modern food critics should focus more on the sensory qualities of food rather than just its social significance." },
+        { "number": "③", "text": "The primary purpose of food has always been to provide the necessary sustenance for human survival and well-being." },
+        { "number": "④", "text": "The appreciation for complex flavors is a personal journey that cannot be shared or understood within a group setting." },
+        { "number": "⑤", "text": "Understanding the social dynamics of a gathering is essential for truly appreciating the food that is being served there." }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 음식을 중심으로 한 대부분의 사회적 상황에서, 음식의 실제 맛보다는 함께하는 경험, 의식, 사회적 관계와 같은 요소들이 더 중요하게 여겨진다는 통념을 설명합니다. 즉, 맛은 부차적이고 사회적 의미가 더 크다는 것이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Although our social gatherings coalesce around food, the meaning of these gatherings does not seem to depend on flavor. ( ① ) Flavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering. ( ② ) These can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be personal and subjective. ( ③ ) According to this conventional wisdom, the ceremonies and rituals around food, the social events that supply food with its meaning, do not depend on the quality of sensations provided by the food. ( ④ ) To focus excessively on flavor is to miss the larger significance of these social relations. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In other words, the food is just a prop for the main event, which is the social interaction itself.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '다시 말해, 음식은 사회적 상호작용이라는 주된 행사를 위한 소품일 뿐이다'라는 의미입니다. 바로 앞 문장에서 맛이 사회적 역학 관계의 '배경(backdrop)'을 제공한다고 언급했습니다. 주어진 문장은 이 '배경'이라는 개념을 '소품(prop)'이라는 말로 바꾸어 명확하게 재진술하는 역할을 합니다. 따라서 ②의 위치에 들어가 앞 문장의 내용을 구체화하고 뒷 문장으로 자연스럽게 연결하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "The prominence of the social dimension in food writing might suggest that the flavor of food is taking a back seat. I suspect that most people view flavor as of secondary importance in social settings where food is served.",
+      "question_blocks": {
+        "A": "Flavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering.",
+        "B": "To focus excessively on flavor is to miss the larger significance of these social relations.",
+        "C": "Although our social gatherings coalesce around food, the meaning of these gatherings does not seem to depend on flavor."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 글은 사회적 환경에서 맛이 부차적으로 여겨진다는 생각을 소개합니다. (C)는 이 생각을 구체화하여, 모임이 음식을 중심으로 이루어지더라도 그 '의미'는 맛에 좌우되지 않는다고 설명합니다. (A)는 (C)에 이어 맛의 역할을 더욱 제한하여, 배를 채우는 좁은 목적과 사회적 역학의 '배경' 역할만 한다고 설명합니다. (B)는 이러한 논의를 바탕으로, 맛에 과도하게 집중하는 것은 더 큰 사회적 중요성을 놓치는 것이라는 결론을 내리며 글을 마무리합니다. 따라서 (C)-(A)-(B) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Flavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering.\nThese can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be personal and subjective.\nAccording to this conventional wisdom, the ceremonies and rituals around food, the social events that supply food with its meaning, do not depend on the quality of sensations provided by the food.\nTo focus excessively on flavor is to _________________________ of these social relations.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "enhance the enjoyment" },
+        { "number": "②", "text": "understand the true purpose" },
+        { "number": "③", "text": "miss the larger significance" },
+        { "number": "④", "text": "question the sincerity" },
+        { "number": "⑤", "text": "ignore the basic function" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 사회적 관계가 음식의 맛보다 더 중요하다고 주장하는 통념을 설명하고 있습니다. 따라서 이러한 관점에 따르면, 맛이라는 부차적인 요소에 과도하게 집중하는 것은 '이러한 사회적 관계의 더 큰 중요성을 놓치는 것'이 됩니다. 이 구절은 글의 결론에 해당하며, 앞선 논의의 자연스러운 귀결입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "The ① prominence of the social dimension in food writing might suggest that the flavor of food is taking a back seat.\nI suspect that most people view flavor as of ② secondary importance in social settings where food is served.\n...Flavor assists with the ③ narrow purpose of filling the belly... These can be understood ④ independently of the flavor of the food on offer, the appreciation of which is understood to be ⑤ communal and subjective.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 흐름에 따르면, 맛에 대한 평가는 사회적이고 객관적인 것이 아니라 '개인적이고(personal) 주관적인(subjective)' 것으로 이해됩니다. '공동의, 공유되는'이라는 뜻의 'communal'은 '개인적인'이라는 의미와 상반되므로 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "The (A) prominence of the social dimension in food writing might suggest that the flavor of food is taking a back seat.\n...our social gatherings (B) coalesce around food, the meaning of these gatherings does not seem to depend on flavor.\nFlavor ... provides the (C) backdrop for whatever social dynamics characterize the gathering.\n...the appreciation of which is understood to be personal and (D) subjective.\nTo focus excessively on flavor is to miss the larger (E) significance of these social relations.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) prominence: the state of being important or famous" },
+        { "number": "②", "text": "(B) coalesce: to come together and form one mass or whole" },
+        { "number": "③", "text": "(C) backdrop: the setting or background for a scene, event, or situation" },
+        { "number": "④", "text": "(D) subjective: based on or influenced by personal feelings, tastes, or opinions" },
+        { "number": "⑤", "text": "(E) significance: a secret or hidden meaning behind a word, saying, or action" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'significance'는 '중요성, 의의'를 의미합니다. 제시된 영영 풀이 'a secret or hidden meaning(비밀스럽거나 숨겨진 의미)'는 'significance'의 한 가지 가능한 용례일 뿐, '더 큰 중요성'이라는 본문의 일반적인 의미와는 거리가 멀어 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "The prominence of the social dimension in food writing might suggest that the flavor of food is taking a (A) [back / front] seat. ... Although our social gatherings coalesce around food, the meaning of these gatherings does not seem to (B) [depend on / arise from] flavor. ... These can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be (C) [personal / universal] and subjective.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "back - depend on - personal" },
+        { "number": "②", "text": "back - arise from - universal" },
+        { "number": "③", "text": "front - depend on - personal" },
+        { "number": "④", "text": "front - arise from - universal" },
+        { "number": "⑤", "text": "back - depend on - universal" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 사회적 차원이 부각되면서 맛은 '뒷전으로(back seat)' 밀려난다. (B) 모임의 의미는 맛에 '의존하는(depend on)' 것 같지 않다. (C) 맛에 대한 평가는 '개인적이고(personal)' 주관적인 것으로 이해된다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Although our social gatherings coalesce around food, the meaning of these gatherings does not seem to depend on flavor. ② Flavor assists with the narrow purpose of filling the belly, and once that is accomplished it provides the backdrop for whatever social dynamics characterize the gathering. ③ In many cultures, specific dishes are required for certain ceremonies, regardless of individual taste preferences. ④ These social dynamics can be understood independently of the flavor of the food on offer, the appreciation of which is understood to be personal and subjective. ⑤ According to this conventional wisdom, the ceremonies and rituals around food do not depend on the quality of sensations provided by the food.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 사회적 모임에서 '맛의 질'이 사회적 의미보다 부차적이라는 일반적인 원리를 설명하고 있습니다. ③번 문장은 특정 문화에서 특정 '요리'가 의식에 필요하다는 구체적인 문화 인류학적 사실을 언급합니다. 이는 '맛의 질'이 아닌 '음식의 종류'에 대한 이야기이며, 글의 추상적인 논점에서 벗어나므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "The prominence of the social dimension in food writing might suggest that the flavor of food is ① [taking / taken] a back seat. Flavor assists with the narrow purpose of filling the belly, and once that is ② [accomplished / accomplishing] it provides the backdrop for whatever social dynamics characterize the gathering. These can be understood independently of the flavor of the food on offer, the appreciation of which is understood to ③ [be / being] personal and subjective.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "taking",
+          "explanation": "'take a back seat'는 '~가 뒷전으로 물러나다'는 의미의 능동형 관용구입니다. 따라서 현재진행형인 'is taking'이 자연스럽습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "accomplished",
+          "explanation": "주어 'that'(앞서 언급된 '배를 채우는 목적')은 '성취되는' 대상이므로 수동의 의미를 나타내는 과거분사 'accomplished'가 와야 합니다. 'once it is accomplished'에서 'it is'가 생략된 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "be",
+          "explanation": "수동태 구문 'be understood to' 다음에는 동사원형이 와야 합니다. '...라고 이해되다'라는 의미를 형성하므로 to부정사인 'to be'가 오는 것이 올바른 어법입니다."
+        }
+      ]
+    }
+  ]
+}

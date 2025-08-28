@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "제목 추론",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\nWe've all heard the expression, \"No pain, no gain.\"\nWell, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.\nShe says that our attempts to escape being miserable are in fact making us even more miserable.\nThis is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Homeostasis: The Key to a Healthy Body"
+        },
+        {
+          "number": "②",
+          "text": "The Two Sides of the Same Coin: Pain and Pleasure"
+        },
+        {
+          "number": "③",
+          "text": "Dr. Lembke's Revolutionary Discovery"
+        },
+        {
+          "number": "④",
+          "text": "Why We Must Embrace a Miserable Life"
+        },
+        {
+          "number": "⑤",
+          "text": "Neuroscience: Unlocking the Brain's Secrets"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 고통과 쾌락이 뇌의 동일한 영역에서 처리되며, 항상성을 유지하기 위해 서로 균형을 맞추는 관계임을 설명합니다. 본문에서 'Pleasure and pain are like two sides of the same coin(쾌락과 고통은 같은 동전의 양면과 같다)'이라는 비유를 직접 사용하여 이 관계를 설명하므로, 이 표현이 글의 핵심 주제를 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "글의 목적",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\nWe've all heard the expression, \"No pain, no gain.\"\nWell, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.\nShe says that our attempts to escape being miserable are in fact making us even more miserable.\nThis is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize people who try to avoid pain"
+        },
+        {
+          "number": "②",
+          "text": "to advertise a new psychiatric treatment"
+        },
+        {
+          "number": "③",
+          "text": "to explain the neurological link between pain and pleasure"
+        },
+        {
+          "number": "④",
+          "text": "to introduce Dr. Anna Lembke's recent book"
+        },
+        {
+          "number": "⑤",
+          "text": "to emphasize the importance of a positive mindset"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 신경과학의 발견을 근거로 고통과 쾌락이 뇌의 같은 영역에서 처리된다는 점을 시작으로, 이 둘이 항상성 유지를 위해 어떻게 상호작용하는지를 설명합니다. 즉, 고통과 쾌락 사이의 신경학적, 심리학적 연결고리와 그 작동 원리를 설명하는 것이 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\nWe've all heard the expression, \"No pain, no gain.\"\nWell, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.\nShe says that our attempts to escape being miserable are in fact making us even more miserable.\nThis is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The human body has an amazing ability to survive even in the most extreme conditions."
+        },
+        {
+          "number": "②",
+          "text": "Pain is an essential component for maintaining our internal equilibrium and should not be avoided."
+        },
+        {
+          "number": "③",
+          "text": "Modern neuroscience has proven that many old sayings about life are scientifically true and valid."
+        },
+        {
+          "number": "④",
+          "text": "The constant pursuit of pleasure is the main reason why so many people feel miserable."
+        },
+        {
+          "number": "⑤",
+          "text": "Psychiatrists have developed new mechanisms to help people achieve a state of homeostasis."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 고통과 쾌락이 균형을 이루며, 고통을 피하려는 시도가 오히려 더 큰 불행을 낳는다고 주장합니다. 글의 마지막 부분에서 고통이 '중립 상태를 유지하는 능력의 필수적인 요소(essential component)'이며, 고통을 허용하는 것이 균형을 되찾게 한다고 결론 내립니다. 따라서 고통은 내부 평형을 위해 필수적이며 피해서는 안 된다는 것이 이 글의 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance.\n( ① ) If you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\n( ② ) We've all heard the expression, \"No pain, no gain.\"\n( ③ ) She says that our attempts to escape being miserable are in fact making us even more miserable.\n( ④ ) This is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Well, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 'these words'라는 표현을 통해 바로 앞선 내용을 가리키고 있습니다. ③번 앞 문장에서 'No pain, no gain'이라는 격언이 제시됩니다. 주어진 문장은 이 격언('these words')에 대해 정신과 의사의 견해를 소개하는 연결고리 역할을 합니다. 바로 뒤따르는 문장은 'She says...'로 시작하여, 주어진 문장에서 소개된 Dr. Anna Lembke의 말을 구체적으로 설명합니다. 따라서 ③번이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain. Our bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.",
+      "question_blocks": {
+        "A": "We've all heard the expression, \"No pain, no gain.\" Well, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.",
+        "B": "Without the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving. Pleasure and pain are like two sides of the same coin; they work together to keep balance.",
+        "C": "She says that our attempts to escape being miserable are in fact making us even more miserable. This is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 고통과 쾌락이 뇌의 같은 영역에서 처리되며, 우리 몸이 항상성을 추구한다는 기본 개념을 제시합니다. (B)는 이 항상성(homeostasis)의 개념을 보상 메커니즘과 생존의 문제로 확장하고, 고통과 쾌락을 '동전의 양면'에 비유하며 균형의 원리를 설명합니다. (A)는 (B)에서 설명한 균형의 원리를 대중적인 격언('No pain, no gain')과 연결시키며 전문가의 견해를 소개할 준비를 합니다. 마지막으로 (C)는 (A)에서 소개된 전문가('She')의 견해를 구체적으로 설명하며, 고통이 균형에 필수적이라는 글로 전체의 결론을 이끌어냅니다. 따라서 (B)-(A)-(C) 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\nWe've all heard the expression, \"No pain, no gain.\"\nWell, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.\nShe says that our attempts to escape being miserable are in fact __________________________.\nThis is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a sign of mental strength"
+        },
+        {
+          "number": "②",
+          "text": "making us even more miserable"
+        },
+        {
+          "number": "③",
+          "text": "an effective coping mechanism"
+        },
+        {
+          "number": "④",
+          "text": "the key to achieving homeostasis"
+        },
+        {
+          "number": "⑤",
+          "text": "strengthening our brain functions"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸은 고통을 피하려는 시도의 결과에 대한 Dr. Lembke의 견해를 설명하는 부분입니다. 바로 다음 문장에서 'This is because...'라며 그 이유를 설명하는데, 고통이 균형 유지를 위해 필수적이기 때문이라고 합니다. 이는 고통을 피하려는 시도가 역설적인 결과를 낳는다는 것을 의미합니다. 따라서 '사실은 우리를 훨씬 더 비참하게 만들고 있다'는 내용이 들어가는 것이 문맥상 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the ① [balance] of bodily functions.\nWithout the body's effective compensatory mechanisms, which may ② [cushion] potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily ③ [reliant] on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly ④ [rise].\nThis is because pain is actually an ⑤ [essential] component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "balance"
+        },
+        {
+          "number": "②",
+          "text": "cushion"
+        },
+        {
+          "number": "③",
+          "text": "reliant"
+        },
+        {
+          "number": "④",
+          "text": "rise"
+        },
+        {
+          "number": "⑤",
+          "text": "essential"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 문장은 고통과 쾌락을 저울의 양 끝 점에 비유하고 있습니다. 저울의 한쪽이 '올라가면(rises)', 다른 한쪽은 균형을 맞추기 위해 상응하여 '내려가야(fall)' 합니다. 따라서 'rise'는 문맥상 적절하지 않으며 'fall'이 되어야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for (A) [homeostasis], which is defined as the balance of bodily functions.\nWithout the body's effective (B) [compensatory] mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily (C) [reliant] on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\nShe says that our attempts to escape being (D) [miserable] are in fact making us even more miserable.\nThis is because pain is actually an essential (E) [component] of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) homeostasis: a state of stable equilibrium in the body"
+        },
+        {
+          "number": "②",
+          "text": "(B) compensatory: reducing the effect of something by exerting an opposite force"
+        },
+        {
+          "number": "③",
+          "text": "(C) reliant: dependent on someone or something"
+        },
+        {
+          "number": "④",
+          "text": "(D) miserable: feeling very happy and comfortable"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) component: a part or element of a larger whole"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "(D) 'miserable'은 '매우 불행하거나 불편한' 상태를 의미합니다. 제시된 영영 풀이인 'feeling very happy and comfortable(매우 행복하고 편안함을 느끼는)'은 그와 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the (A) [balance / imbalance] of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily (B) [reliant / independent] on one another and keep balance.\nShe says that our attempts to escape being miserable are in fact making us even more miserable.\nThis is because pain is actually an (C) [essential / trivial] component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "balance - reliant - essential"
+        },
+        {
+          "number": "②",
+          "text": "balance - independent - trivial"
+        },
+        {
+          "number": "③",
+          "text": "imbalance - reliant - essential"
+        },
+        {
+          "number": "④",
+          "text": "imbalance - independent - trivial"
+        },
+        {
+          "number": "⑤",
+          "text": "balance - reliant - trivial"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 항상성(homeostasis)은 '균형(balance)'으로 정의됩니다. (B) 고통과 쾌락은 서로 '의존적(reliant)'입니다. (C) 고통은 균형을 유지하는 데 '필수적인(essential)' 요소입니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain.\nOur bodies constantly strive for homeostasis, which is defined as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving.\nPleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance.\nIf you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall.\nWe've all heard the expression, \"No pain, no gain.\"\nWell, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words.\nShe says that our attempts to escape being miserable are in fact making us even more miserable.\nThis is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "고통과 쾌락은 뇌의 같은 영역에서 형성되고 처리된다."
+        },
+        {
+          "number": "②",
+          "text": "인체의 보상 메커니즘이 없다면 우리는 생존할 수 없을 것이다."
+        },
+        {
+          "number": "③",
+          "text": "쾌락과 고통은 서로에게 크게 의존하며 균형을 유지한다."
+        },
+        {
+          "number": "④",
+          "text": "고통을 피하려는 시도는 우리를 덜 비참하게 만든다."
+        },
+        {
+          "number": "⑤",
+          "text": "고통은 중립 상태를 유지하는 데 필수적인 요소이다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 Dr. Anna Lembke는 'our attempts to escape being miserable are in fact making us even more miserable'이라고 말합니다. 이는 '비참함(고통)을 피하려는 우리의 시도는 사실 우리를 훨씬 더 비참하게 만들고 있다'는 의미입니다. 따라서 ④번 선택지는 본문의 내용과 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Our bodies constantly strive for homeostasis, which ① [is defined / defined] as the balance of bodily functions.\nWithout the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of ② [surviving / survive].\nShe says that our attempts to escape being miserable ③ [is / are] in fact making us even more miserable.\nThis is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "is defined",
+          "explanation": "주격 관계대명사 which가 가리키는 선행사 homeostasis는 '정의되는' 대상이므로 수동태인 'is defined'가 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "surviving",
+          "explanation": "숙어 'be capable of' 다음에는 전치사 of의 목적어로 명사 또는 동명사가 와야 합니다. 문맥상 동사의 의미가 필요하므로 동명사 'surviving'이 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "are",
+          "explanation": "that절의 주어는 복수 명사인 'our attempts'입니다. 따라서 주어의 수에 일치하는 복수 동사 'are'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "심경 변화",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, puzzled.\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ease, Katie watched her reservation appearing on the screen.\nWith her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans.",
+      "question": "다음 글에 드러난 Katie의 심경 변화로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "excited → disappointed"
+        },
+        {
+          "number": "②",
+          "text": "indifferent → curious"
+        },
+        {
+          "number": "③",
+          "text": "angry → grateful"
+        },
+        {
+          "number": "④",
+          "text": "worried → relieved"
+        },
+        {
+          "number": "⑤",
+          "text": "hopeful → desperate"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "글의 초반부에서 Katie는 자신의 예약이 없다는 말을 듣고 'puzzled(어리둥절한)'해하며 'What happened? Did I make a mistake?'라고 생각하는 등 걱정하고 당황한 상태였습니다. 그러나 접수원이 철자가 다른 예약('Katy')을 찾자 'With a sense of ease(안도감을 느끼며)' 체크인을 진행했으므로, 안도한 상태가 되었음을 알 수 있습니다. 따라서 심경 변화는 'worried(걱정하는)'에서 'relieved(안도하는)'로 바뀌는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, puzzled.\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ease, Katie watched her reservation appearing on the screen.\nWith her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "A Simple Typo, A Big Problem"
+        },
+        {
+          "number": "②",
+          "text": "How to Book a Hotel Room"
+        },
+        {
+          "number": "③",
+          "text": "The Importance of a Phone Number"
+        },
+        {
+          "number": "④",
+          "text": "A Receptionist's Excellent Service"
+        },
+        {
+          "number": "⑤",
+          "text": "Why Online Reservations Are Better"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글은 Katie의 이름이 'Katie'가 아닌 'Katy'로 잘못 표기된 '단순한 오타(a simple typo)' 때문에 예약이 확인되지 않는 '큰 문제(a big problem)'가 발생했다가 해결되는 과정을 다루고 있습니다. 따라서 'A Simple Typo, A Big Problem'이 글의 핵심 내용을 가장 잘 나타내는 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, puzzled.\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ease, Katie watched her reservation appearing on the screen.\nWith her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Hotel receptionists should always double-check the personal information of their guests during check-in."
+        },
+        {
+          "number": "②",
+          "text": "A simple clerical error, such as a misspelling, can lead to significant but solvable travel complications."
+        },
+        {
+          "number": "③",
+          "text": "It is much more reliable to make reservations through the internet rather than over the phone."
+        },
+        {
+          "number": "④",
+          "text": "Travelers must carry a printed confirmation of their hotel reservations to avoid any such issues."
+        },
+        {
+          "number": "⑤",
+          "text": "Problem-solving skills are a crucial requirement for anyone who is working in the hotel industry."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 이름 철자라는 '단순한 사무적 실수(simple clerical error)'가 호텔 체크인에 '상당한 문제(significant complication)'를 일으켰지만, 결국 전화번호 조회를 통해 '해결될 수 있는(solvable)' 문제였음을 보여줍니다. 따라서 ②번 선택지가 이 이야기의 핵심적인 사건과 교훈을 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, puzzled. ( ① ) The receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?' ( ② ) \"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained. ( ③ ) With a sense of ease, Katie watched her reservation appearing on the screen. ( ④ ) With her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 접수원이 키보드를 치기 시작하는 행동을 묘사합니다. ②번 앞 문장에서 Katie가 접수원에게 자신의 전화번호를 알려주었습니다. 이 정보를 바탕으로 접수원이 다시 조회를 시도하는 것이 자연스러운 흐름입니다. 따라서 주어진 문장은 Katie가 전화번호를 알려준 직후, 그리고 예약을 찾았다고 말하기 직전인 ②에 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded. The receptionist couldn't find her reservation under the name 'Katie'.",
+      "question_blocks": {
+        "A": "\"Just a moment,\" the receptionist said, typing deliberately on the keyboard. \"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.",
+        "B": "\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said. \"No way, I definitely made a reservation on the phone,\" Katie said, puzzled.",
+        "C": "The receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'"
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 글에서 접수원이 'Katie'라는 이름으로 예약을 찾지 못하는 문제가 발생했습니다. (B)에서 접수원이 이 사실을 공식적으로 알리고 Katie가 이에 대해 반박합니다. (C)에서 접수원이 문제를 해결하기 위해 대안으로 전화번호를 묻습니다. (A)에서 접수원은 전화번호를 이용해 검색한 후, 철자가 다른 예약을 찾아내며 문제를 해결합니다. 따라서 문제 발생 공지 및 반박(B) → 해결책 모색(C) → 문제 해결(A)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, puzzled.\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.\n\"I found it! It seems there was __________________. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ease, Katie watched her reservation appearing on the screen.\nWith her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "a system error"
+        },
+        {
+          "number": "②",
+          "text": "a last-minute cancellation"
+        },
+        {
+          "number": "③",
+          "text": "a payment issue"
+        },
+        {
+          "number": "④",
+          "text": "a small misspelling"
+        },
+        {
+          "number": "⑤",
+          "text": "a change in the schedule"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸 뒤에 접수원이 'Your reservation is under 'K-A-T-Y''라고 설명하는 부분이 나옵니다. 원래 찾던 이름은 'Katie'였으므로, 'Katy'로 예약된 것은 이름의 '철자가 약간 잘못된 것'입니다. 따라서 빈칸에는 'a small misspelling'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Katie approached the hotel front desk to check-in but an ① [unexpected] event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to ② [locate] a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, ③ [puzzled].\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing ④ [deliberately] on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ⑤ [anxiety], Katie watched her reservation appearing on the screen.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "unexpected"
+        },
+        {
+          "number": "②",
+          "text": "locate"
+        },
+        {
+          "number": "③",
+          "text": "puzzled"
+        },
+        {
+          "number": "④",
+          "text": "deliberately"
+        },
+        {
+          "number": "⑤",
+          "text": "anxiety"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "문제가 해결되고 자신의 예약이 화면에 나타나는 것을 보았을 때 Katie는 안도감을 느꼈습니다. 바로 다음 구절 'With her heart slowing to a gentle rhythm(그녀의 심장이 부드러운 리듬으로 느려지면서)'을 통해서도 평온한 상태임을 알 수 있습니다. 따라서 'anxiety(불안, 걱정)'는 문맥에 맞지 않으며, 'ease(안도)'나 'relief(안심)'와 같은 단어가 적절합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Katie approached the hotel front desk to check-in but an (A) [unexpected] event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to (B) [locate] a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, (C) [puzzled].\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing (D) [deliberately] on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ease, Katie watched her reservation appearing on the screen.\nWith her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have (E) [ruined] her plans.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) unexpected: not expected or regarded as likely to happen"
+        },
+        {
+          "number": "②",
+          "text": "(B) locate: to find the exact position of something"
+        },
+        {
+          "number": "③",
+          "text": "(C) puzzled: feeling happy and excited"
+        },
+        {
+          "number": "④",
+          "text": "(D) deliberately: in a careful and unhurried way"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) ruined: spoiled or destroyed something completely"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "(C) 'puzzled'는 'confused because you cannot understand something(무언가를 이해할 수 없어 혼란스러운)'의 의미입니다. 'feeling happy and excited(행복하고 신이 난 기분)'라는 영영 풀이는 'puzzled'의 의미와 정반대이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't (A) [find / create] her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, (B) [calmly / puzzled].\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of (C) [ease / stress], Katie watched her reservation appearing on the screen.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "find - puzzled - ease"
+        },
+        {
+          "number": "②",
+          "text": "find - calmly - stress"
+        },
+        {
+          "number": "③",
+          "text": "find - puzzled - stress"
+        },
+        {
+          "number": "④",
+          "text": "create - calmly - ease"
+        },
+        {
+          "number": "⑤",
+          "text": "create - puzzled - stress"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 접수원은 Katie의 예약을 '찾을(find)' 수 없었습니다. '만들(create)' 수 없었다는 것은 문맥에 맞지 않습니다. (B) Katie는 자신의 예약이 없다는 말에 '어리둥절해(puzzled)' 했습니다. '차분하게(calmly)'는 그녀의 심리상태와 다릅니다. (C) 문제가 해결되자 Katie는 '안도감(ease)'을 느꼈습니다. '스트레스(stress)'는 반대되는 감정입니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Katie approached the hotel front desk to check-in but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said.\n\"No way, I definitely made a reservation on the phone,\" Katie said, puzzled.\nThe receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?'\n\"Just a moment,\" the receptionist said, typing deliberately on the keyboard.\n\"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained.\nWith a sense of ease, Katie watched her reservation appearing on the screen.\nWith her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans.",
+      "question": "다음 글의 내용과 일치하는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Katie는 인터넷으로 호텔을 예약했다."
+        },
+        {
+          "number": "②",
+          "text": "접수원은 Katie의 예약이 아예 없다고 단정했다."
+        },
+        {
+          "number": "③",
+          "text": "예약된 이름의 철자가 정확하게 일치했다."
+        },
+        {
+          "number": "④",
+          "text": "접수원은 전화번호를 이용해 예약을 찾아냈다."
+        },
+        {
+          "number": "⑤",
+          "text": "Katie는 체크인을 하지 못하고 호텔을 떠났다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 접수원은 'Can you tell me your phone number?'라고 물었고, 그 후에 키보드를 친 다음 'I found it!'이라고 말했습니다. 이는 이름으로는 찾지 못했던 예약을 전화번호라는 다른 정보를 이용해 찾아냈음을 의미합니다. 나머지 선택지들은 각각 'on the phone'(①), 'I can't seem to locate'(②), 'misspelling'(③), 'proceeded with her check-in'(⑤) 등의 내용과 어긋납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Katie approached the hotel front desk ① [to check-in / checking-in] but an unexpected event unfolded.\nThe receptionist couldn't find her reservation under the name 'Katie'.\n\"No way, I definitely made a reservation on the phone,\" Katie said, ② [puzzled / puzzling].\nWith her heart ③ [slowing / slowed] to a gentle rhythm, she proceeded with her check-in, thinking that a simple misspelling might have ruined her plans.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to check-in",
+          "explanation": "부사적 용법의 to부정사로, '체크인하기 위해서'라는 목적을 나타냅니다. 동사 'approached'를 수식하고 있습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "puzzled",
+          "explanation": "Katie가 '어리둥절함을 느끼는' 주체이므로, 감정을 나타내는 과거분사 'puzzled'가 주어의 상태를 설명하는 분사구문으로 사용되었습니다. 'puzzling'은 '어리둥절하게 만드는'이라는 능동의 의미입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "slowing",
+          "explanation": "'With + 명사 + 분사' 구문으로, 명사인 'her heart'가 '느려지는' 능동적인 행위의 주체이므로 현재분사 'slowing'이 적절합니다. 'slowed'는 수동의 의미를 가집니다."
+        }
+      ]
+    }
+  ]
+}

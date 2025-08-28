@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as critical evacuation routes during emergencies, and anything left there could block the way and pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th.\nPlease note that not following this may result in penalties.\nWe appreciate your cooperation in maintaining a safe environment.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to announce a new fire drill schedule" },
+        { "number": "②", "text": "to request the removal of items from hallways" },
+        { "number": "③", "text": "to inform residents about new furniture policies" },
+        { "number": "④", "text": "to recruit volunteers for a safety committee" },
+        { "number": "⑤", "text": "to warn about recent fire incidents in the area" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 소방 안전 규정에 따라 복도에 있는 자전거, 상자, 가구와 같은 개인 물품을 치워달라고 요청하고 있습니다. 특히 \"we request that any personal items placed in the hallways be removed\"라는 문장에서 글의 목적이 명확하게 드러납니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as critical evacuation routes during emergencies, and anything left there could block the way and pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th.\nPlease note that not following this may result in penalties.\nWe appreciate your cooperation in maintaining a safe environment.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Importance of Regular Fire Drills" },
+        { "number": "②", "text": "How to Decorate Your Apartment Hallway" },
+        { "number": "③", "text": "New Penalties for Apartment Rule Violations" },
+        { "number": "④", "text": "Keep Hallways Clear for Everyone's Safety" },
+        { "number": "⑤", "text": "A Guide to Storing Personal Belongings" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글의 핵심 내용은 비상시 대피로 확보를 위해 복도를 깨끗하게 유지해야 한다는 것입니다. 따라서 '모두의 안전을 위해 복도를 비워두세요'라는 제목이 글 전체의 주제를 가장 잘 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as critical evacuation routes during emergencies, and anything left there could block the way and pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th.\nPlease note that not following this may result in penalties.\nWe appreciate your cooperation in maintaining a safe environment.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Residents are encouraged to participate in upcoming fire safety training sessions for their own well-being." },
+        { "number": "②", "text": "All personal items must be cleared from the hallways to ensure safe evacuation during emergency situations." },
+        { "number": "③", "text": "The management will install new storage units for residents to use for their excess personal belongings." },
+        { "number": "④", "text": "A new set of penalties has been established to punish residents who consistently violate safety regulations." },
+        { "number": "⑤", "text": "Cooperation among residents is the most important factor in maintaining the cleanliness of the apartment." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 요지는 비상 상황 발생 시 안전한 대피를 보장하기 위해 모든 개인 물품을 복도에서 치워야 한다는 것입니다. 이 내용은 글 전반에 걸쳐 강조되고 있으며, 특히 \"keep all hallways free of personal belongings\"와 \"ensure the safety of all residents\"와 같은 표현에서 명확히 드러납니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture. ( ① ) Hallways serve as critical evacuation routes during emergencies, and anything left there could block the way and pose serious safety risks. ( ② ) To ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th. ( ③ ) Please note that not following this may result in penalties. ( ④ ) We appreciate your cooperation in maintaining a safe environment. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**These obstructions can not only slow down evacuation but also cause people to trip and fall.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '이러한 장애물들(These obstructions)'이 어떻게 안전 위험을 초래하는지 구체적으로 설명합니다. 바로 앞 문장에서 '복도에 남겨진 물건이 길을 막고 심각한 안전 위험을 초래할 수 있다'고 언급했으므로, 그 위험에 대한 부연 설명인 주어진 문장은 ②의 위치에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Notice to Hilltop Apartment Residents. In accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.",
+      "question_blocks": {
+        "A": "To ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th. Please note that not following this may result in penalties.",
+        "B": "Hallways serve as critical evacuation routes during emergencies, and anything left there could block the way and pose serious safety risks.",
+        "C": "We appreciate your cooperation in maintaining a safe environment."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '복도를 비워두어야 한다'는 규칙을 제시합니다. (B)는 '복도가 비상 대피로이기 때문'이라는 이유를 설명하며 자연스럽게 이어집니다. (A)는 그에 따른 구체적인 요청(물품 제거)과 불이행 시의 결과(벌금)를 명시합니다. 마지막으로 (C)는 협조에 감사하며 글을 마무리하는 전형적인 공지문의 형식을 따릅니다. 따라서 (B)-(A)-(C) 순서가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as critical evacuation routes during emergencies, and anything left there could _______________ and pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th.\nPlease note that not following this may result in penalties.\nWe appreciate your cooperation in maintaining a safe environment.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "be considered community property" },
+        { "number": "②", "text": "damage the building's interior" },
+        { "number": "③", "text": "block the way" },
+        { "number": "④", "text": "attract unwanted pests" },
+        { "number": "⑤", "text": "violate privacy regulations" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 포함된 문장은 복도에 물건을 두는 것이 왜 위험한지를 설명합니다. 복도가 '중요한 대피로(critical evacuation routes)'라는 점을 고려할 때, 물건들이 '길을 막고(block the way)' 심각한 안전 위험을 초래한다고 하는 것이 문맥상 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is ① essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as ② critical evacuation routes during emergencies, and anything left there could ③ block the way and pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be ④ removed by Monday, April 14th.\nPlease note that not following this may result in ⑤ rewards.\nWe appreciate your cooperation in maintaining a safe environment.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 문장은 지시사항을 따르지 않을 경우의 결과를 언급하고 있습니다. 문맥상 부정적인 결과가 와야 하므로 '보상'을 의미하는 'rewards'는 적절하지 않습니다. '벌금'이나 '불이익'을 의미하는 'penalties'가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety (A) regulations, it is (B) essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as critical (C) evacuation routes during emergencies, and anything left there could block the way and (D) pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th.\nPlease note that not following this may result in penalties.\nWe appreciate your (E) cooperation in maintaining a safe environment.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) regulations: official rules or laws that say how something should be done" },
+        { "number": "②", "text": "(B) essential: absolutely necessary or extremely important" },
+        { "number": "③", "text": "(C) evacuation: the action of moving people from a dangerous place to somewhere safer" },
+        { "number": "④", "text": "(D) pose: to ask a question, especially one that needs serious thought" },
+        { "number": "⑤", "text": "(E) cooperation: the action of working together with someone to achieve something" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문에서 'pose'는 '위험 등을 야기하다, 제기하다(to create or present a risk, problem, or danger)'라는 의미로 사용되었습니다. 제시된 영영 풀이 'to ask a question(질문을 하다)'은 다른 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential to keep all hallways (A) [free of / full of] personal belongings such as bicycles, boxes, and small furniture.\nHallways serve as critical evacuation routes during emergencies, and anything left there could (B) [block / clear] the way and pose serious safety risks.\nTo ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th.\nPlease note that not following this may result in (C) [penalties / benefits].\nWe appreciate your cooperation in maintaining a safe environment.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "free of - block - penalties" },
+        { "number": "②", "text": "free of - clear - benefits" },
+        { "number": "③", "text": "full of - block - penalties" },
+        { "number": "④", "text": "full of - clear - penalties" },
+        { "number": "⑤", "text": "full of - block - benefits" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 안전 규정에 따라 복도에 개인 물품이 '없도록' 해야 하므로 'free of'가 맞습니다. (B) 복도에 남겨진 물건은 비상시 길을 '막을' 수 있으므로 'block'이 맞습니다. (C) 지시를 따르지 않으면 '벌금'과 같은 불이익이 있을 것이므로 'penalties'가 맞습니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "Notice to Hilltop Apartment Residents\n① In accordance with fire safety regulations, it is essential to keep all hallways free of personal belongings such as bicycles, boxes, and small furniture. ② Hallways serve as critical evacuation routes during emergencies, and anything left there could block the way and pose serious safety risks. ③ The management is also planning to repaint the hallways with a brighter color next month to improve visibility. ④ To ensure the safety of all residents, we request that any personal items placed in the hallways be removed by Monday, April 14th. ⑤ Please note that not following this may result in penalties.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 비상 대피로 확보를 위해 복도에서 개인 물품을 치워야 한다는 안전상의 이유를 다루고 있습니다. 그러나 ③번 문장은 복도를 다시 칠하는 계획에 관한 것으로, 글의 중심 주제인 '안전 위험을 초래하는 장애물 제거'와는 직접적인 관련이 없어 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Notice to Hilltop Apartment Residents\nIn accordance with fire safety regulations, it is essential ① [to keep / keeping] all hallways free of personal belongings such as bicycles, boxes, and small furniture. Hallways serve as critical evacuation routes during emergencies, and anything ② [left / leaving] there could block the way and pose serious safety risks. To ensure the safety of all residents, we request that any personal items placed in the hallways ③ [be / are] removed by Monday, April 14th. Please note that not following this may result in penalties.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "to keep",
+          "explanation": "'it'이 가주어이므로, 진주어 역할을 하는 to부정사 'to keep'이 와야 합니다. 'It is essential to...' 구문입니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "left",
+          "explanation": "명사 'anything'을 수식하는 분사 자리입니다. 물건은 '남겨지는' 것이므로 수동의 의미를 가진 과거분사 'left'가 적절합니다. 'anything that is left'로 이해할 수 있습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "be",
+          "explanation": "주장, 요구, 제안, 명령 등을 나타내는 동사(request, suggest, demand 등) 뒤의 that절에는 '(should) + 동사원형'을 사용합니다. 따라서 동사원형인 'be'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life.\nCommitments make individuals' behavior predictable in the face of fluctuations in their desires and interests, thereby facilitating the planning and coordination of joint actions involving multiple agents.\nMoreover, commitments make people willing to perform actions that they would not otherwise perform.\nFor example, a taxi driver picks up his clients and transports them to their desired destination because they are committed to paying him afterwards for the service, and a construction worker performs her job every day because her employer has made a credible commitment to pay her at the end of the month.\nIndeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents (notably the central bank) is committed to taking various measures to sustain the currency in question.\nThus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and stability upon the credibility of commitments.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to compare different types of social commitments" },
+        { "number": "②", "text": "to criticize the lack of commitment in modern society" },
+        { "number": "③", "text": "to explain the essential role of commitment in sustaining social structures" },
+        { "number": "④", "text": "to provide historical examples of failed commitments" },
+        { "number": "⑤", "text": "to argue for stronger legal enforcement of commitments" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '약속(commitment)'이 인간의 사회생활을 지탱하는 '접착제'와 같다고 정의하며, 약속이 어떻게 개인의 행동을 예측 가능하게 하고, 여러 사회 제도(직업, 화폐, 정부 등)의 근간을 이루는지 설명하고 있습니다. 따라서 사회 구조를 유지하는 데 있어 약속의 필수적인 역할을 설명하는 것이 글의 주된 목적입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life.\nCommitments make individuals' behavior predictable in the face of fluctuations in their desires and interests, thereby facilitating the planning and coordination of joint actions involving multiple agents.\nMoreover, commitments make people willing to perform actions that they would not otherwise perform.\nFor example, a taxi driver picks up his clients and transports them to their desired destination because they are committed to paying him afterwards for the service, and a construction worker performs her job every day because her employer has made a credible commitment to pay her at the end of the month.\nIndeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents (notably the central bank) is committed to taking various measures to sustain the currency in question.\nThus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and stability upon the credibility of commitments.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Commitment: The Glue of Human Social Life" },
+        { "number": "②", "text": "The Economics of Trust and Payment" },
+        { "number": "③", "text": "Why People Break Their Promises" },
+        { "number": "④", "text": "Individual Desires vs. Social Obligations" },
+        { "number": "⑤", "text": "The Evolution of Social Institutions" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "이 글의 첫 문장에서 '약속(Commitment)은 인간 사회생활을 지탱하는 접착제(glue)이다'라고 핵심 내용을 비유적으로 제시하고, 글 전체에서 이 주장을 뒷받침하고 있습니다. 따라서 이 제목이 글의 주제를 가장 명확하고 함축적으로 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life.\nCommitments make individuals' behavior predictable in the face of fluctuations in their desires and interests, thereby facilitating the planning and coordination of joint actions involving multiple agents.\nMoreover, commitments make people willing to perform actions that they would not otherwise perform.\nFor example, a taxi driver picks up his clients and transports them to their desired destination because they are committed to paying him afterwards for the service, and a construction worker performs her job every day because her employer has made a credible commitment to pay her at the end of the month.\nIndeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents (notably the central bank) is committed to taking various measures to sustain the currency in question.\nThus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and stability upon the credibility of commitments.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The primary function of government and banks is to ensure the stability of the national currency system." },
+        { "number": "②", "text": "Credible commitments make behavior predictable and motivate actions, thus forming the foundation for social institutions." },
+        { "number": "③", "text": "Individual interests and desires often conflict with the long-term commitments required by modern social life." },
+        { "number": "④", "text": "Social coordination depends more on clear communication between agents than on their underlying personal commitments." },
+        { "number": "⑤", "text": "Without a formal system of payment, complex economic activities like jobs and services would be impossible." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 신뢰할 수 있는 약속(credible commitments)이 개인의 행동을 예측 가능하게 만들고(make behavior predictable), 다른 방식으로는 하지 않았을 행동을 하도록 동기를 부여하며(motivate actions), 이것이 결국 직업, 화폐, 결혼과 같은 사회 제도의 기반(foundation)을 형성한다고 설명합니다. 이 선택지는 글의 핵심 논지를 가장 정확하게 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life. Commitments make individuals' behavior predictable in the face of fluctuations in their desires and interests, thereby facilitating the planning and coordination of joint actions involving multiple agents. ( ① ) Moreover, commitments make people willing to perform actions that they would not otherwise perform. ( ② ) For example, a taxi driver picks up his clients and transports them to their desired destination because they are committed to paying him afterwards for the service, and a construction worker performs her job every day because her employer has made a credible commitment to pay her at the end of the month. ( ③ ) Indeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents (notably the central bank) is committed to taking various measures to sustain the currency in question. ( ④ ) Thus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and stability upon the credibility of commitments. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Without this predictability, planning any activity that involves more than one person would be nearly impossible.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '이러한 예측 가능성 없이는(Without this predictability)'이라는 말로 시작하며, 예측 가능성의 중요성을 강조합니다. 바로 앞 문장에서 약속이 행동을 '예측 가능하게(predictable)' 만들어 '계획과 조정을 용이하게 한다(facilitating the planning and coordination)'고 언급했습니다. 따라서 주어진 문장은 앞 문장의 내용을 부연 설명하며, 그 중요성을 역설하는 역할을 하므로 ①의 위치가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life. Commitments make individuals' behavior predictable in the face of fluctuations in their desires and interests, thereby facilitating the planning and coordination of joint actions involving multiple agents.",
+      "question_blocks": {
+        "A": "For example, a taxi driver picks up his clients and transports them to their desired destination because they are committed to paying him afterwards for the service, and a construction worker performs her job every day because her employer has made a credible commitment to pay her.",
+        "B": "Thus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and stability upon the credibility of commitments.",
+        "C": "Moreover, commitments make people willing to perform actions that they would not otherwise perform."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "주어진 글은 약속의 첫 번째 기능(예측 가능성)을 설명합니다. (C)는 'Moreover(더욱이)'를 사용해 약속의 두 번째 기능(행동 유발)을 추가로 설명합니다. (A)는 'For example(예를 들어)'을 통해 (C)에서 제시된 두 번째 기능에 대한 구체적인 사례(택시 기사, 건설 노동자)를 제시합니다. 마지막으로 (B)는 'Thus(따라서)'라는 결론적 연결어로 글 전체의 내용을 종합하며, 약속이 모든 사회 제도의 근간임을 강조하며 마무리합니다. 따라서 (C)-(A)-(B)가 가장 자연스러운 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life. Commitments make individuals' behavior predictable... Moreover, commitments make people willing to perform actions that they would not otherwise perform. For example, a taxi driver picks up his clients... because they are committed to paying him afterwards... Indeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents... is committed to taking various measures to sustain the currency in question. Thus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and stability upon __________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "the fluctuation of individual desires" },
+        { "number": "②", "text": "the enforcement of legal contracts" },
+        { "number": "③", "text": "the credibility of commitments" },
+        { "number": "④", "text": "the complexity of joint actions" },
+        { "number": "⑤", "text": "the authority of a central bank" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 처음부터 끝까지 '약속(commitment)'이 사회를 구성하고 안정시키는 핵심 요소임을 다양한 사례를 들어 설명하고 있습니다. 빈칸이 있는 마지막 문장은 글 전체의 내용을 요약하는 결론 부분으로, 사회 제도들이 '약속의 신뢰성'에 의존한다는 내용이 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life.\nCommitments make individuals' behavior ① predictable in the face of fluctuations in their desires and interests, thereby ② facilitating the planning and coordination of joint actions...\nMoreover, commitments make people willing to perform actions that they would not otherwise perform.\nFor example, a taxi driver picks up his clients... because her employer has made a ③ credible commitment to pay her at the end of the month.\nIndeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents... is committed to taking various measures to ④ sustain the currency in question.\nThus, social objects and institutions ... depend for their origin and ⑤ decline upon the credibility of commitments.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 약속의 신뢰성이 사회 제도의 '기원(origin)'과 '안정성(stability)'의 기반이 된다고 주장합니다. '쇠퇴'를 의미하는 'decline'은 글의 전체적인 긍정적 논조와 상반되므로 문맥상 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Commitment is the glue holding together characteristically human forms of social life.\nCommitments make individuals' behavior predictable..., thereby (A) facilitating the planning and coordination of joint actions...\nMoreover, commitments make people willing to perform actions that they would not otherwise perform.\nFor example, a taxi driver picks up his clients and (B) transports them to their desired destination because they are committed to paying him afterwards... and a construction worker performs her job every day because her employer has made a (C) credible commitment to pay her...\nIndeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents... is committed to taking various measures to (D) sustain the currency in question.\nThus, social objects and institutions... depend for their origin and (E) stability upon the credibility of commitments.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) facilitating: making an action or process easy or easier" },
+        { "number": "②", "text": "(B) transports: takes or carries people or goods from one place to another" },
+        { "number": "③", "text": "(C) credible: able to be believed; convincing" },
+        { "number": "④", "text": "(D) sustain: to cause or allow something to continue for a period of time" },
+        { "number": "⑤", "text": "(E) stability: the quality of being likely to change or fail suddenly" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'stability'는 '안정성', 즉 쉽게 변하지 않는 상태를 의미합니다. 제시된 영영 풀이 'the quality of being likely to change or fail suddenly(갑자기 변하거나 실패할 가능성이 있는 특성)'은 '불안정성(instability)'을 의미하므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Commitments make individuals' behavior (A) [predictable / unpredictable] in the face of fluctuations in their desires and interests... Moreover, commitments make people (B) [willing / reluctant] to perform actions that they would not otherwise perform. ... Thus, social objects and institutions such as jobs, money, government, scientific collaborations and marriage depend for their origin and (C) [stability / instability] upon the credibility of commitments.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "predictable - willing - stability" },
+        { "number": "②", "text": "predictable - reluctant - stability" },
+        { "number": "③", "text": "unpredictable - willing - instability" },
+        { "number": "④", "text": "unpredictable - reluctant - instability" },
+        { "number": "⑤", "text": "predictable - willing - instability" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 약속은 개인의 변덕스러운 욕구에도 불구하고 행동을 '예측 가능하게(predictable)' 만든다. (B) 약속은 사람들이 다른 상황에서는 하지 않을 행동을 '기꺼이(willing)' 하도록 만든다. (C) 사회 제도는 약속의 신뢰성 덕분에 기원하고 '안정성(stability)'을 유지한다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Commitment is the glue holding together characteristically human forms of social life. ② Commitments make individuals' behavior predictable in the face of fluctuations in their desires and interests, thereby facilitating the planning and coordination of joint actions. ③ Moreover, commitments make people willing to perform actions that they would not otherwise perform. ④ However, personal happiness is often found by following one's immediate desires rather than sticking to long-term plans. ⑤ For example, a taxi driver picks up his clients and transports them to their desired destination because they are committed to paying him afterwards for the service.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '약속'이 어떻게 사회적 기능(예측 가능성, 협동)을 가능하게 하는지를 분석적으로 설명하고 있습니다. ④번 문장은 사회적 기능과는 무관한 '개인의 행복'과 '즉각적인 욕구'에 대해 이야기하며, 오히려 글의 주제인 '장기적 약속의 중요성'과 상반되는 내용을 담고 있어 전체 흐름에서 벗어납니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "① Commitment is the glue [holding / held] together characteristically human forms of social life. ... a construction worker performs her job every day because her employer has made a credible commitment ② [to pay / paying] her at the end of the month. Indeed, the taxi driver and the construction worker are willing to accept money as payment only because a network of other agents (notably the central bank) ③ [is / are] committed to taking various measures to sustain the currency in question.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "holding",
+          "explanation": "명사 'glue'를 수식하는 분사 자리입니다. '접착제'가 사회생활 형태를 '지탱하고 있는' 능동의 의미이므로 현재분사 'holding'이 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to pay",
+          "explanation": "'commitment to' 뒤에 동사가 올 경우, '~하겠다는 약속'이라는 의미를 나타내기 위해 to부정사를 사용합니다. 따라서 'to pay'가 올바른 형태입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "is",
+          "explanation": "문장의 주어는 'a network'라는 단수 명사입니다. 괄호 안의 'other agents'는 주어가 아니므로, 주어와 동사의 수 일치에 따라 단수 동사 'is'가 와야 합니다."
+        }
+      ]
+    }
+  ]
+}

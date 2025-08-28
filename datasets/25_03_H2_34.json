@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Despite the difference between the past and the future, between what has happened and what is to come, it can be suggested, that our sense of the past has always been influenced by our view of the future.\nRevolutionaries have always looked to the past to frame their future cause, as is amply illustrated by examples from nationalism to communism.\nThe future has often been seen as variously a recovery of a lost time, as a replication of what is established, or as a model bequeathed by a heroic age long gone.\nThe writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of hindsight and the past is nothing more than the accumulation of futures that are now our past.\nSo, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, with the past ─ in the sense of our understanding of it ─ being shaped by our orientation to the future.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "to criticize revolutionaries for misusing history" },
+        { "number": "②", "text": "to explain the methods of professional historical writing" },
+        { "number": "③", "text": "to argue that our view of the future shapes our understanding of the past" },
+        { "number": "④", "text": "to emphasize the importance of learning from past mistakes" },
+        { "number": "⑤", "text": "to compare various political ideologies like nationalism and communism" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '과거가 미래를 형성한다'는 일반적인 통념을 뒤집어, 우리의 미래에 대한 관점이나 지향점이 과거에 대한 우리의 인식을 형성한다는 새로운 관점을 제시하고 주장하고 있습니다. 혁명가들의 사례와 역사 서술의 본질을 근거로 들어, 마지막 문장에서 이 주장을 명확히 하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Despite the difference between the past and the future, between what has happened and what is to come, it can be suggested, that our sense of the past has always been influenced by our view of the future.\nRevolutionaries have always looked to the past to frame their future cause, as is amply illustrated by examples from nationalism to communism.\nThe future has often been seen as variously a recovery of a lost time, as a replication of what is established, or as a model bequeathed by a heroic age long gone.\nThe writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of hindsight and the past is nothing more than the accumulation of futures that are now our past.\nSo, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, with the past ─ in the sense of our understanding of it ─ being shaped by our orientation to the future.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Past as a Mirror of the Future" },
+        { "number": "②", "text": "How the Future Shapes Our Sense of the Past" },
+        { "number": "③", "text": "The Dangers of Romanticizing History" },
+        { "number": "④", "text": "Revolutionaries and Their Use of History" },
+        { "number": "⑤", "text": "Hindsight: The Historian's Greatest Tool" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심 주장은 과거가 미래를 형성한다는 통념과는 반대로, 미래에 대한 우리의 관점이 과거에 대한 우리의 인식을 형성한다는 것입니다. '미래는 어떻게 우리의 과거 인식을 형성하는가'라는 제목은 이러한 글의 역발상적인 중심 아이디어를 가장 정확하게 포착합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Despite the difference between the past and the future, between what has happened and what is to come, it can be suggested, that our sense of the past has always been influenced by our view of the future.\nRevolutionaries have always looked to the past to frame their future cause, as is amply illustrated by examples from nationalism to communism.\nThe future has often been seen as variously a recovery of a lost time, as a replication of what is established, or as a model bequeathed by a heroic age long gone.\nThe writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of hindsight and the past is nothing more than the accumulation of futures that are now our past.\nSo, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, with the past ─ in the sense of our understanding of it ─ being shaped by our orientation to the future.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Historical events are best understood by considering the future outcomes that were unknown to people at the time." },
+        { "number": "②", "text": "Our understanding of the past is not fixed, but is actively constructed and influenced by our current perspective on the future." },
+        { "number": "③", "text": "Revolutionaries throughout history have consistently looked to a heroic past to justify their actions and inspire their followers." },
+        { "number": "④", "text": "The discipline of history primarily involves explaining how past events have accumulated to create the world we live in today." },
+        { "number": "⑤", "text": "A clear distinction must be maintained between what has already happened and what is yet to come for accurate analysis." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 요지는 과거에 대한 우리의 이해가 고정된 것이 아니라, 미래에 대한 현재의 관점과 지향점에 의해 능동적으로 구성되고 영향을 받는다는 것입니다. 글쓴이는 여러 사례를 통해 이 주장을 뒷받침하며, 과거가 미래를 만드는 것이 아니라 미래를 향한 우리의 관점이 과거를 만든다고 결론 내립니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "The future has often been seen as variously a recovery of a lost time, as a replication of what is established, or as a model bequeathed by a heroic age long gone. ( ① ) The writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, ( ② ) since the historian has the benefit of hindsight and the past is nothing more than the accumulation of futures that are now our past. ( ③ ) So, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, ( ④ ) with the past ─ in the sense of our understanding of it ─ being shaped by our orientation to the future. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**This means that the historian interprets the past in light of what came after.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "주어진 문장은 '이는 역사학자가 과거 이후에 일어난 일에 비추어 과거를 해석한다는 것을 의미한다'는 내용입니다. 바로 앞 문장에서 역사학자가 '사후 통찰(hindsight)의 이점'을 가진다고 언급했습니다. 주어진 문장은 이 '사후 통찰'이 구체적으로 무엇을 의미하는지 설명하는 역할을 합니다. 따라서 ③의 위치에 들어가 앞 문장을 부연하고 글의 최종 결론으로 자연스럽게 연결하는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Despite the difference between the past and the future, between what has happened and what is to come, it can be suggested, that our sense of the past has always been influenced by our view of the future.",
+      "question_blocks": {
+        "A": "The writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of hindsight.",
+        "B": "Revolutionaries have always looked to the past to frame their future cause, as is amply illustrated by examples from nationalism to communism. The future has often been seen as variously a recovery of a lost time or a replication of what is established.",
+        "C": "So, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, with the past being shaped by our orientation to the future."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '미래에 대한 관점이 과거 인식에 영향을 미친다'는 핵심 주장을 제시합니다. (B)는 이 주장에 대한 첫 번째 근거로 혁명가들의 사례와 미래를 과거의 회복으로 보는 관점을 제시합니다. (A)는 두 번째 근거로 '역사 서술'의 본질을 설명합니다. (C)는 'So(그래서)'라는 결론적 연결어로 시작하여, 앞선 두 근거를 바탕으로 핵심 주장을 다시 한번 강조하며 글을 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "The writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of hindsight and the past is nothing more than the accumulation of futures that are now our past.\nSo, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, with the past ─ in the sense of our understanding of it ─ being shaped by our __________________________.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "accumulation of historical facts" },
+        { "number": "②", "text": "objective and unbiased evidence" },
+        { "number": "③", "text": "desire to repeat past glories" },
+        { "number": "④", "text": "orientation to the future" },
+        { "number": "⑤", "text": "memory of personal experiences" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "빈칸이 있는 문장은 글 전체의 결론이자 핵심 주장을 요약하는 부분입니다. 글쓴이는 과거가 미래를 형성한다는 통념을 뒤집고, 그 반대의 관계를 제안하고 있습니다. 즉, 과거에 대한 우리의 이해는 '미래에 대한 우리의 지향점(our orientation to the future)'에 의해 형성된다는 것입니다. 이는 글의 첫 문장에서 제시된 아이디어를 재확인하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Despite the difference between the past and the future... it can be suggested, that our sense of the past has always been ① influenced by our view of the future.\nRevolutionaries have always looked to the past to ② frame their future cause...\nThe future has often been seen as variously a ③ recovery of a lost time... or as a model bequeathed by a heroic age long gone.\nThe writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of ④ hindsight...\nSo, rather than see the hand of the past always shaping the future, perhaps it can be seen in ⑤ the same way, with the past ... being shaped by our orientation to the future.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 부분은 '과거가 미래를 형성한다'는 통념적인 시각보다는, '역으로(in reverse)' 볼 수 있다고 제안하고 있습니다. 즉, 미래에 대한 관점이 과거 인식을 형성한다는 반대 방향의 관계를 제시하는 것이므로, '같은 방식(the same way)'이라는 표현은 문맥에 맞지 않습니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Revolutionaries have always looked to the past to (A) frame their future cause, as is (B) amply illustrated by examples... The future has often been seen as... a model (C) bequeathed by a heroic age long gone.\nThe writing of history is based on understanding or explaining future outcomes that were not known to (D) contemporaries, since the historian has the benefit of (E) hindsight...",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) frame: to create or formulate a concept, plan, or system" },
+        { "number": "②", "text": "(B) amply: more than enough; plentifully" },
+        { "number": "③", "text": "(C) bequeathed: left to a person by the terms of a will" },
+        { "number": "④", "text": "(D) contemporaries: people living or existing at the same time as a particular person or event" },
+        { "number": "⑤", "text": "(E) hindsight: the ability to predict what will happen in the future" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 'hindsight'는 '일이 벌어진 뒤에 상황을 이해하는 능력, 사후 통찰'을 의미합니다. 제시된 영영 풀이 'the ability to predict what will happen in the future(미래에 일어날 일을 예측하는 능력)'은 'foresight(선견지명)'에 대한 설명으로, 'hindsight'와는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Despite the difference between the past and the future... it can be suggested, that our sense of the past has always been (A) [influenced / independent] by our view of the future. ... The future has often been seen as variously a (B) [recovery / abandonment] of a lost time... The writing of history is based on understanding or explaining future outcomes that were not (C) [known / unknown] to contemporaries...",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "influenced - recovery - unknown" },
+        { "number": "②", "text": "influenced - abandonment - known" },
+        { "number": "③", "text": "independent - recovery - unknown" },
+        { "number": "④", "text": "independent - abandonment - known" },
+        { "number": "⑤", "text": "influenced - recovery - known" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 글의 핵심 주장에 따라, 과거에 대한 우리의 인식은 미래에 대한 관점에 의해 '영향을 받는다(influenced)'. (B) 미래는 종종 잃어버린 과거의 '회복(recovery)'으로 여겨진다. (C) 역사가는 동시대 사람들에게는 '알려지지 않았던(unknown)' 미래의 결과를 설명한다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Revolutionaries have always looked to the past to frame their future cause, as is amply illustrated by examples from nationalism to communism. ② The future has often been seen as variously a recovery of a lost time, as a replication of what is established, or as a model bequeathed by a heroic age long gone. ③ These heroic ages often feature epic battles and legendary figures that capture the popular imagination. ④ The writing of history is based on understanding or explaining future outcomes that were not known to contemporaries, since the historian has the benefit of hindsight. ⑤ So, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과거와 미래의 인식 관계에 대한 철학적, 구조적 주장을 펼치고 있습니다. '영웅적 시대'는 미래를 구상하는 과거 모델의 한 예시로 언급되었습니다. ③번 문장은 이 '영웅적 시대'의 구체적인 내용(서사시적 전투, 전설적 인물)을 묘사하고 있는데, 이는 글의 추상적인 중심 논점에서 벗어난 부가적인 정보이므로 전체 흐름과 관계가 없습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Revolutionaries have always looked to the past to frame their future cause, as ① [is / does] amply illustrated by examples... The writing of history is based on understanding or explaining future outcomes... the past is nothing more than the accumulation of futures ② [that / what] are now our past. So, rather than see the hand of the past always shaping the future, perhaps it can be seen in reverse, with the past... ③ [being / to be] shaped by our orientation to the future.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "is",
+          "explanation": "앞 문장 전체의 내용('혁명가들이 미래의 명분을 위해 과거를 본다'는 사실)이 예시를 통해 '설명되는' 것이므로 수동태가 필요합니다. 따라서 be동사인 'is'가 오는 것이 맞습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "that",
+          "explanation": "선행사 'futures'를 수식하는 주격 관계대명사가 필요한 자리입니다. 선행사를 포함하는 관계대명사인 'what'은 올 수 없으므로, 'that'이나 'which'가 와야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "being",
+          "explanation": "'with + 명사 + 분사' 형태의 분사구문입니다. 명사 'the past'가 '형성되는' 수동의 상태를 나타내므로, 수동형 분사구문을 만드는 '(being) shaped'에서 'being'을 사용하는 것이 자연스럽습니다."
+        }
+      ]
+    }
+  ]
+}

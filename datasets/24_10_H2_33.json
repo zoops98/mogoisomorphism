@@ -1,0 +1,342 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books.\nIs reading really that simple?\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait.\nConsequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.\nThus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.\nThe attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to promote a new book about philosophy"
+        },
+        {
+          "number": "②",
+          "text": "to criticize people who do not read books"
+        },
+        {
+          "number": "③",
+          "text": "to argue for a more flexible and inclusive concept of reading"
+        },
+        {
+          "number": "④",
+          "text": "to provide a definitive, clear-cut definition of reading"
+        },
+        {
+          "number": "⑤",
+          "text": "to list various types of reading activities for students"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 '읽기'라는 행위를 하나의 명확한 개념으로 정의하려는 시도가 실패할 수밖에 없다고 주장합니다. 대신, 필자는 읽기를 단일한 정의적 특성 없이 '가족 유사성'을 가진 느슨하게 연관된 행위들의 집합, 즉 '넓은 스펙트럼'으로 보아야 한다고 제안합니다. 따라서 글의 목적은 읽기에 대해 더 유연하고 포괄적인 개념을 주장하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books.\nIs reading really that simple?\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait.\nConsequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.\nThus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.\nThe attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Philosophy of Ludwig Wittgenstein"
+        },
+        {
+          "number": "②",
+          "text": "How to Improve Your Reading Skills"
+        },
+        {
+          "number": "③",
+          "text": "The Decline of Reading in the Modern Era"
+        },
+        {
+          "number": "④",
+          "text": "Defining Reading: An Impossible Task?"
+        },
+        {
+          "number": "⑤",
+          "text": "The Importance of Reading in Daily Life"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 '읽기'를 명확하게 정의하려는 시도가 '실패할 운명'이며, 그 경계를 정하려는 노력은 더 많은 '예외적인 사례'만 낳는다고 주장합니다. 이는 읽기를 정의하는 것이 매우 어렵거나 거의 불가능한 과제임을 시사합니다. 따라서 '읽기 정의하기: 불가능한 과업인가?'라는 제목이 글의 핵심 내용을 가장 잘 반영합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books.\nIs reading really that simple?\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait.\nConsequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.\nThus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.\nThe attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "It is crucial for everyone to agree on a single, universal definition of what reading really is."
+        },
+        {
+          "number": "②",
+          "text": "Reading should be understood as an expansive spectrum of various activities rather than a single concept."
+        },
+        {
+          "number": "③",
+        "text": "Ludwig Wittgenstein's theories provide the only productive way to think about modern human behaviors."
+        },
+        {
+          "number": "④",
+          "text": "The increasing number of edge cases makes it impossible to teach reading effectively in schools today."
+        },
+        {
+          "number": "⑤",
+          "text": "People who argue for a consistent concept of reading are ignoring its logical and simple nature."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 '읽기'를 단일하고 일관된 개념으로 보는 시각에 의문을 제기하며, 대신 '가족 유사성'을 지닌 다양한 행위들의 집합으로 보아야 한다고 주장합니다. 글의 마지막 문장에서 명시적으로 '읽기를 다양한 활동을 수용할 만큼 충분히 넓은 스펙트럼으로 이해'해야 한다고 결론 내리고 있습니다. 따라서 ②번이 글의 요지를 가장 정확하게 담고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books. Is reading really that simple? The most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait. ( ① ) Consequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place. ( ② ) Thus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends. ( ③ ) The attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities. ( ④ ) ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**The more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '읽기와 비읽기 사이의 경계를 알아내려고 노력할수록, 그 용어의 유연한 경계를 확장시키는 더 많은 예외적인 사례들이 발견될 것이다'라는 내용입니다. ②번 앞 문장에서는 읽기를 구분하려는 노력이 실패할 운명이라고 말합니다. 주어진 문장은 그 이유를 구체적으로 설명하는 역할을 합니다. 즉, 경계를 정하려 할수록 경계를 무너뜨리는 예외가 더 많이 나타나기 때문에 실패한다는 것입니다. 그리고 ②번 뒷 문장은 '따라서(Thus)' 이러한 예외적인 형태들을 모아보는 것이 가치 있다고 제안하며, 주어진 문장의 내용을 이어받습니다. 따라서 ②번이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books. Is reading really that simple?",
+      "question_blocks": {
+        "A": "The more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.",
+        "B": "The most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait.",
+        "C": "Thus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 '읽기'의 정의에 대한 통념을 제시하고 의문을 제기합니다. (B)는 이 질문에 대한 필자의 대안적 견해(가족 유사성을 가진 행위들의 집합)를 제시하며 논의를 시작합니다. (A)는 (B)의 견해에 따라, 읽기의 경계를 정하려는 시도가 왜 어려운지를 설명합니다(예외적인 사례들이 계속 발견됨). (C)는 (A)에서 제기된 문제를 바탕으로 '따라서(Thus)' 경계를 정하는 대신 예외적인 형태들을 모아보자는 대안적 접근법을 제안하며 글을 전개합니다. 따라서 (B)-(A)-(C) 순서가 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books. Is reading really that simple? The most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait. Consequently, efforts to distinguish reading from nonreading are ____________________ because there is no agreement on what qualifies as reading in the first place. The more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries. Thus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends. The attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "universally accepted"
+        },
+        {
+          "number": "②",
+          "text": "considered highly productive"
+        },
+        {
+          "number": "③",
+          "text": "destined to fail"
+        },
+        {
+          "number": "④",
+          "text": "essential for education"
+        },
+        {
+          "number": "⑤",
+          "text": "a matter of personal choice"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸이 있는 문장은 '읽기'가 단일한 정의적 특성이 없다는 필자의 주장에 대한 결과를 설명하는 부분입니다. 단일한 정의가 없기 때문에, 읽기와 비읽기를 명확히 구분하려는 노력은 '실패할 운명이다(destined to fail)'라고 결론 내리는 것이 논리적으로 타당합니다. 뒤따르는 문장은 그 이유를 부연 설명합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Some people argue that there is a single, logically ① [consistent] concept known as reading that can be neatly set apart from everything else people do with books.\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, without having in common a single defining trait.\nConsequently, efforts to distinguish reading from nonreading are destined to ② [fail] because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to ③ [stretch] the term's flexible boundaries.\nThus, it is worth attempting to ④ [collect] together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.\nThe attempt moves toward an understanding of reading as a spectrum that is ⑤ [narrow] enough to accommodate the distinct reading activities.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "consistent"
+        },
+        {
+          "number": "②",
+          "text": "fail"
+        },
+        {
+          "number": "③",
+          "text": "stretch"
+        },
+        {
+          "number": "④",
+          "text": "collect"
+        },
+        {
+          "number": "⑤",
+          "text": "narrow"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글의 마지막 문장은 필자가 주장하는 '읽기'의 개념을 요약합니다. 필자는 읽기를 다양한 활동들을 '수용할(accommodate)' 수 있는 넓은 스펙트럼으로 봐야 한다고 주장합니다. 따라서 스펙트럼이 '좁다(narrow)'는 것은 문맥에 맞지 않으며, '넓다(expansive)' 또는 '광범위하다(broad)'와 같은 단어가 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Some people argue that there is a single, logically (A) [consistent] concept known as reading that can be neatly set apart from everything else people do with books.\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family (B) [resemblances], as Ludwig Wittgenstein used the phrase, without having in common a single defining trait.\nConsequently, efforts to (C) [distinguish] reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.\nThus, it is worth attempting to collect together these (D) [exceptional] forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.\nThe attempt moves toward an understanding of reading as a spectrum that is (E) [expansive] enough to accommodate the distinct reading activities.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) consistent: acting or done in the same way over time; unchanging"
+        },
+        {
+          "number": "②",
+          "text": "(B) resemblances: the state of being different from someone or something"
+        },
+        {
+          "number": "③",
+          "text": "(C) distinguish: to recognize or treat someone or something as different"
+        },
+        {
+          "number": "④",
+          "text": "(D) exceptional: unusual; not typical"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) expansive: covering a wide area in terms of space or scope; extensive"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) 'resemblances(유사성)'는 'the state of being like or similar to someone or something(누군가 또는 무언가와 같거나 비슷한 상태)'를 의미합니다. 제시된 영영 풀이인 '누군가 또는 무언가와 다른 상태'는 'differences(차이점)'에 대한 설명이며, 'resemblances'와는 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Some people argue that there is a single, logically (A) [consistent / inconsistent] concept known as reading that can be neatly set apart from everything else people do with books.\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, without having in common a single defining trait.\nConsequently, efforts to distinguish reading from nonreading are destined to (B) [fail / succeed] because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's (C) [flexible / rigid] boundaries.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "consistent - fail - flexible"
+        },
+        {
+          "number": "②",
+          "text": "consistent - succeed - rigid"
+        },
+        {
+          "number": "③",
+          "text": "inconsistent - fail - flexible"
+        },
+        {
+          "number": "④",
+          "text": "inconsistent - succeed - rigid"
+        },
+        {
+          "number": "⑤",
+          "text": "consistent - fail - rigid"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 필자가 반박하는 통념은 읽기가 논리적으로 '일관된(consistent)' 단일 개념이라는 것입니다. (B) 필자의 주장에 따르면, 읽기를 명확히 구분하려는 노력은 '실패할(fail)' 운명입니다. (C) 예외적인 사례들은 읽기라는 용어의 '유연한(flexible)' 경계를 더욱 확장시킵니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books.\nIs reading really that simple?\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait.\nConsequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place.\nThe more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries.\nThus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.\nThe attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.",
+      "question": "‘읽기’에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "일부 사람들은 읽기가 명확히 구분될 수 있는 단일 개념이라고 주장한다."
+        },
+        {
+          "number": "②",
+          "text": "필자는 읽기를 '가족 유사성'을 가진 행위들의 집합으로 생각한다."
+        },
+        {
+          "number": "③",
+          "text": "읽기와 비읽기를 구분하려는 노력은 성공하기 어렵다."
+        },
+        {
+          "number": "④",
+          "text": "읽기라는 용어는 경계가 매우 엄격하고 고정되어 있다."
+        },
+        {
+          "number": "⑤",
+          "text": "필자는 읽기를 다양한 활동을 포괄하는 스펙트럼으로 이해하고자 한다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'The more one tries to figure out where the border lies..., the more edge cases will be found to stretch the term's flexible boundaries.'라고 말합니다. 이는 '읽기'라는 용어의 경계가 '유연하다(flexible)'는 것을 의미합니다. 따라서 경계가 '엄격하고 고정되어 있다'는 ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people ① [do / are] with books.\nThe most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without ② [having / have] in common a single defining trait.\nThus, it is worth ③ [attempting / to attempt] to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "do",
+          "explanation": "이 부분은 'everything else (that) people do with books'로, 목적격 관계대명사 that이 생략된 구조입니다. 주어 'people'에 대한 동사가 필요하며, 문맥상 '하다'라는 의미의 일반동사 'do'가 적절합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "having",
+          "explanation": "전치사 'without' 다음에는 목적어로 명사나 동명사가 와야 합니다. 따라서 동명사인 'having'이 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "attempting",
+          "explanation": "관용 표현인 'be worth ~ing'는 '~할 가치가 있다'는 의미로, worth 다음에는 동명사가 와야 합니다. 따라서 'attempting'이 올바른 형태입니다."
+        }
+      ]
+    }
+  ]
+}

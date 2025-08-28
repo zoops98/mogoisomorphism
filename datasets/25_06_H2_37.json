@@ -1,0 +1,252 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "A reason for a conclusion is very unlikely to consist in a single claim. No matter how we might state it in short-hand, it is, analytically, a complex interaction of many ideas and implications. The reason must be broken down into a chain of more precise premises. For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. But is our analysis of the situation clearly expressed in just one statement? Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas: economic benefit and a well-educated population. While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to avoid assuming the 'obvious' by carefully working through the connections between the various ideas in the initial statement of our reason.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "To advocate for free university education in Australia."
+        },
+        {
+          "number": "②",
+          "text": "To criticize the complexity of modern arguments."
+        },
+        {
+          "number": "③",
+          "text": "To explain the necessity of breaking down reasons into precise premises."
+        },
+        {
+          "number": "④",
+          "text": "To compare different styles of analytical thinking."
+        },
+        {
+          "number": "⑤",
+          "text": "To list the benefits of a well-educated population."
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 결론을 뒷받침하는 이유가 단일한 주장이 아니라 여러 아이디어의 복잡한 상호작용이며, 따라서 더 정확한 전제들의 사슬로 분해되어야 한다고 주장합니다. 추론의 목적은 '명백해 보이는 것'을 당연하게 여기지 않고 아이디어 간의 연결고리를 신중하게 분석하는 것이라고 설명합니다. 따라서 글의 주된 목적은 이유를 정확한 전제로 분해할 필요성을 설명하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "A reason for a conclusion is very unlikely to consist in a single claim. No matter how we might state it in short-hand, it is, analytically, a complex interaction of many ideas and implications. The reason must be broken down into a chain of more precise premises. For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. But is our analysis of the situation clearly expressed in just one statement? Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas: economic benefit and a well-educated population. While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to avoid assuming the 'obvious' by carefully working through the connections between the various ideas in the initial statement of our reason.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "The Case for Free University Education"
+        },
+        {
+          "number": "②",
+          "text": "Reasoning: Don't Assume the Obvious"
+        },
+        {
+          "number": "③",
+          "text": "How to State a Conclusion Clearly"
+        },
+        {
+          "number": "④",
+          "text": "The Link Between Education and Economy"
+        },
+        {
+          "number": "⑤",
+          "text": "A Guide to Analytical Thinking"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글의 핵심은 추론의 목적이 '명백해 보이는 것(the obvious)'을 당연하게 받아들이는 것을 피하는 것이라고 강조하는 데 있습니다. 겉으로 보이는 연결고리 이면의 복잡한 전제들을 신중하게 분석해야 한다는 내용이므로, '추론: 명백한 것을 당연하게 여기지 마라'가 가장 적절한 제목입니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "A reason for a conclusion is very unlikely to consist in a single claim. No matter how we might state it in short-hand, it is, analytically, a complex interaction of many ideas and implications. The reason must be broken down into a chain of more precise premises. For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. But is our analysis of the situation clearly expressed in just one statement? Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas: economic benefit and a well-educated population. While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to avoid assuming the 'obvious' by carefully working through the connections between the various ideas in the initial statement of our reason.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "A single, well-stated reason is always sufficient to fully support a complex conclusion in an argument."
+        },
+        {
+          "number": "②",
+          "text": "The primary purpose of reasoning is to carefully explain the implicit connections between ideas, not assume them."
+        },
+        {
+          "number": "③",
+          "text": "University education should be free because the economic benefits clearly outweigh the costs for the government."
+        },
+        {
+          "number": "④",
+          "text": "Analytical thinking involves accepting the obvious links between ideas to make arguments more concise and effective."
+        },
+        {
+          "number": "⑤",
+          "text": "The most common error in reasoning is introducing too many new ideas instead of one clear premise."
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 이유와 결론 사이의 연결고리가 명백해 보이더라도, 추론의 목적은 그 '명백함'을 당연시하는 것을 피하고 아이디어들 사이의 숨겨진 연결고리를 신중하게 분석하는 것이라고 말합니다. 따라서 '추론의 주된 목적은 아이디어 간의 암묵적인 연결고리를 당연하게 여기지 않고 신중하게 설명하는 것이다'가 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "A reason for a conclusion is very unlikely to consist in a single claim. No matter how we might state it in short-hand, it is, analytically, a complex interaction of many ideas and implications. ( ① ) For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. ( ② ) But is our analysis of the situation clearly expressed in just one statement? ( ③ ) Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas: economic benefit and a well-educated population. ( ④ ) While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to avoid assuming the 'obvious'. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**The reason must be broken down into a chain of more precise premises.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 이유를 더 정확한 전제들의 사슬로 분해해야 한다고 말합니다. (①) 앞 문장은 이유가 단일한 주장이 아니라 복잡한 상호작용이라고 정의합니다. 주어진 문장은 이 복잡한 이유를 어떻게 다루어야 하는지에 대한 방법을 제시합니다. 그리고 (①) 뒷 문장은 '예를 들어'라며, 분해가 필요한 이유의 구체적인 사례를 들고 있으므로, 일반적 원칙(복잡함)과 구체적 사례 사이에 방법론을 제시하는 주어진 문장이 들어가는 것이 가장 논리적입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "A reason for a conclusion is very unlikely to consist in a single claim. No matter how we might state it in short-hand, it is, analytically, a complex interaction of many ideas and implications.",
+      "question_blocks": {
+        "A": "For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'.",
+        "B": "The reason must be broken down into a chain of more precise premises.",
+        "C": "But is our analysis of the situation clearly expressed in just one statement? Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas... While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to avoid assuming the 'obvious'..."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 이유가 복잡한 상호작용이라고 정의합니다. (B)에서 이 복잡한 이유를 더 정확한 전제들로 분해해야 한다는 방법론을 제시합니다. (A)에서 '예를 들어'라며, 분석이 필요한 이유의 사례를 듭니다. 마지막으로 (C)에서 (A)의 사례를 분석하며, 겉보기에는 명백한 연결고리도 당연하게 여겨서는 안 된다는 추론의 목적을 설명하며 마무리합니다. 따라서 (B)-(A)-(C)의 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. But is our analysis of the situation clearly expressed in just one statement? Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas: economic benefit and a well-educated population. While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to ____________________ by carefully working through the connections between the various ideas in the initial statement of our reason.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "make arguments shorter and simpler"
+        },
+        {
+          "number": "②",
+          "text": "win a debate at any cost"
+        },
+        {
+          "number": "③",
+          "text": "find one universally true conclusion"
+        },
+        {
+          "number": "④",
+          "text": "introduce as many new ideas as possible"
+        },
+        {
+          "number": "⑤",
+          "text": "avoid assuming the 'obvious'"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글은 이유와 결론 사이의 연결이 명백해 보일지라도, 추론의 목적은 그 연결고리를 신중하게 분석하는 것이라고 강조합니다. 이는 겉으로 보이는 '명백함'을 그대로 받아들이는 것을 경계하는 태도입니다. 따라서 빈칸에는 추론의 목적인 ''명백한 것'을 당연하게 여기는 것을 피하는 것'이 들어가는 것이 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "A reason for a conclusion is very ① [unlikely] to consist in a single claim. No matter how we might state it, it is a ② [complex] interaction of many ideas. The reason must be broken down into a chain of more ③ [precise] premises. For example, the claim that 'university education should be free' might be supported by the reason that 'the economy benefits from a well‐educated population'. But is our analysis clearly expressed in just one statement? Hardly. While the link might seem ④ [obvious], the purpose of reasoning is to ⑤ [accept] assuming the 'obvious' by carefully working through the connections.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 추론의 목적이 겉으로 명백해 보이는 연결고리를 그대로 받아들이는 것이 아니라, 그 이면의 전제들을 신중하게 분석하는 것이라고 말합니다. 따라서 '명백한 것을 당연하게 여기는 것을 받아들이는 것(accept)'은 글의 주장과 정반대됩니다. 원문처럼 '피하는 것(avoid)'이 와야 합니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "A reason for a (A) [conclusion] is very unlikely to consist in a single claim. It is, analytically, a complex interaction of many ideas and (B) [implications]. The reason must be broken down into a chain of more precise (C) [premises]. While the link between these two ideas and the conclusion might seem (D) [obvious], the purpose of reasoning is to avoid (E) [assuming] the 'obvious' by carefully working through the connections.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) conclusion: a judgment reached after consideration." },
+        { "number": "②", "text": "(B) implications: things that are suggested or understood without being stated directly." },
+        { "number": "③", "text": "(C) premises: statements or ideas on which a belief or argument is based." },
+        { "number": "④", "text": "(D) obvious: easy to see, recognize, or understand." },
+        { "number": "⑤", "text": "(E) assuming: proving that something is true based on clear evidence." }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) assuming은 '증거 없이 사실이라고 상정하거나 추정하는 것(supposing to be the case, without proof)'을 의미합니다. '명확한 증거를 바탕으로 무언가가 사실임을 증명하는 것'이라는 설명은 'proving'에 해당하며, 'assuming'의 의미와는 정반대입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "A reason for a conclusion is very unlikely to consist in a (A) [single / complex] claim. ... it is, analytically, a complex interaction of many ideas and implications. The reason must be (B) [broken down / simplified] into a chain of more precise premises. ...the purpose of reasoning is to (C) [avoid / embrace] assuming the 'obvious' by carefully working through the connections between the various ideas...",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "single - broken down - avoid" },
+        { "number": "②", "text": "single - simplified - embrace" },
+        { "number": "③", "text": "complex - broken down - avoid" },
+        { "number": "④", "text": "complex - simplified - embrace" },
+        { "number": "⑤", "text": "single - broken down - embrace" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 이유는 '단일한(single)' 주장으로 구성될 가능성이 거의 없다고 했습니다. (B) 그 복잡한 이유는 더 정확한 전제들로 '분해되어야(broken down)' 합니다. (C) 추론의 목적은 명백해 보이는 것을 당연하게 여기는 것을 '피하는(avoid)' 것입니다. 따라서 정답은 single - broken down - avoid 입니다."
+      }
+    },
+    {
+      "problem_type": "흐름과 관계 없는 문장",
+      "passage": "For example, the claim that 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. ① But is our analysis of the situation clearly expressed in just one statement? ② Hardly. The conclusion is about universities and free education, while the reason introduces some new ideas. ③ A well-educated population often leads to higher rates of civic engagement and political participation. ④ While the link between these two ideas and the conclusion might seem obvious, the purpose of reasoning is to avoid assuming the 'obvious'. ⑤ This requires us to carefully work through the connections between the various ideas.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 제시된 예시('무상교육'과 '경제적 이익')의 '논리적 구조'를 분석하는 데 초점을 맞추고 있습니다. 즉, 두 아이디어 사이에 숨겨진 전제가 무엇인지를 따지는 것입니다. ③번 문장 '교육 수준이 높은 인구는 종종 더 높은 시민 참여율과 정치 참여율로 이어진다'는 교육의 또 다른 사회적 이점을 언급하는 것으로, 현재 분석 중인 '경제적 이익'이라는 논리적 연결고리와는 다른 이야기이므로 전체 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "No matter how we might state it in short-hand, it ① [is / being], analytically, a complex interaction of many ideas and implications. The reason must be broken down into a chain of more precise premises. For example, the claim ② [that / which] 'university education should be free for all Australians' might be supported by the reason that 'the economy benefits from a well‐educated Australian population'. The purpose of reasoning is to avoid assuming the 'obvious' by carefully ③ [working / to work] through the connections between the various ideas in the initial statement of our reason.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "is",
+          "explanation": "이 절의 주어는 대명사 'it'이며, 문장의 본동사가 필요합니다. 따라서 동사 'is'가 와야 합니다. 'being'은 분사 또는 동명사로, 본동사 역할을 할 수 없습니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "that",
+          "explanation": "뒤에 오는 절 \"'university education...'\"은 명사 'the claim'의 내용을 설명하는 동격절입니다. 동격절을 이끄는 접속사는 'that'입니다. 관계대명사 'which'는 뒤에 불완전한 문장이 와야 하지만, 이 절은 완전한 문장 구조를 가지고 있습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "working",
+          "explanation": "전치사 'by'의 목적어로는 명사나 동명사가 와야 합니다. 따라서 동명사 'working'이 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}

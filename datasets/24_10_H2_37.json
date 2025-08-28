@@ -1,0 +1,343 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\nWhen we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts ─ even worse, as facts including all of reality ─ we can blind ourselves to the limitations of a given model and fail to note its potential for misunderstanding a situation to which it ill applies.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "to criticize scientists for using creative elements in their research"
+        },
+        {
+          "number": "②",
+          "text": "to highlight the often-overlooked role of creativity in science"
+        },
+        {
+          "number": "③",
+          "text": "to explain the process of collecting experimental data"
+        },
+        {
+          "number": "④",
+          "text": "to argue that scientific models represent all of reality"
+        },
+        {
+          "number": "⑤",
+          "text": "to provide a detailed history of scientific paradigms"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "이 글은 과학이 단지 데이터와 사실에만 의존한다는 일반적인 패러다임이 이론에 깊이 내재된 '창의적 요소'를 '숨긴다(conceals)'고 지적합니다. 또한 이러한 '창의적 기여를 무시할(neglect the creative contributions)' 때 발생하는 문제점을 설명하며, 과학에서 창의성의 역할을 인정하는 것이 중요함을 강조하고 있습니다. 따라서 글의 주된 목적은 과학에서 종종 간과되는 창의성의 역할을 강조하는 것입니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\nWhen we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts ─ even worse, as facts including all of reality ─ we can blind ourselves to the limitations of a given model and fail to note its potential for misunderstanding a situation to which it ill applies.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Data and Predictability: The Core of Science"
+        },
+        {
+          "number": "②",
+          "text": "The Dangers of Misunderstanding Scientific Models"
+        },
+        {
+          "number": "③",
+          "text": "How to Construct a Meaningful Explanation"
+        },
+        {
+          "number": "④",
+          "text": "Beyond the Facts: The Creative Imagination in Science"
+        },
+        {
+          "number": "⑤",
+          "text": "Why Scientific Theories Are Often Wrong"
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 과학적 설명이 단순히 '사실(Facts)'의 나열을 '넘어서(Beyond)' 연구 설계와 증거 해석을 형성하는 '창의적 상상력(Creative Imagination)'을 포함한다고 주장합니다. 필자는 이 창의적 측면을 인정해야 모델의 한계를 제대로 볼 수 있다고 강조하므로, 이 제목이 글의 핵심 내용을 가장 잘 나타냅니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\nWhen we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts ─ even worse, as facts including all of reality ─ we can blind ourselves to the limitations of a given model and fail to note its potential for misunderstanding a situation to which it ill applies.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "Scientific explanations are valuable only when they adhere strictly to all available experimental data points."
+        },
+        {
+          "number": "②",
+          "text": "The primary goal of any research project is to provide a consistent and meaningful chronology of facts."
+        },
+        {
+          "number": "③",
+          "text": "Scientific models should be treated as straightforward facts that are able to encompass all of reality."
+        },
+        {
+          "number": "④",
+          "text": "Acknowledging the role of creative imagination in science is crucial for understanding a model's limitations."
+        },
+        {
+          "number": "⑤",
+          "text": "The most effective scientific theories are those that can be applied to any situation without misunderstanding."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 과학 이론과 모델이 창의적 상상력을 포함하는 구성물이며, 이를 단순한 사실로 취급하면 그 모델의 '한계(limitations)'를 보지 못하게 된다고 경고합니다. 따라서 과학에서 '창의적 상상력의 역할을 인정하는 것'이 '모델의 한계를 이해하는 데 결정적'이라는 ④번이 글의 핵심 요지를 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\n( ① ) Scientific explanations do not just relate a chronology of facts.\n( ② ) They construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.\n( ③ ) Such constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\n( ④ ) When we neglect the creative contributions of such scientific imagination, we can blind ourselves to the limitations of a given model.\n( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**In other words, they are not simply discovered in the data but are products of a creative process.**",
+      "question_translation": "**다시 말해, 그것들은 단순히 데이터에서 발견되는 것이 아니라 창의적 과정의 산물이다.**",
+      "options": [
+        {
+          "number": "①",
+          "text": "①"
+        },
+        {
+          "number": "②",
+          "text": "②"
+        },
+        {
+          "number": "③",
+          "text": "③"
+        },
+        {
+          "number": "④",
+          "text": "④"
+        },
+        {
+          "number": "⑤",
+          "text": "⑤"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '다시 말해(In other words)'로 시작하여 앞선 내용을 재진술하고 있습니다. ②번 앞 문장은 과학적 설명이 '사실의 연대기를 단순히 나열하는 것이 아니다'라고 말합니다. 주어진 문장은 이를 '단순히 데이터에서 발견되는 것이 아니라 창의적 과정의 산물'이라고 부연 설명하여 그 의미를 명확히 합니다. 그리고 ②번 뒷 문장은 이러한 '구성물(frameworks)'이 어떻게 작동하는지 설명하며 자연스럽게 이어지므로, ②번이 가장 적절한 위치입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.",
+      "question_blocks": {
+        "A": "Scientific explanations do not just relate a chronology of facts. They construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.",
+        "B": "However, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.",
+        "C": "When we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts, we can blind ourselves to the limitations of a given model and fail to note its potential for misunderstanding."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A)-(C)-(B)"
+        },
+        {
+          "number": "②",
+          "text": "(B)-(A)-(C)"
+        },
+        {
+          "number": "③",
+          "text": "(B)-(C)-(A)"
+        },
+        {
+          "number": "④",
+          "text": "(C)-(A)-(B)"
+        },
+        {
+          "number": "⑤",
+          "text": "(C)-(B)-(A)"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 과학에 대한 일반적인 통념(패러다임)을 설명합니다. (B)는 'However(그러나)'로 시작하여 이 패러다임이 간과하는 '창의적 요소'를 지적하며 반론을 제기합니다. (A)는 (B)에서 제기된 창의적 측면을 더 구체적으로 설명하며, 과학적 설명이 단순한 사실 나열이 아니라 '틀을 구성하는 것'이라고 말합니다. (C)는 (B)와 (A)에서 논의된 '그러한 과학적 상상력'을 무시할 경우 발생할 수 있는 문제점(모델의 한계를 보지 못함)을 경고하며 결론을 맺습니다. 따라서 (B)-(A)-(C) 순서가 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\nWhen we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts, we can blind ourselves to _________________________ and fail to note its potential for misunderstanding a situation to which it ill applies.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "the underlying consistency of the data"
+        },
+        {
+          "number": "②",
+          "text": "the creative process behind the theory"
+        },
+        {
+          "number": "③",
+          "text": "the limitations of a given model"
+        },
+        {
+          "number": "④",
+          "text": "the importance of systematic observation"
+        },
+        {
+          "number": "⑤",
+          "text": "the regular and predictable features of experience"
+        }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "빈칸은 과학적 상상력의 기여를 무시하고 모델을 단순한 사실로 취급할 때 발생하는 부정적인 결과를 설명하는 부분입니다. 필자는 이러한 태도가 우리 자신을 눈멀게 한다고 경고하고 있습니다. 과학 모델은 현실의 일부 측면을 설명하는 데 효과적이지만 모든 것을 설명하지는 못합니다. 따라서 모델을 절대적인 사실로 보면 그 모델이 가진 '주어진 모델의 한계'를 보지 못하게 되는 것이 논리적으로 타당합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to ① [adhere] closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes ② [conceals] the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a ③ [consistent] and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more ④ [effective] for analyzing some features of experience over others.\nWhen we neglect the creative contributions of such scientific imagination and treat models as straightforward facts, we can blind ourselves to the ⑤ [benefits] of a given model.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "adhere"
+        },
+        {
+          "number": "②",
+          "text": "conceals"
+        },
+        {
+          "number": "③",
+          "text": "consistent"
+        },
+        {
+          "number": "④",
+          "text": "effective"
+        },
+        {
+          "number": "⑤",
+          "text": "benefits"
+        }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 글은 과학적 모델을 창의적 구성물이 아닌 단순한 사실로 취급할 때 발생하는 위험을 경고하고 있습니다. 이러한 태도는 우리가 주어진 모델의 '한계(limitations)'를 보지 못하게 만들고, 그것이 잘못 적용될 수 있는 상황을 오해하게 할 수 있습니다. 따라서 모델의 '이점(benefits)'을 보지 못하게 된다는 것은 문맥과 정반대되는 내용입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to (A) [adhere] closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes (B) [conceals] the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a (C) [consistent] and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\nWhen we (D) [neglect] the creative contributions of such scientific imagination and treat models and interpretive explanations as (E) [straightforward] facts, we can blind ourselves to the limitations of a given model.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "(A) adhere: to stick firmly to a belief, rule, or principle"
+        },
+        {
+          "number": "②",
+          "text": "(B) conceals: to put something in a particular place so that it can be found easily"
+        },
+        {
+          "number": "③",
+          "text": "(C) consistent: always behaving or happening in a similar, especially positive, way"
+        },
+        {
+          "number": "④",
+          "text": "(D) neglect: to fail to give enough care or attention to people or things"
+        },
+        {
+          "number": "⑤",
+          "text": "(E) straightforward: easy to understand or simple"
+        }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "(B) 'conceals'는 '숨기다, 감추다(to hide something)'라는 의미입니다. 제시된 영영 풀이인 '쉽게 찾을 수 있도록 특정 장소에 무언가를 두다'는 그와 정반대의 의미입니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to (A) [illuminate / obscure] the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements.\nThey construct frameworks for systematically chosen data in order to provide a (B) [consistent / contradictory] and meaningful explanation of what is observed.\nWhen we neglect the creative contributions of such scientific imagination and treat models as straightforward facts, we can blind ourselves to the (C) [limitations / strengths] of a given model.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "illuminate - consistent - limitations"
+        },
+        {
+          "number": "②",
+          "text": "illuminate - contradictory - strengths"
+        },
+        {
+          "number": "③",
+          "text": "obscure - consistent - limitations"
+        },
+        {
+          "number": "④",
+          "text": "obscure - contradictory - strengths"
+        },
+        {
+          "number": "⑤",
+          "text": "illuminate - consistent - strengths"
+        }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 과학적 설명은 경험의 규칙적이고 예측 가능한 특징을 '밝혀주어야(illuminate)' 합니다. (B) 과학자들은 관찰된 것에 대해 '일관된(consistent)' 설명을 제공하기 위해 틀을 구성합니다. (C) 창의적 기여를 무시하면 우리는 주어진 모델의 '한계(limitations)'를 보지 못하게 될 수 있습니다."
+      }
+    },
+    {
+      "problem_type": "글의 내용과 일치/불일치",
+      "passage": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience.\nHowever, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence.\nScientific explanations do not just relate a chronology of facts.\nThey construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed.\nSuch constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others.\nWhen we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts ─ even worse, as facts including all of reality ─ we can blind ourselves to the limitations of a given model and fail to note its potential for misunderstanding a situation to which it ill applies.",
+      "question": "과학적 연구에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        {
+          "number": "①",
+          "text": "과학 이론은 연구 프로젝트 구성과 증거 해석에 영향을 미치는 창의적 요소를 포함한다."
+        },
+        {
+          "number": "②",
+          "text": "과학적 설명은 단순히 사실들을 시간 순서대로 나열하는 것이 아니다."
+        },
+        {
+          "number": "③",
+          "text": "과학적 구성물은 특정 경험의 일부 특징들을 분석하는 데 더 효과적일 수 있다."
+        },
+        {
+          "number": "④",
+          "text": "과학 모델을 단순한 사실로 취급하는 것은 현실을 객관적으로 보게 한다."
+        },
+        {
+          "number": "⑤",
+          "text": "모델이 잘못 적용될 경우 상황을 오해하게 만들 수 있다."
+        }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 과학 모델을 단순한 사실로 취급하면 '우리가 주어진 모델의 한계에 눈멀게 될 수 있다(we can blind ourselves to the limitations of a given model)'고 경고합니다. 이는 현실을 객관적으로 보는 것이 아니라 오히려 왜곡되게 볼 수 있음을 의미하므로, ④번은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "However, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that ① [shape / shapes] the construction of research projects and the interpretations of evidence.\nThey construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of ② [what / that] is observed.\nWhen we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts, we can blind ourselves to the limitations of a given model and fail to note its potential for misunderstanding a situation to which it ill ③ [applies / is applied].",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "shape",
+          "explanation": "주격 관계대명사 that의 선행사는 복수 명사인 'creative elements'입니다. 따라서 관계대명사절의 동사는 복수형인 'shape'가 되어야 합니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "what",
+          "explanation": "전치사 'of'의 목적어 역할을 하는 명사절이 필요합니다. 'what'은 선행사를 포함하는 관계대명사로 '~하는 것'이라는 의미의 명사절을 이끌 수 있습니다. 'that'이 오려면 앞에 선행사가 있어야 합니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "applies",
+          "explanation": "관계대명사 'which' 뒤의 절에서 주어 'it'에 대한 동사가 필요합니다. 동사 'apply'는 여기서 '적용되다'라는 의미의 자동사로 쓰였으므로 능동태인 'applies'가 맞습니다."
+        }
+      ]
+    }
+  ]
+}

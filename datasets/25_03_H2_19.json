@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "심경 변화",
+      "passage": "Nathan boarded the train on Saturday evening.\nAs he made his way to his seat, he found someone already sitting there.\nConfused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday!\nA flush of panic spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats available,\" the attendant said with a reassuring smile.\nNathan exchanged his old ticket for a new one, his worries melting away.\nSettling into his seat, he let out a deep breath, feeling the tension in his shoulders ease as the train began to move.",
+      "question": "다음 글에 드러난 Nathan의 심경 변화로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "excited → disappointed" },
+        { "number": "②", "text": "calm → annoyed" },
+        { "number": "③", "text": "confused and panicked → relieved" },
+        { "number": "④", "text": "hopeful → desperate" },
+        { "number": "⑤", "text": "bored → interested" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "Nathan은 자신의 표가 다음 날짜의 것임을 깨닫고 '혼란스러워(Confused)'하며 '당황(panic)'했습니다. 그러나 승무원의 도움으로 문제를 해결한 후, 그의 걱정은 사라지고(worries melting away) 긴장이 풀리는(tension...ease) 것을 느꼈으므로 '안도하는(relieved)' 상태가 되었습니다. 따라서 '혼란스럽고 당황한' 상태에서 '안도하는' 상태로의 변화가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "Nathan boarded the train on Saturday evening.\nAs he made his way to his seat, he found someone already sitting there.\nConfused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday!\nA flush of panic spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats available,\" the attendant said with a reassuring smile.\nNathan exchanged his old ticket for a new one, his worries melting away.\nSettling into his seat, he let out a deep breath, feeling the tension in his shoulders ease as the train began to move.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The Dangers of Night Travel" },
+        { "number": "②", "text": "How to Get a Free Upgrade" },
+        { "number": "③", "text": "An Unforgettable Train Journey" },
+        { "number": "④", "text": "A Simple Mistake, A Simple Solution" },
+        { "number": "⑤", "text": "The Kindness of Strangers on a Train" }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "이 글은 Nathan이 기차표 날짜를 착각하는 '간단한 실수'를 하고, 승무원의 도움으로 표를 교환하여 문제를 '간단하게 해결'하는 과정을 다루고 있습니다. 따라서 이 제목이 글의 핵심 내용을 가장 잘 요약합니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "Nathan boarded the train on Saturday evening.\nAs he made his way to his seat, he found someone already sitting there.\nConfused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday!\nA flush of panic spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats available,\" the attendant said with a reassuring smile.\nNathan exchanged his old ticket for a new one, his worries melting away.\nSettling into his seat, he let out a deep breath, feeling the tension in his shoulders ease as the train began to move.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "Travelers should always double-check their reservation details to avoid confusion and potential disruptions." },
+        { "number": "②", "text": "A man who accidentally boarded a train on the wrong day was able to resolve his ticket issue easily." },
+        { "number": "③", "text": "The train staff's quick thinking and efficiency are crucial for ensuring the safety of all passengers aboard." },
+        { "number": "④", "text": "It is often possible to find available seating on public transportation even without a proper reservation." },
+        { "number": "⑤", "text": "Confronting a difficult situation calmly is more effective than panicking when a mistake has been made." }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "글의 중심 내용은 Nathan이 실수로 다른 날짜의 기차에 탔다가 승무원의 도움으로 표 문제를 쉽게 해결했다는 구체적인 사건입니다. 다른 선택지들은 이 사건에서 파생된 교훈이나 일반화된 주장인 반면, ②번은 글의 내용을 가장 직접적이고 정확하게 요약하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "Nathan boarded the train on Saturday evening. As he made his way to his seat, he found someone already sitting there. Confused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday! ( ① ) A flush of panic spread across his face. ( ② ) He quickly approached a train attendant and explained the situation. ( ③ ) \"Is there anything I can do to resolve this?\" Nathan asked. ( ④ ) \"Don't worry, sir. We still have seats available,\" the attendant said with a reassuring smile. ( ⑤ ) Nathan exchanged his old ticket for a new one, his worries melting away.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**For a moment, he thought he might have to get off the train and wait a whole day.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 문장은 '그가 기차에서 내려 하루 종일 기다려야 할지도 모른다고 생각했다'는 내용으로, 당황스러운 상황에서 할 수 있는 구체적인 걱정을 나타냅니다. 바로 앞 문장에서 'A flush of panic spread across his face(그의 얼굴에 당혹감이 번졌다)'라고 감정을 묘사했으므로, 그 당혹감의 구체적인 내용인 주어진 문장이 ②의 위치에 들어가는 것이 가장 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "Nathan boarded the train on Saturday evening. As he made his way to his seat, he found someone already sitting there.",
+      "question_blocks": {
+        "A": "He quickly approached a train attendant and explained the situation. \"Is there anything I can do to resolve this?\" Nathan asked.",
+        "B": "Confused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday! A flush of panic spread across his face.",
+        "C": "\"Don't worry, sir. We still have seats available,\" the attendant said with a reassuring smile. Nathan exchanged his old ticket for a new one, his worries melting away."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 Nathan이 자신의 자리에 다른 사람이 앉아 있는 것을 발견하는 내용입니다. (B)는 이에 대한 반응으로 'Confused(혼란스러워서)' 표를 확인하고 실수를 깨달아 당황하는 내용으로 자연스럽게 이어집니다. (A)는 당황한 후 문제를 해결하기 위해 승무원에게 다가가 상황을 설명하고 질문하는 행동을 보여줍니다. (C)는 승무원의 답변과 문제 해결, 그리고 Nathan의 안도하는 모습으로 이야기를 마무리합니다. 따라서 (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "Nathan boarded the train on Saturday evening.\nAs he made his way to his seat, he found someone already sitting there.\nConfused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday!\nA flush of panic spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats available,\" the attendant said with a reassuring smile.\nNathan exchanged his old ticket for a new one, _______________.\nSettling into his seat, he let out a deep breath, feeling the tension in his shoulders ease as the train began to move.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "paying a significant extra fee" },
+        { "number": "②", "text": "his worries melting away" },
+        { "number": "③", "text": "wondering if he would be late" },
+        { "number": "④", "text": "feeling slightly embarrassed" },
+        { "number": "⑤", "text": "forgetting to thank the attendant" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "빈칸은 Nathan이 표를 교환한 후의 감정 상태를 묘사하는 부분입니다. 바로 뒤따르는 문장에서 그가 '한숨을 깊게 내쉬고 어깨의 긴장이 풀리는 것을 느꼈다'고 묘사되므로, 이는 그의 걱정이 사라졌음을 의미합니다. 따라서 '그의 걱정이 눈 녹듯 사라지면서'라는 뜻의 'his worries melting away'가 가장 적절합니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "Nathan boarded the train on Saturday evening.\nAs he made his way to his seat, he found someone already sitting there.\n① Confused, he checked his ticket and realized his ② mistake ― it was for Sunday, not Saturday!\nA flush of ③ panic spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats available,\" the attendant said with a ④ reassuring smile.\nNathan exchanged his old ticket for a new one, his worries melting away.\nSettling into his seat, he let out a deep breath, feeling the ⑤ excitement in his shoulders ease as the train began to move.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "문맥상 Nathan은 문제를 해결하고 안도하며 '긴장(tension)'이 풀리는 것을 느꼈습니다. '흥분, 신남'을 의미하는 'excitement'는 당황했다가 안도하는 상황의 감정선과 어울리지 않습니다. 따라서 'tension'이 올바른 표현입니다."
+      }
+    },
+    {
+      "problem_type": "영영 풀이",
+      "passage": "Nathan (A) boarded the train on Saturday evening.\nAs he made his way to his seat, he found someone already sitting there.\nConfused, he checked his ticket and (B) realized his mistake ― it was for Sunday, not Saturday!\nA flush of panic spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to (C) resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats available,\" the attendant said with a (D) reassuring smile.\nNathan exchanged his old ticket for a new one, his worries melting away.\nSettling into his seat, he let out a deep breath, feeling the tension in his shoulders (E) ease as the train began to move.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) boarded: got on a ship, aircraft, or other vehicle" },
+        { "number": "②", "text": "(B) realized: became fully aware of something as a fact; understood clearly" },
+        { "number": "③", "text": "(C) resolve: to find a satisfactory solution to a problem or difficulty" },
+        { "number": "④", "text": "(D) reassuring: saying or doing something to remove the doubts and fears of someone" },
+        { "number": "⑤", "text": "(E) ease: to increase a feeling of tension or discomfort" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "본문에서 동사 'ease'는 '완화되다, 덜어주다'는 의미로, 긴장이 풀리는 것을 나타냅니다. 제시된 영영 풀이 'to increase a feeling of tension or discomfort(긴장이나 불편함을 증가시키다)'는 정반대의 의미이므로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "A/B/C 선택형",
+      "passage": "Nathan boarded the train on Saturday evening.\nAs he made his way to his seat, he (A) [found / lost] someone already sitting there.\nConfused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday!\nA flush of (B) [panic / relief] spread across his face.\nHe quickly approached a train attendant and explained the situation.\n\"Is there anything I can do to resolve this?\" Nathan asked.\n\"Don't worry, sir. We still have seats (C) [available / occupied],\" the attendant said with a reassuring smile.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "found - panic - available" },
+        { "number": "②", "text": "found - relief - available" },
+        { "number": "③", "text": "lost - panic - occupied" },
+        { "number": "④", "text": "lost - relief - occupied" },
+        { "number": "⑤", "text": "found - panic - occupied" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) Nathan은 자기 자리에 누군가 앉아 있는 것을 '발견했다'는 의미이므로 'found'가 적절합니다. (B) 자신의 실수를 깨달았을 때 '안도'가 아닌 '당황'을 느꼈을 것이므로 'panic'이 맞습니다. (C) 승무원은 Nathan을 안심시키며 이용 '가능한' 좌석이 있다고 말했으므로 'available'이 문맥상 자연스럽습니다."
+      }
+    },
+    {
+      "problem_type": "무관한 문장 고르기",
+      "passage": "① Nathan boarded the train on Saturday evening. ② As he made his way to his seat, he found someone already sitting there. ③ The other passenger was reading a book and did not seem to notice him. ④ Confused, he checked his ticket and realized his mistake ― it was for Sunday, not Saturday! ⑤ A flush of panic spread across his face.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글의 전체 흐름은 Nathan이 실수로 기차를 잘못 탄 것을 깨닫고 당황하는 과정을 그리고 있습니다. ③번 문장은 Nathan의 자리에 앉아있던 다른 승객의 행동을 묘사하는 내용으로, Nathan의 실수와 감정 변화라는 중심 내용과는 직접적인 관련이 없으므로 글의 흐름을 방해합니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "As he made his way to his seat, he found someone already ① [sitting / to sit] there. ② [Confused / Confusing], he checked his ticket and realized his mistake ― it was for Sunday, not Saturday! A flush of panic spread across his face. He quickly approached a train attendant and explained the situation. ... Settling into his seat, he let out a deep breath, feeling the tension in his shoulders ③ [ease / easily] as the train began to move.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "sitting",
+          "explanation": "지각동사 'find'는 목적어 뒤에 목적격 보어로 현재분사를 사용하여 목적어가 ~하고 있는 것을 발견했다는 의미를 나타냅니다. 따라서 'someone'이 'sitting'하고 있는 것을 발견했다는 의미가 됩니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "Confused",
+          "explanation": "분사구문으로, 주절의 주어인 'he'가 감정을 느끼는 주체이므로 수동의 의미를 지닌 과거분사 'Confused'가 맞습니다. 'Because he was confused'의 의미입니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "ease",
+          "explanation": "지각동사 'feel'은 목적어(the tension)와 목적격 보어(ease)를 취하며, 목적격 보어 자리에는 동사원형이나 현재분사가 올 수 있습니다. '긴장이 완화되는 것'을 느꼈다는 의미이므로 동사원형 'ease'가 적절합니다. 부사 'easily'는 이 자리에 올 수 없습니다."
+        }
+      ]
+    }
+  ]
+}

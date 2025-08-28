@@ -1,0 +1,192 @@
+{
+  "reading_comprehension_problems": [
+    {
+      "problem_type": "글의 목적",
+      "passage": "One well-known shift took place when the accepted view ― that the Earth was the center of the universe ― changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.\nWith each person who grasped the solar system view, it became easier for the next person to do so.\nSo it is with the notion that the world revolves around the human economy.\nThis is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.\nWhen this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health.\nUnfortunately we do not have a century or two to make the change.\nBy clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "과거의 과학적 발견 과정을 설명하기 위해" },
+        { "number": "②", "text": "생태계 보존을 위한 구체적인 행동을 제안하기 위해" },
+        { "number": "③", "text": "경제에 대한 생태학적 관점으로의 시급한 전환을 촉구하기 위해" },
+        { "number": "④", "text": "인간 중심적 사고방식의 장점을 강조하기 위해" },
+        { "number": "⑤", "text": "경제적 안정이 생태적 건강보다 우선함을 주장하기 위해" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 과거 우주관의 변화를 예로 들어, 인간 경제 중심의 사고방식에서 경제를 생태계의 일부로 보는 관점으로의 전환이 필요함을 역설합니다. 특히 'Unfortunately we do not have a century or two to make the change(불행히도 우리에게는 그 변화를 이룰 한두 세기의 시간이 없다)'와 마지막 문장을 통해 이러한 관점의 전환을 '가속화(accelerate)'해야 한다는 시급성을 강조하며 행동을 촉구하고 있습니다."
+      }
+    },
+    {
+      "problem_type": "제목 추론",
+      "passage": "One well-known shift took place when the accepted view ― that the Earth was the center of the universe ― changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.\nWith each person who grasped the solar system view, it became easier for the next person to do so.\nSo it is with the notion that the world revolves around the human economy.\nThis is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.\nWhen this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health.\nUnfortunately we do not have a century or two to make the change.\nBy clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "From Geocentric to Heliocentric: A History" },
+        { "number": "②", "text": "The Economy: Center of Our Modern World?" },
+        { "number": "③", "text": "Accelerating the Shift to an Ecological Economy" },
+        { "number": "④", "text": "The Unbreakable Link Between Economy and Ecology" },
+        { "number": "⑤", "text": "How Paradigm Shifts Shape Human History" }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "이 글은 경제를 생태계의 일부로 보는 새로운 관점으로의 '전환(shift)'이 필요함을 주장하며, 시간적 여유가 없기 때문에 그 전환을 '가속화(accelerate)'해야 한다고 결론짓고 있습니다. 따라서 '생태 경제로의 전환 가속화하기'라는 제목이 글의 핵심 주제와 필자의 주장을 가장 잘 담고 있습니다."
+      }
+    },
+    {
+      "problem_type": "요지 파악",
+      "passage": "One well-known shift took place when the accepted view ― that the Earth was the center of the universe ― changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.\nWith each person who grasped the solar system view, it became easier for the next person to do so.\nSo it is with the notion that the world revolves around the human economy.\nThis is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.\nWhen this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health.\nUnfortunately we do not have a century or two to make the change.\nBy clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "The historical shift in understanding the solar system took several centuries to be fully accepted." },
+        { "number": "②", "text": "Economic growth is no longer a viable goal in a world with limited ecological resources." },
+        { "number": "③", "text": "We must urgently shift our perspective from an economy-centered view to a broader ecological one." },
+        { "number": "④", "text": "Clarifying different perspectives is the most important step in resolving any major scientific debate." },
+        { "number": "⑤", "text": "Individual actions have little impact on accelerating large-scale shifts in societal understanding and perspective." }
+      ],
+      "answer": {
+        "number": "③",
+        "explanation": "글쓴이는 인간 경제 중심의 관점이 생태 중심적 관점으로 바뀌어야 함을 주장하며, 이러한 변화에 한두 세기의 시간이 없을 정도로 시급하다고 강조합니다. 따라서 경제 중심적 관점에서 더 넓은 생태학적 관점으로 시급히 전환해야 한다는 것이 이 글의 핵심 요지입니다."
+      }
+    },
+    {
+      "problem_type": "흐름에 맞는 문장 삽입",
+      "passage": "One well-known shift took place when the accepted view... changed to one where we understood that we are only inhabitants on one planet orbiting the Sun. ... When this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health. ( ① ) By clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift. ( ② ) This process of clarification helps people understand what is at stake. ( ③ ) Cooperative actions, in turn, build momentum for the new viewpoint. ( ④ ) The shift is not just an intellectual exercise; it's a race against time. ( ⑤ )",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?\n\n**Unfortunately we do not have a century or two to make the change.**",
+      "options": [
+        { "number": "①", "text": "①" },
+        { "number": "②", "text": "②" },
+        { "number": "③", "text": "③" },
+        { "number": "④", "text": "④" },
+        { "number": "⑤", "text": "⑤" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "주어진 문장은 '불행히도 우리에게는 그 변화를 이룰 한두 세기의 시간이 없다'는 내용으로, 시간적 시급성을 나타냅니다. ①번 앞 문장은 새로운 관점이 자리 잡았을 때의 이상적인 결과를 설명하고 있습니다. 이 이상적인 결과 뒤에 시간적 제약이라는 현실적 문제를 제시하고, 그 문제를 해결하기 위한 방안(전환을 가속화하는 방법)을 ①번 뒷 문장에서 설명하는 것이 가장 자연스러운 논리적 흐름입니다."
+      }
+    },
+    {
+      "problem_type": "문장 순서 배열",
+      "passage": "One well-known shift took place when the accepted view ― that the Earth was the center of the universe ― changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.",
+      "question_blocks": {
+        "A": "This is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.",
+        "B": "With each person who grasped the solar system view, it became easier for the next person to do so. So it is with the notion that the world revolves around the human economy.",
+        "C": "When this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "(A)-(C)-(B)" },
+        { "number": "②", "text": "(B)-(A)-(C)" },
+        { "number": "③", "text": "(B)-(C)-(A)" },
+        { "number": "④", "text": "(C)-(A)-(B)" },
+        { "number": "⑤", "text": "(C)-(B)-(A)" }
+      ],
+      "answer": {
+        "number": "②",
+        "explanation": "주어진 글은 우주관의 변화를 역사적 예시로 제시합니다. (B)는 이 예시를 이어받아 관점 변화의 확산 과정을 설명하고, 'So it is with...' 구문을 통해 이를 현재의 경제관에 유추 적용하며 '인간 경제 중심'이라는 낡은 관념을 소개합니다. (A)는 'This'를 통해 (B)에서 소개된 낡은 관념이 새로운 생태학적 관점으로 대체되고 있음을 설명합니다. (C)는 'When this perspective shifts into place'라고 하여 (A)의 새로운 관점이 자리 잡았을 때의 결과를 설명하므로, (B)-(A)-(C)가 가장 논리적인 순서입니다."
+      }
+    },
+    {
+      "problem_type": "빈칸 추론",
+      "passage": "With each person who grasped the solar system view, it became easier for the next person to do so.\nSo it is with the notion that ____________________________.\nThis is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.",
+      "question": "다음 글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "human beings are a part of nature" },
+        { "number": "②", "text": "the solar system is constantly expanding" },
+        { "number": "③", "text": "the Earth is the center of the universe" },
+        { "number": "④", "text": "economic growth must be sustainable" },
+        { "number": "⑤", "text": "the world revolves around the human economy" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "이 문장은 과거의 '지구 중심적' 사고방식에 현재의 낡은 사고방식을 비유하고 있습니다. 바로 다음 문장에서 'This'가 새로운 생태학적 관점으로 대체되고 있다고 설명하므로, 빈칸에는 대체될 '낡은 관점'이 들어가야 합니다. 이는 인간 경제가 세상의 중심이라는 관점입니다."
+      }
+    },
+    {
+      "problem_type": "부적절한 어휘",
+      "passage": "One well-known shift took place when the ① `accepted` view ... changed ... With each person who grasped the solar system view, it became ② `easier` for the next person to do so. So it is with the notion that the world revolves around the human economy. This is slowly being ③ `replaced` by the view that the economy is a part of the larger system... When this perspective shifts into place, it will be ④ `obvious` that our economic well-being requires that we account for... ecological health. ... By clarifying... we can help ⑤ `delay` the shift.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "accepted" },
+        { "number": "②", "text": "easier" },
+        { "number": "③", "text": "replaced" },
+        { "number": "④", "text": "obvious" },
+        { "number": "⑤", "text": "delay" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "글쓴이는 변화를 이룰 시간이 한두 세기도 없다고 말하며 시급성을 강조하고 있습니다. 이러한 맥락에서 제안되는 행동들은 당연히 변화를 '가속화(accelerate)'하는 데 도움이 되어야 합니다. 변화를 '지연시키는(delay)' 데 도움을 줄 수 있다는 것은 글의 전체적인 주장과 명백히 모순됩니다."
+      }
+    },
+    {
+      "problem_type": "영영풀이",
+      "passage": "...the (A) `accepted` view ― that the Earth was the center of the universe ― changed ... we are only (B) `inhabitants` on one planet orbiting the Sun. ... So it is with the (C) `notion` that the world revolves around the human economy. ... When this perspective shifts into place, it will be (D) `obvious` that our economic well-being requires... By clarifying... we can help (E) `accelerate` the shift.",
+      "question": "밑줄 친 (A)~(E)에 대한 영영 풀이가 적절하지 않은 것은?",
+      "options": [
+        { "number": "①", "text": "(A) accepted: generally believed to be correct or right" },
+        { "number": "②", "text": "(B) inhabitants: a person or animal that lives in a particular place" },
+        { "number": "③", "text": "(C) notion: an idea or belief about something" },
+        { "number": "④", "text": "(D) obvious: easy to see or understand" },
+        { "number": "⑤", "text": "(E) accelerate: to reduce the speed at which something happens or moves" }
+      ],
+      "answer": {
+        "number": "⑤",
+        "explanation": "(E) accelerate는 '가속화하다'라는 의미로, 어떤 일이 일어나는 속도를 높이는 것을 뜻합니다. 제시된 영영 풀이 '어떤 일이 일어나거나 움직이는 속도를 줄이다'는 '감속하다(decelerate)'의 의미이므로, 'accelerate'에 대한 설명으로 적절하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "문맥상 어휘 추론",
+      "passage": "With each person who grasped the solar system view, it became (A) [easier / harder] for the next person to do so. So it is with the notion that the world revolves around the human economy. This is slowly being (B) [replaced / reinforced] by the view that the economy is a part of the larger system... Unfortunately we do not have a century or two to make the change. ...we can help (C) [accelerate / reverse] the shift.",
+      "question": "다음 글의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "options": [
+        { "number": "①", "text": "easier - replaced - accelerate" },
+        { "number": "②", "text": "easier - reinforced - reverse" },
+        { "number": "③", "text": "easier - replaced - reverse" },
+        { "number": "④", "text": "harder - reinforced - accelerate" },
+        { "number": "⑤", "text": "harder - replaced - accelerate" }
+      ],
+      "answer": {
+        "number": "①",
+        "explanation": "(A) 한 사람이 새로운 관점을 받아들이면 다음 사람은 그렇게 하기가 더 '쉬워진다(easier)'. (B) 인간 경제 중심의 낡은 관점은 생태학적 관점에 의해 서서히 '대체되고(replaced)' 있다. (C) 변화를 이룰 시간이 부족하므로, 우리는 그 전환을 '가속화하는(accelerate)' 것을 도와야 한다."
+      }
+    },
+    {
+      "problem_type": "내용 일치/불일치",
+      "passage": "One well-known shift took place when the accepted view ― that the Earth was the center of the universe ― changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.\nWith each person who grasped the solar system view, it became easier for the next person to do so.\nSo it is with the notion that the world revolves around the human economy.\nThis is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.\nWhen this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health.\nUnfortunately we do not have a century or two to make the change.\nBy clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift.",
+      "question": "다음 글의 내용과 일치하지 않는 것은?",
+      "options": [
+        { "number": "①", "text": "지구가 우주의 중심이라는 견해는 과거에 널리 받아들여졌었다." },
+        { "number": "②", "text": "하나의 관점을 받아들이는 사람이 많아질수록 다른 사람도 받아들이기 쉬워진다." },
+        { "number": "③", "text": "경제는 모든 생물을 잇는 더 큰 체계의 일부라는 관점이 서서히 대두되고 있다." },
+        { "number": "④", "text": "경제관의 변화는 천천히 이루어져도 괜찮을 만큼 시간적 여유가 있다." },
+        { "number": "⑤", "text": "새로운 관점으로의 전환을 가속화하기 위해 협력적인 행동을 찾을 수 있다." }
+      ],
+      "answer": {
+        "number": "④",
+        "explanation": "본문은 'Unfortunately we do not have a century or two to make the change'라고 명시하여, 변화를 이룰 시간적 여유가 없음을 분명히 하고 있습니다. 따라서 시간적 여유가 있다는 내용은 글의 내용과 일치하지 않습니다."
+      }
+    },
+    {
+      "problem_type": "어법",
+      "passage": "...we understood that we are only inhabitants on one planet ① [orbiting / orbited] the Sun. With each person who grasped the solar system view, it became easier for the next person ② [to do / doing] so. ... By clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate ③ [to move / moving] the process along, we can help accelerate the shift.",
+      "question": "다음 글의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 것을 각각 고르시오.",
+      "options": [],
+      "answer": [
+        {
+          "number": "①",
+          "correct_form": "orbiting",
+          "explanation": "앞의 명사 'planet'을 뒤에서 수식하는 분사입니다. '행성'이 태양의 주위를 '도는' 것이므로 능동의 의미를 가지는 현재분사 'orbiting'이 와야 합니다. 'orbited'는 수동의 의미를 가집니다."
+        },
+        {
+          "number": "②",
+          "correct_form": "to do",
+          "explanation": "이 문장은 가주어 'it'을 사용한 구문으로, 진주어 자리에는 to부정사가 와야 합니다. 'for the next person'은 to부정사의 의미상의 주어입니다. 따라서 'to do so'가 어법에 맞습니다."
+        },
+        {
+          "number": "③",
+          "correct_form": "to move",
+          "explanation": "'~하기 위해 협력하다'라는 목적의 의미를 나타내기 위해 'cooperate' 뒤에 to부정사가 와야 합니다. 따라서 'to move'가 어법에 맞습니다."
+        }
+      ]
+    }
+  ]
+}
